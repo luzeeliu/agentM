@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/test_mcp_config.py:*)",
+      "Bash(docker-compose build:*)",
+      "Bash(tee:*)",
+      "Bash(python scripts/check_mcp_servers.py:*)",
+      "Bash(where:*)",
+      "Bash(npx:*)",
+      "Bash(timeout 5 npx:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

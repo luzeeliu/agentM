@@ -1,0 +1,27 @@
+# Agent requirements (backend requirements are in backend/requirements.txt)
+
+# Core
+python-dotenv==1.0.1
+
+# LangChain ecosystem
+# Note: langchain-mcp-adapters requires langchain-core>=1.0.0
+langchain-core>=1.0.0,<2.0.0
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+langgraph>=0.0.20
+
+# Web scraping & automation
+playwright==1.48.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Search
+search-engine-parser>=0.6.8
+google-search-results>=2.4.2
+
+# MCP protocol support
+mcp
+langchain-mcp-adapters
+
+# Utilities
+jsonschema-pydantic

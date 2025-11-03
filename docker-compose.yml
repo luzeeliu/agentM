@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  agentm:
+    build: .
+    container_name: agentm
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+      - agent/.env
+    restart: unless-stopped
+    # Uncomment to live-edit frontend files inside the container (optional)
+    # volumes:
+    #   - ./frontend:/app/frontend:ro
+

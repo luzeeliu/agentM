@@ -1,0 +1,25 @@
+{
+
+  "mcpServers": {
+    "arxiv": {
+      "command": "arxiv-paper-mcp",
+      "args": []
+    },
+    "mcpadvisor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@xiaohui-wang/mcpadvisor"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--browser",
+        "chromium"
+      ]
+    }
+  }
+
+}
