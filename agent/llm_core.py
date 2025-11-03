@@ -1,7 +1,6 @@
-import os
 from pathlib import Path
 import dotenv
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_community.chat_models import ChatOllama
 
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from .graph_state import GraphState
@@ -13,10 +12,9 @@ system_prompt_path = Path(__file__).parent / "systemprompt.md"
 system_prompt = system_prompt_path.read_text(encoding="utf-8") if system_prompt_path.exists() else ""
 
 
-based_llm = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash-exp",
+based_llm = ChatOllama(
+        model="deepseek-r1:7b",
         temperature=0,
-        google_api_key=os.environ["GEMINI_API_KEY"],
     )
 
 def agent(state: GraphState) -> GraphState:
@@ -61,4 +59,3 @@ def agent(state: GraphState) -> GraphState:
         error_msg = f"I encountered an error: {str(e)}. Please try again or ask a different question."
         fallback = AIMessage(content=error_msg)
         return {**state, "message": messages + [fallback], "output": error_msg}
-

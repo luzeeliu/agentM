@@ -4,6 +4,9 @@ import re
 import time
 from typing import Optional
 from dotenv import load_dotenv
+from langchain_core.tools import BaseTool
+from pydantic import BaseModel
+
 
 try:
     from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
