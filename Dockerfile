@@ -40,6 +40,7 @@ RUN python -m pip install --no-cache-dir --prefer-binary \
 RUN python -m pip install --no-cache-dir --prefer-binary \
     langchain-core \
     langchain \
+    langchain-community \
     langchain-google-genai \
     langgraph
 
