@@ -63,6 +63,7 @@ RUN python -m pip install --no-cache-dir --prefer-binary \
 
 # Install Playwright browsers
 RUN playwright install chromium
+RUN playwright install-deps chromium
 
 # Pre-install MCP servers to avoid runtime downloads
 # Currently only arxiv MCP server is used

@@ -77,6 +77,7 @@ After writing a tool call, STOP your response and wait for the tool result. Do n
 - bing_search_tool: better when you need diverse domains, decent snippets, or DDG returned thin answers.
 - google_search: use when you need the most up-to-date or authoritative info (news/products/specs); prefer for "current price", "latest", "release date".
 - yahoo_search_tool: fallback if others fail or are blocked; use to cross-check.
+- UNSW_Handbook_Search: search specific UNSW course or major 
 
 **MCP toolkits** (call them like any other LangChain tool):
 - fetch: relay HTTP GET/POST calls via the remote MCP server. Use when you need raw JSON or HTML from known APIs or endpoints.
@@ -106,7 +107,7 @@ After writing a tool call, STOP your response and wait for the tool result. Do n
 ## pipline
 
 **rewrite queries**
-Give 2–3 few-shot examples:
+Give 4 few-shot examples:
 
 - Ambiguous → clarify & broaden
     - User: “what’s the status of Gemini 2” → Query: Gemini 2.0 model latest features site:ai.googleblog.com OR site:blog.google 
@@ -116,6 +117,9 @@ Give 2–3 few-shot examples:
 
 - Research-y
     - User: “langgraph single-LLM agent?” → Query: "single LLM agent" LangGraph examples site:langchain-ai.github.io OR site:github.com 
+
+- UNSW_Handbook_Search
+    - User: " what is unsw 8543 major overview" -> extract 8543 -> UNSW_Handbook_Search tool args should like {'query':8543}
 
 **use tool**
 random choose search engine tool

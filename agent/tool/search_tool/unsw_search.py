@@ -1,10 +1,11 @@
-
 import os
 import re
 import time
-from typing import Optional
+import json
+from typing import Optional, List, Dict
 from dotenv import load_dotenv
 from langchain_core.tools import BaseTool
+from typing import Type
 from pydantic import BaseModel
 
 
@@ -19,9 +20,8 @@ except ImportError:
 # Load environment variables
 load_dotenv()
 
-
 class HandbookScraperPlaywright:
-    """Web scraper for UNSW Handbook using Playwright for JavaScript rendering."""
+    """Intelligent web scraper for UNSW Handbook using search-first approach with Playwright."""
 
     def __init__(self):
         self._playwright = None
@@ -29,6 +29,7 @@ class HandbookScraperPlaywright:
         self._page = None
         self.current_url = None
         self.base_url = "https://www.handbook.unsw.edu.au"
+        self.search_url = f"{self.base_url}/search"
 
     def start_browser(self, headless: bool = True) -> str:
         """Start browser session.
@@ -43,108 +44,149 @@ class HandbookScraperPlaywright:
             return "Browser already started"
 
         self._playwright = sync_playwright().start()
-        self._browser = self._playwright.chromium.launch(headless=headless)
+        launch_args = {"headless": headless, "args": ["--no-sandbox", "--disable-setuid-sandbox"]}
+        self._browser = self._playwright.chromium.launch(**launch_args)
         self._page = self._browser.new_page()
 
         # Set a reasonable timeout
-        self._page.set_default_timeout(30000)  # 30 seconds
+        #self._page.set_default_timeout(30000)  # 30 seconds
 
         return f"Browser started (headless={headless})"
 
-    def navigate_to_program(self, program_code: str, year: str = "2026", level: str = "postgraduate") -> str:
-        """Navigate to a specific program page.
 
+    def _extract_search_results(self, limit: int = 5) -> List[Dict[str, str]]:
+        """Extract search results from the current search results page.
+        
         Args:
-            program_code: Program code (e.g., "8543")
-            year: Handbook year (default: "2026")
-            level: "postgraduate" or "undergraduate" (default: "postgraduate")
-
+            limit: Maximum number of results to extract
+            
         Returns:
-            Success message with page title
+            List of dictionaries containing result information
+        """
+        results = []
+        
+        try:
+            # Wait for results container
+            self._page.wait_for_selector(".search-results, [class*='result']", timeout=5000)
+            
+            # Try multiple selectors to find result links
+            result_selectors = [
+                "a[href*='/undergraduate/']",
+                "a[href*='/postgraduate/']",
+            ]
+            
+            all_links = []
+            for selector in result_selectors:
+                links = self._page.query_selector_all(selector)
+                all_links.extend(links)
+            
+            # Remove duplicates by href
+            seen_hrefs = set()
+            unique_links = []
+            for link in all_links:
+                href = link.get_attribute("href")
+                if href and href not in seen_hrefs:
+                    seen_hrefs.add(href)
+                    unique_links.append(link)
+            
+            # Extract information from each link
+            for link in unique_links[:limit]:
+                try:
+                    href = link.get_attribute("href")
+                    text = link.inner_text().strip()
+                    
+                    if not href or not text:
+                        continue
+                    
+                    # Make href absolute if relative
+                    if href.startswith("/"):
+                        href = f"{self.base_url}{href}"
+                    
+                    # Extract type and code from URL
+                    result_type = "Unknown"
+                    code = ""
+                    year = ""
+                    
+                    if "/courses/" in href:
+                        result_type = "Course"
+                        # Extract course code and year from URL
+                        match = re.search(r'/courses/(\d+)/([A-Z]{4}\d{4})', href)
+                        if match:
+                            year = match.group(1)
+                            code = match.group(2)
+                    elif "/programs/" in href:
+                        result_type = "Program"
+                        # Extract program code and year from URL
+                        match = re.search(r'/programs/(\d+)/(\d+)', href)
+                        if match:
+                            year = match.group(1)
+                            code = match.group(2)
+                    
+                    # Extract code from text if not found in URL
+                    if not code:
+                        code_match = re.search(r'\b([A-Z]{4}\d{4}|\d{4})\b', text)
+                        if code_match:
+                            code = code_match.group(1)
+                    
+                    results.append({
+                        "title": text,
+                        "url": href,
+                        "type": result_type,
+                        "code": code,
+                        "year": year
+                    })
+                    
+                except Exception as e:
+                    print(f"Error extracting result: {e}")
+                    continue
+            
+        except Exception as e:
+            print(f"Error in _extract_search_results: {e}")
+        
+        return results
+
+    def navigate_to_final(self, query: str, idx: int = 0) -> str:
+        """Navigate to final result using intelligent search.
+        
+        Args:
+            query: Program code (e.g., "8543")
+            year: Handbook year (default: "2026")
+            
+        Returns:
+            Success message with page details
         """
         if not self._page:
             return "Error: Browser not started. Call start_browser() first."
-
-        url = f"{self.base_url}/{level}/programs/{year}/{program_code}"
-
+        
+        # Search for the program
+        query = f"{query}"
+        
         try:
-            self._page.goto(url, wait_until="networkidle")
+            search_url = f"{self.search_url}?q={query}"
+            self._page.goto(search_url, wait_until="networkidle")
+            time.sleep(2)
+            
+            results = self._extract_search_results(limit=2)
 
-            # Wait for main content to load
+            # Find the best match
+
+            if not results:
+                return f"Could not find program {query}"
+
+            # Navigate to the first result (best match)
+            best_match = results[idx]
+            self._page.goto(best_match['url'], wait_until="networkidle")
             self._page.wait_for_selector("h1", timeout=10000)
-
-            # Extra wait for dynamic content
             time.sleep(2)
 
-            self.current_url = url
-
-            title = self._page.title()
-            h1 = self._page.query_selector("h1")
-            h1_text = h1.inner_text() if h1 else "Unknown"
-
-            return f"Successfully loaded: {h1_text}\nPage title: {title}\nURL: {url}"
-
-        except PlaywrightTimeout:
-            return f"Timeout loading page: {url}\nThe page took too long to load."
+            self.current_url = best_match['url']
+                      
+            return len(results), best_match['url']
+            
         except Exception as e:
-            return f"Error loading page: {str(e)}\nURL: {url}"
+            return f"Error navigating to program: {str(e)}"
 
-    def navigate_to_course(self, course_code: str, year: str = "2026") -> str:
-        """Navigate to a specific course page.
 
-        Args:
-            course_code: Course code (e.g., "COMP9021")
-            year: Handbook year (default: "2026")
-
-        Returns:
-            Success message
-        """
-        if not self._page:
-            return "Error: Browser not started. Call start_browser() first."
-
-        levels = ["postgraduate", "undergraduate"]
-        last_err = None
-        for lvl in levels:
-            url = f"{self.base_url}/{lvl}/courses/{year}/{course_code}"
-            try:
-                self._page.goto(url, wait_until="networkidle")
-                self._page.wait_for_selector("h1", timeout=10000)
-                self.current_url = url
-                return f"Successfully loaded course: {self._page.title()}\nURL: {url}"
-            except Exception as e:
-                last_err = e
-
-        # fallback to site search if direct URLs fail
-        return self.search_course_via_ui(course_code, year)
-    """ 
-    def search_course_via_ui(self, course_code: str, year: str = "2026") -> str:
-        if not self._page:
-            return "Error: Browser not started. Call start_browser() first."
-
-        # open any handbook page with the mini search (home is fine)
-        self._page.goto(self.base_url, wait_until="domcontentloaded")
-
-        # focus the mini search input and search
-        box = self._page.locator('input#mini-search-input, input[title*="Search by code"]')
-        box.wait_for(timeout=10000)
-        box.fill(course_code)
-        self._page.keyboard.press("Enter")
-
-        # wait for results dropdown/list to render
-        self._page.wait_for_timeout(800)  # small pause for suggestions
-        # click the exact course link for the requested year if present; otherwise first match
-        target = self._page.locator(
-            f'a[href*="/courses/{year}/{course_code}"]'
-        )
-        if not target.count():
-            target = self._page.locator(f'a:has-text("{course_code}")').first
-        target.click(timeout=10000)
-
-        # verify page loaded
-        self._page.wait_for_selector("h1", timeout=10000)
-        self.current_url = self._page.url
-        return f"Opened via search: {self._page.title()}\nURL: {self.current_url}"
-    """  
 
     def get_full_page_text(self) -> str:
         """Get all visible text from current page.
@@ -166,125 +208,6 @@ class HandbookScraperPlaywright:
         except Exception as e:
             return f"Error extracting text: {str(e)}"
 
-    def extract_program_overview(self) -> str:
-        """Extract program overview from current page.
-
-        Returns:
-            Program overview information
-        """
-        if not self._page:
-            return "Error: No page loaded"
-
-        try:
-            result = []
-
-            # Get title
-            h1 = self._page.query_selector("h1")
-            if h1:
-                result.append(f"Program: {h1.inner_text()}\n")
-
-            # Get program description/overview
-            # Try different selectors for overview content
-            overview_selectors = [
-                ".program-overview",
-                ".overview",
-                "[class*='overview']",
-                ".program-description",
-                "main p"
-            ]
-
-            for selector in overview_selectors:
-                elements = self._page.query_selector_all(selector)
-                if elements:
-                    for elem in elements[:3]:  # Limit to first 3
-                        text = elem.inner_text().strip()
-                        if text and len(text) > 30:
-                            result.append(f"{text}\n")
-
-            # Look for UoC in page text
-            page_text = self._page.content()
-            credit_match = re.search(r'(\d+)\s*(?:UoC|units of credit)', page_text, re.IGNORECASE)
-            if credit_match:
-                result.append(f"\nTotal Credits: {credit_match.group(1)} UoC\n")
-
-            if not result:
-                # Fallback: get first few paragraphs
-                paragraphs = self._page.query_selector_all("p")
-                for p in paragraphs[:5]:
-                    text = p.inner_text().strip()
-                    if len(text) > 50:
-                        result.append(f"{text}\n")
-
-            return "\n".join(result) if result else "No overview information found."
-
-        except Exception as e:
-            return f"Error extracting overview: {str(e)}"
-
-    def extract_courses(self) -> str:
-        """Extract all courses listed on current page.
-
-        Returns:
-            List of courses with codes and names
-        """
-        if not self._page:
-            return "Error: No page loaded"
-
-        try:
-            courses = []
-
-            # Get full page HTML
-            page_content = self._page.content()
-
-            # Pattern to match course codes (e.g., COMP9021, INFS1000)
-            course_pattern = re.compile(r'\b([A-Z]{4}\d{4})\b')
-
-            # Find all course codes
-            course_codes = course_pattern.findall(page_content)
-
-            # Remove duplicates while preserving order
-            seen = set()
-            unique_codes = []
-            for code in course_codes:
-                if code not in seen:
-                    seen.add(code)
-                    unique_codes.append(code)
-
-            # Try to find course names
-            for code in unique_codes[:50]:  # Limit to 50 courses
-                # Look for text near the course code
-                # Try to find link or nearby text
-                selector = f"text={code}"
-                try:
-                    elem = self._page.query_selector(selector)
-                    if elem:
-                        # Get parent element to find course name
-                        parent = elem.evaluate("el => el.parentElement")
-                        if parent:
-                            parent_text = elem.evaluate("el => el.parentElement.innerText")
-                            # Extract course name (text after code)
-                            name_match = re.search(rf'{code}\s*[-–]?\s*([^()\n]+)', parent_text)
-                            if name_match:
-                                course_name = name_match.group(1).strip()
-
-                                # Look for UoC
-                                uoc_match = re.search(r'(\d+)\s*UoC', parent_text)
-                                uoc = uoc_match.group(1) if uoc_match else "?"
-
-                                courses.append(f"{code} - {course_name} ({uoc} UoC)")
-                            else:
-                                courses.append(f"{code}")
-                        else:
-                            courses.append(f"{code}")
-                except:
-                    courses.append(f"{code}")
-
-            if courses:
-                return "\n".join(courses)
-            else:
-                return "No courses found. Try viewing the full page text with get_full_page_text()"
-
-        except Exception as e:
-            return f"Error extracting courses: {str(e)}"
 
     def search_page(self, keyword: str) -> str:
         """Search for keyword in current page.
@@ -300,13 +223,10 @@ class HandbookScraperPlaywright:
 
         try:
             page_text = self.get_full_page_text()
-
-            # Find sentences containing keyword
             lines = page_text.split('\n')
             matches = [line.strip() for line in lines if keyword.lower() in line.lower()]
 
             if matches:
-                # Remove duplicates
                 unique_matches = []
                 seen = set()
                 for match in matches:
@@ -325,7 +245,7 @@ class HandbookScraperPlaywright:
         """Take screenshot of current page.
 
         Args:
-            filename: Screenshot filename (default: "handbook_screenshot.png")
+            filename: Screenshot filename
 
         Returns:
             Success message with filename
@@ -373,4 +293,48 @@ class HandbookScraperPlaywright:
         except Exception as e:
             return f"Error closing browser: {str(e)}"
 
+
+class hand_book_search_args(BaseModel):
+    query: str = "specific course or program code"
+    #keyward: str = "actually search topic or attribute in this course or program, example: 'prerequisite', '"
+    
+class HandbookSearch(BaseTool):
+    name: str = "UNSW_Handbook_Search"
+    description: str = """
+    Search for a specific course or program code in the UNSW Handbook
+    attention: only search course code formatlike "comp9517","MATH1234"
+    only search program code format like "8543"
+    the pipeline of this tool is:
+    1. open brower
+    2. use search to get web search result
+    3. entry the search result url
+    4. fetch page content
+    5. search specific line include keyword
+    """
+    args_schema: Type[hand_book_search_args] = hand_book_search_args
+
+    def _run(self, query: str):
+        try:
+            results = []
+            scraper = HandbookScraperPlaywright()
+            scraper.start_browser(headless=True)
+            num, url = scraper.navigate_to_final(query, 0) 
+            results.append({
+                "url": url,
+                "content": scraper.get_full_page_text()
+            })
+                
+            if num == 2:
+                num, url = scraper.navigate_to_final(query, 1)
+                results.append({
+                    "url": url,
+                    "content": scraper.get_full_page_text()
+                })
+            scraper.close_browser()
+            return json.dumps({"results": results}, ensure_ascii=False)
+        except Exception as e:
+            return f"Error: {str(e)}"
+    
+    async def _arun(self, query: str):
+        raise self._run(query)
 

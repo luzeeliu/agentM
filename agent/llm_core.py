@@ -113,6 +113,7 @@ def _run_coroutine_sync(coroutine):
     if loop and loop.is_running():
         result_container: dict[str, object] = {}
 
+        # build new event loop run in new thread
         def runner():
             new_loop = asyncio.new_event_loop()
             asyncio.set_event_loop(new_loop)
@@ -135,6 +136,7 @@ def _run_coroutine_sync(coroutine):
 
 def _invoke_tool_sync(tool, args: dict):
     try:
+        # sync tool call
         return tool.invoke(args)
     except Exception as exc:
         needs_async = "does not support sync invocation" in str(exc).lower()
@@ -144,8 +146,10 @@ def _invoke_tool_sync(tool, args: dict):
         async def _call_async():
             if hasattr(tool, "ainvoke"):
                 try:
+                    # for new-style async langchain tools
                     return await tool.ainvoke(args)
                 except TypeError as err:
+                    # for old-style async langchain tools 
                     if "config" in str(err):
                         try:
                             from langchain_core.runnables import RunnableConfig  # type: ignore
@@ -284,7 +288,7 @@ def agent(state: GraphState) -> GraphState:
                         content="You have received tool results. Continue the conversation and provide the next response."
                     )
                 )
-                continue  # Ask the model to continue with tool results
+                continue  # Ask the model to continue with tool results skip generation
 
             new_state = {**state, "message": messages}
             if isinstance(response, AIMessage):

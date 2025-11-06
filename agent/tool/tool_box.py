@@ -69,19 +69,24 @@ def tool_box() -> List[BaseTool]:
 
     # Add direct search tools (not via MCP to avoid async complexity)
     try:
+        from .search_tool.unsw_search import HandbookSearch
+        """
         from .search_tool.google_search_tool import GoogleSearchTool
         from .search_tool.duckduckgo_search_tool import DuckDuckGoSearchTool
         from .search_tool.yahoo_search_tool import YahooSearchTool
         from .search_tool.bing_search_tool import BingSearchTool
+        
 
         tools.append(GoogleSearchTool())
         tools.append(DuckDuckGoSearchTool())
         tools.append(YahooSearchTool())
         tools.append(BingSearchTool())
-        print(f"[tool_box] Added 4 search tools directly")
+        """
+        tools.append(HandbookSearch())
+        print(f"[tool_box] Added 5 search tools directly")
     except Exception as e:
         print(f"[tool_box] Failed to load search tools: {e}")
 
     # Add MCP tools (e.g., arxiv)
-    tools.extend(_ensure_mcp_tools())
+    #tools.extend(_ensure_mcp_tools())
     return tools

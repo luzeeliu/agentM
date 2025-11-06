@@ -7,3 +7,4 @@ python-multipart>=0.0.9
 # Search & MCP (shared with agent)
 google-search-results>=2.4.2
 mcp>=1.0.0
+playwright
