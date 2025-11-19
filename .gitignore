@@ -1,2 +1,6 @@
 .env
 .claude
+agent/tool/local_search/out_shards
+venv
+rag_cache
+__pycache__

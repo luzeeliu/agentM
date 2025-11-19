@@ -82,6 +82,14 @@ def tool_box() -> List[BaseTool]:
     except Exception as e:
         print(f"[tool_box] Failed to load search tools: {e}")
 
+    try:
+        from .local_search.rag_tool import VanillaRAGSearchTool
+
+        tools.append(VanillaRAGSearchTool())
+        print(f"[tool_box] Added vanilla RAG search tool")
+    except Exception as e:
+        print(f"[tool_box] Failed to load vanilla RAG tool: {e}")
+
     # Add MCP tools (e.g., arxiv)
     tools.extend(_ensure_mcp_tools())
     return tools

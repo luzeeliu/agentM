@@ -41,7 +41,7 @@ RUN python -m pip install --no-cache-dir --prefer-binary \
     langchain-core \
     langchain \
     langchain-google-genai \
-    langgraph
+    langgraph 
 
 # Web scraping & automation
 RUN python -m pip install --no-cache-dir --prefer-binary \

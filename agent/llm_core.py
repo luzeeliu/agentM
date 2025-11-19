@@ -14,7 +14,7 @@ system_prompt = system_prompt_path.read_text(encoding="utf-8") if system_prompt_
 
 
 based_llm = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash-exp",
+        model="gemini-2.0-flash",
         temperature=0,
         google_api_key=os.environ["GEMINI_API_KEY"],
     )
