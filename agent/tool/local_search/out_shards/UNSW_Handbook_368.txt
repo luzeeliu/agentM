@@ -1,0 +1,87 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiRUxFQzQqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiIqdWdyZCoifX1dfX0sInNvcnQiOlt7InVuc3dQcm9kX3BzdWJqZWN0LmNvZGVfZG90cmF3IjoiYXNjIn1dLCJmcm9tIjowLCJzaXplIjoxNX0sInByZWZpeCI6InVuc3dQcm9kX3AifSwiZGVzY3JpcHRpb24iOiJhbnkgbGV2ZWwgNCBFbGVjdHJpY2FsIEVuZ2luZWVyaW5nIGNvdXJzZSIsInZlcnNpb24iOiIyMDI2LjAxQVIiLCJjb2RlIjoiU0VOR0FIIiwidGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlcmluZyIsInJ1bGVJZCI6IjAxMTAwY2NiYzNjY2ZhNTBkOTFlZmQ3NzdkMDEzMTI3Iiwic291cmNlVVJMIjoiL3VuZGVyZ3JhZHVhdGUvc3BlY2lhbGlzYXRpb25zLzIwMjYvU0VOR0FIIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6Ikhvbm91cnMgU3BlY2lhbGlzYXRpb24ifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Honours Specialisation
+search
+
+any level 4 Electrical Engineering course
+
+ELEC4122 Strategic Leadership and Ethics
+ Sydney
+_border
+ELEC4123 Electrical Design Proficiency
+ Sydney
+_border
+ELEC4445 Entrepreneurial Engineering
+ Sydney
+_border
+ELEC4601 Digital and Embedded Systems Design
+ Sydney
+_border
+ELEC4602 Microelectronic Design and Technology
+ Sydney
+_border
+ELEC4603 Solid State Electronics
+ Sydney
+_border
+ELEC4604 RF Circuit Design - Theory and Applications
+ Sydney
+_border
+ELEC4605 Quantum Devices and Computers
+ Sydney
+_border
+ELEC4611 Power System Equipment
+ Sydney
+_border
+ELEC4612 Power System Analysis
+ Sydney
+_border
+ELEC4613 Electrical Drive Systems
+ Sydney
+_border
+ELEC4614 Power Electronics
+ Sydney
+_border
+ELEC4617 Power System Protection
+ Sydney
+_border
+ELEC4621 Advanced Digital Signal Processing
+ Sydney
+_border
+ELEC4622 Multimedia Signal Processing
+ Sydney
+_border
+ELEC4623 Biomedical Instrumentation, Measurement and Design
+ Sydney
+_border
+ELEC4631 Continuous - Time Control System Design
+ Sydney
+_border
+ELEC4632 Computer Control Systems
+ Sydney
+_border
+ELEC4633 Real-Time Engineering
+ Sydney
+_border
+ELEC4951 Research Thesis A
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

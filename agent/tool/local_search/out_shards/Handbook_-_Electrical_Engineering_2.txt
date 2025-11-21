@@ -1,0 +1,461 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/ELECF1
+
+Handbook - Electrical Engineering
+
+
+Handbook - Electrical Engineering
+
+Specialisation
+print
+Print Electrical Engineering page
+_border
+Electrical Engineering
+ELECF1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Engineering Science equips graduates to apply a combination of knowledge and skills to engineering tasks and systems. It provides both foundational knowledge in the underpinnings of Engineering, discipline specific understanding, and practice in the application of that to complex situations. The major allows for a flexible choice of courses in… For more content click the Read More button below.
+Engineering Science equips graduates to apply a combination of knowledge and skills to engineering tasks and systems. It provides both foundational knowledge in the underpinnings of Engineering, discipline specific understanding, and practice in the application of that to complex situations.
+The major allows for a flexible choice of courses in the field of Electrical Engineering, and develops abilities in problem solving, communication and team work. Students are prepared to implement and improve electrical technology in a range of environments, from industry, to research, to commercial enterprise.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+In-depth understanding of specialist bodies of knowledge within the engineering discipline.
+Scholars
+keyboard_arrow_down
+2.
+Orderly management of self, and professional conduct.
+Scholars
+Leaders
+Professionals
+keyboard_arrow_down
+3.
+Discernment of knowledge development and research directions within the engineering discipline.
+Scholars
+keyboard_arrow_down
+4.
+Effective team membership and team leadership.
+Professionals
+Scholars
+Global citizens
+Leaders
+keyboard_arrow_down
+5.
+Knowledge of engineering design practice and contextual factors impacting the engineering discipline.
+Scholars
+Global citizens
+Professionals
+keyboard_arrow_down
+6.
+Understanding of the scope, principles, norms, accountabilities and bounds of sustainable engineering practice in the specific discipline.
+Global citizens
+Professionals
+Scholars
+keyboard_arrow_down
+7.
+Application of established engineering methods to complex engineering problem solving.
+Scholars
+Global citizens
+Professionals
+keyboard_arrow_down
+8.
+Fluent application of engineering techniques, tools and resources.
+Professionals
+Scholars
+keyboard_arrow_down
+9.
+Application of systematic engineering synthesis and design processes.
+Professionals
+Scholars
+Global citizens
+keyboard_arrow_down
+10.
+Ethical conduct and professional accountability.
+Professionals
+Global citizens
+keyboard_arrow_down
+11.
+Effective oral and written communication in professional and lay domains.
+Global citizens
+Scholars
+Leaders
+keyboard_arrow_down
+12.
+Systematic, theory based understanding of the underpinning natural and physical sciences and the engineering fundamentals applicable to the engineering discipline.
+Scholars
+keyboard_arrow_down
+13.
+Creative, innovative and pro-active demeanour.
+Leaders
+Scholars
+Professionals
+keyboard_arrow_down
+14.
+Conceptual understanding of the mathematics, numerical analysis, statistics, and computer and information sciences which underpin the engineering discipline.
+Scholars
+keyboard_arrow_down
+15.
+Professional use and management of information.
+Scholars
+Leaders
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering Science - BEngSc
+3706 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Students complete additional elective courses beyond the minimum UOC required in each elective list to bring the total to 96 UOC. Those electives must be taken from the courses listed below.
+Expand all
+Level 1 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC from the following courses
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+COMP1521
+6 UOC
+Computer Systems Fundamentals
+arrow_forward
+PHYS1231
+6 UOC
+Higher Physics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP1911
+6 UOC
+Computing 1A
+OR
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+Level 2 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC from the following courses
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ELEC2133
+6 UOC
+Analogue Electronics
+arrow_forward
+ELEC2134
+6 UOC
+Circuits and Signals
+arrow_forward
+MATH2069
+6 UOC
+Mathematics 2A
+arrow_forward
+MATH2099
+6 UOC
+Mathematics 2B
+Level 3 and 4 Prescribed Elective Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take at least 24 UOC from the following courses
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP3211
+6 UOC
+Computer Architecture
+arrow_forward
+COMP3231
+6 UOC
+Operating Systems
+arrow_forward
+ELEC3104
+6 UOC
+Digital Signal Processing
+arrow_forward
+ELEC3105
+6 UOC
+Electrical Energy
+arrow_forward
+ELEC3106
+6 UOC
+Electronics
+arrow_forward
+ELEC3111
+6 UOC
+Distributed Energy Generation
+arrow_forward
+ELEC3114
+6 UOC
+Control Systems
+arrow_forward
+ELEC3115
+6 UOC
+Electromagnetic Engineering
+arrow_forward
+ELEC3117
+6 UOC
+Electrical Engineering Design
+arrow_forward
+ELEC3145
+6 UOC
+Real Time Instrumentation
+arrow_forward
+ELEC3146
+6 UOC
+Electrical Engineering Modelling and Simulation
+arrow_forward
+ELEC3705
+6 UOC
+Fundamentals of Quantum Engineering
+arrow_forward
+ELEC4122
+6 UOC
+Strategic Leadership and Ethics
+arrow_forward
+ELEC4123
+6 UOC
+Electrical Design Proficiency
+arrow_forward
+ELEC4445
+6 UOC
+Entrepreneurial Engineering
+arrow_forward
+ELEC4601
+6 UOC
+Digital and Embedded Systems Design
+arrow_forward
+ELEC4602
+6 UOC
+Microelectronic Design and Technology
+arrow_forward
+ELEC4603
+6 UOC
+Solid State Electronics
+arrow_forward
+ELEC4604
+6 UOC
+RF Circuit Design - Theory and Applications
+arrow_forward
+ELEC4605
+6 UOC
+Quantum Devices and Computers
+arrow_forward
+ELEC4611
+6 UOC
+Power System Equipment
+arrow_forward
+ELEC4612
+6 UOC
+Power System Analysis
+arrow_forward
+ELEC4613
+6 UOC
+Electrical Drive Systems
+arrow_forward
+ELEC4614
+6 UOC
+Power Electronics
+arrow_forward
+ELEC4617
+6 UOC
+Power System Protection
+arrow_forward
+ELEC4621
+6 UOC
+Advanced Digital Signal Processing
+arrow_forward
+ELEC4622
+6 UOC
+Multimedia Signal Processing
+arrow_forward
+ELEC4623
+6 UOC
+Biomedical Instrumentation, Measurement and Design
+arrow_forward
+ELEC4631
+6 UOC
+Continuous - Time Control System Design
+arrow_forward
+ELEC4632
+6 UOC
+Computer Control Systems
+arrow_forward
+ELEC4633
+6 UOC
+Real-Time Engineering
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+MATH3101
+6 UOC
+Computational Mathematics for Science and Engineering
+arrow_forward
+MATH3121
+6 UOC
+Mathematical Methods and Partial Differential Equations
+arrow_forward
+MATH3161
+6 UOC
+Optimization
+arrow_forward
+MATH3201
+6 UOC
+Dynamical Systems and Chaos
+arrow_forward
+MATH3261
+6 UOC
+Fluids, Oceans and Climate
+arrow_forward
+MATH3411
+6 UOC
+Information, Codes and Ciphers
+arrow_forward
+PHTN4661
+6 UOC
+Optical Circuits and Fibres
+arrow_forward
+PHTN4662
+6 UOC
+Photonic Networks
+arrow_forward
+TELE3113
+6 UOC
+Analogue and Digital Communications
+arrow_forward
+TELE3118
+6 UOC
+Network Technologies
+arrow_forward
+TELE4641
+6 UOC
+Network Security and Privacy
+arrow_forward
+TELE4642
+6 UOC
+Network Performance
+arrow_forward
+TELE4651
+6 UOC
+Wireless Communication Technologies
+arrow_forward
+TELE4652
+6 UOC
+Mobile and Satellite Communications Systems
+arrow_forward
+TELE4653
+6 UOC
+Digital Modulation and Coding
+Course Substitution
+keyboard_arrow_down
+A student may be able to substitute a maximum of 12 UOC of core courses subject to the approval of their School and the Associate Dean (Academic Programs) of the Faculty of Engineering. Students who have transferred to 3706 from a single or dual Bachelor of Engineering (Hons) may count courses not listed here towards the requirements of their major if they are considered equivalent or have been superceded by other courses. This is only possible if the course(s) were listed in the handbook for their Engineering major, and they are completing an Engineering Science major in the same discipline.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

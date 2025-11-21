@@ -1,0 +1,88 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiTUFUSCoifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LmltcGxlbWVudGF0aW9uWWVhciJdLCJxdWVyeSI6IjIwMjYifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LnN0dWR5TGV2ZWxWYWx1ZSJdLCJxdWVyeSI6IipwZ3JkKiJ9fV19fSwic29ydCI6W3sidW5zd1Byb2RfcHN1YmplY3QuY29kZV9kb3RyYXciOiJhc2MifV0sImZyb20iOjAsInNpemUiOjE1fSwicHJlZml4IjoidW5zd1Byb2RfcCJ9LCJkZXNjcmlwdGlvbiI6ImFueSBNYXRoZW1hdGljcyBjb3Vyc2UiLCJ2ZXJzaW9uIjoiMjAyNi4wMyIsImNvZGUiOiJFTkdHR1MiLCJ0aXRsZSI6Ik51Y2xlYXIgRW5naW5lZXJpbmcgKDUzNzMpIiwicnVsZUlkIjoiNTRiOTRmZjQ5M2IzZTYxMGQ0NWNiMmVhNmFiYTEwNDAiLCJzb3VyY2VVUkwiOiIvcG9zdGdyYWR1YXRlL3NwZWNpYWxpc2F0aW9ucy8yMDI2L0VOR0dHUyIsInNvdXJjZVVSTFRleHRLZXkiOiJjc193aWxkY2FyZF9zb3VyY2VfYmFja19saW5rdGV4dCIsInNvdXJjZVR5cGUiOiJQb3N0Z3JhZHVhdGUgU3BlY2lhbGlzYXRpb24ifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Postgraduate Specialisation
+search
+
+any Mathematics course
+
+MATH2069 Mathematics 2A
+ Sydney
+_border
+MATH2991 Data and Algorithms in Trading
+ Sydney
+_border
+MATH5005 Advanced Mathematics Project A
+ Sydney
+_border
+MATH5006 Advanced Mathematics Project B
+ Sydney
+_border
+MATH5165 Optimization
+ Sydney
+_border
+MATH5171 Linear and Discrete Optimization Modelling
+ Sydney
+_border
+MATH5175 Special Topics in Applied Mathematics A
+ Sydney
+_border
+MATH5185 Special Topics in Applied Mathematics B
+ Sydney
+_border
+MATH5191 Mathematical Optimization for Data Science
+ Sydney
+_border
+MATH5201 Dynamical Systems and Chaos
+ Sydney
+_border
+MATH5207 Physical Oceanography Research Project
+ Sydney
+_border
+MATH5231 Prediction and Inverse Modelling
+ Sydney
+_border
+MATH5271 Environmental Data Science and Statistics
+ Sydney
+_border
+MATH5285 Fluids, Oceans and Climate
+ Sydney
+_border
+MATH5295 Special Topics in Applied Mathematics D
+ Sydney
+_border
+MATH5305 Computational Mathematics for Science and Engineering
+ Sydney
+_border
+MATH5335 Computational Mathematics for Finance
+ Sydney
+_border
+MATH5361 Stochastic Differential Equations: Theory, Applications, and Numerical Methods
+ Sydney
+_border
+MATH5371 Numerical Linear Algebra
+ Sydney
+_border
+MATH5425 Graph Theory
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

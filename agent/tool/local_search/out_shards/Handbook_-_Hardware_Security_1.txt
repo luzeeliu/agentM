@@ -1,0 +1,97 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/COMP6420
+
+Handbook - Hardware Security
+
+
+Handbook - Hardware Security
+
+Course
+print
+Print Hardware Security page
+_border
+Hardware Security
+COMP6420
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Additional Enrolment Constraints
+Delivery
+Overview
+The functionality and capability of computer systems are defined by their real-world hardware. Likewise, the cyber security of computer systems depends upon the security of their underlying hardware. This course is designed to explore both hardware security and trust in hardware, providing a comprehensive understanding of the underpinning principles and… For more content click the Read More button below.
+The functionality and capability of computer systems are defined by their real-world hardware. Likewise, the cyber security of computer systems depends upon the security of their underlying hardware. This course is designed to explore both hardware security and trust in hardware, providing a comprehensive understanding of the underpinning principles and practices which apply to both the security and trust of computer systems, from printed circuit boards to individual integrated circuits. Students will explore theoretical aspects of what makes hardware secure, performing threat modelling and understanding the state of the art in hardware security, as well as get hands-on experience with practical attacks and defences for both virtual and real-world hardware. The course will equip students with the skills necessary to analyse, design, and implement hardware security measures.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: COMP9021 and COMP9222
+Additional Enrolment Constraints
+It is highly recommended that students have prior knowledge of security concepts, including some familiarity with encryption algorithms such as AES or DES. Postgraduate students should seek approval from the course convenor if they do not meet the enrolment requirements for this course.
+It is highly recommended that students have prior knowledge of security concepts, including some familiarity with encryption algorithms such as AES or DES.
+Postgraduate students should seek approval from the course convenor if they do not meet the enrolment requirements for this course.
+Read More
+about Additional Enrolment Constraints
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031305 Computer Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

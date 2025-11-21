@@ -1,0 +1,264 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/ENGGF1
+
+Handbook - Nuclear Engineering
+
+
+Handbook - Nuclear Engineering
+
+Specialisation
+print
+Print Nuclear Engineering page
+_border
+Nuclear Engineering
+ENGGF1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Prepare for a career in one of the world’s most advanced engineering fields with a nuclear specialisation that prioritises safety, security, and sustainability. This program provides a strong understanding of the physics within a reactor, radiation interactions with matter, and the cradle-to-grave of nuclear fuel cycles. This will equip you… For more content click the Read More button below.
+Prepare for a career in one of the world’s most advanced engineering fields with a nuclear specialisation that prioritises safety, security, and sustainability. This program provides a strong understanding of the physics within a reactor, radiation interactions with matter, and the cradle-to-grave of nuclear fuel cycles. This will equip you with the knowledge to support the safe and responsible use of nuclear technology.
+You will explore how nuclear systems operate, learning about reactor design, fuel cycles, and regulatory frameworks. Practical applications are emphasised through case studies, problem-solving exercises, and industry-aligned projects that develop your technical and analytical skills.
+This specialisation is ideal for engineers seeking opportunities in nuclear power, defence, medical applications, research or regulation. You will gain an understanding of the unique risks and safeguards required in the nuclear sector, ensuring you can contribute to safe and effective operations.
+If you are interested in cutting-edge technology and its real-world applications, this program will provide the skills and knowledge to begin your journey in nuclear engineering.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Apply principles of physics, mathematics, radiation science, materials chemistry, and computational methods to solve engineering problems in nuclear technology.
+keyboard_arrow_down
+2.
+Analyse the operation and functionality of nuclear technologies used in energy, medicine, research, defence, and space exploration.
+keyboard_arrow_down
+3.
+Use engineering tools and methodologies to design, build, regulate, and operate mission- and safety-critical nuclear systems.
+keyboard_arrow_down
+4.
+Interpret changing sociopolitical constraints around nuclear technology in terms of politics, law, international law, international relations, nuclear security and nuclear safeguards.
+keyboard_arrow_down
+5.
+Examine economic, societal, and environmental impacts of the nuclear fuel cycle, highlighting sustainability and productivity challenges.
+keyboard_arrow_down
+6.
+Demonstrate a nuclear safety and security mindset by making professional contributions to safety-critical work with leadership, critical thinking, and continuous improvement.
+keyboard_arrow_down
+7.
+Apply basic management principles related to people, safety assessment, auditing, and performance monitoring to support the operation of nuclear facilities.
+keyboard_arrow_down
+8.
+Examine technical assumptions and industry methodologies, demonstrating problem-solving skills and accountability in nuclear engineering contexts.
+keyboard_arrow_down
+9.
+Collaborate with diverse stakeholders, including government, industry, and research institutions, demonstrating cultural awareness and professional use of information, to ensure responsible and sustainable nuclear technology applications.
+keyboard_arrow_down
+10.
+Communicate nuclear engineering concepts to technical and non-technical audiences.
+keyboard_arrow_down
+11.
+Demonstrate leadership and teamwork in multi-disciplinary environments to achieve safe, ethical, and sustainable nuclear technology outcomes.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering Science - BEngSc
+3706 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Students complete additional elective courses beyond the minimum UOC required in each elective list to bring the total to 96 UOC. Those electives must be taken from the courses listed below.
+Expand all
+Level 1 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+Level 1 Courses
+keyboard_arrow_down
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+MATS1110
+6 UOC
+Introduction to Materials for Engineering Applications
+arrow_forward
+MMAN1130
+6 UOC
+Design and Manufacturing
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+Level 2 Courses
+keyboard_arrow_down
+arrow_forward
+ATOM2000
+6 UOC
+Introduction to Atomic Energy
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+arrow_forward
+PHYS2117
+6 UOC
+Introduction to Nuclear Physics
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 and 4 Prescribed Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take at least 24 UOC of the following courses.
+arrow_forward
+ARTS3100
+6 UOC
+Science, Technology and Responsibility: Ethics and the Nuclear Age
+arrow_forward
+ATOM3001
+6 UOC
+Nuclear Reactor Coolants
+arrow_forward
+ATOM3002
+6 UOC
+Neutronics
+arrow_forward
+ATOM3003
+6 UOC
+Nuclear Reactor Degradation and Lifecycles
+arrow_forward
+ATOM4001
+6 UOC
+Reactor Engineering and Control
+arrow_forward
+ATOM4100
+6 UOC
+Nuclear Engineering Design
+arrow_forward
+DESN3000
+6 UOC
+Strategic Design Innovation
+arrow_forward
+ENGG9743
+6 UOC
+Nuclear Fuel Cycle
+arrow_forward
+ENGG9744
+6 UOC
+Nuclear Safety, Security and Safeguards
+Course Substitution
+keyboard_arrow_down
+A student may be able to substitute a maximum of 12 UOC of core courses subject to the approval of their School and the Associate Dean (Academic Programs) of the Faculty of Engineering. Students who have transferred to 3706 from a single or dual Bachelor of Engineering (Hons) may count courses not listed here towards the requirements of their major if they are considered equivalent or have been superseded by other courses. This is only possible if the course(s) were listed in the handbook for their Engineering major, and they are completing an Engineering Science major in the same discipline.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mechanical and Manufacturing Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

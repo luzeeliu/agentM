@@ -1,0 +1,244 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/specialisations/2026/ELECYS
+
+Handbook - Electrical Engineering (7373)
+
+
+Handbook - Electrical Engineering (7373)
+
+Specialisation
+print
+Print Electrical Engineering (7373) page
+_border
+Electrical Engineering (7373)
+ELECYS
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The Electrical Engineering specialisation is underpinned by the attainment of disciplinary and engineering technical management knowledge and skills. This specialisation offers electives across several sub-disciplines of electrical engineering, allowing students the option of obtaining a good depth of knowledge in one discipline, or a breadth of knowledge by adopting a… For more content click the Read More button below.
+The Electrical Engineering specialisation is underpinned by the attainment of disciplinary and engineering technical management knowledge and skills. This specialisation offers electives across several sub-disciplines of electrical engineering, allowing students the option of obtaining a good depth of knowledge in one discipline, or a breadth of knowledge by adopting a multidisciplinary approach when choosing their electives. The specialisation provides a solid postgraduate program for electrical engineers wishing to upgrade their skills or further their knowledge.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Explain concepts, theories, and techniques relevant to an engineering science specialisation.
+keyboard_arrow_down
+2.
+Apply a breadth of relevant engineering knowledge, including engineering management, to professional practice.
+keyboard_arrow_down
+3.
+Identify, define, investigate, and analyse complex engineering problems.
+keyboard_arrow_down
+4.
+Apply appropriate engineering knowledge and methods to develop effective and innovative solutions to complex engineering problems.
+keyboard_arrow_down
+5.
+Communicate information to other professionals, clients, stakeholders and the broader community.
+keyboard_arrow_down
+6.
+Apply creative and ethical approaches to practice.
+keyboard_arrow_down
+7.
+Collaborate effectively in diverse professional contexts.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Graduate Certificate in Engineering Science - GCertEngSc
+7373 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+48
+Typical duration:
+1 year F/T, 2 years P/T
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 48 UOC.
+Expand all
+Foundational Core
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+ELEC3104
+6 UOC
+Digital Signal Processing
+arrow_forward
+ELEC3105
+6 UOC
+Electrical Energy
+arrow_forward
+ELEC3115
+6 UOC
+Electromagnetic Engineering
+arrow_forward
+ELEC3117
+6 UOC
+Electrical Engineering Design
+Disciplinary Knowledge Electives
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+arrow_forward
+ELEC4601
+6 UOC
+Digital and Embedded Systems Design
+arrow_forward
+ELEC4602
+6 UOC
+Microelectronic Design and Technology
+arrow_forward
+ELEC4603
+6 UOC
+Solid State Electronics
+arrow_forward
+ELEC4604
+6 UOC
+RF Circuit Design - Theory and Applications
+arrow_forward
+ELEC4605
+6 UOC
+Quantum Devices and Computers
+arrow_forward
+ELEC4611
+6 UOC
+Power System Equipment
+arrow_forward
+ELEC4612
+6 UOC
+Power System Analysis
+arrow_forward
+ELEC4613
+6 UOC
+Electrical Drive Systems
+arrow_forward
+ELEC4614
+6 UOC
+Power Electronics
+arrow_forward
+ELEC4617
+6 UOC
+Power System Protection
+arrow_forward
+ELEC4621
+6 UOC
+Advanced Digital Signal Processing
+arrow_forward
+ELEC4622
+6 UOC
+Multimedia Signal Processing
+arrow_forward
+ELEC4623
+6 UOC
+Biomedical Instrumentation, Measurement and Design
+arrow_forward
+ELEC4631
+6 UOC
+Continuous - Time Control System Design
+arrow_forward
+ELEC4632
+6 UOC
+Computer Control Systems
+arrow_forward
+ELEC4633
+6 UOC
+Real-Time Engineering
+arrow_forward
+PHTN4661
+6 UOC
+Optical Circuits and Fibres
+arrow_forward
+TELE4641
+6 UOC
+Network Security and Privacy
+arrow_forward
+TELE4642
+6 UOC
+Network Performance
+arrow_forward
+TELE4651
+6 UOC
+Wireless Communication Technologies
+arrow_forward
+TELE4652
+6 UOC
+Mobile and Satellite Communications Systems
+arrow_forward
+TELE4653
+6 UOC
+Digital Modulation and Coding
+Engineering Technical Management
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses.
+arrow_forward
+GSOE9210
+6 UOC
+Engineering Decision Structures
+arrow_forward
+GSOE9445
+6 UOC
+Entrepreneurial Engineering
+arrow_forward
+GSOE9510
+6 UOC
+Ethics and Leadership in Engineering
+arrow_forward
+GSOE9820
+6 UOC
+Engineering Project Management
+arrow_forward
+GSOE9830
+6 UOC
+Economic Decision Analysis in Engineering
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Minimum Units of Credit
+48
+Specialisation Type
+info
+Specialisation
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

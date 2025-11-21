@@ -1,0 +1,41 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS1131.html
+
+UNSW Handbook Course - Higher Physics 1A - PHYS1131
+
+
+UNSW Handbook Course - Higher Physics 1A - PHYS1131
+Higher Physics 1A - PHYS1131
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+http://www.phys.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+6
+Enrolment Requirements:
+Corequisite: MATH1131 or MATH1141 or MATH1151
+Excluded:
+PHYS1121, PHYS1141, PHYS9120
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+This course provides an introduction to Physics.  It is a calculus based course.  The course is examined at two levels, with Higher Physics 1A being the higher of the two levels.  While the same content is covered as Physics 1A, Higher Physics 1A features more advanced assessment.
+Mechanics: particle kinematics in one dimension, motion in two and three dimensions, particle dynamics, work and energy, momentum and collisions.
+Thermal physics: temperature, kinetic theory and the ideal gas, heat and the first law of thermodynamics. Waves: oscillations, wave motion, sound waves.
+Assumed Knowledge :
+HSC Physics and Mathematics Extension 1 or equivalent. If you have not reached this level of physics and mathematics you may wish to take PHYS1111 Fundamentals of Physics before enrolling in this course.

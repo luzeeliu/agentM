@@ -1,0 +1,101 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/ZZSC5960
+
+Handbook - Bayesian Inference and Computation for Data Scientists
+
+
+Handbook - Bayesian Inference and Computation for Data Scientists
+
+Course
+print
+Print Bayesian Inference and Computation for Data Scientists page
+_border
+Bayesian Inference and Computation for Data Scientists
+ZZSC5960
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+After describing the fundamentals of Bayesian inference, this course will examine several detailed aspects including: the specification of prior and posterior distributions, Bayesian decision theoretic concepts, the ideas behind Bayesian hypothesis tests, model choice and model averaging, and various model types such as hierarchical and mixture models. An important part… For more content click the Read More button below.
+After describing the fundamentals of Bayesian inference, this course will examine several detailed aspects including: the specification of prior and posterior distributions, Bayesian decision theoretic concepts, the ideas behind Bayesian hypothesis tests, model choice and model averaging, and various model types such as hierarchical and mixture models. An important part of Bayesian inference is the requirement to numerically evaluate complex integrals on a routine basis. Accordingly this course will also introduce the ideas behind Monte Carlo integration, importance sampling, rejection sampling, Markov chain Monte Carlo samplers such as the Gibbs sampler and the Metropolis-Hastings algorithm. This course is only available to students enrolled in the Online Masters or Graduate Diploma of Data Science.
+Material is delivered 100% online through a series of self-guided lessons which include challenges, practice questions and videos. Questions can be asked on the discussion forum. Webinars will be held to guide students through the material and to help answer further questions that cannot be raised in the discussion forum.
+Read More
+about Overview
+Conditions for Enrolment
+Must be enrolled in 5646 Graduate Diploma in Data Science or 8646 Master of Data Science.
+Exclusion Courses
+open_in_new
+Course
+MATH3871
+MATH3871 - Bayesian Inference and Computation
+open_in_new
+Course
+MATH5960
+MATH5960 - Bayesian Inference and Computation
+Delivery
+Expand all
+Fully online - Intensive
+keyboard_arrow_down
+Delivery Mode
+Fully online
+Delivery Format
+Intensive
+Indicative Contact Hours
+12 hours/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Hexamester 3
+Campus
+Sydney
+Academic Calendar
+Hexamester
+info
+Hexamester calendar is an accelerated calendar model with 6 intakes of 8 weeks per year.
+Field of Education
+010103 Statistics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

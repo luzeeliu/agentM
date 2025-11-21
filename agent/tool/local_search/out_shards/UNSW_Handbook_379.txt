@@ -1,0 +1,90 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5wYXJlbnRBY2FkZW1pY09yZyJdLCJxdWVyeSI6IjVmYTU2Y2ViNGYwMDkzMDA0YWE2ZWI0ZjAzMTBjN2FmIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5sZXZlbE51bWJlciJdLCJxdWVyeSI6IjMgT1IgNCBPUiA1IE9SIDYgT1IgNyBPUiA4IE9SIDkifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LmltcGxlbWVudGF0aW9uWWVhciJdLCJxdWVyeSI6IjIwMjYifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LnN0dWR5TGV2ZWxWYWx1ZSJdLCJxdWVyeSI6Iip1Z3JkKiJ9fV19fSwic29ydCI6W3sidW5zd1Byb2RfcHN1YmplY3QuY29kZV9kb3RyYXciOiJhc2MifV0sImZyb20iOjAsInNpemUiOjE1fSwicHJlZml4IjoidW5zd1Byb2RfcCJ9LCJkZXNjcmlwdGlvbiI6IkxldmVsIDMgb3IgYWJvdmUgRmFjdWx0eSBvZiBFbmdpbmVlcmluZyBjb3Vyc2Ugd2l0aCBwZXJtaXNzaW9uIGZyb20gdGhlIFNwZWNpYWxpc2F0aW9uIEF1dGhvcml0eS4iLCJ2ZXJzaW9uIjoiMjAyNi4wMSIsImNvZGUiOiJTT0xBQkgiLCJ0aXRsZSI6IlJlbmV3YWJsZSBFbmVyZ3kgRW5naW5lZXJpbmciLCJydWxlSWQiOiI2N2YwODUzY2MzY2MzNjUwZDkxZWZkNzc3ZDAxMzFhNyIsInNvdXJjZVVSTCI6Ii91bmRlcmdyYWR1YXRlL3NwZWNpYWxpc2F0aW9ucy8yMDI2L1NPTEFCSCIsInNvdXJjZVVSTFRleHRLZXkiOiJjc193aWxkY2FyZF9zb3VyY2VfYmFja19saW5rdGV4dCIsInNvdXJjZVR5cGUiOiJIb25vdXJzIFNwZWNpYWxpc2F0aW9uIn0=
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Honours Specialisation
+search
+
+Level 3 or above Faculty of Engineering course with permission from the Specialisation Authority.
+
+AERO3110 Aerospace Design 1
+ Sydney
+_border
+AERO3410 Aerospace Structures
+ Sydney
+_border
+AERO3630 Aerodynamics
+ Sydney
+_border
+AERO3660 Flight Performance and Propulsion
+ Sydney
+_border
+AERO4110 Aerospace Design 2
+ Sydney
+_border
+AERO4620 Dynamics of Aerospace Vehicles, Systems and Avionics
+ Sydney
+_border
+ATOM3001 Nuclear Reactor Coolants
+ Sydney
+_border
+ATOM3002 Neutronics
+ Sydney
+_border
+ATOM3003 Nuclear Reactor Degradation and Lifecycles
+ Sydney
+_border
+ATOM4001 Reactor Engineering and Control
+ Sydney
+_border
+ATOM4100 Nuclear Engineering Design
+ Sydney
+_border
+ATOM9910 Special Topic in Nuclear Engineering
+ Sydney
+_border
+BINF3010 Applied Bioinformatics
+ Sydney
+_border
+BINF3020 Computational Bioinformatics
+ Sydney
+_border
+BIOM3000 Health Technology Innovation
+ Sydney
+_border
+BIOM3001 Biocompatibility
+ Sydney
+_border
+BIOM3300 Mechanics of Biomaterials
+ Sydney
+_border
+BIOM3500 Mechanics of the Human Body
+ Sydney
+_border
+BIOM3600 Biosensors
+ Sydney
+_border
+BIOM4951 Research Thesis A
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+4
+5
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

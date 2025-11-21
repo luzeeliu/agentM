@@ -1,0 +1,482 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3589
+
+Handbook - Actuarial Studies / Advanced Mathematics (Honours)
+
+
+Handbook - Actuarial Studies / Advanced Mathematics (Honours)
+
+Double Degree
+print
+Print Actuarial Studies / Advanced Mathematics (Honours) page
+_border
+Actuarial Studies / Advanced Mathematics (Honours)
+3589
+240 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Stand Alone Programs
+Double Degree Structure
+Program Constraints
+Sample Programs
+Additional Information
+Program Fees
+Overview
+The Bachelor of Actuarial Studies/Bachelor of Science (Advanced Mathematics)(Honours) (BCom/BSc (Adv Maths)(Hons) is a 5 year dual degree program which will meet the needs of students wanting an advanced program of study in mathematics or statistics, complemented with a strong, focused actuarial studies program. As part of this program students… For more content click the Read More button below.
+The
+Bachelor of Actuarial Studies/Bachelor of Science (Advanced Mathematics)(Honours) (BCom/BSc (Adv Maths)(Hons)
+is a 5 year dual degree program which will meet the needs of students wanting an advanced program of study in mathematics or statistics, complemented with a strong, focused actuarial studies program. As part of this program students will complete a major stream in both a selected area of mathematics or statistics (from UNSW Science), and a sequence of actuarial studies courses within the UNSW Business School.
+The Advanced Mathematics(Honours) component includes a single major and a research project, as well as the award of class of honours based on performance on the honours year. Majors are defined on the Advanced Mathematics (Honours) Program (3956) page.
+Read More
+about Overview
+Stand Alone Programs
+Click on the link below to find out more about each individual program.
+open_in_new
+Program
+3586
+Actuarial Studies
+open_in_new
+Program
+3956
+Advanced Mathematics (Honours)
+Double Degree Structure
+Students must complete 240 UOC.
+These UOC are made up of:
+Actuarial Studies component (96 UOC)
+1. Level 1 Actuarial Studies Core Courses (48 UOC) (Please note: MATH1151 and MATH1251 are completed under the Advanced Mathematics component of the Double Degree)
+2. Level 2 Actuarial Studies Core Courses (24 UOC) (Please note: ACTL2131 may be substituted by MATH2901 and MATH2931, please see below)
+3. Level 3 Actuarial Studies Core Course (6 UOC)
+4. Level 3 Actuarial Studies Electives (18 UOC)
+Bachelor of Advanced Mathematics (Honours) (144 UOC)
+1. An approved Advanced Mathematics (Honours) major and
+2. SCIF1131;
+3. 48 units of credit Honours Year; and
+4. Science elective courses
+Expand all
+Disciplinary Component - 3586 Actuarial Studies
+96 Units of Credit:
+keyboard_arrow_down
+Students must complete 96 UOC of the following to satisfy the core requirements of this degree
+Level 1 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+arrow_forward
+ACTL1101
+6 UOC
+Introduction to Actuarial Studies
+arrow_forward
+COMM1170
+6 UOC
+Organisational Resources
+arrow_forward
+COMM1180
+6 UOC
+Value Creation
+arrow_forward
+COMM1240
+6 UOC
+Financial Management for Actuarial Studies
+arrow_forward
+ECON1101
+6 UOC
+Microeconomics 1
+arrow_forward
+ECON1102
+6 UOC
+Macroeconomics 1
+arrow_forward
+MATH1151
+6 UOC
+Mathematics for Actuarial Studies and Finance 1A
+arrow_forward
+MATH1251
+6 UOC
+Mathematics for Actuarial Studies and Finance 1B
+Level 2 Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+Students may replace ACTL2131 with the two courses MATH2901 Higher Theory of Statistics and MATH2931 Higher Linear Models. If students make this replacement, MATH2901 will count towards ACTL2131, and MATH2931 will be counted towards a major where this course is required or as a Business elective.
+arrow_forward
+ACTL2102
+6 UOC
+Foundations of Actuarial Models
+arrow_forward
+ACTL2111
+6 UOC
+Financial Mathematics for Actuaries
+arrow_forward
+ACTL2131
+6 UOC
+Probability and Mathematical Statistics
+arrow_forward
+COMM2501
+6 UOC
+Data Visualisation and Communication
+Level 3 Core Courses
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses.
+arrow_forward
+ACTL3142
+6 UOC
+Statistical Machine Learning for Risk and Actuarial Applications
+Level 3 Actuarial Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must complete 18 UOC of the following courses.
+arrow_forward
+ACTL3141
+6 UOC
+Modelling and Prediction of Life and Health Related Risks
+arrow_forward
+ACTL3143
+6 UOC
+Artificial Intelligence and Deep Learning Models for Actuarial Applications
+arrow_forward
+ACTL3151
+6 UOC
+Actuarial Mathematics for Insurance and Superannuation
+arrow_forward
+ACTL3162
+6 UOC
+General Insurance Techniques
+arrow_forward
+ACTL3182
+6 UOC
+Asset-Liability and Derivative Models
+arrow_forward
+ACTL3191
+6 UOC
+Superannuation and Retirement Benefits
+arrow_forward
+ACTL3192
+6 UOC
+Retirement Saving and Spending Over the Lifecycle
+arrow_forward
+ACTL3301
+6 UOC
+Quantitative Risk Management
+Optional Specialisations
+keyboard_arrow_down
+Students may choose to complete an optional Actuarial Studies major or Business major / minor using the elective space in their program.
+Actuarial Studies Majors
+add
+Students may complete one of the following optional majors in addition to their Actuarial Studies program requirements.
+Students completing these majors will still need to complete the program requirements such as Level 1 and 2 core course as well as Level 3 electives.
+These majors will require UOC to be taken from the Business Electives, Free Electives and/or General Education courses depending on a student's program rules and courses completed. It may also require completion of additional UOC above the minimum required for a student's program. Please see the Progression Plans and consult the Business School Student Centre if you are interested in completing one of these majors.
+Major
+arrow_forward
+ACTLE1
+48 UOC
+Actuarial Risk Management and Analytics
+arrow_forward
+COMPZ1
+66 UOC
+Computational Data Science
+arrow_forward
+MATHE1
+66 UOC
+Quantitative Data Science
+Other Majors / Minors
+add
+Students may complete up to a maximum of one optional major/minor listed below in addition to their Actuarial Studies program requirements.
+Notes for Single-Degree students: Completion of one of the following non-Actuarial Studies Majors within the single Actuarial Studies degree may result in more UOC required for degree completion.
+Notes for Double-Degree students: Completion of an additional major/minor within the combined Actuarial Studies degree may result in more UOC required for degree completion.
+Major
+Minor
+arrow_forward
+ACCTA1
+48 UOC
+Accounting
+arrow_forward
+COMMG1
+48 UOC
+Business Sustainability and Social Impact
+arrow_forward
+COMMI1
+48 UOC
+AI in Business and Society
+arrow_forward
+COMMJ1
+48 UOC
+Business Analytics
+arrow_forward
+ECONF1
+48 UOC
+Business Economics
+arrow_forward
+ECONJ1
+60 UOC
+Financial Economics
+arrow_forward
+ECONO1
+48 UOC
+Behavioural Economics
+arrow_forward
+FINSA1
+48 UOC
+Finance
+arrow_forward
+FINSR1
+48 UOC
+Financial Technology
+arrow_forward
+IBUSA1
+48 UOC
+International Business
+arrow_forward
+INFSA1
+48 UOC
+Information Systems
+arrow_forward
+INFSG1
+48 UOC
+Cybersecurity Management
+arrow_forward
+MARKA1
+48 UOC
+Marketing
+arrow_forward
+MARKD1
+48 UOC
+Marketing Analytics
+arrow_forward
+MGMTH1
+48 UOC
+Human Resource Management
+arrow_forward
+MGMTJ1
+48 UOC
+Innovation, Strategy and Entrepreneurship
+arrow_forward
+TABLC1
+48 UOC
+Taxation
+Note for students choosing to complete an Actuarial Studies major
+add
+Students completing an Actuarial Studies major and an additional major/minor will result in more UOC required for degree completion.
+Disciplinary Component - 3956 Advanced Mathematics (Honours)
+144 Units of Credit:
+keyboard_arrow_down
+Students must complete 144 UOC of the following to satisfy the core requirements of this degree
+Major Specialisation Requirements
+keyboard_arrow_down
+Students must complete exactly one approved Bachelor of Science (Advanced Mathematics) (Honours) major, and this must be declared before enrolling in Level III courses. Students cannot undertake a double major in this program.
+Major
+arrow_forward
+MATHA1
+90 UOC
+Applied Mathematics
+arrow_forward
+MATHP1
+90 UOC
+Pure Mathematics
+arrow_forward
+MATHU1
+84 UOC
+Advanced Statistics
+Honours Specialisation Requirements
+keyboard_arrow_down
+Students must complete at least one of the specialisations below.
+Honours
+arrow_forward
+MATHAH
+48 UOC
+Applied Mathematics
+arrow_forward
+MATHPH
+48 UOC
+Pure Mathematics
+arrow_forward
+MATHTH
+48 UOC
+Statistics
+Science Electives
+keyboard_arrow_down
+Students must take 'science' courses so that the major plus Honours year plus 'science' courses total 144 units of credit.
+open_in_new
+any Aviation course
+open_in_new
+any Biological Science course
+open_in_new
+any Biological, Earth & Environmental Science course
+open_in_new
+any Climate Science course
+open_in_new
+any Geoscience course
+open_in_new
+any Marine Science course
+open_in_new
+any Biotechnology & Biomolecular Sciences course
+open_in_new
+any Biochemistry course
+open_in_new
+any Biotechnology course
+open_in_new
+any Microbiology course
+open_in_new
+any Chemistry course
+open_in_new
+any Computer Science course
+open_in_new
+any Data Science course
+open_in_new
+any Food Technology course
+open_in_new
+any Materials Science and Engineering course
+open_in_new
+any Mathematics course
+open_in_new
+any Anatomy course
+open_in_new
+any Neuroscience course
+open_in_new
+any Pathology course
+open_in_new
+any Pharmacology course
+open_in_new
+any Physiology course
+open_in_new
+any Medical Science course
+open_in_new
+any Psychology course
+open_in_new
+any Physics course
+open_in_new
+any Optometry course
+open_in_new
+any Vision Science course
+open_in_new
+any Faculty of Science course
+Recommended Electives
+keyboard_arrow_down
+The Faculty strongly recommends one of the following courses be taken as either part of a Science Elective or Free Elective.
+SCIF1001, DESN1000, COMM1190, MATH3041, MATH3121, MATH3171, MATH3191, MATH3201, MATH3821, MATH3831.
+Maximum Level 1 UOC
+keyboard_arrow_down
+A maximum of 72 UOC of Level 1 courses can be taken, including any General Education or mainstream Level 1 course taken to fulfil either the General Education or the Free Elective requirement.
+any level 1 course
+Minimum Level 1 Science Courses
+keyboard_arrow_down
+Students must complete a minimum of 24 UOC of the following courses.
+any level 1 course offered by Faculty of Science
+any level 1 Computer Science (COMP) course
+any level 1 Food Technology (FOOD) course
+any level 1 Anatomy (ANAT) course
+any level 1 Neuroscience (NEUR) course
+any level 1 Pathology (PATH) course
+any level 1 Pharmacology (PHAR) course
+any level 1 Physiology (PHSL) course
+Minimum Level 3 Science Courses
+keyboard_arrow_down
+Students must complete a minimum of 30 UOC of the following courses.
+any level 3 course offered by Faculty of Science
+any level 3 Anatomy (ANAT) course
+any level 3 Neuroscience (NEUR) course
+any level 3 Pathology (PATH) course
+any level 3 Pharmacology (PHAR) course
+any level 3 Physiology (PHSL) course
+any level 3 Food Technology (FOOD) course
+any level 3 Computer Science (COMP) course
+any level 3 Medical Science (SOMS) course
+3589 Actuarial Studies / Advanced Mathematics (Hons) specific information
+keyboard_arrow_down
+MATH1151 & MATH1251 are compulsory core courses that count towards the Bachelor of Science (Advanced Mathematics)(Honours). Students must complete an additional 12 UOC of UNSW Business School electives to complete the requirement for 96 UOC of Business School courses.
+1. MATH1151 Mathematics for Actuarial Studies and Finance 1A (6 UOC) replaces MATH1141 Higher Mathematics 1A (6 UOC)
+2. MATH1251 Mathematics for Actuarial Studies and Finance 1B (6 UOC) replaces MATH1241 Higher Mathematics 1B
+This applies to any stream that requires either of these courses.
+If you wish to count MATH2901 and MATH2931 toward the Advanced Mathematics (Hons) degree, you must complete more Business elective courses to achieve meet the minimum Business School Course requirement.
+Program Constraints
+Expand all
+Limit Rule
+keyboard_arrow_down
+Students must complete a minimum of 96 UOC of UNSW Business School courses.
+No more than 60 UOC in Level 1 courses will be counted towards the 3586 Actuarial Studies component of the Double-Degree.
+Maturity Rule
+keyboard_arrow_down
+Students must have completed 24 UOC before taking any Level 2 courses as part of the 3586 Actuarial Studies program.
+Students must have completed 48 UOC before taking any Level 3 courses as part of the Actuarial Studies program.
+Enrolment Disclaimer
+Please read the Double Degree Program rules as some specific rules apply to particular Double Degree combinations.
+You are responsible for ensuring you enrol in courses according to your program requirements and advice from your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Advanced Mathematics (Honours) Degree Template
+Additional Information
+Please note that these requirements may be subject to change. Students should always follow the program requirements according to the year they started their degree. For more information please visit
+previous UNSW online handbooks
+Contact
+The Nucleus: Student Hub
+for advice.
+Tel: + 61 2 9385 8500
+Location: The Nucleus: Student Hub, Level 2, in the Main Library
+(UNSW map location F21)
+Use
+myPlan
+to plan your studies and track your progress for graduation in real time. Find out more
+here
+.
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+Faculty of Science
+Managing Faculty
+UNSW Business School
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+5 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+240
+Award Type(s)
+Bachelor
+Bachelor (Honours) (Embedded)
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Actuarial Studies - BActSt
+Bachelor of Science (Advanced Mathematics) (Honours) - BSc(AdvMath)(Hons)
+UAC Code
+424350
+CRICOS Code
+088858M
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

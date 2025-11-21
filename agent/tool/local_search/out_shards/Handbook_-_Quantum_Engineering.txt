@@ -1,0 +1,402 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/ELECCH
+
+Handbook - Quantum Engineering
+
+
+Handbook - Quantum Engineering
+
+Specialisation
+print
+Print Quantum Engineering page
+_border
+Quantum Engineering
+ELECCH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The progress of nanotechnology allows the fabrication of devices whose physical dimensions approach the atomic scale. For over 100 years, it has been known that the behaviour of physical systems at the atomic scale does not obey the familiar laws of classical physics. Atomic-size systems behave according to quantum mechanics,… For more content click the Read More button below.
+The progress of nanotechnology allows the fabrication of devices whose physical dimensions approach the atomic scale. For over 100 years, it has been known that the behaviour of physical systems at the atomic scale does not obey the familiar laws of classical physics. Atomic-size systems behave according to quantum mechanics, which allows them to exhibit rather spectacular properties and dynamics. This stream trains students to design and operate devices that behave according to quantum mechanics, opening the possibility to exploit the peculiar laws of quantum physics to perform otherwise cumbersome or impossible tasks, such as the efficient solution of computationally hard problems, or the secure teleportation of information. Graduates from this stream will have valuable skills that position them ideally for the burgeoning quantum engineering industry, as well as broad skills across most key electrical engineering disciplines.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Show proficiency of knowledge in the fundamental enabling sciences of quantum mechanics, mathematics, computer science and electromagnetics that underpins Quantum Engineering, and relate the physical laws of quantum mechanics to the fundamental principles of engineering.
+Scholars
+keyboard_arrow_down
+2.
+Identify, select and proficiently apply specialist technical knowledge and mathematical and computational tools to analyse engineered quantum and electrical systems and networks.
+Scholars
+keyboard_arrow_down
+3.
+Critically evaluate quantum and electrical devices and systems to solve complex open-ended problems and recognize their relevance to the future development of the discipline.
+Scholars
+keyboard_arrow_down
+4.
+Demonstrate a broad understanding of design and operation principles for engineered quantum systems and networks, and articulate future directions for the development of enhanced quantum devices and their application to problems of practical relevance in the fields of computing, communications, and sensing.
+Scholars
+keyboard_arrow_down
+5.
+Design, assemble and utilise classical electrical engineering devices, for example electronic and microwave devices and computational tools, needed to interface with and operate quantum systems.
+Global citizens
+Professionals
+Scholars
+keyboard_arrow_down
+6.
+Lead and manage quantum engineering projects, individually or as part of an interdisciplinary team, in a systematic and professional manner.
+Scholars
+Global citizens
+Professionals
+keyboard_arrow_down
+7.
+Synthesize engineering practices with norms and regulations of relevance to the safe and ethical application of engineered quantum systems.
+Professionals
+Scholars
+Global citizens
+keyboard_arrow_down
+8.
+Demonstrate proficiency in the effective communication of systematic engineering synthesis, design processes, critical evaluation, and implications of results to all audiences, in particular as they apply to quantum engineered systems.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+PHYS1231
+6 UOC
+Higher Physics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+Level 2 Core Courses
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ELEC2133
+6 UOC
+Analogue Electronics
+arrow_forward
+ELEC2134
+6 UOC
+Circuits and Signals
+arrow_forward
+ELEC2141
+6 UOC
+Digital Circuit Design
+arrow_forward
+MATH2069
+6 UOC
+Mathematics 2A
+arrow_forward
+MATH2099
+6 UOC
+Mathematics 2B
+Level 3 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+arrow_forward
+ELEC3104
+6 UOC
+Digital Signal Processing
+arrow_forward
+ELEC3106
+6 UOC
+Electronics
+arrow_forward
+ELEC3114
+6 UOC
+Control Systems
+arrow_forward
+ELEC3115
+6 UOC
+Electromagnetic Engineering
+arrow_forward
+ELEC3117
+6 UOC
+Electrical Engineering Design
+arrow_forward
+ELEC3705
+6 UOC
+Fundamentals of Quantum Engineering
+arrow_forward
+PHYS3118
+6 UOC
+Quantum Physics of Solids and Devices
+Level 4 Core Courses
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+arrow_forward
+ELEC4122
+6 UOC
+Strategic Leadership and Ethics
+arrow_forward
+ELEC4123
+6 UOC
+Electrical Design Proficiency
+arrow_forward
+ELEC4605
+6 UOC
+Quantum Devices and Computers
+arrow_forward
+ELEC4951
+4 UOC
+Research Thesis A
+arrow_forward
+ELEC4952
+4 UOC
+Research Thesis B
+arrow_forward
+ELEC4953
+4 UOC
+Research Thesis C
+arrow_forward
+TELE9757
+6 UOC
+Quantum Communications
+Breadth Electives
+keyboard_arrow_down
+Students can take up to a maximum of 12 UOC of the following courses.
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP3211
+6 UOC
+Computer Architecture
+arrow_forward
+COMP3231
+6 UOC
+Operating Systems
+arrow_forward
+ELEC3145
+6 UOC
+Real Time Instrumentation
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+MATH3101
+6 UOC
+Computational Mathematics for Science and Engineering
+arrow_forward
+MATH3121
+6 UOC
+Mathematical Methods and Partial Differential Equations
+arrow_forward
+MATH3161
+6 UOC
+Optimization
+arrow_forward
+MATH3201
+6 UOC
+Dynamical Systems and Chaos
+arrow_forward
+MATH3411
+6 UOC
+Information, Codes and Ciphers
+arrow_forward
+TELE3113
+6 UOC
+Analogue and Digital Communications
+arrow_forward
+TELE3118
+6 UOC
+Network Technologies
+Discipline (Depth) Electives List
+keyboard_arrow_down
+Students can take up to 12 UOC of the following courses.
+arrow_forward
+ELEC4445
+6 UOC
+Entrepreneurial Engineering
+arrow_forward
+ELEC4601
+6 UOC
+Digital and Embedded Systems Design
+arrow_forward
+ELEC4602
+6 UOC
+Microelectronic Design and Technology
+arrow_forward
+ELEC4603
+6 UOC
+Solid State Electronics
+arrow_forward
+ELEC4621
+6 UOC
+Advanced Digital Signal Processing
+arrow_forward
+ELEC4622
+6 UOC
+Multimedia Signal Processing
+arrow_forward
+ELEC4623
+6 UOC
+Biomedical Instrumentation, Measurement and Design
+arrow_forward
+ELEC4631
+6 UOC
+Continuous - Time Control System Design
+arrow_forward
+ELEC4632
+6 UOC
+Computer Control Systems
+arrow_forward
+ELEC4633
+6 UOC
+Real-Time Engineering
+arrow_forward
+PHTN4661
+6 UOC
+Optical Circuits and Fibres
+arrow_forward
+PHTN4662
+6 UOC
+Photonic Networks
+arrow_forward
+TELE4642
+6 UOC
+Network Performance
+arrow_forward
+TELE4651
+6 UOC
+Wireless Communication Technologies
+arrow_forward
+TELE4652
+6 UOC
+Mobile and Satellite Communications Systems
+arrow_forward
+TELE4653
+6 UOC
+Digital Modulation and Coding
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

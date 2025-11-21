@@ -1,0 +1,328 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MEREAH
+
+Handbook - Geoenergy and Geostorage Engineering
+
+
+Handbook - Geoenergy and Geostorage Engineering
+
+Specialisation
+print
+Print Geoenergy and Geostorage Engineering page
+_border
+Geoenergy and Geostorage Engineering
+MEREAH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Geoenergy and Geostorage Engineering is an innovative field that intersects with the traditional domain of Petroleum Engineering. This discipline emphasizes the sustainable exploitation of earth resources, including the permanent storage of carbon dioxide, seasonal storage of hydrogen or energy, as well as the extraction of heat, energy or saline brines… For more content click the Read More button below.
+Geoenergy and Geostorage Engineering is an innovative field that intersects with the traditional domain of Petroleum Engineering. This discipline emphasizes the sustainable exploitation of earth resources, including the permanent storage of carbon dioxide, seasonal storage of hydrogen or energy, as well as the extraction of heat, energy or saline brines from the earth. The recognition of the importance of sustainable practices in the extraction and management of subsurface resources has led to the development of this specialized engineering field. It builds on the foundations of Petroleum Engineering by integrating principles of reservoir engineering, geomechanics, and environmental science, reflecting the evolving needs of modern society and the energy sector.
+The Geoenergy and Geostorage Engineering specialisation will be seeking provisional accreditation with Engineers Australia at the level of Professional Engineer in 2026.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Identify and apply appropriate theory and methods from the underpinning physical, mathematical, computational and information sciences in order to solve problems in geoenergy and geostorage engineering.
+keyboard_arrow_down
+2.
+Solve problems related to the sustainable extraction of energy and the storage of fluids in subsurface reservoirs by competent application of technical knowledge in geology, geophysics, reservoir engineering, and drilling engineering including risk-based design and decision making.
+keyboard_arrow_down
+3.
+Proactively discern, synthesise and critically evaluate knowledge development and research directions within geoenergy and geostorage engineering, demonstrating a commitment to lifelong learning and practicing the forefront of the discipline.
+keyboard_arrow_down
+4.
+Evaluate the engineering, economic, social and environmental sustainability aspects of subsurface storage and fluid extraction.
+keyboard_arrow_down
+5.
+Characterise and simulate subsurface rock and fluids, design drilling operations, recovery and storage processes, and predict future performance.
+keyboard_arrow_down
+6.
+Design data acquisition programs for the purpose of controlling possible environmental impacts, monitoring engineering operations and optimizing reservoir performance.
+keyboard_arrow_down
+7.
+Communicate complex ideas effectively and professionally through a range of media to both technical and non-technical audiences, effectively incorporating feedback and being responsive to others.
+keyboard_arrow_down
+8.
+Plan, execute and evaluate engineering projects with a high level of professionalism and adaptability, using effective management methodologies and processes.
+keyboard_arrow_down
+9.
+Behave professionally, ethically, respectfully and with integrity, demonstrating accountability as an individual, as a member of teams, and as a leader of teams, while recognising the social and environmental obligations of geoenergy and geostorage engineers.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1300
+6 UOC
+Engineering Mechanics
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+GEOS1111
+6 UOC
+Investigating Earth and Its Evolution
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2400
+6 UOC
+Mechanics of Solids 1
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+MERE2002
+6 UOC
+Energy Resource Geology & Geophysics
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+arrow_forward
+MERE3001
+6 UOC
+Formation Evaluation
+arrow_forward
+MERE3002
+6 UOC
+Drilling and Completion Engineering
+arrow_forward
+MERE3003
+6 UOC
+Reservoir Engineering
+arrow_forward
+MERE5003
+6 UOC
+Transient Flow Analysis
+arrow_forward
+MERE5004
+6 UOC
+Reservoir Characterisation and Data Science
+arrow_forward
+MERE5005
+6 UOC
+Resources Project Economics
+arrow_forward
+PTRL5100
+6 UOC
+Subsurface Geomechanics
+Level 4 Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+arrow_forward
+MERE4951
+4 UOC
+Research Thesis A
+arrow_forward
+MERE4952
+4 UOC
+Research Thesis B
+arrow_forward
+MERE4953
+4 UOC
+Research Thesis C
+arrow_forward
+MERE5006
+6 UOC
+Decommissioning and Sustainability
+arrow_forward
+MERE5007
+6 UOC
+Geostorage Modelling
+arrow_forward
+MERE5008
+6 UOC
+Geostorage Project
+Discipline (Depth) Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+NOTE: 2 UOC and 3 UOC courses are run over consecutive terms for a final total of 6 UOC.
+Discipline (Depth) Electives
+keyboard_arrow_down
+arrow_forward
+AVIA3013
+6 UOC
+Managing Safety and Risk at Work
+arrow_forward
+CVEN3502
+6 UOC
+Water and Wastewater Engineering
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+PTRL5119
+6 UOC
+Geothermal Engineering
+One of the following
+keyboard_arrow_down
+arrow_forward
+CEIC8204
+6 UOC
+Entrepreneurship and the Innovation Cycle
+OR
+arrow_forward
+ELEC4445
+6 UOC
+Entrepreneurial Engineering
+Free Electives
+keyboard_arrow_down
+Students who have free electives in their program are encouraged to select the following courses.
+arrow_forward
+CHEM1811
+6 UOC
+Engineering Chemistry 1A
+arrow_forward
+MERE1001
+6 UOC
+Introduction to Carbon Capture Utilisation and Storage
+Industrial Experience Requirement
+keyboard_arrow_down
+Students must each complete at least 60 days approved industrial training concurrent with enrolment in the program.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Minerals & Energy Resources Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

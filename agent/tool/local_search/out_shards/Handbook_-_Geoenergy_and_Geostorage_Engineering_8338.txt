@@ -1,0 +1,319 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/specialisations/2026/MEREAS
+
+Handbook - Geoenergy and Geostorage Engineering (8338)
+
+
+Handbook - Geoenergy and Geostorage Engineering (8338)
+
+Specialisation
+print
+Print Geoenergy and Geostorage Engineering (8338) page
+_border
+Geoenergy and Geostorage Engineering (8338)
+MEREAS
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Geoenergy and Geostorage Engineering is an innovative field that intersects with the traditional domain of Petroleum Engineering. This discipline emphasizes the sustainable exploitation of earth resources, including the permanent storage of carbon dioxide, seasonal storage of hydrogen or energy, as well as the extraction of heat, energy or saline brines… For more content click the Read More button below.
+Geoenergy and Geostorage Engineering is an innovative field that intersects with the traditional domain of Petroleum Engineering. This discipline emphasizes the sustainable exploitation of earth resources, including the permanent storage of carbon dioxide, seasonal storage of hydrogen or energy, as well as the extraction of heat, energy or saline brines from the earth. The recognition of the importance of sustainable practices in the extraction and management of subsurface resources has led to the development of this specialized engineering field. It builds on the foundations of Petroleum Engineering by integrating principles of reservoir engineering, geomechanics, and environmental science, reflecting the evolving needs of modern society and the energy sector.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Evaluate advanced concepts, theories and techniques relevant to geoenergy & geostorage engineering, including recent developments in theory and professional practice.
+keyboard_arrow_down
+2.
+Identify the potential impacts of international engineering practice and global operating contexts on theory and professional practice.
+keyboard_arrow_down
+3.
+Apply research principles and enquiry-based learning techniques to plan and execute a substantial, evidence-based project in scholarship and/or professional practice.
+keyboard_arrow_down
+4.
+Identify, define, investigate, and analyse complex engineering problems, in a variety of different or unfamiliar contexts.
+keyboard_arrow_down
+5.
+Synthesise and evaluate knowledge to develop effective, creative and innovative solutions to complex engineering problems.
+keyboard_arrow_down
+6.
+Interpret and communicate complex theoretical concepts, and justify professional decisions to other professionals, clients, stakeholders, and the broader community.
+keyboard_arrow_down
+7.
+Exercise ethical and professional judgement with appreciation of the potential impact of decisions and solutions in global, economic, environmental and societal contexts.
+keyboard_arrow_down
+8.
+Collaborate and lead effectively in diverse professional contexts.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Master of Engineering Science - MEngSc
+8338 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+96
+Typical duration:
+1 - 2 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Expand all
+Foundational Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+GEOS1111
+6 UOC
+Investigating Earth and Its Evolution
+arrow_forward
+MERE3001
+6 UOC
+Formation Evaluation
+arrow_forward
+MERE3002
+6 UOC
+Drilling and Completion Engineering
+arrow_forward
+MERE3003
+6 UOC
+Reservoir Engineering
+Disciplinary Knowledge Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+MERE5003
+6 UOC
+Transient Flow Analysis
+arrow_forward
+MERE5004
+6 UOC
+Reservoir Characterisation and Data Science
+arrow_forward
+MERE5005
+6 UOC
+Resources Project Economics
+arrow_forward
+MERE5006
+6 UOC
+Decommissioning and Sustainability
+arrow_forward
+MERE5007
+6 UOC
+Geostorage Modelling
+arrow_forward
+MERE5008
+6 UOC
+Geostorage Project
+arrow_forward
+MINE3310
+6 UOC
+Mining Geomechanics
+Advanced Disciplinary Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+MERE9003
+6 UOC
+Advanced Formation Evaluation
+arrow_forward
+MERE8810
+6 UOC
+Data Analytics and Automated Technologies for Minerals and Energy Resources
+arrow_forward
+MERE9004
+6 UOC
+Unconventional Reservoir Engineering
+arrow_forward
+PTRL5102
+6 UOC
+Digital Core Analysis
+arrow_forward
+PTRL5119
+6 UOC
+Geothermal Engineering
+Engineering Technical Management Courses
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses.
+arrow_forward
+CEIC8204
+6 UOC
+Entrepreneurship and the Innovation Cycle
+arrow_forward
+COMP9021
+6 UOC
+Principles of Programming
+arrow_forward
+CVEN9701
+6 UOC
+Engineering Economics and Financial Management
+arrow_forward
+CVEN9723
+6 UOC
+Design of Construction Operations
+arrow_forward
+CVEN9731
+6 UOC
+Project Management Framework
+arrow_forward
+CVEN9888
+6 UOC
+Environmental Management
+arrow_forward
+CVEN9892
+6 UOC
+Sustainability Assessment and Risk Analysis
+arrow_forward
+GSOE9017
+6 UOC
+Managing Energy Efficiency
+arrow_forward
+GSOE9210
+6 UOC
+Engineering Decision Structures
+arrow_forward
+GSOE9340
+6 UOC
+Life Cycle Engineering
+arrow_forward
+GSOE9360
+6 UOC
+Academic Discourse in Engineering
+arrow_forward
+GSOE9445
+6 UOC
+Entrepreneurial Engineering
+arrow_forward
+GSOE9510
+6 UOC
+Ethics and Leadership in Engineering
+arrow_forward
+GSOE9712
+6 UOC
+Engineering Statistics and Experiment Design
+arrow_forward
+GSOE9810
+6 UOC
+Process and Product Quality in Engineering
+arrow_forward
+GSOE9820
+6 UOC
+Engineering Project Management
+arrow_forward
+GSOE9830
+6 UOC
+Economic Decision Analysis in Engineering
+arrow_forward
+MANF6860
+6 UOC
+Strategic Manufacturing Management
+arrow_forward
+MANF9400
+6 UOC
+Industrial Management
+arrow_forward
+MANF9472
+6 UOC
+Production Planning and Control
+arrow_forward
+MATH5165
+6 UOC
+Optimization
+arrow_forward
+MATH5846
+6 UOC
+Introduction to Probability and Stochastic Processes
+arrow_forward
+SOLA9103
+6 UOC
+Renewable Energy System Modelling & Analysis
+Research/Project/Capstone Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+Masters Project Courses
+12 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+MERE9451
+4 UOC
+Masters Project A
+arrow_forward
+MERE9452
+4 UOC
+Masters Project B
+arrow_forward
+MERE9453
+4 UOC
+Masters Project C
+One of the following
+6 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+GSOE9010
+6 UOC
+Engineering Postgraduate Coursework Research Skills
+OR
+arrow_forward
+GSOE9011
+6 UOC
+Engineering Postgraduate Coursework Research Skills
+OR
+arrow_forward
+GSOE9220
+6 UOC
+Launching a Startup
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Minerals & Energy Resources Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Specialisation
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

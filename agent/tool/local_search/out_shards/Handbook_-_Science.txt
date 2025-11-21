@@ -1,0 +1,985 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3970
+
+Handbook - Science
+
+
+Handbook - Science
+
+Program
+print
+Print Science page
+_border
+Science
+3970
+144 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Program Structure
+Program Constraints
+Sample Programs
+Admission Requirements
+Program Requirements
+Associated Programs
+Recognition of Achievement
+Additional Information
+Program Fees
+Overview
+The Bachelor of Science allows you to develop expertise in a wide range of science areas. This degree is ideal for students who seek a 'generalist' degree in which there is a large element of choice. Students are encouraged to choose a broad range of courses in the first year,… For more content click the Read More button below.
+The Bachelor of Science allows you to develop expertise in a wide range of science areas. This degree is ideal for students who seek a 'generalist' degree in which there is a large element of choice. Students are encouraged to choose a broad range of courses in the first year, to expand their general understanding of Science which then enables them to choose from a wide selection of major options in the second and third year. There is also the option to apply for an additional Honours year at the end of the program, subject to a student's academic performance and other criteria. The rules and requirements for the degree are set out below.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Apply, integrate and generate knowledge in both a specialist scientific domain and professional contexts
+keyboard_arrow_down
+2.
+Develop and apply conceptual and technical skills to identify, analyse and respond to problems – both local and global.
+keyboard_arrow_down
+3.
+Critically analyse, synthesise and evaluate information to draw conclusions in the pursuit of creating new understanding of the world
+keyboard_arrow_down
+4.
+Communicate professional and disciplinary information and ideas effectively and persuasively to a variety of audiences using a range of methods.
+keyboard_arrow_down
+5.
+Work independently, and collaboratively integrating diverse perspectives and ideas to deliver an outcome
+keyboard_arrow_down
+6.
+Demonstrate responsible professional practice, underpinned by ethical, social and sustainability considerations
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Program Structure
+Students must complete 144 UOC when taken as a standalone program.
+The requirements for a Bachelor of Science taken as a stand-alone program are:
+96 UOC of Science courses
+This includes
+Core Courses
+, at least one
+Bachelor of Science major
+and
+Science elective courses
+. Science elective courses are defined in 'Table 1' in the Additional Information section below.
+36 UOC of Free Electives
+These courses can be taken from any Faculty at UNSW at any stage of your program.
+12 UOC of General Education
+courses
+These cannot be Science courses. The rules regarding General Education are detailed below.
+Please click the Sample Programs link below to view a typical enrolment pattern for this program.
+Expand all
+Disciplinary Component
+96 Units of Credit:
+keyboard_arrow_down
+Students must complete 96 UOC of the following to satisfy the core requirements of this degree
+Core Courses
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses, including two 0 UOC professional development elements SCIF0000 and SCIF3010.
+SCIF0000 should be enrolled in during the first term of study and SCIF3010 should be enrolled in the final term of study. Students will engage in course Moodle activities as well as the Sciconnect platform (www.sciconnect.unsw.edu.au) to complete these elements.
+arrow_forward
+SCIF0000
+0 UOC
+Introduction to University
+arrow_forward
+SCIF1000
+6 UOC
+Skills in Science
+arrow_forward
+SCIF3010
+0 UOC
+Graduation Portfolio
+Employability Experiences
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+Please note that enrolment in WIL and RIL course options are subject to eligibility and application criteria; enrolment is not guaranteed. Students are encouraged to consider alternative options in the course list if WIL or RIL options are not available to them. The courses that have been selected develop key skills for science students and you are encouraged to explore all options.
+For more information, visit: https://sciconnect.unsw.edu.au/employability-experience-courses/
+arrow_forward
+AVIA3012
+6 UOC
+Aviation Safety Management Systems
+arrow_forward
+AVIA3013
+6 UOC
+Managing Safety and Risk at Work
+arrow_forward
+AVIA3199
+6 UOC
+Aviation Work Placement 1
+arrow_forward
+AVIA3299
+6 UOC
+Aviation Work Placement 2
+arrow_forward
+BABS3199
+6 UOC
+BABS Work Placement 1
+arrow_forward
+BABS3299
+6 UOC
+BABS Work Placement 2
+arrow_forward
+BABS3301
+6 UOC
+Biomolecular Science Laboratory Project (Advanced)
+arrow_forward
+BEES3199
+6 UOC
+BEES Work Placement 1
+arrow_forward
+BEES3223
+6 UOC
+Restoration and Translocation Ecology
+arrow_forward
+BEES3299
+6 UOC
+BEES Work Placement 2
+arrow_forward
+BIOS2123
+6 UOC
+Ecosystem Conservation and Management
+arrow_forward
+BIOS6671
+6 UOC
+Biodiversity and Conservation of Natural Resources
+arrow_forward
+CHEM3199
+6 UOC
+Chemistry Work Placement 1
+arrow_forward
+CHEM3299
+6 UOC
+Chemistry Work Placement 2
+arrow_forward
+GEOS2131
+6 UOC
+Field Methods and Mapping
+arrow_forward
+GEOS2291
+6 UOC
+Earth's Systems and Sustainability
+arrow_forward
+GEOS2821
+6 UOC
+Introduction to GIS and Remote Sensing
+arrow_forward
+GEOS3911
+6 UOC
+Environmental Impact Assessment
+arrow_forward
+MATH2991
+6 UOC
+Data and Algorithms in Trading
+arrow_forward
+MATH3041
+6 UOC
+Mathematical Modelling for Real World Systems
+arrow_forward
+MATH3599
+6 UOC
+Mathematics, Statistics and Data Science Work Placement 1
+arrow_forward
+MATH3856
+6 UOC
+Introduction to Data and Machine Learning
+arrow_forward
+MATH3699
+6 UOC
+Mathematics, Statistics and Data Science Work Placement 2
+arrow_forward
+MATS3007
+6 UOC
+Materials Industry Management
+arrow_forward
+MATS3199
+6 UOC
+Materials Science Work Placement 1
+arrow_forward
+MATS3299
+6 UOC
+Materials Science Work Placement 2
+arrow_forward
+PSYC3011
+6 UOC
+Research and Applications of Psychology
+arrow_forward
+PHYS2116
+6 UOC
+Stellar and Planetary Physics
+arrow_forward
+PHYS3117
+6 UOC
+Physics Laboratory
+arrow_forward
+PHYS3199
+6 UOC
+Physics Work Placement 1
+arrow_forward
+PHYS3299
+6 UOC
+Physics Work Placement 2
+arrow_forward
+PHYS4200
+6 UOC
+Physics Research Project
+arrow_forward
+PHYS4210
+12 UOC
+Physics Research Project
+arrow_forward
+PSYC3199
+6 UOC
+Psychology Work Placement 1
+arrow_forward
+PSYC3299
+6 UOC
+Psychology Work Placement 2
+arrow_forward
+PSYC3361
+6 UOC
+Psychology Research Internship
+arrow_forward
+SCIF2041
+6 UOC
+Research Internship A
+arrow_forward
+SCIF3000
+6 UOC
+Science Industry Project
+arrow_forward
+SCIF3041
+6 UOC
+Research Internship B
+arrow_forward
+SCIF3199
+6 UOC
+Science Work Placement
+arrow_forward
+SOMS3001
+6 UOC
+School of Biomedical Sciences Research Internship
+arrow_forward
+SOMS3050
+6 UOC
+Industry Engagement, Problem-solving and Employment Skills
+arrow_forward
+SOMS3199
+6 UOC
+Biomedical Sciences Work Placement 1
+arrow_forward
+SOMS3299
+6 UOC
+Biomedical Sciences Work Placement 2
+Majors
+keyboard_arrow_down
+Students must complete at least one of the following majors.
+Students should declare their major prior to commencing Stage 2 courses. Students may also opt to complete either a second major OR up to 2 minors.
+Please Note: Students are not permitted to take the Science Bioinformatics Major (BINFB1) when taking double degree 3767 Bachelor of Engineering, if they plan to take the Engineering Bioinformatics Major (BINFAH).
+Major
+arrow_forward
+ANATA1
+72 UOC
+Anatomy
+arrow_forward
+BINFE1
+78 UOC
+Bioinformatics
+arrow_forward
+BIOCC1
+78 UOC
+Genetics
+arrow_forward
+BIOCM1
+78 UOC
+Molecular and Cell Biology
+arrow_forward
+BIOPA1
+72 UOC
+Biophysics
+arrow_forward
+BIOSM1
+78 UOC
+Ecology and Conservation
+arrow_forward
+BIOSO1
+78 UOC
+Biology and Biodiversity
+arrow_forward
+BIOTA1
+78 UOC
+Biotechnology
+arrow_forward
+CHEMA1
+78 UOC
+Chemistry
+arrow_forward
+CLIME1
+78 UOC
+Climate Systems Science
+arrow_forward
+FOODH1
+78 UOC
+Food Science
+arrow_forward
+GEOGG1
+78 UOC
+Geography
+arrow_forward
+GEOLS1
+78 UOC
+Earth Science
+arrow_forward
+MATHM1
+60 UOC
+Mathematics
+arrow_forward
+MATHN1
+72 UOC
+Physical Oceanography
+arrow_forward
+MATHT1
+60 UOC
+Statistics
+arrow_forward
+MATHV1
+66 UOC
+Mathematics for Education
+arrow_forward
+MATSB1
+78 UOC
+Materials Science
+arrow_forward
+MICRB1
+78 UOC
+Microbiology
+arrow_forward
+MICRJ1
+78 UOC
+Immunology
+arrow_forward
+MSCIM1
+78 UOC
+Marine and Coastal Science
+arrow_forward
+NEURS1
+78 UOC
+Neuroscience
+arrow_forward
+PATHA1
+78 UOC
+Pathology
+arrow_forward
+PHARA1
+72 UOC
+Pharmacology
+arrow_forward
+PHSLA1
+72 UOC
+Physiology
+arrow_forward
+PHYSL1
+78 UOC
+Physics
+arrow_forward
+PSYCA1
+78 UOC
+Psychology
+arrow_forward
+VISNA1
+78 UOC
+Vision Science
+Minors
+keyboard_arrow_down
+Students may complete up to two of the following optional minors where there is capacity in their program to do so.
+Free electives and General Education courses may be used to satisfy any non-science courses required by the minor (see note at end of handbook entry for definition of science courses).
+Minor
+arrow_forward
+ANATB2
+42 UOC
+Anatomy
+arrow_forward
+AVIAF2
+24 UOC
+Drone Applications
+arrow_forward
+BIOCD2
+42 UOC
+Molecular Biology
+arrow_forward
+BIOPA2
+42 UOC
+Biophysics
+arrow_forward
+BIOSI2
+30 UOC
+Biology and Biodiversity
+arrow_forward
+BIOSM2
+30 UOC
+Ecology and Conservation
+arrow_forward
+CHEMD2
+48 UOC
+Chemistry
+arrow_forward
+CHINE2
+36 UOC
+Chinese Studies
+arrow_forward
+CHINF2
+36 UOC
+Advanced Chinese Studies
+arrow_forward
+CLIMB2
+24 UOC
+Climate Systems Science
+arrow_forward
+COMDF2
+36 UOC
+Global Development
+arrow_forward
+COMMJ2
+30 UOC
+Business Analytics
+arrow_forward
+ECONO2
+30 UOC
+Behavioural Economics
+arrow_forward
+ENVPE2
+36 UOC
+Environmental Humanities
+arrow_forward
+FRENF2
+36 UOC
+French Studies
+arrow_forward
+FRENG2
+36 UOC
+Advanced French Studies
+arrow_forward
+GEOGH2
+36 UOC
+Physical Geography
+arrow_forward
+GEOLF2
+36 UOC
+Geology
+arrow_forward
+GERSF2
+36 UOC
+German Studies
+arrow_forward
+INFSA2
+30 UOC
+Information Systems
+arrow_forward
+JAPNF2
+36 UOC
+Japanese Studies
+arrow_forward
+JAPNG2
+36 UOC
+Advanced Japanese Studies
+arrow_forward
+KOREF2
+36 UOC
+Korean Studies
+arrow_forward
+KOREG2
+36 UOC
+Advanced Korean Studies
+arrow_forward
+MATHC2
+36 UOC
+Mathematics
+arrow_forward
+MATHD2
+36 UOC
+Statistics
+arrow_forward
+MATHG2
+36 UOC
+Data Analysis
+arrow_forward
+MDIAO2
+36 UOC
+Communication and Journalism
+arrow_forward
+MGMTJ2
+30 UOC
+Innovation, Strategy and Entrepreneurship
+arrow_forward
+MICRJ2
+48 UOC
+Immunology
+arrow_forward
+MSCIK2
+24 UOC
+Marine and Coastal Science
+arrow_forward
+PATHB2
+48 UOC
+Pathology
+arrow_forward
+PHARB2
+42 UOC
+Pharmacology
+arrow_forward
+PHSLB2
+42 UOC
+Physiology
+arrow_forward
+PHYSC2
+48 UOC
+Physics
+arrow_forward
+PHYSI2
+48 UOC
+Astronomy
+arrow_forward
+POLSG2
+36 UOC
+Politics and International Relations
+arrow_forward
+PSYCM2
+36 UOC
+Psychology
+arrow_forward
+SCIFC2
+24 UOC
+Professional Workplace Practice
+arrow_forward
+SOSSC2
+36 UOC
+Policy, Power and Government
+arrow_forward
+SPANI2
+36 UOC
+Spanish Studies
+arrow_forward
+VISNB2
+36 UOC
+Vision Science
+Double Counting
+keyboard_arrow_down
+Students cannot complete a minor with the same name as their nominated major. Students must declare their minor(s) before their final term.
+Science Electives
+keyboard_arrow_down
+Students must complete 96 UOC to meet the core requirements for the Bachelor of Science. If the core courses plus your choice of specialisation(s) requires less than 96 UOC, you are required to complete additional Science elective courses from the following list to meet the 96 UOC requirement.
+open_in_new
+any Aviation course
+open_in_new
+any Biological Science course
+open_in_new
+any Biological, Earth & Environmental Science course
+open_in_new
+any Biophysics course
+open_in_new
+any Climate Science course
+open_in_new
+any Data Science course
+open_in_new
+any Geoscience course
+open_in_new
+any Marine Science course
+open_in_new
+any Biotechnology & Biomolecular Sciences course
+open_in_new
+any Biochemistry course
+open_in_new
+any Biotechnology course
+open_in_new
+any Microbiology course
+open_in_new
+any Chemistry course
+open_in_new
+any Computer Science course
+open_in_new
+any Food Technology course
+open_in_new
+any Materials Science and Engineering course
+open_in_new
+any Mathematics course
+open_in_new
+any Anatomy course
+open_in_new
+any Neuroscience course
+open_in_new
+any Pathology course
+open_in_new
+any Pharmacology course
+open_in_new
+any Physiology course
+open_in_new
+any Medical Science course
+open_in_new
+any Psychology course
+open_in_new
+any Physics course
+open_in_new
+any Optometry course
+open_in_new
+any Vision Science course
+open_in_new
+any Faculty of Science course
+Level 1 Science UOC
+keyboard_arrow_down
+Students must complete a minimum of 24 UOC of the following courses.
+any level 1 course offered by Faculty of Science
+Maximum Level 1 UOC
+keyboard_arrow_down
+Students may take up to a maximum of 72 UOC of Level 1 courses, including any General Education or mainstream Level 1 course taken to fulfil either the General Education or the Free Elective requirement.
+any level 1 course
+Free Electives
+keyboard_arrow_down
+Students may take up to a maximum of 36 UOC of the following courses.
+open_in_new
+any course
+General Education
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+Any course defined as a Science course cannot be taken as General Education. Therefore, the following courses cannot count towards this requirement:
+- any course offered by the Faculty of Science, including GENS courses
+- any Biophysics (BIOP) course
+- any Computer Science (COMP) course
+- any Food Technology (FOOD) course
+- any Medical Science (SOMS) course
+All other courses can be taken as GE, including other GEN# courses. Any exceptions to these rules must be approved by the Director of Academic Programs or nominee.
+open_in_new
+any General Education course
+Course Information Rule
+keyboard_arrow_down
+GEN# courses cannot count towards the free elective component, or towards science core courses or science electives in the program. Any exceptions to these rules must be approved by the Associate Dean (Academic Programs) or nominee.
+Program Constraints
+Expand all
+Maturity Rule
+keyboard_arrow_down
+Students must have completed 24 UOC before taking any of the following courses.
+any level 2 course
+Students must have completed 72 UOC before taking any of the following courses.
+any level 3 course
+any level 6 course
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Science Degree Templates
+Admission Requirements
+Entry Requirements
+Expand all
+Limitations on Recognition of Prior Learning
+keyboard_arrow_down
+UNSW Students may be granted Recognition for Prior Learning (RPL) which may or may not reduce the amount of learning required to achieve a degree at UNSW. Generally, RPL is only granted based on the completion of tertiary-level studies, but in exceptional circumstances may also include non-formal or informal learning such as professional experience. RPL will not be granted based on partly completed tertiary courses. All applications for RPL at UNSW are subject to UNSW Recognition of Prior Learning (Coursework Programs) Policy and Procedures. Students seeking credit for courses completed at another university are required to submit documentary evidence (course outlines, academic transcripts) to support their application, and to nominate the course(s) for which they seek credit. In addition, the following conditions apply for all UNSW Science programs (including the Science component of dual award programs): Specified course credit, i.e. credit granted for an exact or near exact equivalence to a course at UNSW, will not be granted when more than 7 years has elapsed from the successful completion of the course (or other learning) and the student’s commencement in the Science program. Where this time period is shorter it will be stipulated in the individual rules for the relevant program. Unspecified course credit (e.g. General Education or free electives) will not be granted when more than 10 years has elapsed from the successful completion of the course (or other learning) and the student’s commencement in the Science program. Students may only receive credit of up to a maximum of 50% of the coursework component of their Science program, excluding Honours. For most undergraduate programs this will be 72 UOC. For dual award programs that include a Science component, it will be a maximum of 50% of the Science component of the dual degree, excluding Honours. Credit for the other program will be assessed by the Faculty that administers that program. Applications for RPL will only be assessed for students who have accepted a place to study in a UNSW Science program. Students must formally apply for RPL unless they become a UNSW student as part of a formal Articulation Agreement. Applications for RPL should be made as early as possible in the student’s program. Students who are readmitted into a Science program after a period of unapproved absence or deferment, or after exclusion, will not necessarily retain credit for all units completed at UNSW prior to the absence if the date of completion of the units of study is greater than the 7 and 10-year rules outlined in points 1 and 2 above. In these cases, the credit retained will be decided by the Associate Dean (Academic Programs) in consultation (when necessary) with the Program and/or Course Authority.
+Special Admission Requirements
+Expand all
+Other
+keyboard_arrow_down
+Some Schools within the Faculty may grant students exemption from completing particular first year courses. Where an exemption is given this is not added to a student's academic record and hence does not reduce the total units of credit the student must complete for the program. The exemption merely grants a student the ability to undertake higher level courses (such as second year courses) that require the exempted course as a prerequisite. Students with an exemption will need to be manually enrolled in higher level courses by administrative staff.
+For more information about admission requirements for various UNSW programs, visit the following website(s):
+open_in_new
+Domestic Student
+open_in_new
+International Student
+open_in_new
+Research Candidate
+Program Requirements
+Progression Requirements
+Progression rules are in accordance with university policy.
+For more information on university policy on progression requirements for coursework programs please visit
+Academic Progression
+and for Research programs visit
+Higher Degree Research.
+Associated Programs
+Similar Program
+Expand all
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+3962 - Advanced Science (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Environmental Management - BEnvMgmt
+3965 - Environmental Management
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 Year(s)
+open_in_new
+Read More
+Related Double Degree
+Expand all
+Bachelor of Actuarial Studies - BActSt
+Bachelor of Science - BSc
+3154 - Actuarial Studies / Science
+keyboard_arrow_down
+Faculty:
+UNSW Business School, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Commerce - BCom
+Bachelor of Science - BSc
+3529 - Commerce / Science
+keyboard_arrow_down
+Faculty:
+UNSW Business School, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Economics - BEc
+Bachelor of Science - BSc
+3563 - Economics / Science
+keyboard_arrow_down
+Faculty:
+UNSW Business School, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering Science - BEngSc
+Bachelor of Science - BSc
+3733 - Engineering Science / Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Science - BSc
+3767 - Engineering (Honours) / Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+Bachelor of Science - BSc
+3789 - Science / Computer Science
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+Bachelor of Fine Arts - BFA
+3921 - Science / Fine Arts
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+Bachelor of Social Sciences - BSocSci
+3923 - Science / Social Sciences
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+Bachelor of Arts - BA
+3947 - Science / Arts
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+Bachelor of Education (Secondary) - BEd (Secondary)
+4076 - Science / Education (Secondary)
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+Bachelor of Laws - LLB
+4770 - Science / Law
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Law and Justice
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Honours Pathway
+Expand all
+Bachelor of Science (Honours) - BSc(Hons)
+4500 - Science (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+48
+Typical Duration:
+1 Year(s)
+open_in_new
+Read More
+Recognition of Achievement
+Expand all
+University Medal
+keyboard_arrow_down
+The University Medal is awarded to recognise outstanding academic performance by a bachelor degree student in line with the University Medal Policy and University Medal Procedure.
+Award of Pass with Distinction
+keyboard_arrow_down
+The Award of Pass with Distinction is awarded when a weighted average mark (WAM) of at least 75% has been achieved and at least 50% of the requirements of the award completed at UNSW.
+All eligible programs will award Pass with Distinction except in special circumstances where approval of Academic Board has been given for a program to opt out.
+For more information, please visit the link above.
+open_in_new
+Current Students Pass With Distinction
+Additional Information
+Talented Students' Program and Accelerated Progression
+The Science Talented Students' Program (TSP) introduces high performing students - entering the Bachelor of Science or Bachelor of Advanced Science (Honours) - to the Faculty of Science and helps them develop specific skills during their degree. The program offers these students exposure to research within the Faculty and provides a degree that is flexible and tailored to suit students' needs and talents.
+Invitation to participate in the TSP is made by the Dean of Science on the basis of superior secondary education performance (ATAR or equivalent), all incoming students are assessed for eligibility including non-high school leavers. High performing current UNSW Science students, in the BSc or BSc (Advanced), will be invited to join at the end of their first year. Contact the
+Science Student Centre website
+for more details.
+Definition of 'Science' courses
+Courses that are classified as 'Science' can be found under Table 1 on the
+Science Terminology
+page.
+Science Handbook Rules and Editions
+Students must follow the program rules and requirements in the UNSW Handbook published in the year they commence their studies with the Faculty of Science.
+Students who transfer from another UNSW Faculty into Science (for example, from a Bachelor of Arts into a Bachelor of Science) must follow the program rules and requirements in the UNSW Handbook published in the year of their transfer.
+Students, who are readmitted to UNSW after a period of unapproved absence or deferment, or after exclusion, must satisfy the program rules in the Handbook published in the year of their readmission. In addition, these students may be subject to restrictions on which courses taken at UNSW may be counted on their return. In some cases, students returning from an unapproved absence may be required to repeat courses. See the Recognition of Prior Learning (RPL) and Advanced Standing section below for more details. Students who take approved leave or deferment will follow the Handbook for the year of their original commencement unless otherwise approved by the Associate Dean (Academic Programs).
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+3 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Delivery Mode
+Face-to-face (includes blended)
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+144
+AQF Level
+Level 7
+Award Type
+Bachelor
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Science - BSc
+UAC Code
+429000
+CRICOS Code
+015780K
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

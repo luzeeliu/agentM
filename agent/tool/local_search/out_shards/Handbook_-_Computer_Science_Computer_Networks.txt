@@ -1,0 +1,218 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/COMPN1
+
+Handbook - Computer Science (Computer Networks)
+
+
+Handbook - Computer Science (Computer Networks)
+
+Specialisation
+print
+Print Computer Science (Computer Networks) page
+_border
+Computer Science (Computer Networks)
+COMPN1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Networks are critical infrastructure in modern society, and look set to grow in importance in the future. Business, finance, health services, education, defence and leisure all rely on the existence of a stable, secure, fast, high-capacity network. Computing professionals with a deep understanding of networks will be in high demand… For more content click the Read More button below.
+Networks are critical infrastructure in modern society, and look set to grow in importance in the future. Business, finance, health services, education, defence and leisure all rely on the existence of a stable, secure, fast, high-capacity network. Computing professionals with a deep understanding of networks will be in high demand for the foreseeable future both to maintain and enhance existing network infrastructure (especially mobile networks), and to develop new forms of networking.
+The Computer Networks stream in the Computer Science program exposes students to the foundations of computer networks, their architecture, their management and emerging application areas, such as the Internet of Things.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Science - BSc
+3778 - Computer Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Expand all
+Core Courses
+72 Units of Credit:
+keyboard_arrow_down
+Students must take 72 UOC of the following courses.
+Core Courses
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+arrow_forward
+COMP1521
+6 UOC
+Computer Systems Fundamentals
+arrow_forward
+COMP1531
+6 UOC
+Software Engineering Fundamentals
+arrow_forward
+COMP2511
+6 UOC
+Software Design and Architecture
+arrow_forward
+COMP2521
+6 UOC
+Data Structures and Algorithms
+arrow_forward
+COMP3331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+COMP3900
+6 UOC
+Computer Science Project
+arrow_forward
+COMP4920
+6 UOC
+Professional Issues and Ethics in Information Technology
+arrow_forward
+MATH1081
+6 UOC
+Discrete Mathematics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP3121
+6 UOC
+Algorithm Design and Analysis
+OR
+arrow_forward
+COMP3821
+6 UOC
+Extended Algorithm Design and Analysis
+Computing Electives
+6 Units of Credit:
+keyboard_arrow_down
+Students must complete 6 UOC of the following courses.
+NOTE: A student may take up to 6 UOC of VIP courses (ENGG2600, ENG3600, ENG4600) as a computing elective. Counting further VIP courses as computing electives is only possible if approved by the Program Authority (ENG SSS) and Deputy Head of School.
+2 UOC courses are run over consecutive terms for a final total of 6 UOC.
+Computing Electives
+keyboard_arrow_down
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP2111
+6 UOC
+Foundations of Formal Methods
+open_in_new
+any level 3 Computer Science course
+open_in_new
+any level 4 Computer Science course
+open_in_new
+any level 6 Computer Science course
+open_in_new
+any level 9 Computer Science course
+Discipline Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+arrow_forward
+COMP4336
+6 UOC
+Mobile Data Networking
+arrow_forward
+COMP4337
+6 UOC
+Securing Fixed and Wireless Networks
+arrow_forward
+COMP6733
+6 UOC
+Internet of Things Experimental Design Studio
+arrow_forward
+COMP9332
+6 UOC
+Network Routing and Switching
+arrow_forward
+COMP9334
+6 UOC
+Capacity Planning of Computer Systems and Networks
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

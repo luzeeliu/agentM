@@ -1,0 +1,166 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MATHP1
+
+Handbook - Pure Mathematics
+
+
+Handbook - Pure Mathematics
+
+Specialisation
+print
+Print Pure Mathematics page
+_border
+Pure Mathematics
+MATHP1
+90 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Specialisation Structure
+Additional Information
+Overview
+Pure Mathematics is the study of the essential structures of mathematics. Work by pure mathematicians underpins most of the technological advances of this century. Pure Mathematics is concerned with problems and techniques which transcend specific applications. Research, focussing on the development of existing theories or the creation of new ones,… For more content click the Read More button below.
+Pure Mathematics is the study of the essential structures of mathematics. Work by pure mathematicians underpins most of the technological advances of this century. Pure Mathematics is concerned with problems and techniques which transcend specific applications. Research, focussing on the development of existing theories or the creation of new ones, may be driven by applications or by the internal demands of the discipline.
+Pure Mathematics courses provide the insights and understanding required by those using mathematics, leading to mastery of the fundamental processes of mathematical science and the capacity for innovative applications in any area.
+Read More
+about Overview
+Specialisation Structure
+Students must complete 90 UOC.
+Expand all
+Level 1 Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+MATH1081
+6 UOC
+Discrete Mathematics
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+Level 2 Core Courses
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+arrow_forward
+MATH2111
+6 UOC
+Higher Several Variable Calculus
+arrow_forward
+MATH2221
+6 UOC
+Higher Theory and Applications of Differential Equations
+arrow_forward
+MATH2601
+6 UOC
+Higher Linear Algebra
+arrow_forward
+MATH2621
+6 UOC
+Higher Complex Analysis
+arrow_forward
+MATH2701
+6 UOC
+Abstract Algebra and Fundamental Analysis
+arrow_forward
+MATH2901
+6 UOC
+Higher Theory of Statistics
+Level 3 Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+MATH3611
+6 UOC
+Higher Analysis
+arrow_forward
+MATH3701
+6 UOC
+Higher Topology and Differential Geometry
+arrow_forward
+MATH3711
+6 UOC
+Higher Algebra
+Level 1 Computer Science Elective
+6 Units of Credit:
+keyboard_arrow_down
+Students must take at least 6 UOC of the following courses.
+Level 1 Computer Science Elective
+keyboard_arrow_down
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+open_in_new
+any level 1 Computer Science course
+Level 3 Electives
+12 Units of Credit:
+keyboard_arrow_down
+12 UOC of Level 3 Maths courses (excluding MATH3599 and MATH3699) chosen with the approval of the Head of School of Mathematics and Statistics or nominee.
+open_in_new
+any level 3 Mathematics course
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Additional Information
+Recommended Electives
+The following courses are not required for this major, but are recommended as good complementary courses when students are selecting electives.
+Pure Mathematics courses relevant to the mathematical aspects of
+Computer Science
+are
+MATH2400 Finite Mathematics
+(3 UOC) in stage 2, and
+MATH3411 Information, Codes and Ciphers
+(6 UOC) in stage 3.
+Pure Mathematics courses relevant to
+Mathematics teaching
+are
+MATH3511 Transformations, Groups and Geometry
+(6 UOC), and
+MATH3560 History of Mathematics
+(3 UOC) in stage 3.
+Honours
+Students completing a Pure Mathematics major may be eligible to undertake Honours in Applied Mathematics, Pure Mathematics, or Statistics.
+Please consult with staff from the
+School of Mathematics and Statistics
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+90
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

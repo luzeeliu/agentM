@@ -1,0 +1,355 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MINEAH
+
+Handbook - Mining Engineering
+
+
+Handbook - Mining Engineering
+
+Specialisation
+print
+Print Mining Engineering page
+_border
+Mining Engineering
+MINEAH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Additional Information
+Overview
+This stream extends over four years when taken full-time. Year 1 of the stream includes courses that cover the sciences to provide the foundation for many of the engineering courses offered in Year 2. Year 3 is largely devoted to fundamental courses in mining engineering while Year 4 provides advanced… For more content click the Read More button below.
+This stream extends over four years when taken full-time. Year 1 of the stream includes courses that cover the sciences to provide the foundation for many of the engineering courses offered in Year 2. Year 3 is largely devoted to fundamental courses in mining engineering while Year 4 provides advanced instruction in aspects essential for all mining engineers. Elective courses are offered in both Year 3 and Year 4 of the stream.
+An important requirement in the fourth year is for students to undertake personal research or a study project in mining or minerals engineering for which they are required to submit a dissertation for examination. After graduation, mining engineers who choose to develop careers in operations management gain further practical experience to obtain a Mine Manager's Certificate of Competency, in either Coal or Metalliferous Mining. Formal arrangements are in place with the University of Newcastle for students who have completed a specified program to be admitted with advanced standing to Year 3 of the program at UNSW.
+Stream Structure
+The stream structure shown indicates one sequence of courses that fulfils the requirements of the stream rules.
+As the stream structure indicates, a number of course electives are offered each term in Year 3 and Year 4. This allows the student to specialize in systems of mining either surface or underground or both; in advanced studies of core technical fields; or, opt for a broader professional perspective.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Appreciation of the economic factors and drivers for the mining industry
+keyboard_arrow_down
+2.
+Embedded level of understanding and commitment to applying the principles of sustainable mining practices including socio-economic and environmental impacts
+keyboard_arrow_down
+3.
+Ability to plan, design, create, innovate, and manage rapidly changing technologies and complex datasets within the mining industry.
+keyboard_arrow_down
+4.
+Ability to take a holistic view of all systems within a mining operation through comprehensive technical engineering knowledge and skills.
+keyboard_arrow_down
+5.
+Advanced problem solving, analysis and synthesis skills and the ability to tolerate ambiguity.
+keyboard_arrow_down
+6.
+Ability to think and work individually as well as communicate and engage effectively with a diverse range of stakeholders.
+keyboard_arrow_down
+7.
+Being resilient and adaptable to all forms of mining in changing conditions and multi-cultural environments (both national and international).
+keyboard_arrow_down
+8.
+Awareness and ongoing commitment to appropriate professional standards, the highest principles of ethical conduct, and lifelong learning.
+keyboard_arrow_down
+9.
+Commitment to a risk-based management approach and a strong safety culture.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1300
+6 UOC
+Engineering Mechanics
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+GEOS1111
+6 UOC
+Investigating Earth and Its Evolution
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2400
+6 UOC
+Mechanics of Solids 1
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+CEIC2001
+6 UOC
+Fluid and Particle Mechanics
+arrow_forward
+MERE2810
+6 UOC
+Mineral Resource Geology & Geophysics
+arrow_forward
+MINE2820
+6 UOC
+Minerals Processing
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+arrow_forward
+MINE3220
+6 UOC
+Resource Estimation
+arrow_forward
+MINE3230
+6 UOC
+Mine Planning
+arrow_forward
+MINE3310
+6 UOC
+Mining Geomechanics
+arrow_forward
+MINE3430
+6 UOC
+Mining Systems
+arrow_forward
+MINE3510
+6 UOC
+Mine Ventilation
+arrow_forward
+MINE3630
+6 UOC
+Rock Breakage
+arrow_forward
+MINE3910
+6 UOC
+Socio-Environmental Aspects of Mining
+Level 4 Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+arrow_forward
+MERE4951
+4 UOC
+Research Thesis A
+arrow_forward
+MERE4952
+4 UOC
+Research Thesis B
+arrow_forward
+MERE4953
+4 UOC
+Research Thesis C
+arrow_forward
+MINE4250
+6 UOC
+Mine Design and Feasibility Project
+arrow_forward
+MINE4310
+6 UOC
+Mine Geotechnical Engineering
+arrow_forward
+MINE4710
+6 UOC
+Mine Management
+Discipline (Depth) Electives List
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+NOTE: 2 UOC and 3 UOC courses are run over consecutive terms for a final total of 6 UOC.
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+MERE8810
+6 UOC
+Data Analytics and Automated Technologies for Minerals and Energy Resources
+arrow_forward
+MINE5040
+6 UOC
+Mining Methods, Mine Planning and Applied Geomechanics
+arrow_forward
+MINE5050
+6 UOC
+Ground Control Principles and Practice in Underground Mining
+arrow_forward
+MINE5060
+6 UOC
+Operational Geotechnical Management (Underground Coal Mining)
+arrow_forward
+MINE8120
+6 UOC
+Hazard Identification, Risk and Safety Management in Mining
+arrow_forward
+MINE8130
+6 UOC
+Technology Management and Innovation in Mining
+arrow_forward
+MINE8680
+6 UOC
+Geotechnical Data Collection and Analysis
+arrow_forward
+MINE8710
+6 UOC
+Mine Slope Stability
+arrow_forward
+MINE8870
+6 UOC
+Space Resources Engineering
+arrow_forward
+MINE8930
+6 UOC
+Uranium Mining Fundamentals
+arrow_forward
+MINE8940
+6 UOC
+Mine Slope Monitoring Technologies
+arrow_forward
+MINE8950
+6 UOC
+Sustainable Tailings Management
+Free Electives
+keyboard_arrow_down
+Students who have free electives in their program are encouraged to select MINE1010 as one of their free electives.
+Industrial Experience Requirement
+keyboard_arrow_down
+Students must each complete at least 60 days approved industrial training concurrent with enrolment in the program.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Additional Information
+Recommended plans of study may be found
+here
+.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Minerals & Energy Resources Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

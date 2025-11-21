@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS3112.html
+
+UNSW Handbook Course -  Experimental and Computational Physics - PHYS3112
+
+
+UNSW Handbook Course -  Experimental and Computational Physics - PHYS3112
+Experimental and Computational Physics - PHYS3112
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+School of Physics
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+6
+Enrolment Requirements:
+Prerequisite: (PHYS2111 or PHYS2113 or PHYS2114 or PHYS2110) and (MATH2089 or (MATH2301 and (MATH2801 or MATH2901)))
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+This course will provide the skills and knowledge required to investigate, both experimentally and computationally, a wide range of physical phenomena. The course consists of both lecture and laboratory classes, covering topics such as statistical analysis of data, sampling and information theory, numerical solutions of ordinary differential equations, Fourier transform theory and discrete Fourier transform, spectroscopy, handling and numerical modelling of noise and stochastic processes, inverse problems, experimental control, nonlinear systems, and quantum measurements.

@@ -1,0 +1,89 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiTUFUSCoifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LmltcGxlbWVudGF0aW9uWWVhciJdLCJxdWVyeSI6IjIwMjYifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LnN0dWR5TGV2ZWxWYWx1ZSJdLCJxdWVyeSI6InVncmQifX1dfX0sInNvcnQiOlt7InVuc3dQcm9kX3BzdWJqZWN0LmNvZGVfZG90cmF3IjoiYXNjIn1dLCJmcm9tIjowLCJzaXplIjoxNX0sInByZWZpeCI6InVuc3dQcm9kX3AifSwiZGVzY3JpcHRpb24iOiJhbnkgTWF0aGVtYXRpY3MgY291cnNlIiwidmVyc2lvbiI6IjIwMjYuMDFBUiIsImNvZGUiOiIzNzYyIiwidGl0bGUiOiJBZHZhbmNlZCBTY2llbmNlIChIb25vdXJzKSAvIEVuZ2luZWVyaW5nIChIb25vdXJzKSIsInJ1bGVJZCI6ImY5NTZhN2NmNDc4MzZlMTQzY2M3YTJiYTUxNmQ0MzFhIiwic291cmNlVVJMIjoiL3VuZGVyZ3JhZHVhdGUvcHJvZ3JhbXMvMjAyNi8zNzYyIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6IkRvdWJsZSBEZWdyZWUifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Double Degree
+search
+
+any Mathematics course
+
+MATH1011 Fundamentals of Mathematics
+ Sydney
+_border
+MATH1031 Mathematics for Life Sciences
+ Sydney
+_border
+MATH1041 Statistics for Life and Social Sciences
+ Sydney
+_border
+MATH1081 Discrete Mathematics
+ Sydney
+_border
+MATH1099 Advanced Mathematics IT Placement 1 (Co-op)
+ Sydney
+_border
+MATH1131 Mathematics 1A
+ Sydney
+_border
+MATH1141 Higher Mathematics 1A
+ Sydney
+_border
+MATH1151 Mathematics for Actuarial Studies and Finance 1A
+ Sydney
+_border
+MATH1231 Mathematics 1B
+ Sydney
+_border
+MATH1241 Higher Mathematics 1B
+ Sydney
+_border
+MATH1251 Mathematics for Actuarial Studies and Finance 1B
+ Sydney
+_border
+MATH2011 Several Variable Calculus
+ Sydney
+_border
+MATH2018 Engineering Mathematics 2D
+ Sydney
+_border
+MATH2019 Engineering Mathematics 2E
+ Sydney
+_border
+MATH2069 Mathematics 2A
+ Sydney
+_border
+MATH2089 Numerical Methods and Statistics
+ Sydney
+_border
+MATH2099 Mathematics 2B
+ Sydney
+_border
+MATH2111 Higher Several Variable Calculus
+ Sydney
+_border
+MATH2121 Theory and Applications of Differential Equations
+ Sydney
+_border
+MATH2221 Higher Theory and Applications of Differential Equations
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+4
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

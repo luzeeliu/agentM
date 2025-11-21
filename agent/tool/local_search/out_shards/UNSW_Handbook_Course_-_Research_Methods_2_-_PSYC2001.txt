@@ -1,0 +1,39 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PSYC2001.html
+
+UNSW Handbook Course - Research Methods 2 - PSYC2001
+
+
+UNSW Handbook Course - Research Methods 2 - PSYC2001
+Research Methods 2 - PSYC2001
+Faculty:
+Faculty of Science
+School:
+School of Psychology
+Course Outline:
+http://www.psy.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: PSYC1001, PSYC1011, PSYC1111: Exclusion: GENS9003, GENS9004, GENS9005, GENS9007, GENS0005
+Equivalent:
+PSYC4111
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+General introduction to research design and the analysis of behavioural data by means of inferential statistics (hypothesis testing and confidence intervals). Issues in the use of statistics (power, validity). Introduction to correlation/prediction and non-parametric procedures. Strengths and weaknesses of different research designs. Use of SPSS statistical package for data analysis. Introduction to factorial designs and multiple comparisons.
+Note:
+PSYC1001 may be taken as a corequisite.

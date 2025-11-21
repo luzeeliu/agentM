@@ -1,0 +1,94 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/INFS4777
+
+Handbook - Web3 and Blockchain Applications
+
+
+Handbook - Web3 and Blockchain Applications
+
+Course
+print
+Print Web3 and Blockchain Applications page
+_border
+Web3 and Blockchain Applications
+INFS4777
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Exclusion Courses
+Delivery
+Overview
+Blockchain is a decentralised ledger technology based on cryptographic properties that is regulated through a consensus mechanism without an intervention of a trusted intermediary. Although functionally identical to a distributed ledger, the integrity of transactions in the Blockchain is protected through the involvement of network actors in maintaining, updating, and… For more content click the Read More button below.
+Blockchain is a decentralised ledger technology based on cryptographic properties that is regulated through a consensus mechanism without an intervention of a trusted intermediary. Although functionally identical to a distributed ledger, the integrity of transactions in the Blockchain is protected through the involvement of network actors in maintaining, updating, and validating all transactions in the network through consensus. By design, a blockchain is virtually immutable and resists data modification. Despite originating as the foundational architecture for transferring value across space and time, the application of blockchain technology has since progressed beyond its original purpose and is now in its 3rd generation.
+The blockchain popularised by the applications of cryptocurrencies has the potential to redesign many fundamental aspects of our society. Artifacts like decentralised immutable identities, the ability to conduct transactions and businesses without heavy reliance on trusted third parties, significantly reduces the transactional risk involved in such interactions. It could serve as the foundational infrastructure upon which a new society and economy could be designed. The course aims to introduce students to the world of blockchain innovations with a heavy focus on those that will manifest in the web3 environment such as the metaverse, AI-enabled commerce, self- sovereignty-based governance, and decentralized autonomous organizations (DAOs).
+Read More
+about Overview
+Exclusion Courses
+open_in_new
+Course
+INFS5777
+INFS5777 - Web3 and Blockchain Applications
+Delivery
+Expand all
+Multimodal - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+Multimodal
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+In-person -
+keyboard_arrow_down
+Delivery Mode
+In-person
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Information Systems and Technology Management
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020305 Systems Analysis and Design
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

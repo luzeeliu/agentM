@@ -1,0 +1,100 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/ELEC9703
+
+Handbook - Microsystems Design and Technology
+
+
+Handbook - Microsystems Design and Technology
+
+Course
+print
+Print Microsystems Design and Technology page
+_border
+Microsystems Design and Technology
+ELEC9703
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Exclusion Courses
+Delivery
+Overview
+The entire field of research in microsensors and microactuators has evolved at an exceedingly rapid pace over the past 35 years. It is often referred to as MEMS (Microelectromechanical Systems) or Microsystems Technology. Signals from the physical world around us are always in analog form. Yet, much of the signal… For more content click the Read More button below.
+The entire field of research in microsensors and microactuators has evolved at an exceedingly rapid pace over the past 35 years. It is often referred to as MEMS (Microelectromechanical Systems) or Microsystems Technology. Signals from the physical world around us are always in analog form. Yet, much of the signal processing is done in digital form by microelectronic circuits. Microsensors and microactuators are the interfaces between the digital electronic domain and the physical world. Sensors and actuators in various forms have been around for centuries but significant miniaturization was not possible until the last few decades due to the significant technological advances in microfabrication techniques. In many cases, these new devices bring along new advantages over the traditional components like several orders of magnitude in size reduction, new functionality, and possibly integration of on-chip signal processing circuit (smart sensors/actuators). Many of the micro-fabrication techniques originate from the wealth of processes developed for the fabrication of integrated circuits. Yet, the MEMS business cannot be simply compared to the IC(Integrated Circuits) business. ICs deal with electrical signals whereas MEMS devices are interfaces to the physical world, to and from the electrical domain. As such, one would expect a more diverse, a more complicated overall environment, interacting effectively and accurately between the electronic domain and the outside world. The natural outcome of this is the vast and diverse range of MEMS devices. In fact, if one word were to be used to characterize the field of MEMS or Microsystems, it would be its multidisciplinary nature.
+MEMS is truly an enabling technology which has penetrated into and begun to change the way major discipline do things, including biotechnology, storage technology, instrumentation, telecommunications, optical communications, MEMS device packaging, etc. MEMS research, engineering development and manufacture must require close integration and collaborative interaction of experts from many disciplines. MEMS researchers and engineers must be willing to cross interdisciplinary boundaries and acquire knowledge outside their discipline of expertise. Examples of MEMS devices include, pressure sensors, accelerometers, micro-valves, micro-pumps, projection display chips, biosensors, inkjet nozzle arrays, optical cross-switches, RF switches, Lab-on-chip etc.
+This course will cover a wide range of topics related to MEMS fabrication technology and expand on to some of the design issues, bearing in mind the technology constraints. Can it be manufactured? Furthermore, a course is not complete if we do not know what the current market drivers are for MEMS products and where the future holds for this exciting and fast-expanding technology. Many people do not realize that the numerous savvy features we have in our mobile smart devices stem from advances in MEMS technology. The subject will enable students to have a broad grasp of the multi-disciplinary nature of MEMS technology, bringing together the know-how of physicists, chemists, electrical and mechanical engineers, and mathematicians. It will provide fundamental knowledge for students, who want to enter the MEMS industry. It is an exciting field of research, and we should count ourselves fortunate to be witnessing and participating in this era of unparalleled technological advancement.
+The topics that would be covered in the course are: Introduction to Microsystems: an overview and trends; Lithography and Thin Film Processes; Bulk micromachining; Surface micromachining; Bonding Processes; High Aspect Ratio Micromachining (HARM); Mechanics: Properties of materials, structures, energy methods; Actuation mechanisms: Electrostatic, Electromagnetic, Electrothermal, and Piezo-electric ; Lumped modelling with circuit elements and system dynamics; Introduction to ANSYS Simulation: Electro-thermal, Piezoelectric and Electrostatic; Optical MEMS, Microfluidic basics and Bio-MEMS;
+Read More
+about Overview
+Exclusion Courses
+open_in_new
+Course
+ELEC8505
+ELEC8505 - Microsystems Technology
+open_in_new
+Course
+ELEC9505
+ELEC9505 - Microsystems Technology: Design and Microfabrication
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+3
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031303 Electronic Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

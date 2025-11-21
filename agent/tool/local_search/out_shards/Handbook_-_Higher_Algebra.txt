@@ -1,0 +1,97 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MATH3711
+
+Handbook - Higher Algebra
+
+
+Handbook - Higher Algebra
+
+Course
+print
+Print Higher Algebra page
+_border
+Higher Algebra
+MATH3711
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+In Higher Algebra we examine some of the basic notions of modern algebra that arose in the late 19th and early 20th century. The most fundamental notion is that of a group, which is how mathematicians study symmetry. In this course groups are studied in detail both from an abstract… For more content click the Read More button below.
+In Higher Algebra we examine some of the basic notions of modern algebra that arose in the late 19th and early 20th century. The most fundamental notion is that of a group, which is how mathematicians study symmetry. In this course groups are studied in detail both from an abstract point of view and also to study symmetry in geometry. The other important concept studied is that of a ring. The algebra of adding and multiplying matrices has many similarities with the algebra of numbers. The notion of rings generalises both these two examples. The course examines factorisation theory for certain rings.
+This course is one of the three core third year higher pure mathematics courses and is a pre-requisite for pure mathematics students progressing to Honours. In particular, it introduces the axiomatic language and framework that underpins modern mathematics. The delivery will primarily be through lectures with some problem solving tutorials.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2601 or MATH2501 (CR), or permission from the Head of Department.
+Exclusion Courses
+open_in_new
+Course
+MATH3521
+MATH3521 - Algebraic Techniques in Number Theory
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+5 hours/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010101 Mathematics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

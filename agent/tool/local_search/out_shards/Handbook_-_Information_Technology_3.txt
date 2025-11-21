@@ -1,0 +1,496 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/programs/2026/7546
+
+Handbook - Information Technology
+
+
+Handbook - Information Technology
+
+Program
+print
+Print Information Technology page
+_border
+Information Technology
+7546
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Program Structure
+Sample Programs
+Admission Requirements
+Program Requirements
+Associated Programs
+Program Fees
+Overview
+The Graduate Certificate in Information Technology is designed for students who wish to develop and expand their knowledge and skills in Information Technology. The aim of this award is to provide qualified students with an opportunity to study advanced topics in Information Technology to complement or update their existing qualifications,… For more content click the Read More button below.
+The Graduate Certificate in Information Technology is designed for students who wish to develop and expand their knowledge and skills in Information Technology.
+The aim of this award is to provide qualified students with an opportunity to study advanced topics in Information Technology to complement or update their existing qualifications, and for those with no background in Information Technology at all, an opportunity to undertake introductory-level courses before considering a higher level qualification in this discipline.
+The program articulates to the Graduate Diploma in Information Technology program with full credit for courses completed in the Graduate Certificate program. Students may exit from this proposed program with a Graduate Certificate award if they have completed the required course requirements.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Explain concepts, theories and techniques, relevant to an information technology specialisation.
+keyboard_arrow_down
+2.
+Apply a breadth of relevant computing knowledge, including information technology management.
+keyboard_arrow_down
+3.
+Investigate and analyse the computing aspects of complex engineering problems.
+keyboard_arrow_down
+4.
+Synthesise algorithmic knowledge and apply appropriate computing methods to contribute to effective and/or innovative solutions to complex engineering problems.
+keyboard_arrow_down
+5.
+Communicate information to other professionals, clients, stakeholders and the broader community.
+keyboard_arrow_down
+6.
+Apply ethical approaches to professional practice.
+keyboard_arrow_down
+7.
+Collaborate effectively in professional contexts.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Program Structure
+Students must complete 48 UOC when taken as a standalone program.
+Expand all
+Foundational Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP9020
+6 UOC
+Foundations of Computer Science
+arrow_forward
+COMP9021
+6 UOC
+Principles of Programming
+arrow_forward
+COMP9024
+6 UOC
+Data Structures and Algorithms
+Advanced Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP9311
+6 UOC
+Database Systems
+arrow_forward
+COMP9331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+COMP9820
+6 UOC
+Software Project Management
+Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+COMP4121
+6 UOC
+Advanced Algorithms
+arrow_forward
+COMP4128
+6 UOC
+Programming Challenges
+arrow_forward
+COMP4141
+6 UOC
+Theory of Computation
+arrow_forward
+COMP4161
+6 UOC
+Advanced Topics in Software Verification
+arrow_forward
+COMP4418
+6 UOC
+Knowledge Representation and Reasoning
+arrow_forward
+COMP4511
+6 UOC
+User Interface Design and Construction
+arrow_forward
+COMP6080
+6 UOC
+Web Front-End Programming
+arrow_forward
+COMP6131
+6 UOC
+Software Security Analysis
+arrow_forward
+COMP6441
+6 UOC
+Security Engineering and Cyber Security
+arrow_forward
+COMP6443
+6 UOC
+Web Application Security and Testing
+arrow_forward
+COMP6445
+6 UOC
+Digital Forensics
+arrow_forward
+COMP6447
+6 UOC
+System and Software Security Assessment
+arrow_forward
+COMP6448
+6 UOC
+Security Engineering Masterclass
+arrow_forward
+COMP6451
+6 UOC
+Cryptocurrency and Distributed Ledger Technologies
+arrow_forward
+COMP6452
+6 UOC
+Software Architecture for Blockchain Applications
+arrow_forward
+COMP6453
+6 UOC
+Applied Cryptography
+arrow_forward
+COMP6713
+6 UOC
+Natural Language Processing
+arrow_forward
+COMP6714
+6 UOC
+Information Retrieval and Web Search
+arrow_forward
+COMP6721
+6 UOC
+(In-)Formal Methods: The Lost Art
+arrow_forward
+COMP6733
+6 UOC
+Internet of Things Experimental Design Studio
+arrow_forward
+COMP6741
+6 UOC
+Algorithms for Intractable Problems
+arrow_forward
+COMP6752
+6 UOC
+Modelling Concurrent Systems
+arrow_forward
+COMP6771
+6 UOC
+Advanced C++ Programming
+arrow_forward
+COMP6841
+6 UOC
+Extended Security Engineering and Cyber Security
+arrow_forward
+COMP6843
+6 UOC
+Extended Web Application Security and Testing
+arrow_forward
+COMP6845
+6 UOC
+Extended Digital Forensics and Incident Response
+arrow_forward
+COMP6991
+6 UOC
+Solving Modern Programming Problems with Rust
+arrow_forward
+COMP9032
+6 UOC
+Microprocessors and Interfacing
+arrow_forward
+COMP9044
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP9101
+6 UOC
+Algorithm Design and Analysis
+arrow_forward
+COMP9102
+6 UOC
+Programming Languages and Compilers
+arrow_forward
+COMP9153
+6 UOC
+Algorithmic Verification
+arrow_forward
+COMP9154
+6 UOC
+Foundations of Concurrency
+arrow_forward
+COMP9164
+6 UOC
+Concepts of Programming Languages
+arrow_forward
+COMP9201
+6 UOC
+Operating Systems
+arrow_forward
+COMP9211
+6 UOC
+Computer Architecture
+arrow_forward
+COMP9222
+6 UOC
+Digital Circuits and Systems
+arrow_forward
+COMP9242
+6 UOC
+Advanced Operating Systems
+arrow_forward
+COMP9243
+6 UOC
+Distributed Systems
+arrow_forward
+COMP9283
+6 UOC
+Extended Operating Systems
+arrow_forward
+COMP9312
+6 UOC
+Data Analytics for Graphs
+arrow_forward
+COMP9313
+6 UOC
+Big Data Management
+arrow_forward
+COMP9315
+6 UOC
+Database Systems Implementation
+arrow_forward
+COMP9319
+6 UOC
+Web Data Compression and Search
+arrow_forward
+COMP9321
+6 UOC
+Data Services Engineering
+arrow_forward
+COMP9332
+6 UOC
+Network Routing and Switching
+arrow_forward
+COMP9333
+6 UOC
+Advanced Computer Networks
+arrow_forward
+COMP9334
+6 UOC
+Capacity Planning of Computer Systems and Networks
+arrow_forward
+COMP9336
+6 UOC
+Mobile Data Networking
+arrow_forward
+COMP9337
+6 UOC
+Securing Fixed and Wireless Networks
+arrow_forward
+COMP9414
+6 UOC
+Artificial Intelligence
+arrow_forward
+COMP9415
+6 UOC
+Computer Graphics
+arrow_forward
+COMP9417
+6 UOC
+Machine Learning
+arrow_forward
+COMP9418
+6 UOC
+Advanced Machine Learning
+arrow_forward
+COMP9434
+6 UOC
+Robotic Software Architecture
+arrow_forward
+COMP9444
+6 UOC
+Neural Networks and Deep Learning
+arrow_forward
+COMP9447
+6 UOC
+Security Engineering Workshop
+arrow_forward
+COMP9491
+6 UOC
+Applied Artificial Intelligence
+arrow_forward
+COMP9511
+6 UOC
+Human Computer Interaction
+arrow_forward
+COMP9517
+6 UOC
+Computer Vision
+arrow_forward
+COMP9727
+6 UOC
+Recommender Systems
+arrow_forward
+COMP9814
+6 UOC
+Extended Artificial Intelligence
+arrow_forward
+COMP9920
+6 UOC
+Ethics of Computer Science and Engineering
+arrow_forward
+GSOE9210
+6 UOC
+Engineering Decision Structures
+arrow_forward
+GSOE9220
+6 UOC
+Launching a Startup
+arrow_forward
+MATH5836
+6 UOC
+Data and Machine Learning
+arrow_forward
+MATH5845
+6 UOC
+Time Series
+arrow_forward
+MATH5855
+6 UOC
+Multivariate Analysis
+arrow_forward
+MATH5905
+6 UOC
+Statistical Inference
+arrow_forward
+MATH5960
+6 UOC
+Bayesian Inference and Computation
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Information Technology
+Admission Requirements
+Entry Requirements
+Expand all
+Minimum Entry Requirements
+keyboard_arrow_down
+All candidates are required to have, at a minimum, a Bachelor Degree (AQF 7 or equivalent) with a weighted average mark of 65% (or equivalent).
+Limitations on Recognition of Prior Learning
+keyboard_arrow_down
+Up to 24 UOC of advanced standing may be granted to candidates with degrees from cognate programs.
+For more information about admission requirements for various UNSW programs, visit the following website(s):
+open_in_new
+Domestic Student
+open_in_new
+International Student
+open_in_new
+Research Candidate
+Program Requirements
+Progression Requirements
+For more information on university policy on progression requirements for coursework programs please visit
+Academic Progression
+and for Research programs visit
+Higher Degree Research.
+Associated Programs
+Nested Postgraduate Program
+Expand all
+Graduate Diploma in Information Technology - GDipIT
+5546 - Information Technology
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+72
+Typical Duration:
+1.7 years FT/3 years PT
+open_in_new
+Read More
+Master of Information Technology - MIT
+8543 - Information Technology
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+96
+Typical Duration:
+2 Year(s)
+open_in_new
+Read More
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Additional Expenses and Resources
+It is best if students own a laptop or a PC that gives them more flexibility to work on assignments. Still students could complete all their work in the CSE computer labs.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Typical duration:
+1 year FT/ 2 year PT
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Delivery Mode
+Face-to-face (includes blended)
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+48
+AQF Level
+Level 8
+Award Type
+Graduate Certificate
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Graduate Certificate in Information Technology - GCertIT
+CRICOS Code
+113781D
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

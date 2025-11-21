@@ -1,0 +1,94 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/ELEC9712
+
+Handbook - High Voltage Systems
+
+
+Handbook - High Voltage Systems
+
+Course
+print
+Print High Voltage Systems page
+_border
+High Voltage Systems
+ELEC9712
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Exclusion Courses
+Delivery
+Overview
+Large-scale electricity supply networks deliver electricity from the generating sources (e.g., power stations, wind farms, solar farms) to major load centres (e.g., cities, regional areas, heavy industry). This bulk transport of electricity must be carried out at high voltage to reduce power loss. Thus, high voltage technology is an indispensable… For more content click the Read More button below.
+Large-scale electricity supply networks deliver electricity from the generating sources (e.g., power stations, wind farms, solar farms) to major load centres (e.g., cities, regional areas, heavy industry). This bulk transport of electricity must be carried out at high voltage to reduce power loss.  Thus, high voltage technology is an indispensable specialisation in power engineering. Knowledge in this area is essential for designers and operators of high-voltage equipment and power utility engineers.
+This course provides detailed coverage of the common features of major items of high voltage equipment and components, including materials used and dielectric properties; field analysis and its use in determining the electrical insulation design; thermal ratings of equipment; the design of both static and dynamic contact systems for equipment; the design and operation of specific items of equipment including power and instrument transformers, switchgear, cables, overhead lines, surge arresters; techniques to generate and measure high voltages; condition monitoring and high-voltage diagnostic testing methods.
+Read More
+about Overview
+Exclusion Courses
+open_in_new
+Course
+ELEC9214
+ELEC9214 - Power Systems Equipment
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+3
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031301 Electrical Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,442 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/specialisations/2026/ELECGT
+
+Handbook - Space Systems Engineering (5373)
+
+
+Handbook - Space Systems Engineering (5373)
+
+Specialisation
+print
+Print Space Systems Engineering (5373) page
+_border
+Space Systems Engineering (5373)
+ELECGT
+72 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+This specialisation gives students a comprehensive foundation in space systems engineering in all its aspects from the space segment to the ground segment and typical applications.
+This specialisation gives students a comprehensive foundation in space systems engineering in all its aspects from the space segment to the ground segment and typical applications.
+Learning Outcomes
+Expand all
+1.
+Explain advanced concepts, theories, and techniques relevant an engineering science specialisation.
+keyboard_arrow_down
+2.
+Apply a breadth of relevant engineering knowledge, including engineering management, to professional practice.
+keyboard_arrow_down
+3.
+Identify, define, investigate, and analyse complex engineering problems.
+keyboard_arrow_down
+4.
+Apply appropriate engineering knowledge and methods to develop effective and innovative solutions to complex engineering problems.
+keyboard_arrow_down
+5.
+Communicate information and justify decisions to other professionals, clients, stakeholders, and the broader community.
+keyboard_arrow_down
+6.
+Apply creative and ethical approaches to practice.
+keyboard_arrow_down
+7.
+Collaborate and lead effectively in diverse professional contexts.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Graduate Diploma in Engineering Science - GDipEngSc
+5373 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+72
+Typical duration:
+1.7 years F/T, 3.3 Years P/T
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 72 UOC.
+Expand all
+Foundational Core
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+COMP1521
+6 UOC
+Computer Systems Fundamentals
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+MATH2069
+6 UOC
+Mathematics 2A
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+Advance Disciplinary Knowledge Core
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+Advance Disciplinary Knowledge Core
+keyboard_arrow_down
+arrow_forward
+AERO9500
+6 UOC
+Space Systems Architectures and Orbits
+arrow_forward
+AERO9610
+6 UOC
+The Space Segment
+arrow_forward
+ELEC9762
+6 UOC
+Space Mission Development
+arrow_forward
+ELEC9764
+6 UOC
+The Ground Segment and Space Operations
+arrow_forward
+ELEC9765
+6 UOC
+Space Law and Radio Regulations
+One of the following courses:
+keyboard_arrow_down
+arrow_forward
+GSOE9210
+6 UOC
+Engineering Decision Structures
+arrow_forward
+GSOE9445
+6 UOC
+Entrepreneurial Engineering
+arrow_forward
+GSOE9820
+6 UOC
+Engineering Project Management
+arrow_forward
+GSOE9830
+6 UOC
+Economic Decision Analysis in Engineering
+arrow_forward
+GSOE9841
+6 UOC
+Systems Engineering Fundamentals
+Advanced Disciplinary Knowledge Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+AERO9660
+6 UOC
+Advanced Aerospace Propulsion
+arrow_forward
+CEIC6712
+6 UOC
+Pharmaceutical Design and Engineering
+arrow_forward
+CEIC6714
+6 UOC
+Hydrogen Systems Engineering and Economics
+arrow_forward
+CEIC6789
+6 UOC
+Data-driven Decision Making in Chemical Engineering and Food Science
+arrow_forward
+CEIC8204
+6 UOC
+Entrepreneurship and the Innovation Cycle
+arrow_forward
+CEIC8330
+6 UOC
+Process Engineering in the Petroleum Industry
+arrow_forward
+CEIC8341
+6 UOC
+Membrane Processes
+arrow_forward
+CHEN6701
+6 UOC
+Advanced Reaction Engineering
+arrow_forward
+CHEN6703
+6 UOC
+Advanced Particle Systems Engineering
+arrow_forward
+CHEN6706
+6 UOC
+Advanced Transport Phenomena
+arrow_forward
+COMP4418
+6 UOC
+Knowledge Representation and Reasoning
+arrow_forward
+COMP9024
+6 UOC
+Data Structures and Algorithms
+arrow_forward
+COMP9101
+6 UOC
+Algorithm Design and Analysis
+arrow_forward
+COMP9331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+CVEN4102
+6 UOC
+Operations and Projects
+arrow_forward
+CVEN4103
+6 UOC
+Engineering Contracts
+arrow_forward
+CVEN4104
+6 UOC
+Sustainability in Construction
+arrow_forward
+CVEN4201
+6 UOC
+Rock and Slope Engineering
+arrow_forward
+CVEN4202
+6 UOC
+Advanced Topics in Geotechnical Engineering
+arrow_forward
+CVEN4204
+6 UOC
+Ground Improvement and Monitoring Techniques
+arrow_forward
+CVEN4301
+6 UOC
+Advanced Concrete Structures
+arrow_forward
+CVEN4308
+6 UOC
+Structural Dynamics
+arrow_forward
+CVEN4402
+6 UOC
+Transport Networks
+arrow_forward
+CVEN4507
+6 UOC
+Resilient Flood Design
+arrow_forward
+CVEN9898
+6 UOC
+Fundamentals of Sustainable Infrastructure
+arrow_forward
+ELEC3104
+6 UOC
+Digital Signal Processing
+arrow_forward
+ELEC3106
+6 UOC
+Electronics
+arrow_forward
+ELEC3114
+6 UOC
+Control Systems
+arrow_forward
+ELEC3145
+6 UOC
+Real Time Instrumentation
+arrow_forward
+ELEC4601
+6 UOC
+Digital and Embedded Systems Design
+arrow_forward
+ELEC4602
+6 UOC
+Microelectronic Design and Technology
+arrow_forward
+ELEC4603
+6 UOC
+Solid State Electronics
+arrow_forward
+ELEC4604
+6 UOC
+RF Circuit Design - Theory and Applications
+arrow_forward
+ELEC4605
+6 UOC
+Quantum Devices and Computers
+arrow_forward
+ELEC4611
+6 UOC
+Power System Equipment
+arrow_forward
+ELEC4612
+6 UOC
+Power System Analysis
+arrow_forward
+ELEC4613
+6 UOC
+Electrical Drive Systems
+arrow_forward
+ELEC4614
+6 UOC
+Power Electronics
+arrow_forward
+ELEC4621
+6 UOC
+Advanced Digital Signal Processing
+arrow_forward
+ELEC4622
+6 UOC
+Multimedia Signal Processing
+arrow_forward
+ELEC4623
+6 UOC
+Biomedical Instrumentation, Measurement and Design
+arrow_forward
+ELEC4631
+6 UOC
+Continuous - Time Control System Design
+arrow_forward
+ELEC4632
+6 UOC
+Computer Control Systems
+arrow_forward
+ELEC4633
+6 UOC
+Real-Time Engineering
+arrow_forward
+FOOD8450
+6 UOC
+Industry Applications of Food Processing Unit Operations
+arrow_forward
+MANF4430
+6 UOC
+Reliability and Maintenance Engineering
+arrow_forward
+MANF4611
+6 UOC
+Process Modelling and Simulation
+arrow_forward
+MECH4100
+6 UOC
+Mechanical Design 2
+arrow_forward
+MECH4305
+6 UOC
+Fundamental and Advanced Vibration Analysis
+arrow_forward
+MECH4320
+6 UOC
+Engineering Mechanics 3
+arrow_forward
+MECH4620
+6 UOC
+Computational Fluid Dynamics
+arrow_forward
+MECH4880
+6 UOC
+Refrigeration and Air Conditioning 1
+arrow_forward
+MECH4900
+6 UOC
+Mechanics of Fracture and Fatigue
+arrow_forward
+MMAN3200
+6 UOC
+Linear Systems and Control
+arrow_forward
+MMAN4400
+6 UOC
+Engineering Management
+arrow_forward
+MMAN4410
+6 UOC
+Finite Element Methods
+arrow_forward
+MTRN3100
+6 UOC
+Robot Design
+arrow_forward
+MTRN3500
+6 UOC
+Computing Applications in Mechatronics Systems
+arrow_forward
+MTRN4231
+6 UOC
+Robotics Project
+arrow_forward
+PHTN4661
+6 UOC
+Optical Circuits and Fibres
+arrow_forward
+PHTN4662
+6 UOC
+Photonic Networks
+arrow_forward
+TELE3118
+6 UOC
+Network Technologies
+arrow_forward
+TELE4642
+6 UOC
+Network Performance
+arrow_forward
+TELE4651
+6 UOC
+Wireless Communication Technologies
+arrow_forward
+TELE4652
+6 UOC
+Mobile and Satellite Communications Systems
+arrow_forward
+TELE4653
+6 UOC
+Digital Modulation and Coding
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Minimum Units of Credit
+72
+Specialisation Type
+info
+Specialisation
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

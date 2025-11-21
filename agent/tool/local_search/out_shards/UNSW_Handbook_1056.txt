@@ -1,0 +1,87 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiSU5GUzUqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiJwZ3JkIn19XX19LCJzb3J0IjpbeyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlX2RvdHJhdyI6ImFzYyJ9XSwiZnJvbSI6MCwic2l6ZSI6MTV9LCJwcmVmaXgiOiJ1bnN3UHJvZF9wIn0sImRlc2NyaXB0aW9uIjoiYW55IGxldmVsIDUgSW5mb3JtYXRpb24gU3lzdGVtcyBjb3Vyc2UiLCJ2ZXJzaW9uIjoiMjAyNi4wMSIsImNvZGUiOiI3MzU1IiwidGl0bGUiOiJDb21tZXJjZSIsInJ1bGVJZCI6IjQ1OTk4YWQxYzMwM2EyOTBhOTYwN2QyYTA1MDEzMTVhIiwic291cmNlVVJMIjoiL3Bvc3RncmFkdWF0ZS9wcm9ncmFtcy8yMDI2LzczNTUiLCJzb3VyY2VVUkxUZXh0S2V5IjoiY3Nfd2lsZGNhcmRfc291cmNlX2JhY2tfbGlua3RleHQiLCJzb3VyY2VUeXBlIjoiUHJvZ3JhbSJ9
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Program
+search
+
+any level 5 Information Systems course
+
+INFS5602 Digital Capabilities for Business
+ Sydney
+_border
+INFS5603 Business Analysis and Agile Product Management
+ Sydney
+_border
+INFS5604 Optimising and Transforming Business Processes
+ Sydney
+_border
+INFS5631 Managing Digital Innovations and Emerging Technologies
+ Sydney
+_border
+INFS5700 Introduction to Business Analytics
+ Sydney
+_border
+INFS5704 Artificial Intelligence Fluency
+ Sydney
+_border
+INFS5705 Artificial Intelligence for Business Analytics in Practice
+ Sydney
+_border
+INFS5706 AI in Action
+ Sydney
+_border
+INFS5710 Information Technology Infrastructure for Business Analytics
+ Sydney
+_border
+INFS5715 Programming for Data Analytics
+ Sydney
+_border
+INFS5720 Business Analytics Methods
+ Sydney
+_border
+INFS5730 Social Media Analytics in Practice
+ Sydney
+_border
+INFS5731 Information Systems Strategy and Management
+ Sydney
+_border
+INFS5740 Business Systems Project
+ Sydney
+_border
+INFS5777 Web3 and Blockchain Applications
+ Sydney
+_border
+INFS5831 Information Systems Consulting
+ Sydney
+_border
+INFS5848 Fundamentals of Information Systems and Technology Project Management
+ Sydney
+_border
+INFS5870 Operations Management
+ Sydney
+_border
+INFS5871 Supply Chains and Logistics Design
+ Sydney
+_border
+INFS5872 Service and Quality Management
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

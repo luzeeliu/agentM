@@ -1,0 +1,427 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/specialisations/2026/COMPTS
+
+Handbook - Information Technology
+
+
+Handbook - Information Technology
+
+Specialisation
+print
+Print Information Technology page
+_border
+Information Technology
+COMPTS
+72 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The Information Technology specialisation in the Graduate Diploma and Master of Information Technology programs is the most flexible of all specialisations. It allows students to select courses in a very broad range of specialised areas and prepare them for positions in the IT industry. The specialisation also enables students to… For more content click the Read More button below.
+The Information Technology specialisation in the Graduate Diploma and Master of Information Technology programs is the most flexible of all specialisations. It allows students to select courses in a very broad range of specialised areas and prepare them for positions in the IT industry. The specialisation also enables students to gain a good overview of the possible specialisations before nominating a specific specialisation to develop expertise in a particular field.
+This specialisation is particularly suited to professionals who seek higher positions and can devote one or two years to broadening their technical knowledge of the IT industry before they return to their professional activities.
+This specialisation is suitable for students who prefer maximum flexibility in the courses they select, and it is the default plan for all new enrolments in the program.
+The aim of this specialisation is to provide students with a broad-based IT education, enabling them to work in a range of positions in the IT industry.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Explain advanced concepts, theories and techniques, relevant to information technology.
+keyboard_arrow_down
+2.
+Apply a breadth of relevant computing knowledge, including information technology management.
+keyboard_arrow_down
+3.
+Investigate and analyse the computing aspects of complex engineering problems.
+keyboard_arrow_down
+4.
+Synthesise algorithmic knowledge and apply appropriate computing methods to contribute to (Scholars) effective and/or innovative solutions to complex engineering problems.
+keyboard_arrow_down
+5.
+Communicate information and justify decisions to other professionals, clients, stakeholders, and the broader community.
+keyboard_arrow_down
+6.
+Apply ethical approaches to professional practice.
+keyboard_arrow_down
+7.
+Collaborate and lead effectively in diverse professional contexts.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Graduate Diploma in Information Technology - GDipIT
+5546 - Information Technology
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+72
+Typical duration:
+1.7 years FT/3 years PT
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 72 UOC.
+Expand all
+Foundational Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP9020
+6 UOC
+Foundations of Computer Science
+arrow_forward
+COMP9021
+6 UOC
+Principles of Programming
+arrow_forward
+COMP9024
+6 UOC
+Data Structures and Algorithms
+Advanced Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP9311
+6 UOC
+Database Systems
+arrow_forward
+COMP9331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+COMP9820
+6 UOC
+Software Project Management
+Disciplinary Knowledge Electives
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+arrow_forward
+COMP4121
+6 UOC
+Advanced Algorithms
+arrow_forward
+COMP4128
+6 UOC
+Programming Challenges
+arrow_forward
+COMP4141
+6 UOC
+Theory of Computation
+arrow_forward
+COMP4161
+6 UOC
+Advanced Topics in Software Verification
+arrow_forward
+COMP4418
+6 UOC
+Knowledge Representation and Reasoning
+arrow_forward
+COMP4511
+6 UOC
+User Interface Design and Construction
+arrow_forward
+COMP6080
+6 UOC
+Web Front-End Programming
+arrow_forward
+COMP6131
+6 UOC
+Software Security Analysis
+arrow_forward
+COMP6441
+6 UOC
+Security Engineering and Cyber Security
+arrow_forward
+COMP6443
+6 UOC
+Web Application Security and Testing
+arrow_forward
+COMP6445
+6 UOC
+Digital Forensics
+arrow_forward
+COMP6447
+6 UOC
+System and Software Security Assessment
+arrow_forward
+COMP6448
+6 UOC
+Security Engineering Masterclass
+arrow_forward
+COMP6451
+6 UOC
+Cryptocurrency and Distributed Ledger Technologies
+arrow_forward
+COMP6452
+6 UOC
+Software Architecture for Blockchain Applications
+arrow_forward
+COMP6453
+6 UOC
+Applied Cryptography
+arrow_forward
+COMP6713
+6 UOC
+Natural Language Processing
+arrow_forward
+COMP6714
+6 UOC
+Information Retrieval and Web Search
+arrow_forward
+COMP6721
+6 UOC
+(In-)Formal Methods: The Lost Art
+arrow_forward
+COMP6733
+6 UOC
+Internet of Things Experimental Design Studio
+arrow_forward
+COMP6741
+6 UOC
+Algorithms for Intractable Problems
+arrow_forward
+COMP6752
+6 UOC
+Modelling Concurrent Systems
+arrow_forward
+COMP6771
+6 UOC
+Advanced C++ Programming
+arrow_forward
+COMP6841
+6 UOC
+Extended Security Engineering and Cyber Security
+arrow_forward
+COMP6843
+6 UOC
+Extended Web Application Security and Testing
+arrow_forward
+COMP6845
+6 UOC
+Extended Digital Forensics and Incident Response
+arrow_forward
+COMP6991
+6 UOC
+Solving Modern Programming Problems with Rust
+arrow_forward
+COMP9032
+6 UOC
+Microprocessors and Interfacing
+arrow_forward
+COMP9044
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP9101
+6 UOC
+Algorithm Design and Analysis
+arrow_forward
+COMP9102
+6 UOC
+Programming Languages and Compilers
+arrow_forward
+COMP9153
+6 UOC
+Algorithmic Verification
+arrow_forward
+COMP9154
+6 UOC
+Foundations of Concurrency
+arrow_forward
+COMP9164
+6 UOC
+Concepts of Programming Languages
+arrow_forward
+COMP9201
+6 UOC
+Operating Systems
+arrow_forward
+COMP9211
+6 UOC
+Computer Architecture
+arrow_forward
+COMP9222
+6 UOC
+Digital Circuits and Systems
+arrow_forward
+COMP9242
+6 UOC
+Advanced Operating Systems
+arrow_forward
+COMP9243
+6 UOC
+Distributed Systems
+arrow_forward
+COMP9283
+6 UOC
+Extended Operating Systems
+arrow_forward
+COMP9312
+6 UOC
+Data Analytics for Graphs
+arrow_forward
+COMP9313
+6 UOC
+Big Data Management
+arrow_forward
+COMP9315
+6 UOC
+Database Systems Implementation
+arrow_forward
+COMP9319
+6 UOC
+Web Data Compression and Search
+arrow_forward
+COMP9321
+6 UOC
+Data Services Engineering
+arrow_forward
+COMP9332
+6 UOC
+Network Routing and Switching
+arrow_forward
+COMP9333
+6 UOC
+Advanced Computer Networks
+arrow_forward
+COMP9334
+6 UOC
+Capacity Planning of Computer Systems and Networks
+arrow_forward
+COMP9336
+6 UOC
+Mobile Data Networking
+arrow_forward
+COMP9337
+6 UOC
+Securing Fixed and Wireless Networks
+arrow_forward
+COMP9414
+6 UOC
+Artificial Intelligence
+arrow_forward
+COMP9415
+6 UOC
+Computer Graphics
+arrow_forward
+COMP9417
+6 UOC
+Machine Learning
+arrow_forward
+COMP9418
+6 UOC
+Advanced Machine Learning
+arrow_forward
+COMP9434
+6 UOC
+Robotic Software Architecture
+arrow_forward
+COMP9444
+6 UOC
+Neural Networks and Deep Learning
+arrow_forward
+COMP9447
+6 UOC
+Security Engineering Workshop
+arrow_forward
+COMP9491
+6 UOC
+Applied Artificial Intelligence
+arrow_forward
+COMP9511
+6 UOC
+Human Computer Interaction
+arrow_forward
+COMP9517
+6 UOC
+Computer Vision
+arrow_forward
+COMP9727
+6 UOC
+Recommender Systems
+arrow_forward
+COMP9814
+6 UOC
+Extended Artificial Intelligence
+arrow_forward
+COMP9920
+6 UOC
+Ethics of Computer Science and Engineering
+arrow_forward
+GSOE9210
+6 UOC
+Engineering Decision Structures
+arrow_forward
+GSOE9220
+6 UOC
+Launching a Startup
+arrow_forward
+MATH5836
+6 UOC
+Data and Machine Learning
+arrow_forward
+MATH5845
+6 UOC
+Time Series
+arrow_forward
+MATH5855
+6 UOC
+Multivariate Analysis
+arrow_forward
+MATH5905
+6 UOC
+Statistical Inference
+arrow_forward
+MATH5960
+6 UOC
+Bayesian Inference and Computation
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Minimum Units of Credit
+72
+Specialisation Type
+info
+Specialisation
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

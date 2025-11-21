@@ -1,0 +1,92 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/ELEC2133
+
+Handbook - Analogue Electronics
+
+
+Handbook - Analogue Electronics
+
+Course
+print
+Print Analogue Electronics page
+_border
+Analogue Electronics
+ELEC2133
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+The world we live in is fundamentally analogue in nature. Signals like electromagnetic waves received by cell phones, radios, and TVs, as well as ambient factors like temperature, pressure, movement, and sound, are all analogue in nature. However, despite their analogue origins, these signals are processed and stored digitally using… For more content click the Read More button below.
+The world we live in is fundamentally analogue in nature. Signals like electromagnetic waves received by cell phones, radios, and TVs, as well as ambient factors like temperature, pressure, movement, and sound, are all analogue in nature. However, despite their analogue origins, these signals are processed and stored digitally using microprocessors and microcontrollers. Thus, analogue circuits are necessary in building the bridge between the analog and digital realms. Analog circuits are ubiquitous in everyday devices such as home appliances, vehicles, cell phones, medical equipment, computers, audio/video systems, and radio/TV sets, shaping our modern lives in profound ways.
+Analogue circuits play a crucial role in performing key signal processing and conditioning functions like amplification, comparison, waveform generation, and analog-to-digital (A/D) as well as digital-to-analog (D/A) conversions. They typically comprise transistors, diodes, resistors, capacitors, and inductors, often integrated into circuit forms. In prior courses (ELEC1111 and ELEC2134), you learned circuit analysis techniques involving resistors, capacitors, and inductors. This course endeavors to expand on that knowledge by introducing you to analogue circuits with transistors and diodes, enhancing your skills in analyzing and designing such circuits. You will have the opportunity to apply the skills to implement analogue circuits and measure their performances such as amplifier gain and bandwidth in the laboratory setting. These implementations are critical in providing you with "hands-on" experiences that include circuit simulation, physical construction of the circuit, troubleshooting of circuits and the use of laboratory measurement equipment. Safety in analogue circuits is crucial to ensure reliable operations, protect circuit components, and prevent accidents. In this course, you will also have the opportunity to: (i) learn and develop safety protocols for operating laboratory equipment, constructing circuits, and handling components; and (ii) apply design skills to incorporate safety features in the implementation and testing of analogue circuits.
+Course content includes: Device physics of diodes, BJTs and MOSFETs. Nonlinear transistor models: Ebers-Moll, transport. Full and simplified models of BJTs and MOSFETs (inc. small-signal models). Zener and Schottky diodes. DC biasing, biasing using current sources, operating point, large-signal analysis. Linearisation, small-signal analysis. Input and output impedances, power gain. Two-ports. Feedback, effects of feedback; stability and compensation techniques. Circuits with non-ideal op-amps. Common base, emitter and collector amplifiers; differential pairs. Multistage amplifiers, Cascades, Cascodes. AC response of 1-stage and multistage amplifiers, Miller effect. Non-linear circuits: oscillator, Schmitt trigger. Analogue-to-Digital converters (ADC) and Digital-to-Analogue Converters (DAC) principles.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: ELEC2134
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+8
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031303 Electronic Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

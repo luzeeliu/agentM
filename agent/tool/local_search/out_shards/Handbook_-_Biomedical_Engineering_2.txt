@@ -1,0 +1,249 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/BIOMM1
+
+Handbook - Biomedical Engineering
+
+
+Handbook - Biomedical Engineering
+
+Specialisation
+print
+Print Biomedical Engineering page
+_border
+Biomedical Engineering
+BIOMM1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Biomedical Engineering integrates principles of engineering with biological sciences to advance healthcare solutions. This specialisation provides foundational knowledge in both engineering and biomedical sciences, along with practical experience in applying this knowledge to complex healthcare challenges. The specialisation offers a flexible selection of courses covering areas such as medical device… For more content click the Read More button below.
+Biomedical Engineering integrates principles of engineering with biological sciences to advance healthcare solutions. This specialisation provides foundational knowledge in both engineering and biomedical sciences, along with practical experience in applying this knowledge to complex healthcare challenges.
+The specialisation offers a flexible selection of courses covering areas such as medical device design, bioinformatics, and tissue engineering. It hones skills in problem solving, communication, and teamwork, preparing students to innovate and improve medical technologies across various settings, including clinical, research, and commercial enterprises.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Use methods, tools and ideas from mathematics, physics, chemistry, biology and computer science to solve biomedical engineering problems, employing both analytical and computational tools in a real-world context.
+keyboard_arrow_down
+2.
+Describe current research findings and industry best practices in Biomedical Engineering.
+keyboard_arrow_down
+3.
+Design and implement biomedical technologies and systems, ensuring they meet safety, effectiveness and efficacy requirements using critical assessment methods and standards.
+keyboard_arrow_down
+4.
+Apply ethical and professional judgement in the practice of Biomedical Engineering for sustainable and responsible solutions in healthcare.
+keyboard_arrow_down
+5.
+Apply communication strategies to engage effectively with diverse audiences within and beyond the Biomedical Engineering field.
+keyboard_arrow_down
+6.
+Use project management tools and processes to the planning and execution of project work to a professional standard.
+keyboard_arrow_down
+7.
+Describe personal development of learning through reflection on feedback to enhance the quality and impact of work.
+keyboard_arrow_down
+8.
+Participate effectively in a team to achieve a common objective or fulfil a common project and reflect on the process and the outcomes.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering Science - BEngSc
+3706 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Students complete additional elective courses beyond the minimum UOC required in each elective list to bring the total to 96 UOC. Those electives must be taken from the courses listed below.
+Expand all
+Level 1 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+arrow_forward
+BIOM1500
+6 UOC
+Musculoskeletal Biomechanics
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+MATS1101
+6 UOC
+Engineering Materials and Chemistry
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+arrow_forward
+BIOM2300
+6 UOC
+Biomaterials and Cell Technologies
+arrow_forward
+BIOM2600
+6 UOC
+Bioelectronics and Physiological Measurement
+arrow_forward
+BIOM2601
+6 UOC
+Biomedical Instrumentation
+arrow_forward
+BIOM2700
+6 UOC
+Biomedical Data Analysis
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+PHSL2121
+6 UOC
+Principles of Physiology A
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 and 4 Prescribed Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take at least 24 UOC of the following courses.
+arrow_forward
+BIOM3000
+6 UOC
+Health Technology Innovation
+arrow_forward
+BIOM3001
+6 UOC
+Biocompatibility
+arrow_forward
+BIOM3300
+6 UOC
+Mechanics of Biomaterials
+arrow_forward
+BIOM3500
+6 UOC
+Mechanics of the Human Body
+arrow_forward
+BIOM3600
+6 UOC
+Biosensors
+arrow_forward
+BIOM9410
+6 UOC
+Regulatory Requirements of Biomedical Technology
+arrow_forward
+BIOM9711
+6 UOC
+Modelling Organs, Tissues and Devices
+Course Substitution
+keyboard_arrow_down
+A student may be able to substitute a maximum of 12 UOC of core courses subject to the approval of their School and the Associate Dean (Academic Programs) of the Faculty of Engineering. Students who have transferred to 3706 from a single or dual Bachelor of Engineering (Hons) may count courses not listed here towards the requirements of their major if they are considered equivalent or have been superceded by other courses. This is only possible if the course(s) were listed in the handbook for their Engineering major, and they are completing an Engineering Science major in the same discipline.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+Graduate School of Biomedical Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

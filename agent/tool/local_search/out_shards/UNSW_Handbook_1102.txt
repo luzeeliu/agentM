@@ -1,0 +1,83 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiQkVOVioifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LmltcGxlbWVudGF0aW9uWWVhciJdLCJxdWVyeSI6IjIwMjYifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LnN0dWR5TGV2ZWxWYWx1ZSJdLCJxdWVyeSI6InVncmQifX1dLCJtdXN0X25vdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiQkVOVjEwMTAifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LmNvZGUiXSwicXVlcnkiOiJCRU5WMjExMiJ9fSx7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3QuY29kZSJdLCJxdWVyeSI6IkJFTlYyMTM3In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiQkVOVjI5MzAifX1dfX0sInNvcnQiOlt7InVuc3dQcm9kX3BzdWJqZWN0LmNvZGVfZG90cmF3IjoiYXNjIn1dLCJmcm9tIjowLCJzaXplIjoxNX0sInByZWZpeCI6InVuc3dQcm9kX3AifSwiZGVzY3JpcHRpb24iOiJhbnkgQkVOViBjb3Vyc2UiLCJ2ZXJzaW9uIjoiMjAyNi4wMSIsImNvZGUiOiIzMzgxIiwidGl0bGUiOiJMYW5kc2NhcGUgQXJjaGl0ZWN0dXJlIChIb25zKSIsInJ1bGVJZCI6IjgwYmUwNDU1OTMzYjIyMTBkNDVjYjJlYTZhYmExMGY4Iiwic291cmNlVVJMIjoiL3VuZGVyZ3JhZHVhdGUvcHJvZ3JhbXMvMjAyNi8zMzgxIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6IlByb2dyYW0ifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Program
+search
+
+any BENV course
+
+BENV0014 Robotic Fabrication
+ Sydney
+_border
+BENV0015 Digital Craft
+ Sydney
+_border
+BENV0021 Sustainable Urbanism and Design
+ Sydney
+_border
+BENV1012 Parametric Design and Digital Fabrication
+ Sydney
+_border
+BENV1015 History of Design Thinking
+ Sydney
+_border
+BENV1043 Multimedia in Design Presentation
+ Sydney
+_border
+BENV1072 Design for Energy Efficiency
+ Sydney
+_border
+BENV1161 Principles of Sustainable Design
+ Sydney
+_border
+BENV1200 Circular Economy and Sustainable Materials in the Built Environment
+ Sydney
+_border
+BENV2001 Emerging Digital Technologies
+ Sydney
+_border
+BENV2255 Architecture in Sydney
+ Sydney
+_border
+BENV2260 Human Machine Interaction
+ Sydney
+_border
+BENV2270 Construction Robotics
+ Sydney
+_border
+BENV2522 Social Robotics
+ Sydney
+_border
+BENV2708 Interior Detailing
+ Sydney
+_border
+BENV2938 Transport Planning
+ Sydney
+_border
+BENV2942 Rural Planning
+ Sydney
+_border
+BENV4000 Research Methods in the Built Environment
+ Sydney
+_border
+BENV6713 Architectural Spatialisation
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

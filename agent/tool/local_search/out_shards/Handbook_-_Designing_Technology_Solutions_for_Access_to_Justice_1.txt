@@ -1,0 +1,102 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/JURD7596
+
+Handbook - Designing Technology Solutions for Access to Justice
+
+
+Handbook - Designing Technology Solutions for Access to Justice
+
+Course
+print
+Print Designing Technology Solutions for Access to Justice page
+_border
+Designing Technology Solutions for Access to Justice
+JURD7596
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Equivalent Courses
+Course Attributes
+Delivery
+Overview
+This course will teach students how to design and build an application using expert system software. Students will learn how to use this software to generate legal documents, automate intake processes, and assist users to navigate solutions to legal problems. After learning the necessary skills, students will work in small… For more content click the Read More button below.
+This course will teach students how to design and build an application using expert system software. Students will learn how to use this software to generate legal documents, automate intake processes, and assist users to navigate solutions to legal problems. After learning the necessary skills, students will work in small groups, in partnership with a not-for-profit centre or organisation, to design and build an application.
+In class, students will also be exposed to a variety of examples of automation of legal tasks, and the various legal and practical issues associated with their use, including issues of professional regulation. This will include guest lectures on a variety of topics, both technical and procedural. Students will also become familiar with theoretical approaches to legal information systems development, and the range of technologies and approaches that may contribute to applications development.
+Designing legal information systems requires students to think through a class of legal problems in a structured way. Systems can be used to generate legal documents from precedents, with variations based on the responses of a user, aswell as to answer legal questions within a particular field. They are one component of the increasing tendency to automate legal tasks. Used well, legal information systems can facilitate access to legal information and expertise, but always within the limits of their designer's foresight. Designing a good legal information system thus requires skills in legal analysis and problem-solving, as well as the ability to think creatively and explore different approaches to a problem.
+This course does not require students to have any pre-existing skills or experience in expert systems or computer programming - the course itself includes instruction on how to use expert system software.
+This course is sponsored by Gilbert and Tobin.
+Read More
+about Overview
+Conditions for Enrolment
+72 UOC of JURD courses
+Equivalent Courses
+open_in_new
+Course
+LAWS3196
+LAWS3196 - Designing Technology Solutions for Access to Justice
+Course Attributes
+Expand all
+Offered irregularly or alternate years
+keyboard_arrow_down
+The UNSW Handbook serves as a comprehensive catalogue of our courses, which are not all available every year.  This course has been flagged as being offered on an irregular or alternate year basis.
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+Refer to UNSW Timetable
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Law and Justice
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Law, Society and Criminology
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+090913 Legal Practice
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

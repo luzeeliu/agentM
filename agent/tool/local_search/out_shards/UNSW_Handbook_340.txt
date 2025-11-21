@@ -1,0 +1,90 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdF9ub3QiOlt7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3QuYWNhZGVtaWNPcmciXSwicXVlcnkiOiJhOGU4MjE2MzFiM2VlODEwZDA0NGZmYmJkYzRiY2JkYSBPUiA4MjBhYTEyNzFiM2VlODEwZDA0NGZmYmJkYzRiY2JjZiBPUiA0NDhiMjUyNzFiM2VlODEwZDA0NGZmYmJkYzRiY2IyMSJ9fV0sIm11c3QiOlt7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3QuY3NUYWdzIl0sInF1ZXJ5IjoiKjk2ZDliYWU0ZGIyZDQ4MTBmYzkzNjRlNzA1OTYxOTNhKiJ9fSx7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3QuaW1wbGVtZW50YXRpb25ZZWFyIl0sInF1ZXJ5IjoiMjAyNiJ9fSx7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3Quc3R1ZHlMZXZlbFZhbHVlIl0sInF1ZXJ5IjoidWdyZCJ9fV19fSwic29ydCI6W3sidW5zd1Byb2RfcHN1YmplY3QuY29kZV9kb3RyYXciOiJhc2MifV0sImZyb20iOjAsInNpemUiOjE1fSwicHJlZml4IjoidW5zd1Byb2RfcCJ9LCJkZXNjcmlwdGlvbiI6ImFueSBHZW5lcmFsIEVkdWNhdGlvbiBjb3Vyc2UiLCJ2ZXJzaW9uIjoiMjAyNi4wNSIsImNvZGUiOiIzNDA5IiwidGl0bGUiOiJBcnRzIiwicnVsZUlkIjoiMmE0YTI1OGQ5MzAwZmExMGQ0NWNiMmVhNmFiYTEwOWIiLCJzb3VyY2VVUkwiOiIvdW5kZXJncmFkdWF0ZS9wcm9ncmFtcy8yMDI2LzM0MDkiLCJzb3VyY2VVUkxUZXh0S2V5IjoiY3Nfd2lsZGNhcmRfc291cmNlX2JhY2tfbGlua3RleHQiLCJzb3VyY2VUeXBlIjoiUHJvZ3JhbSJ9
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Program
+search
+
+any General Education course
+
+ACTL3142 Statistical Machine Learning for Risk and Actuarial Applications
+ Sydney
+_border
+ACTL4305 Actuarial Data Science Applications
+ Sydney
+_border
+ADAD2610 Art and Design for Environmental Challenges
+ Paddington
+_border
+ANAT2521 Forensic Anthropology: Principles and Practices
+ Sydney
+_border
+ATSI1011 Indigenous Australia
+ Sydney
+_border
+ATSI1012 Aboriginal Sydney
+ Sydney
+_border
+ATSI2003 Reclaiming Material Culture
+ Sydney
+_border
+ATSI2004 What’s this, then? Blak pop culture!
+ Sydney
+_border
+ATSI2011 Indigenous Political Thought in 20th Century Australia
+ Sydney
+_border
+ATSI2012 Contemporary Issues in Indigenous Politics
+ Sydney
+_border
+ATSI2014 Indigenous People and Public Policy
+ Sydney
+_border
+ATSI2015 The Science of Indigenous Knowledges
+ Sydney
+_border
+ATSI2017 Working with Indigenous Communities
+ Sydney
+_border
+ATSI3002 Gender, sexuality, and colonialisms
+ Sydney
+_border
+ATSI3005 Race and Colonialism
+ Sydney
+_border
+ATSI3017 Indigenous Resistance and Self-Determination in 19th Century Australia
+ Sydney
+_border
+AVIA2025 Introduction to Airborne Drone Management
+ Sydney
+_border
+AVIA2325 Drones and Society
+ Sydney
+_border
+AVIA2902 Airline Financial Analysis and Decision Support
+ Sydney
+_border
+AVIA3125 Drone Entrepreneurship
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+4
+5
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

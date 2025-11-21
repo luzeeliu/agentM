@@ -1,0 +1,308 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MATHM1
+
+Handbook - Mathematics
+
+
+Handbook - Mathematics
+
+Specialisation
+print
+Print Mathematics page
+_border
+Mathematics
+MATHM1
+60 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Specialisation Structure
+Additional Information
+Overview
+The UNSW School of Mathematics and Statistics offers a complete range of courses in Mathematics and Statistics at all levels. The School is also a leading centre for mathematical research at both the national and the international level; our expertise ranges across wide areas of Mathematics, including Financial Mathematics, Biomedical… For more content click the Read More button below.
+The UNSW School of Mathematics and Statistics offers a complete range of courses in Mathematics and Statistics at all levels. The School is also a leading centre for mathematical research at both the national and the international level; our expertise ranges across wide areas of Mathematics, including Financial Mathematics, Biomedical Mathematics, and Environmental Mathematics.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Demonstrate broad knowledge and skills in fundamental areas of mathematics (such as calculus, differential equations, linear algebra, logic and proofs).
+keyboard_arrow_down
+2.
+Integrate and generate knowledge through abstraction.
+keyboard_arrow_down
+3.
+Formulate and model abstract problems using the language of mathematics.
+keyboard_arrow_down
+4.
+Model real-world scenarios in the language of mathematics.
+keyboard_arrow_down
+5.
+Construct and communicate mathematical information, arguments and proofs to diverse audiences.
+keyboard_arrow_down
+6.
+Analyse problems and select appropriate mathematics tools for developing solutions.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Specialisation Structure
+Students must complete 60 UOC.
+Expand all
+Level 1 Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+Level 2 Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2501
+6 UOC
+Linear Algebra
+OR
+arrow_forward
+MATH2601
+6 UOC
+Higher Linear Algebra
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2801
+6 UOC
+Theory of Statistics
+OR
+arrow_forward
+MATH2901
+6 UOC
+Higher Theory of Statistics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2011
+6 UOC
+Several Variable Calculus
+OR
+arrow_forward
+MATH2111
+6 UOC
+Higher Several Variable Calculus
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2521
+6 UOC
+Complex Analysis
+OR
+arrow_forward
+MATH2621
+6 UOC
+Higher Complex Analysis
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2121
+6 UOC
+Theory and Applications of Differential Equations
+OR
+arrow_forward
+MATH2221
+6 UOC
+Higher Theory and Applications of Differential Equations
+Level 3 Mathematics Prescribed Electives
+6 Units of Credit:
+keyboard_arrow_down
+Students must complete an additional 6 UOC elective, chosen from any Level 3 (or hybrid) Mathematics course not already taken (excluding MATH3599 and MATH3699).
+open_in_new
+any level 3 Mathematics course
+open_in_new
+any level 6 Mathematics course
+Level 3 Non-Statistics Prescribed Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must complete 12 UOC of non-statistics Level 3 (or hybrid) Mathematics courses (excluding MATH3599 and MATH3699).
+Courses numbered from MATH3000 to MATH3799 or MATH6700 to MATH6899 (inclusive) are non-statistics Mathematics courses.
+arrow_forward
+MATH3000
+3 UOC
+Mathematics/Statistics Project
+arrow_forward
+MATH3001
+6 UOC
+Mathematics/Statistics Project
+arrow_forward
+MATH3002
+12 UOC
+Mathematics/Statistics Project
+arrow_forward
+MATH3041
+6 UOC
+Mathematical Modelling for Real World Systems
+arrow_forward
+MATH3051
+6 UOC
+Applied Real and Functional Analysis
+arrow_forward
+MATH3101
+6 UOC
+Computational Mathematics for Science and Engineering
+arrow_forward
+MATH3121
+6 UOC
+Mathematical Methods and Partial Differential Equations
+arrow_forward
+MATH3161
+6 UOC
+Optimization
+arrow_forward
+MATH3171
+6 UOC
+Linear and Discrete Optimization Modelling
+arrow_forward
+MATH3191
+6 UOC
+Mathematical Optimization for Data Science
+arrow_forward
+MATH3201
+6 UOC
+Dynamical Systems and Chaos
+arrow_forward
+MATH3261
+6 UOC
+Fluids, Oceans and Climate
+arrow_forward
+MATH3311
+6 UOC
+Computational Mathematics for Finance
+arrow_forward
+MATH3361
+6 UOC
+Stochastic Differential Equations: Theory, Applications, and Numerical Methods
+arrow_forward
+MATH3371
+6 UOC
+Numerical Linear Algebra
+arrow_forward
+MATH3411
+6 UOC
+Information, Codes and Ciphers
+arrow_forward
+MATH3431
+6 UOC
+Number Theory
+arrow_forward
+MATH3511
+6 UOC
+Transformations, Groups and Geometry
+arrow_forward
+MATH3531
+6 UOC
+Topology and Differential Geometry
+arrow_forward
+MATH3560
+3 UOC
+History of Mathematics
+arrow_forward
+MATH3570
+3 UOC
+Foundations of Calculus
+arrow_forward
+MATH3611
+6 UOC
+Higher Analysis
+arrow_forward
+MATH3701
+6 UOC
+Higher Topology and Differential Geometry
+arrow_forward
+MATH3711
+6 UOC
+Higher Algebra
+arrow_forward
+MATH6781
+6 UOC
+Biomathematics
+Level 1 Elective
+keyboard_arrow_down
+Students are also recommended to take MATH1081 Discrete Mathematics (6UOC) as a Level 1 elective.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Additional Information
+Notes
+Students majoring in Mathematics are strongly recommended to take MATH2301 or an equivalent course in practical numerical computing.
+Many courses in Mathematics are offered at two levels. The higher level courses cater for students with greater mathematical ability and/or a higher level of prior knowledge. Students with suitable qualifications are encouraged to enrol in the corresponding higher level courses.
+Students who are completing the Bachelor Science (majoring in Mathematics) in concurrent mode with a Bachelor of Engineering will need to substitute some level II courses in the Engineering program. For more information see this document:
+Mathematics in BE BSc Programs
+or contact the
+School of Mathematics and Statistics
+.
+Honours
+Students interested in undertaking Honours in Applied or Pure Mathematics must take at least 30 UoC of Stage III Applied or Pure Mathematics courses in order to be eligible. Please consult the School of Mathematics and Statistics for advice on choosing the right courses.
+For more information about Honours in Mathematics see the following streams or contact the
+School of Mathematics and Statistics
+:
+Applied Mathematics Honours
+Pure Mathematics Honours
+Statistics Honours.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+60
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

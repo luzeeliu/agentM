@@ -1,0 +1,38 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH2901.html
+
+UNSW Handbook Course - Higher Theory of Statistics - MATH2901
+
+
+UNSW Handbook Course - Higher Theory of Statistics - MATH2901
+Higher Theory of Statistics - MATH2901
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: MATH1231 or MATH1241 or MATH1251 (or enrolment in program 3653 Software Engineering / Commerce and completion of either MATH1131 or MATH1141). Exclusion: CVEN2002, CVEN2025, CVEN2702, ECON2215, ECON1203
+Excluded:
+BEES2041, MATH2089, MATH2099, MATH2801, MATH2859
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+As for MATH2801 but in greater depth:
+This course provides an introduction to the theoretical underpinning of statistics; it covers fundamental results from probability and distribution theory and shows how to apply the theory to the analysis of data.  Topics include:  Random variables, univariate and bivariate distributions. Transformations of random variables.  Convergence of random variables, the sampling distribution and the Central Limit Theorem.  Estimation and inference including moment and likelihood estimation, interval estimation, and hypothesis testing.

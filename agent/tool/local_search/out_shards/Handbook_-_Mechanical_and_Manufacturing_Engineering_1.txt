@@ -1,0 +1,449 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MECHE1
+
+Handbook - Mechanical and Manufacturing Engineering
+
+
+Handbook - Mechanical and Manufacturing Engineering
+
+Specialisation
+print
+Print Mechanical and Manufacturing Engineering page
+_border
+Mechanical and Manufacturing Engineering
+MECHE1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Engineering Science equips graduates to apply a combination of knowledge and skills to engineering tasks and systems. It provides both foundational knowledge in the underpinnings of Engineering, discipline specific understanding, and practice in the application of that to complex situations. The major allows for a flexible choice of courses in… For more content click the Read More button below.
+Engineering Science equips graduates to apply a combination of knowledge and skills to engineering tasks and systems. It provides both foundational knowledge in the underpinnings of Engineering, discipline specific understanding, and practice in the application of that to complex situations.
+The major allows for a flexible choice of courses in the field of Mechanical and Manufacturing Engineering, and develops abilities in problem solving, communication and team work. Students are prepared to implement and improve mechanical and manufacturing engineering technology in a range of environments, from industry, to research, to commercial enterprise.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+In-depth understanding of specialist bodies of knowledge within the engineering discipline.
+Scholars
+keyboard_arrow_down
+2.
+Orderly management of self, and professional conduct.
+Scholars
+Professionals
+Leaders
+keyboard_arrow_down
+3.
+Discernment of knowledge development and research directions within the engineering discipline.
+Scholars
+keyboard_arrow_down
+4.
+Effective team membership and team leadership.
+Leaders
+Scholars
+Professionals
+Global citizens
+keyboard_arrow_down
+5.
+Knowledge of engineering design practice and contextual factors impacting the engineering discipline.
+Scholars
+Global citizens
+Professionals
+keyboard_arrow_down
+6.
+Understanding of the scope, principles, norms, accountabilities and bounds of sustainable engineering practice in the specific discipline.
+Scholars
+Professionals
+Global citizens
+keyboard_arrow_down
+7.
+Application of established engineering methods to complex engineering problem solving.
+Scholars
+Professionals
+Global citizens
+keyboard_arrow_down
+8.
+Fluent application of engineering techniques, tools and resources.
+Professionals
+Scholars
+keyboard_arrow_down
+9.
+Application of systematic engineering synthesis and design processes.
+Global citizens
+Professionals
+Scholars
+keyboard_arrow_down
+10.
+Ethical conduct and professional accountability.
+Global citizens
+Professionals
+keyboard_arrow_down
+11.
+Effective oral and written communication in professional and lay domains.
+Scholars
+Leaders
+Global citizens
+keyboard_arrow_down
+12.
+Systematic, theory based understanding of the underpinning natural and physical sciences and the engineering fundamentals applicable to the engineering discipline.
+Scholars
+keyboard_arrow_down
+13.
+Creative, innovative and pro-active demeanour.
+Leaders
+Professionals
+Scholars
+keyboard_arrow_down
+14.
+Conceptual understanding of the mathematics, numerical analysis, statistics, and computer and information sciences which underpin the engineering discipline.
+Scholars
+keyboard_arrow_down
+15.
+Professional use and management of information.
+Leaders
+Scholars
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering Science - BEngSc
+3706 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Students complete additional elective courses beyond the minimum UOC required in each elective list to bring the total to 96 UOC. Those electives must be taken from the courses listed below.
+Expand all
+Level 1 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC from the following courses.
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+ENGG1300
+6 UOC
+Engineering Mechanics
+arrow_forward
+MMAN1130
+6 UOC
+Design and Manufacturing
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+OR
+arrow_forward
+COMP1911
+6 UOC
+Computing 1A
+OR
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+Level 2 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC from the following courses.
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2400
+6 UOC
+Mechanics of Solids 1
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+MMAN2300
+6 UOC
+Engineering Mechanics 2
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 and 4 Prescribed Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take at least 24 UOC from the following courses.
+arrow_forward
+AERO9500
+6 UOC
+Space Systems Architectures and Orbits
+arrow_forward
+AERO9610
+6 UOC
+The Space Segment
+arrow_forward
+AERO9660
+6 UOC
+Advanced Aerospace Propulsion
+arrow_forward
+COMP3331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+DESN3000
+6 UOC
+Strategic Design Innovation
+arrow_forward
+ELEC4633
+6 UOC
+Real-Time Engineering
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG4841
+6 UOC
+Systems Engineering Fundamentals
+arrow_forward
+MANF3510
+6 UOC
+Process Technology and Automation
+arrow_forward
+MANF4100
+6 UOC
+Design and Analysis of Product-Process Systems
+arrow_forward
+MANF4150
+6 UOC
+Concurrent Engineering of Smart Product and Manufacturing Systems in Industry 4.0
+arrow_forward
+MANF4430
+6 UOC
+Reliability and Maintenance Engineering
+arrow_forward
+MANF4611
+6 UOC
+Process Modelling and Simulation
+arrow_forward
+MANF6860
+6 UOC
+Strategic Manufacturing Management
+arrow_forward
+MANF9400
+6 UOC
+Industrial Management
+arrow_forward
+MANF9420
+6 UOC
+Operations and Supply Chain Management in Engineering
+arrow_forward
+MANF9472
+6 UOC
+Production Planning and Control
+arrow_forward
+MECH3110
+6 UOC
+Mechanical Design 1
+arrow_forward
+MECH4770
+6 UOC
+Fundamentals and Design of Electrochemical Energy Storage Systems
+arrow_forward
+MECH4100
+6 UOC
+Mechanical Design 2
+arrow_forward
+MECH4305
+6 UOC
+Fundamental and Advanced Vibration Analysis
+arrow_forward
+MECH4320
+6 UOC
+Engineering Mechanics 3
+arrow_forward
+MECH4620
+6 UOC
+Computational Fluid Dynamics
+arrow_forward
+MECH4880
+6 UOC
+Refrigeration and Air Conditioning 1
+arrow_forward
+MECH4900
+6 UOC
+Mechanics of Fracture and Fatigue
+arrow_forward
+MECH9325
+6 UOC
+Fundamentals of Acoustics & Noise
+arrow_forward
+MECH9420
+6 UOC
+Composite Materials and Mechanics
+arrow_forward
+MECH9650
+6 UOC
+Applied Bio and Microfluidics
+arrow_forward
+MECH9720
+6 UOC
+Solar Thermal Energy Design
+arrow_forward
+MECH9761
+6 UOC
+Automobile Engine Technology
+arrow_forward
+MMAN3200
+6 UOC
+Linear Systems and Control
+arrow_forward
+MMAN4200
+6 UOC
+Additive Manufacturing
+arrow_forward
+MMAN4250
+6 UOC
+Micro/Nanofabrication and Technology
+arrow_forward
+MMAN4400
+6 UOC
+Engineering Management
+arrow_forward
+MMAN4410
+6 UOC
+Finite Element Methods
+arrow_forward
+MMAN9350
+6 UOC
+Digital and Artificial Intelligence Technologies for Engineering Applications
+arrow_forward
+MTRN9400
+6 UOC
+Control of Robotic Systems
+arrow_forward
+SOLA5052
+6 UOC
+Bioenergy and Renewable Fuels
+arrow_forward
+SOLA5053
+6 UOC
+Wind Energy Converters
+arrow_forward
+SOLA5056
+6 UOC
+Sustainable Energy for Developing Countries
+arrow_forward
+SOLA5057
+6 UOC
+Energy Efficiency
+Course Substitution
+keyboard_arrow_down
+A student may be able to substitute a maximum of 12 UOC of core courses subject to the approval of their School and the Associate Dean (Academic Programs) of the Faculty of Engineering. Students who have transferred to 3706 from a single or dual Bachelor of Engineering (Hons) may count courses not listed here towards the requirements of their major if they are considered equivalent or have been superseded by other courses. This is only possible if the course(s) were listed in the handbook for their Engineering major, and they are completing an Engineering Science major in the same discipline.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mechanical and Manufacturing Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

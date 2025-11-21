@@ -1,0 +1,93 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MATH3121
+
+Handbook - Mathematical Methods and Partial Differential Equations
+
+
+Handbook - Mathematical Methods and Partial Differential Equations
+
+Course
+print
+Print Mathematical Methods and Partial Differential Equations page
+_border
+Mathematical Methods and Partial Differential Equations
+MATH3121
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+This is an applied mathematics course that builds on MATH2120 Mathematical Methods for Differential Equations. The course will present ways of solving the (usually partial) differential equations that arise in physical, biological, and engineering applications. Many of the methods covered, such as Fourier Transforms, also have applications beyond the solution… For more content click the Read More button below.
+This is an applied mathematics course that builds on MATH2120 Mathematical Methods for Differential Equations. The course will present ways of solving the (usually partial) differential equations that arise in physical, biological, and engineering applications. Many of the methods covered, such as Fourier Transforms, also have applications beyond the solution of differential equations.
+The course begins by characterising different partial differential equations (PDEs), and exploring some methods of solution, such as similarity solutions and the method of characteristics. Integral transforms, including Fourier and Laplace transforms, are then investigated. These transforms are particularly useful for solving linear PDEs. Whilst complex contour integration is an intrinsic part of using these transforms, only brief references to complex variable methods will be made.
+The success of integral transforms naturally leads to the discussion of Green’s function and integral forms of the solution of PDEs. The power of Green’s functions can be observed in their use as the inverses of differential operators on both infinite and bounded domains. Finally, we will explore techniques to examine the asymptotic behaviour of functions.
+The course comprises of weekly lectures and tutorials.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: 12 units of credit in Level 2 Mathematics courses including (MATH2011 or MATH2111) and (MATH2121 or MATH2221) or (both MATH2019 (DN) and MATH2089) or both (MATH2069 (DN) and MATH2099)
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+5 hrs/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010101 Mathematics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,91 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/CVEN4404
+
+Handbook - Traffic Engineering
+
+
+Handbook - Traffic Engineering
+
+Course
+print
+Print Traffic Engineering page
+_border
+Traffic Engineering
+CVEN4404
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+Traffic engineering professionals are tasked with the responsibility of ensuring the safe and efficient movement of people and goods through the provision and maintenance of transportation systems. The effectiveness of the transport system impacts the economic development and quality of life for the entire community. The course will cover the… For more content click the Read More button below.
+Traffic engineering professionals are tasked with the responsibility of ensuring the safe and efficient movement of people and goods through the provision and maintenance of transportation systems. The effectiveness of the transport system impacts the economic development and quality of life for the entire community.
+The course will cover the broad topics of traffic flow theory and modelling, traffic control device design and implementation and traffic management practices. The fundamentals of traffic flow theory and the tools necessary to assess capacity and level of service for road segments and intersections are discussed in detail during the first half of the course. The second half of the course covers the application of the theory and use of the tools to conduct traffic studies and manage and control traffic related issues. Students will have the opportunity to analyse real traffic data, develop traffic management plans and design traffic control devices using industry prevalent modelling software, such as "SIDRA Intersection", which will provide students with the necessary practical skills to be a traffic engineer.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: CVEN2401 or CVEN3401 or CVEN2402 or CVEN3402
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Civil and Environmental Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+030909 Transport Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,77 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiQ09NUDQqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiIqdWdyZCoifX1dfX0sInNvcnQiOlt7InVuc3dQcm9kX3BzdWJqZWN0LmNvZGVfZG90cmF3IjoiYXNjIn1dLCJmcm9tIjowLCJzaXplIjoxNX0sInByZWZpeCI6InVuc3dQcm9kX3AifSwiZGVzY3JpcHRpb24iOiJhbnkgTGV2ZWwgNCBDb21wdXRlciBTY2llbmNlIGNvdXJzZSIsInZlcnNpb24iOiIyMDI2LjAxQVIiLCJjb2RlIjoiQ09NUENIIiwidGl0bGUiOiJDb21wdXRlciBTY2llbmNlIiwicnVsZUlkIjoiYmIwMGM4Y2JjM2NjZmE1MGQ5MWVmZDc3N2QwMTMxODMiLCJzb3VyY2VVUkwiOiIvdW5kZXJncmFkdWF0ZS9zcGVjaWFsaXNhdGlvbnMvMjAyNi9DT01QQ0giLCJzb3VyY2VVUkxUZXh0S2V5IjoiY3Nfd2lsZGNhcmRfc291cmNlX2JhY2tfbGlua3RleHQiLCJzb3VyY2VUeXBlIjoiSG9ub3VycyBTcGVjaWFsaXNhdGlvbiJ9
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Honours Specialisation
+search
+
+any Level 4 Computer Science course
+
+COMP4121 Advanced Algorithms
+ Sydney
+_border
+COMP4128 Programming Challenges
+ Sydney
+_border
+COMP4141 Theory of Computation
+ Sydney
+_border
+COMP4161 Advanced Topics in Software Verification
+ Sydney
+_border
+COMP4336 Mobile Data Networking
+ Sydney
+_border
+COMP4337 Securing Fixed and Wireless Networks
+ Sydney
+_border
+COMP4418 Knowledge Representation and Reasoning
+ Sydney
+_border
+COMP4431 Game Design Workshop
+ Sydney
+_border
+COMP4511 User Interface Design and Construction
+ Sydney
+_border
+COMP4601 Design Project B
+ Sydney
+_border
+COMP4920 Professional Issues and Ethics in Information Technology
+ Sydney
+_border
+COMP4951 Research Thesis A
+ Sydney
+_border
+COMP4952 Research Thesis B
+ Sydney
+_border
+COMP4953 Research Thesis C
+ Sydney
+_border
+COMP4961 Computer Science Thesis A
+ Sydney
+_border
+COMP4962 Computer Science Thesis B
+ Sydney
+_border
+COMP4963 Computer Science Thesis C
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

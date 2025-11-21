@@ -1,0 +1,107 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MATH2501
+
+Handbook - Linear Algebra
+
+
+Handbook - Linear Algebra
+
+Course
+print
+Print Linear Algebra page
+_border
+Linear Algebra
+MATH2501
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+Linear algebra is a critical tool in all mathematics and its applications. For example, the output of many electrical circuits depends linearly on the input (over moderate ranges of input), and successfully correcting the trajectory of a space probe involves repeatedly solving systems of linear equations in hundreds of variables.… For more content click the Read More button below.
+Linear algebra is a critical tool in all mathematics and its applications. For example, the output of many electrical circuits depends linearly on the input (over moderate ranges of input), and successfully correcting the trajectory of a space probe involves repeatedly solving systems of linear equations in hundreds of variables. Linear methods are vital in ecological population models and in mathematics itself. Students have been introduced to systems of linear equations and matrices, vector spaces and linear transformations in first-year Mathematics courses without understanding all the subtleties involved.
+MATH2501will review material from first year (MATH1231, MATH1241 or MATH1251) so that vector spaces and linear transformations become familiar friends rather than uneasy acquaintances. Students will learn about important geometric transformations: projections, rotations, and reflections. Students will see their applications, such as the least squares approximations, and will learn how to view many linear transformations as being made up of “stretches”; in various directions, the so-called diagonalisation process, and the more general Jordan form. The course will also introduce Jordan forms, which are used to calculate functions of matrices, such as the exponential of a matrix and hence to solve systems of linear differential equations.
+The course is delivered through lectures and tutorials, which provide guidance and activities to help students refine and apply the knowledge gained in lectures.
+Note: MATH2601 is the higher level version of this course, which is primarily but not exclusively intended for students aiming to complete honours in applied mathematics, pure mathematics, statistics or data science, and so aims to give students a deeper level of understanding of the course content.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014
+Exclusion Courses
+open_in_new
+Course
+MATH2099
+MATH2099 - Mathematics 2B
+open_in_new
+Course
+MATH2601
+MATH2601 - Higher Linear Algebra
+Delivery
+Expand all
+In-person -
+keyboard_arrow_down
+Delivery Mode
+In-person
+Multimodal - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+Multimodal
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+6 hours/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010101 Mathematics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

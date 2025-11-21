@@ -1,0 +1,77 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiSU5GUzMqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiIqdWdyZCoifX1dfX0sInNvcnQiOlt7InVuc3dQcm9kX3BzdWJqZWN0LmNvZGVfZG90cmF3IjoiYXNjIn1dLCJmcm9tIjowLCJzaXplIjoxNX0sInByZWZpeCI6InVuc3dQcm9kX3AifSwiZGVzY3JpcHRpb24iOiJhbnkgbGV2ZWwgMyBJbmZvcm1hdGlvbiBTeXN0ZW1zIGNvdXJzZSIsInZlcnNpb24iOiIyMDI2LjAxQVIiLCJjb2RlIjoiU0VOR0FIIiwidGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlcmluZyIsInJ1bGVJZCI6IjQ5MTAwY2NiYzNjY2ZhNTBkOTFlZmQ3NzdkMDEzMTI2Iiwic291cmNlVVJMIjoiL3VuZGVyZ3JhZHVhdGUvc3BlY2lhbGlzYXRpb25zLzIwMjYvU0VOR0FIIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6Ikhvbm91cnMgU3BlY2lhbGlzYXRpb24ifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Honours Specialisation
+search
+
+any level 3 Information Systems course
+
+INFS3020 Information Systems and Technology International Study Tour
+ Sydney
+_border
+INFS3202 Industry Placement 2
+ Sydney
+_border
+INFS3300 Practising Ethical AI and Responsible Digital Innovation
+ Sydney
+_border
+INFS3303 Industry Placement 3
+ Sydney
+_border
+INFS3603 Introduction to Business Analytics
+ Sydney
+_border
+INFS3604 Business Process Management
+ Sydney
+_border
+INFS3605 Information Systems Innovation & Transformation
+ Sydney
+_border
+INFS3700 User Experience and IT Service Design
+ Sydney
+_border
+INFS3701 Enterprise Architecture for Scalable Cloud Solutions
+ Sydney
+_border
+INFS3703 Information Systems Project Management
+ Sydney
+_border
+INFS3822 Artificial Intelligence for Business Analytics
+ Sydney
+_border
+INFS3830 Social Media Analytics
+ Sydney
+_border
+INFS3873 Business Analytics Methods
+ Sydney
+_border
+INFS3919 Business Continuity, Incidence Response, and Disaster Recovery
+ Sydney
+_border
+INFS3922 Cybersecurity Trends and Best Practices
+ Sydney
+_border
+INFS3929 Risk Management in Cybersecurity
+ Sydney
+_border
+INFS3959 Cybersecurity Intelligence and the Incident Response
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH1031.html
+
+UNSW Handbook Course - Mathematics for Life Sciences - MATH1031
+
+
+UNSW Handbook Course - Mathematics for Life Sciences - MATH1031
+Mathematics for Life Sciences - MATH1031
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+6
+Excluded:
+ECON1202, ECON2291, MATH1011, MATH1131, MATH1141, MATH1151
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Matrices and systems of linear equations. Functions and modelling. Differentiation. Exponentials and logarithms. Analysis of functions (limiting behaviour, maxima and minima, locating zeros). Functions of several variables. Interpolation and approximation. Discrete time dynamical systems. Integration. Differential equations.  Assumed knowledge: A level of knowledge equivalent to achieving a mark of at least 60 in HSC Mathematics. Students who have taken General Mathematics will not have achieved the level of knowledge which is assumed in this course.Note: This course is not intended for students who propose to study a substantial amount of Mathematics beyond first year level. Many later year courses in Mathematics have completion of MATH1231, MATH1241 or MATH1251 as a prerequisite.

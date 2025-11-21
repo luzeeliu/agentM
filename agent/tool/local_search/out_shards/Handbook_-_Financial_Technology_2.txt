@@ -1,0 +1,132 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/specialisations/2026/FINSQS
+
+Handbook - Financial Technology
+
+
+Handbook - Financial Technology
+
+Specialisation
+print
+Print Financial Technology page
+_border
+Financial Technology
+FINSQS
+24 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Financial Technology (FinTech) is a rapidly growing field in finance where technology enhances and reimagines financial services, resulting in disruptive changes. The most well-known examples are payment systems (PayPal, WeChat, Bitcoin and cryptocurrency), wealth management (Big Data, artificial intelligence, and machine learning) and advisory services (robo-advisers), banking (payday loans and… For more content click the Read More button below.
+Financial Technology (FinTech) is a rapidly growing field in finance where technology enhances and reimagines financial services, resulting in disruptive changes. The most well-known examples are payment systems (PayPal, WeChat, Bitcoin and cryptocurrency), wealth management (Big Data, artificial intelligence, and machine learning) and advisory services (robo-advisers), banking (payday loans and peer-to-peer lending), trading tools (high-frequency trading), and decentralized finance (of which cryptocurrency and blockchain technology form the foundation). Established financial services firms and technology companies both demand talent in this space, as FinTech products are by nature scalable and have potential for huge impact in a financial services business.
+Co-developed with financial services industry experts, this specialisation introduces students to finance theory, financial products, markets, and institutions, then explores how big data and other technologies allow FinTech start-ups to cause consumers to shift away from traditional finance - fundamentally changing the way money is raised, transferred, stored, loaned, and invested around the world. In addition to a conceptual understanding of finance theory, financial markets, and financial services firms,
+Students will experience FinTech courses via the Integrated Learning Laboratory (iLab). They will be able to gain personal access to financial market data platforms, handle financial market and unstructured data, learn how financial products work via the Python programming language, trade using the leading stock trading platform used by brokerage firms, and interact with practitioners.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Master of Commerce - MCom
+8404 - Commerce
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+72
+Typical duration:
+1.7 Year(s)
+open_in_new
+Read More
+Master of Commerce (Extension) - MCom(Extn)
+8417 - Commerce (Extension)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+96
+Typical duration:
+2 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 24 UOC.
+Expand all
+Foundation Core Course
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following course.
+arrow_forward
+FINS5512
+6 UOC
+Financial Markets and Institutions
+Specialisation Elective Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+FINS5545
+6 UOC
+Financial Market Data Literacy
+arrow_forward
+FINS5546
+6 UOC
+Toolkit for Financial Market Decisions
+arrow_forward
+FINS5547
+6 UOC
+Cryptocurrency and Decentralised Finance
+arrow_forward
+FINS5548
+6 UOC
+Financial Technology
+arrow_forward
+FINS5557
+6 UOC
+Applied AI for Finance
+Course Sharing for Double Specialisations
+keyboard_arrow_down
+Students who complete two specialisations that share a common Foundation Core Course (COMMKS and ECONFS, FINSCS and FINSQS, or MARKGS and MARKTS) must take an additional 6 UOC of Electives or Capstone Courses. These students are strongly recommended to choose another specialisation course as their additional Elective.
+For example, in Finance and Financial Technology where FINS5512 are requirements for both specialisations, students are recommended to complete an additional specialisation core elective course – e.g. FINS5510/FINS5530 or FINS5545/FINS5546/FINS5547/FINS5548.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Banking and Finance
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Minimum Units of Credit
+24
+Specialisation Type
+info
+Specialisation
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

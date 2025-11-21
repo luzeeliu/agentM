@@ -1,0 +1,90 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jc1RhZ3MiXSwicXVlcnkiOiIqOTZkOWJhZTRkYjJkNDgxMGZjOTM2NGU3MDU5NjE5M2EqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiJ1Z3JkIn19XSwibXVzdF9ub3QiOlt7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3QucGFyZW50QWNhZGVtaWNPcmciXSwicXVlcnkiOiI1N2E1NmNlYjRmMDA5MzAwNGFhNmViNGYwMzEwYzdhZSJ9fV19fSwic29ydCI6W3sidW5zd1Byb2RfcHN1YmplY3QuY29kZV9kb3RyYXciOiJhc2MifV0sImZyb20iOjAsInNpemUiOjE1fSwicHJlZml4IjoidW5zd1Byb2RfcCJ9LCJkZXNjcmlwdGlvbiI6ImFueSBHZW5lcmFsIEVkdWNhdGlvbiBjb3Vyc2UiLCJ2ZXJzaW9uIjoiMjAyNi4wMUFSIiwiY29kZSI6IjM5NjUiLCJ0aXRsZSI6IkVudmlyb25tZW50YWwgTWFuYWdlbWVudCIsInJ1bGVJZCI6ImQ4ZWFjYzE0OTNiMzY2MTBkNDVjYjJlYTZhYmExMDEyIiwic291cmNlVVJMIjoiL3VuZGVyZ3JhZHVhdGUvcHJvZ3JhbXMvMjAyNi8zOTY1Iiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6IlByb2dyYW0ifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Program
+search
+
+any General Education course
+
+ACTL3142 Statistical Machine Learning for Risk and Actuarial Applications
+ Sydney
+_border
+ACTL4305 Actuarial Data Science Applications
+ Sydney
+_border
+ADAD2610 Art and Design for Environmental Challenges
+ Paddington
+_border
+ANAT2521 Forensic Anthropology: Principles and Practices
+ Sydney
+_border
+ARTS1009 Creative Writing
+ Sydney
+_border
+ARTS1011 Inventing the Self: Creative Writing in the Digital Age
+ Sydney
+_border
+ARTS1030 The Literary Imagination: Introduction to English
+ Sydney
+_border
+ARTS1031 Reading Through Time
+ Sydney
+_border
+ARTS1032 The Literature Laboratory: Writing Beyond Limits
+ Sydney
+_border
+ARTS1060 Introduction to Film Studies
+ Sydney
+_border
+ARTS1062 Hollywood Film: Industry, Technology, Aesthetics
+ Sydney
+_border
+ARTS1120 Experiencing Theatre
+ Sydney
+_border
+ARTS1121 Performance and Popular Culture
+ Sydney
+_border
+ARTS1122 Creativity
+ Sydney
+_border
+ARTS1190 Sydney: History, Landscapes, People
+ Sydney
+_border
+ARTS1210 Concepts of Asia
+ Sydney
+_border
+ARTS1211 Australia's Asian Context
+ Sydney
+_border
+ARTS1240 Environment and Society
+ Sydney
+_border
+ARTS1241 Environmental Advocacy and Activism
+ Sydney
+_border
+ARTS1250 Human Geography: Society, Space and Territory
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+4
+5
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

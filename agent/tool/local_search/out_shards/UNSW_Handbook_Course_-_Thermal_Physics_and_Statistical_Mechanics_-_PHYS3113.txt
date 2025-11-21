@@ -1,0 +1,37 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS3113.html
+
+UNSW Handbook Course -  Thermal Physics and Statistical Mechanics - PHYS3113
+
+
+UNSW Handbook Course -  Thermal Physics and Statistical Mechanics - PHYS3113
+Thermal Physics and Statistical Mechanics - PHYS3113
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+School of Physics
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+6
+Enrolment Requirements:
+Prerequisite: PHYS2111 or PHYS2110 Exclusion: PHYS2210, PHYS3021
+Excluded:
+PHYS3021
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Thermal physics and statistical mechanics is concerned with the study of macroscopic and mesoscopic systems. Both aim to understand the properties of systems and processes that occur in such systems. Statistical mechanics links mesoscopic and macroscopic properties of systems of matter and radiation with the fundamental microscopic physics (classical and quantum mechanics). It puts the concepts of thermodynamics on a firm foundation of mechanics. Its importance in the development of modern physics, from the understanding of stars to the smallest transistor, cannot be overestimated. Topics to be covered include: Classical thermodynamics. Kinetic theory of gases, ideal gas, van der Waals gas. First law of thermodynamics. Heat engines, Carnot cycle, Carnot’s theorem. Classical entropy, second law of thermodynamics. Third law of thermodynamics. Postulate approach to classical thermodynamics, fundamental 1° equation and its consequences. Alternative formulations, thermodynamic potentials, Legendre transforms, Maxwell’s relations. Phase transitions stability criteria, Clausius-Clapeyron equation, Gibbs phase rule. Thermodynamic probability, Boltzmann entropy. Boltzmann distribution, Fermi-Dirac and Bose-Einstein distributions. Partition function. Micro-canonical, canonical and grand canonical ensembles. Heat capacity of diatomics, Einstein and Debye models, phonons. Paramagnetism. Blackbody radiation. Bose-Einstein condensation, liquid helium. Fermi energy, free electrons and the Fermi gas.

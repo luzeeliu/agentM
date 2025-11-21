@@ -1,0 +1,411 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/CVENJ1
+
+Handbook - Civil Engineering
+
+
+Handbook - Civil Engineering
+
+Specialisation
+print
+Print Civil Engineering page
+_border
+Civil Engineering
+CVENJ1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Engineering Science equips graduates to apply a combination of knowledge and skills to engineering tasks and systems. It provides both foundational knowledge in the underpinnings of Engineering, discipline specific understanding, and practice in the application of that to complex situations. The major allows for a flexible choice of courses in… For more content click the Read More button below.
+Engineering Science equips graduates to apply a combination of knowledge and skills to engineering tasks and systems. It provides both foundational knowledge in the underpinnings of Engineering, discipline specific understanding, and practice in the application of that to complex situations.
+The major allows for a flexible choice of courses in the field of Civil Engineering, and develops abilities in problem solving, communication and teamwork. Students are prepared to implement and improve the infrastructure that supports modern society in a range of environments, from industry, to research, to commercial enterprise.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering Science - BEngSc
+3706 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Students complete additional elective courses beyond the minimum UOC required in each elective list to bring the total to 96 UOC. Those electives must be taken from the courses listed above.
+Expand all
+Level 1 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC from the following courses
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1300
+6 UOC
+Engineering Mechanics
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+MATS1101
+6 UOC
+Engineering Materials and Chemistry
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC from the following courses
+arrow_forward
+CVEN2002
+6 UOC
+Civil and Environmental Engineering Computations
+arrow_forward
+CVEN2101
+6 UOC
+Engineering Construction
+arrow_forward
+CVEN2303
+6 UOC
+Structural Analysis and Modelling
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2400
+6 UOC
+Mechanics of Solids 1
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 and 4 Prescribed Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take at least  24 UOC from the following courses
+arrow_forward
+CODE2170
+6 UOC
+Building Information Modelling
+arrow_forward
+CVEN3101
+6 UOC
+Engineering Operations and Control
+arrow_forward
+CVEN3202
+6 UOC
+Soil Mechanics
+arrow_forward
+CVEN3203
+6 UOC
+Applied Geotechnics and Engineering Geology
+arrow_forward
+CVEN3303
+6 UOC
+Steel Structures
+arrow_forward
+CVEN3304
+6 UOC
+Concrete Structures
+arrow_forward
+CVEN3401
+6 UOC
+Transport and Highway Engineering
+arrow_forward
+CVEN3501
+6 UOC
+Water Resources Engineering
+arrow_forward
+CVEN3502
+6 UOC
+Water and Wastewater Engineering
+arrow_forward
+CVEN3701
+6 UOC
+Environmental Frameworks, Law and Economics
+arrow_forward
+CVEN4102
+6 UOC
+Operations and Projects
+arrow_forward
+CVEN4103
+6 UOC
+Engineering Contracts
+arrow_forward
+CVEN4104
+6 UOC
+Sustainability in Construction
+arrow_forward
+CVEN4106
+6 UOC
+Construction Practicum
+arrow_forward
+CVEN4201
+6 UOC
+Rock and Slope Engineering
+arrow_forward
+CVEN4202
+6 UOC
+Advanced Topics in Geotechnical Engineering
+arrow_forward
+CVEN4204
+6 UOC
+Ground Improvement and Monitoring Techniques
+arrow_forward
+CVEN4300
+6 UOC
+Structures Practicum
+arrow_forward
+CVEN4301
+6 UOC
+Advanced Concrete Structures
+arrow_forward
+CVEN4308
+6 UOC
+Structural Dynamics
+arrow_forward
+CVEN4309
+6 UOC
+Timber Structures
+arrow_forward
+CVEN4402
+6 UOC
+Transport Networks
+arrow_forward
+CVEN4404
+6 UOC
+Traffic Engineering
+arrow_forward
+CVEN4405
+6 UOC
+Human Factors in Engineering
+arrow_forward
+CVEN4503
+6 UOC
+Groundwater Resource Investigation
+arrow_forward
+CVEN4504
+6 UOC
+Wastewater Technology and Industrial Application
+arrow_forward
+CVEN4507
+6 UOC
+Resilient Flood Design
+arrow_forward
+CVEN4701
+6 UOC
+Planning Sustainable Infrastructure
+arrow_forward
+CVEN4703
+6 UOC
+Advanced Water Quality Principles
+arrow_forward
+CVEN4705
+6 UOC
+Environmental Sustainability - Methods, Tools, Management
+arrow_forward
+CVEN4706
+6 UOC
+Air Quality and Pollution
+arrow_forward
+CVEN4800
+6 UOC
+Satellite Remote Sensing and Applications
+arrow_forward
+CVEN9405
+6 UOC
+Transport Planning Practice
+arrow_forward
+CVEN9415
+6 UOC
+Transport Operations
+arrow_forward
+CVEN9612
+6 UOC
+Catchment and Water Resources Modelling
+arrow_forward
+CVEN9620
+6 UOC
+Rivers, Estuaries and Wetlands
+arrow_forward
+CVEN9640
+6 UOC
+Coastal Engineering
+arrow_forward
+CVEN9806
+6 UOC
+Prestressed Concrete Design
+arrow_forward
+CVEN9809
+6 UOC
+Reinforced Concrete Design
+arrow_forward
+CVEN9818
+6 UOC
+Bridge Engineering
+arrow_forward
+CVEN9820
+6 UOC
+Computational Structural Mechanics
+arrow_forward
+CVEN9822
+6 UOC
+Steel and Composite Structures
+arrow_forward
+CVEN9824
+6 UOC
+Advanced Materials Technology
+arrow_forward
+CVEN9826
+6 UOC
+Advanced Mechanics of Structures and Materials
+arrow_forward
+CVEN9840
+6 UOC
+Structural Health Monitoring Fundamentals and Practices
+arrow_forward
+CVEN9881
+6 UOC
+Hazardous Waste Management
+arrow_forward
+ENGG1400
+6 UOC
+Infrastructure Systems Engineering
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG3741
+6 UOC
+Introduction to Nuclear Engineering
+arrow_forward
+ENGG4060
+6 UOC
+Student Initiated Project
+arrow_forward
+ENGG4102
+6 UOC
+Humanitarian Engineering Project
+arrow_forward
+ENGG4103
+6 UOC
+International Humanitarian Response
+arrow_forward
+GMAT1110
+6 UOC
+Surveying and Geospatial Engineering
+arrow_forward
+GMAT3220
+6 UOC
+Geospatial Information Systems
+arrow_forward
+GMAT9600
+6 UOC
+Principles of Remote Sensing
+arrow_forward
+GMAT9606
+6 UOC
+Microwave Remote Sensing
+arrow_forward
+GSOE9740
+6 UOC
+Industrial Ecology and Sustainable Engineering
+Course Substitution
+keyboard_arrow_down
+A student may be able to substitute a maximum of 12 UOC of core courses subject to the approval of their School and the Associate Dean (Academic Programs) of the Faculty of Engineering. Students who have transferred to 3706 from a single or dual Bachelor of Engineering (Hons) may count courses not listed here towards the requirements of their major if they are considered equivalent or have been superceded by other courses. This is only possible if the course(s) were listed in the handbook for their Engineering major, and they are completing an Engineering Science major in the same discipline.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Civil and Environmental Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

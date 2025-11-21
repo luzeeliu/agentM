@@ -1,0 +1,37 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS2111.html
+
+UNSW Handbook Course -  Quantum Physics - PHYS2111
+
+
+UNSW Handbook Course -  Quantum Physics - PHYS2111
+Quantum Physics - PHYS2111
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+www.phys.unsw.edu.au
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: (PHYS1221 or PHYS1231 or PHYS1241) and (MATH1231 or MATH1241)
+Excluded:
+PHYS2110
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Quantum mechanics is cornerstone of modern physics, and deals with physical phenomena on microscopic scales.  This  first  course  in  quantum  mechanics will  provide students  with  a  broad  and  comprehensive  introduction  and a foundation  for further study.  Topics to be covered include: Fundamental Constants. Interference. Particle-wave duality. Double-slit experiment. De Broglie relation. Schroedinger Equation. Principle of superposition. Probability and probability current. Copenhagen interpretation. Searches for violation of Quantum Mechanics. Stationary states. Time-independent Schrodinger Equation. Infinite square well. Spectrum and localization. 1D scattering problem. Scattering from finite square well. Notion of deep and shallow level. Bound states in a finite square well. Dirac delta-function. Double well potential with delta functions: Two-level system, Ammonia maser. Harmonic oscillator. General mathematical structure of Quantum Mechanics and formalism. Commutators. Relation to Heisenberg uncertainty principle. Time-dependent Schroedinger Equation. Time dependence of expectation value. Ehrenfest theorem. Semiclassical approximation. Bohr-Sommerfeld quantization.

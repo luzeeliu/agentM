@@ -1,0 +1,267 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MATSM1
+
+Handbook - Materials Science and Engineering (Materials Engineering)
+
+
+Handbook - Materials Science and Engineering (Materials Engineering)
+
+Specialisation
+print
+Print Materials Science and Engineering (Materials Engineering) page
+_border
+Materials Science and Engineering (Materials Engineering)
+MATSM1
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The Materials Engineering specialisation equips students with a comprehensive understanding of the structure-properties-performance nexus of materials. Students also learn about sustainable manufacturing and recycling technologies employed in both their production and end-of-life reuse. These foundations enable students to gain proficiency in designing and selecting materials for specific applications while… For more content click the Read More button below.
+The Materials Engineering specialisation equips students with a comprehensive understanding of the structure-properties-performance nexus of materials. Students also learn about sustainable manufacturing and recycling technologies employed in both their production and end-of-life reuse. These foundations enable students to gain proficiency in designing and selecting materials for specific applications while considering the entire lifecycle impact of a material, a crucial factor in the overall decision-making process.
+A range of exciting new thematic electives allows students to focus on the science and engineering of materials in key areas such as medicine and health, electronics and communications, transportation and infrastructure, and energy and the environment.
+The overall program is supported by innovative lecturing technologies, hands-on laboratory work, company site visits, research and design projects, and industry training. Students also develop skills in computational methods, data analytics, engineering management, and professional communication.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Demonstrate proficiency of knowledge in the enabling sciences (mathematics, physics, and chemistry) that form the foundation of materials engineering.
+keyboard_arrow_down
+2.
+Demonstrate expertise and specialist technical knowledge in materials engineering, including thermodynamics, phase equilibria, reaction kinetics, diffusion, phase transformations, heat transfer, fluid flow, mechanical behaviour, and physical properties.
+keyboard_arrow_down
+3.
+Identify, describe, predict, and quantify the structure of the principal classes of materials (metals, ceramics, polymers, and composites) and relate these to the processing required to make them and to their resultant properties and applications.
+keyboard_arrow_down
+4.
+Design of material life cycles from raw materials to product to in-service performance to failure to recycling.
+keyboard_arrow_down
+5.
+Use appropriate analytical and computational tools such as finite element, finite difference, computational fluid dynamics, and molecular dynamics modelling to analyse and solve complex problems associated with materials processing through to the understanding of structures and properties of the various classes of materials.
+keyboard_arrow_down
+6.
+Identify, describe, predict, quantify, manage develop and improve materials processing/manufacturing routes used to synthesize/manufacture existing and new materials having specified composition, structure, properties, cost, and environmental sustainability.
+keyboard_arrow_down
+7.
+Apply professional judgement that contributes to the ethical and sustainable practice of materials engineering with due social and environmental diligence.
+keyboard_arrow_down
+8.
+Communicate professionally and effectively within and outside of the discipline of materials engineering.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE(Hons)
+3131 - Materials Science and Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+arrow_forward
+CHEM1811
+6 UOC
+Engineering Chemistry 1A
+arrow_forward
+CHEM1821
+6 UOC
+Engineering Chemistry 1B
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+arrow_forward
+MATS1192
+6 UOC
+Introduction to Materials Science and Engineering
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+Level 2 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+MATS2001
+6 UOC
+Physical Properties of Materials
+arrow_forward
+MATS2003
+6 UOC
+Materials Characterisation
+arrow_forward
+MATS2004
+6 UOC
+Mechanical Behaviour of Materials
+arrow_forward
+MATS2008
+6 UOC
+Thermodynamics and Phase Equilibria
+arrow_forward
+MATS2009
+6 UOC
+Transport Processes in Materials Engineering
+Level 3 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+arrow_forward
+MATS3001
+6 UOC
+Micromechanisms of Mechanical Behaviour of Metals
+arrow_forward
+MATS3002
+6 UOC
+Fundamentals of Ceramic Processing
+arrow_forward
+MATS3004
+6 UOC
+Polymer Science and Engineering 1
+arrow_forward
+MATS3005
+6 UOC
+Phase Transformations
+arrow_forward
+MATS3006
+6 UOC
+Design and Application of Materials in Science and Engineering 3
+arrow_forward
+MATS3007
+6 UOC
+Materials Industry Management
+arrow_forward
+MATS3008
+6 UOC
+Design and Engineering of Composites and Coatings
+Level 4 Core Course
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+Note: MATS4025, MATS4026 and MATS4027 are taken sequentially and one course maximum per term.
+arrow_forward
+MATS4014
+6 UOC
+Sustainable Materials Selection and Design
+arrow_forward
+MATS4015
+6 UOC
+Data Management and Communication for Materials Engineers
+arrow_forward
+MATS4025
+4 UOC
+Honours Project A
+arrow_forward
+MATS4026
+4 UOC
+Honours Project B
+arrow_forward
+MATS4027
+4 UOC
+Honours Project C
+Level 4 Discipline Elective Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses:
+arrow_forward
+MATS4004
+6 UOC
+Fracture Mechanics and Failure Analysis
+arrow_forward
+MATS4007
+6 UOC
+Engineered Surfaces to Resist Corrosion and Wear
+arrow_forward
+MATS4016
+6 UOC
+Structural Materials in Transportation and Infrastructure
+arrow_forward
+MATS4017
+6 UOC
+Materials for Renewable Energy Technologies
+arrow_forward
+MATS4018
+6 UOC
+Materials and Processing of Electronic Circuits and Devices
+arrow_forward
+MATS4019
+6 UOC
+Materials and Processes for Biomedical Applications
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Materials Science & Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

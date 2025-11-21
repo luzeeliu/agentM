@@ -1,0 +1,98 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/BIOM3600
+
+Handbook - Biosensors
+
+
+Handbook - Biosensors
+
+Course
+print
+Print Biosensors page
+_border
+Biosensors
+BIOM3600
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+From designing wearable glucose monitors for diabetes management to developing lab-on-a-chip technologies for personalised medicine, biosensors are revolutionising the field of physiological measurement and clinical diagnostics. This course focuses on the design, development, and application of sensors for measuring physiological variables. It covers a wide range of biosensing technologies, including… For more content click the Read More button below.
+From designing wearable glucose monitors for diabetes management to developing lab-on-a-chip technologies for personalised medicine, biosensors are revolutionising the field of physiological measurement and clinical diagnostics. This course focuses on the design, development, and application of sensors for measuring physiological variables. It covers a wide range of biosensing technologies, including electrical, mechanical, chemical, and biological sensors, while emphasising their practical use in real-world scenarios.
+You will explore the principles and mechanisms governing the acquisition and processing of physiological signals, both
+in vivo
+and
+in vitro
+, through hands-on labs, design projects, and case studies. You will learn to develop and implement measurement devices and approaches, ensuring compliance with safety standards.
+By the end of the course, you will have a comprehensive understanding of the biosensor landscape, from the underlying science to the practical applications, and be equipped with the skills to contribute to this rapidly evolving field. Whether you aspire to innovate in the medical technology industry, conduct research in biomedical engineering, or simply gain a deeper understanding of biosensors, this course will provide you with the knowledge and skills necessary to achieve your goals.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: BIOM2300, BIOM2601 and BIOM2700
+Exclusion Courses
+open_in_new
+Course
+BIOM9650
+BIOM9650 - Biosensors and Transducers
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+5
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+Graduate School of Biomedical Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+039903 Biomedical Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,88 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiQ09NUDkqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiJwZ3JkIn19XX19LCJzb3J0IjpbeyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlX2RvdHJhdyI6ImFzYyJ9XSwiZnJvbSI6MCwic2l6ZSI6MTV9LCJwcmVmaXgiOiJ1bnN3UHJvZF9wIn0sImRlc2NyaXB0aW9uIjoiYW55IGxldmVsIDkgQ29tcHV0ZXIgU2NpZW5jZSBjb3Vyc2UiLCJ2ZXJzaW9uIjoiMjAyNi4wMiIsImNvZGUiOiI3NTQzIiwidGl0bGUiOiJDb21wdXRpbmciLCJydWxlSWQiOiIwYjM0YmU0YzQ3ZDZlNjkwM2NjN2EyYmE1MTZkNDM1YyIsInNvdXJjZVVSTCI6Ii9wb3N0Z3JhZHVhdGUvcHJvZ3JhbXMvMjAyNi83NTQzIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6IlByb2dyYW0ifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Program
+search
+
+any level 9 Computer Science course
+
+COMP9020 Foundations of Computer Science
+ Sydney
+_border
+COMP9021 Principles of Programming
+ Sydney
+_border
+COMP9024 Data Structures and Algorithms
+ Sydney
+_border
+COMP9032 Microprocessors and Interfacing
+ Sydney
+_border
+COMP9044 Software Construction: Techniques and Tools
+ Sydney
+_border
+COMP9101 Algorithm Design and Analysis
+ Sydney
+_border
+COMP9102 Programming Languages and Compilers
+ Sydney
+_border
+COMP9153 Algorithmic Verification
+ Sydney
+_border
+COMP9154 Foundations of Concurrency
+ Sydney
+_border
+COMP9164 Concepts of Programming Languages
+ Sydney
+_border
+COMP9201 Operating Systems
+ Sydney
+_border
+COMP9211 Computer Architecture
+ Sydney
+_border
+COMP9222 Digital Circuits and Systems
+ Sydney
+_border
+COMP9242 Advanced Operating Systems
+ Sydney
+_border
+COMP9243 Distributed Systems
+ Sydney
+_border
+COMP9283 Extended Operating Systems
+ Sydney
+_border
+COMP9301 Cyber Security Project
+ Sydney
+_border
+COMP9302 Cyber Security Project B
+ Sydney
+_border
+COMP9311 Database Systems
+ Sydney
+_border
+COMP9312 Data Analytics for Graphs
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

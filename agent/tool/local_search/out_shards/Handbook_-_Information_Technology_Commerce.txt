@@ -1,0 +1,337 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/programs/2026/8544
+
+Handbook - Information Technology / Commerce
+
+
+Handbook - Information Technology / Commerce
+
+Double Degree
+print
+Print Information Technology / Commerce page
+_border
+Information Technology / Commerce
+8544
+144 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Stand Alone Programs
+Double Degree Structure
+Sample Programs
+Additional Information
+Program Fees
+Overview
+The Master of Information Technology/Master of Commerce double degree is ideal for you if you are an early or mid-career professional seeking to advance your career, or if you are a career-changer wanting to re-skill for a wide range of business and technology related roles. The Master of Commerce is… For more content click the Read More button below.
+The Master of Information Technology/Master of Commerce double degree is ideal for you if you are an early or mid-career professional seeking to advance your career, or if you are a career-changer wanting to re-skill for a wide range of business and technology related roles.
+The Master of Commerce is innovative, industry-relevant and incorporates the latest thinking in business. The Master of Information Technology provides a broad-based IT education, and more specialised knowledge in up to two areas, enabling you to work in a range of positions in the IT industry. Both components allow you to specialise, choosing from a range of disciplines, to pursue your career ambitions.
+This program allows you to graduate with both Masters after three years, with students with advanced standing able to complete both degrees up to a year and a half sooner.
+Read More
+about Overview
+Stand Alone Programs
+Click on the link below to find out more about each individual program.
+open_in_new
+Program
+8543
+Information Technology
+open_in_new
+Program
+8404
+Commerce
+Double Degree Structure
+Students must complete 144 UOC.
+Master of Information Technology (96 UOC)
+An Information Technology Specialisation (96 UOC)
+Master of Commerce (72 UOC)
+One Specialisation:
+COMM5999 (0 UOC)
+MGMT5050 (6 UOC)
+Data analysis course (6 UOC)
+Specialisation (24 UOC)
+Electives (30 UOC) - 12 UOC of Engineering courses will be counted as Commerce electives (see double counting rules below), and students will complete a further 18 UOC of Business electives.
+Capstone course (6 UOC)
+Two Specialisations:
+Students are recommended to take only one Master of Commerce specialisation to adhere to the UOC for their program. Students taking a second Master of Commerce specialisation will exceed the UOC for their program by at least 6 UOC.
+COMM5999 (0 UOC)
+MGMT5050 (6 UOC)
+Data analysis course (6 UOC)
+Specialisation 1 (24 UOC)
+Specialisation 2 (24 UOC)
+Electives (12 UOC) - 12 UOC of Engineering courses will be counted as Commerce electives (see double counting rules below)
+Double Counting Rules
+In this double degree, 96 UOC is required for the Master of Information Technology and 72 UOC is required for the Master of Commerce, for a total of 168 UOC. As some postgraduate courses required for both degrees overlap, the total minimum UOC required for the double degree is reduced by 24 UOC to 144 UOC.
+Up to 24 UOC can be double counted towards the requirements of both programs, as follows:
+COMP9024 (6 UOC) in the Master of Information Technology can be double counted as COMM5000 or COMM5501 (6 UOC) in the Master of Commerce.
+12 UOC of Disciplinary Knowledge Electives in the Master of Information Technology can be double counted as 12 UOC of Electives outside of the UNSW Business School in the Master of Commerce.
+MGMT5050 (6 UOC) in the Master of Commerce can be double counted as 6 UOC of Electives in the Master of Information Technology (excluding Information Technology specialisation); or MGMT5050 (6 UOC) in the Master of Commerce can be double counted as 6 UOC of Disciplinary Knowledge Electives in the Information Technology specialisation in the Master of Information Technology.
+Expand all
+Information Technology Specialisations
+keyboard_arrow_down
+Students must complete one of the following specialisations.
+Information Technology (COMPMS) is the default specialisation for this program and will be selected if no other specialisation is nominated.
+Specialisation
+arrow_forward
+COMPLS
+96 UOC
+Artificial Intelligence
+arrow_forward
+COMPMS
+96 UOC
+Information Technology
+arrow_forward
+COMPNS
+96 UOC
+Database Systems
+arrow_forward
+COMPOS
+96 UOC
+Internetworking
+arrow_forward
+COMPXS
+96 UOC
+Cyber Security Engineering
+Commerce Core Course
+6 Units of Credit:
+keyboard_arrow_down
+Students must take COMM5999 and 6 UOC of the following courses.
+arrow_forward
+COMM5999
+0 UOC
+myMCom Graduate Portfolio
+arrow_forward
+MGMT5050
+6 UOC
+Responsible Business Professionalism
+Data Analysis Core Course
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses.
+Note: COMM5501 assumes students have foundational statistics knowledge. Please refer to the course description for COMM5501 for further information.  If students do not have assumed knowledge required for COMM5501, they are advised to complete COMM5000.
+arrow_forward
+COMM5000
+6 UOC
+Data Literacy for Business
+arrow_forward
+COMM5501
+6 UOC
+Data Visualisation and Communication
+Commerce Specialisations
+keyboard_arrow_down
+Students must complete at least one, up to a maximum of two, of the following specialisations.
+Students who complete a double specialisation where courses overlap between:
+- Two Foundation core courses: are strongly recommended to complete an additional specialisation course from either specialisation.
+- A Foundation and any specialisation core course: are required to take an alternative specialisation elective course from either specialisation.
+- Any Specialisation electives: students are required to choose courses that do not overlap; double counting will not be permitted.
+- Any Specialisation course and Program Capstone courses: are required to take an alternative specialisation elective or capstone course.
+Specialisation
+arrow_forward
+ACCTES
+24 UOC
+Accounting
+arrow_forward
+COMMGS
+24 UOC
+Global Sustainability and Social Impact
+arrow_forward
+COMMKS
+24 UOC
+Strategy and Innovation
+arrow_forward
+COMMLS
+24 UOC
+AI in Business and Society
+arrow_forward
+ECONFS
+24 UOC
+Economics and Finance
+arrow_forward
+FINSCS
+24 UOC
+Finance
+arrow_forward
+FINSQS
+24 UOC
+Financial Technology
+arrow_forward
+INFSNS
+24 UOC
+Cybersecurity, Risk and Privacy
+arrow_forward
+INFSYS
+24 UOC
+Digital Transformation and Technology Management
+arrow_forward
+MARKGS
+24 UOC
+Marketing Analytics
+arrow_forward
+MARKTS
+24 UOC
+Marketing
+arrow_forward
+MGMTBS
+24 UOC
+International Business
+arrow_forward
+MGMTCS
+24 UOC
+Human Resource Management
+arrow_forward
+RISKMS
+24 UOC
+Risk Management
+Master of Commerce Elective
+6 Units of Credit:
+keyboard_arrow_down
+Students must complete 6-30 UOC of electives.
+The number of electives required depends on whether two specialisations have been nominated. A maximum of 12 UOC of courses may be selected from outside of the UNSW Business School, subject to individual course enrolment requirements.
+Business Electives
+keyboard_arrow_down
+open_in_new
+any course owned by the UNSW Business School
+Coding for Business
+keyboard_arrow_down
+Students completing specialisations in Digital Transformation, Cybersecurity, Risk and Analytics, Economics and Finance, Marketing Analytics, and Risk Management are strongly recommended to complete COMM5007 Coding for Business as an elective course.
+arrow_forward
+COMM5007
+6 UOC
+Coding for Business
+Other Electives
+keyboard_arrow_down
+A maximum of 12 UOC may be selected from the following courses.
+open_in_new
+any course offered from outside UNSW Business School
+Capstone or Practicum Courses
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses. Students are recommended to complete their capstone courses in either the penultimate or final term of their studies.
+arrow_forward
+ACCT5931
+6 UOC
+Sustainable Management Accounting
+arrow_forward
+COMM5008
+6 UOC
+Enterprise Skills
+arrow_forward
+COMM5010
+6 UOC
+Strategy, Marketing and Management
+arrow_forward
+COMM5030
+6 UOC
+Social Entrepreneurship Practicum
+arrow_forward
+COMM5040
+6 UOC
+Entrepreneurial Ecosystems
+arrow_forward
+COMM5044
+6 UOC
+Future of Work Project
+arrow_forward
+COMM5601
+6 UOC
+Interdisciplinary Applications of Analytics Techniques
+arrow_forward
+INFS5997
+6 UOC
+Integrated Technology and Analytics Applications
+arrow_forward
+FINS5537
+6 UOC
+Financial Planning Advice and Ethics
+arrow_forward
+FINS5568
+6 UOC
+Capstone - Portfolio Management Process
+arrow_forward
+MARK5830
+6 UOC
+Marketing Analytics Project
+arrow_forward
+MGMT5610
+6 UOC
+International Business Consulting Practicum
+Enrolment Disclaimer
+Please read the Double Degree Program rules as some specific rules apply to particular Double Degree combinations.
+You are responsible for ensuring you enrol in courses according to your program requirements and advice from your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Engineering Enrolment Sequences
+open_in_new
+UNSW Business School Progression Plans
+Additional Information
+Accreditation
+The Engineering component of this double degree has the same accreditation status as the Master of Information Technology. For details, please see
+Master of Information Technology (8543)
+.
+Recognition of Prior Learning
+Students can apply for a maximum of 66 UOC of Recognition of Prior Learning (RPL).
+For the Commerce component, students may be eligible to receive up to 18 UOC of RPL for completed Bachelor’s (or equivalent AQF 7 program) in Business. Alternatively, students may be eligible to receive up to 18 UOC of RPL for relevant courses of a completed or partially completed postgraduate degree (or equivalent AQF 9 program).
+For the Information Technology component, up to 48 UOC of RPL may be awarded to students with degrees from cognate programs. All courses completed towards the Graduate Certificate or the Graduate Diploma of Information Technology at UNSW will be recognised for the purpose of RPL for the Master of Information Technology. Students intending to specialise in two areas are permitted a maximum of 24 UOC of RPL.
+Students will be notified of the RPL awarded in their official letter of offer.
+MyPLan
+Use
+myPlan
+to plan your studies and track your progress for graduation in real time. Find out more
+here
+.
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+UNSW Business School
+Managing Faculty
+Faculty of Engineering
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Typical duration:
+1.7 - 3 years
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+144
+Award Type(s)
+Masters (Coursework)
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Master of Information Technology - MIT
+Master of Commerce - MCom
+CRICOS Code
+108473C
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

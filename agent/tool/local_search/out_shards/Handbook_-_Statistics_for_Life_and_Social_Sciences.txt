@@ -1,0 +1,105 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MATH1041
+
+Handbook - Statistics for Life and Social Sciences
+
+
+Handbook - Statistics for Life and Social Sciences
+
+Course
+print
+Print Statistics for Life and Social Sciences page
+_border
+Statistics for Life and Social Sciences
+MATH1041
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Exclusion Courses
+Course Attributes
+Delivery
+Overview
+This course is for undergraduate students of life and social sciences. It is not intended for students who propose to study a substantial amount of statistics beyond first-year level. Students are assumed to have received a mark of at least 60 in HSC Mathematics Advanced or at least 70 in… For more content click the Read More button below.
+This course is for undergraduate students of life and social sciences. It is not intended for students who propose to study a substantial amount of statistics beyond first-year level. Students are assumed to have received a mark of at least 60 in HSC Mathematics Advanced or at least 70 in HSC Mathematics Standard or equivalent.
+The course first introduces the concepts on which statistics is built, namely: Descriptive statistics: exploring the data using numerical and graphical summaries; Study designs and sampling; Probability and independence; Discrete distributions: the binomial distribution. Continuous distributions: the normal, t and chi-square distributions. Random variables: calculating the mean and variance. Building on those, the second part of the course presents techniques for making inference about the population from a sample, that is, using confidence intervals and tests of hypotheses: z-test, t-test and Chi-squared test for statistical independence. Linear regression: correlation, residuals, estimation and prediction.
+Technology is used throughout the course: Students will use the R software to analyse datasets.
+Read More
+about Overview
+Exclusion Courses
+open_in_new
+Course
+ECON1203
+ECON1203 - Business and Economic Statistics
+open_in_new
+Course
+ECON2292
+ECON2292 - Business and Economic Statistics (Arts)
+Course Attributes
+Expand all
+Introductory Course
+keyboard_arrow_down
+This course is usually taken in the early part of a program and may be required as a pre-requisite before taking a more advanced course.
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+5 hours/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1, Term 2, Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010103 Statistics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATS2003.html
+
+UNSW Handbook Course - Materials Characterisation - MATS2003
+
+
+UNSW Handbook Course - Materials Characterisation - MATS2003
+Materials Characterisation - MATS2003
+Faculty:
+Faculty of Science
+School:
+School of Materials Science and Engineering
+Course Outline:
+http://www.materials.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Excluded:
+MATS1002, MATS1142
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Space groups; crystallography; specimen preparation; optical and electron microscopy; image analysis and stereology; x‐ray, electron, and neutron diffraction; x‐ray fluorescence, infrared spectroscopy, Raman spectroscopy, x‐ray photoelectron spectroscopy; differential scanning calorimetry, thermal gravimetric analysis, dynamic thermal analysis; non‐destructive analysis ‐ ultrasonics, radiography, computed tomography.

@@ -1,0 +1,33 @@
+URL: http://www.handbook.unsw.edu.au/postgraduate/courses/2018/GMAT9606.html
+
+UNSW Handbook Course - Microwave Remote Sensing - GMAT9606
+
+
+UNSW Handbook Course - Microwave Remote Sensing - GMAT9606
+Microwave Remote Sensing - GMAT9606
+Faculty:
+Faculty of Engineering
+School:
+School of Civil and Environmental Engineering
+Course Outline:
+course profile
+Campus:
+Sydney
+Career:
+Postgraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+3
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Use of passive and active (radar) microwave techniques in remote sensing of earth resources. Topics include: real and synthetic aperture radar systems; passive microwave radiometry; energy-surface interactions; interpretation of microwave image data: applications in agriculture, geology, oceanography and hydrology; issues in signal and image processing; characteristics of airborne and spaceborne microwave sensors.

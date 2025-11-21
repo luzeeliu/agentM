@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS3118.html
+
+UNSW Handbook Course -  Solid State Physics and Devices - PHYS3118
+
+
+UNSW Handbook Course -  Solid State Physics and Devices - PHYS3118
+Solid State Physics and Devices - PHYS3118
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+School of Physics
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: (PHYS2111 or PHYS2110) and PHYS3113. Exclusions: PHYS3021, PHYS3310
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Solid State Physics provides the basis for the most important technological advances of the 20th century. It also provides a wide range of opportunities to “see” the effects of Quantum Physics in action. Specific topics include: Types of solids, crystal structures, reciprocal lattices, lattice vibrations (phonons), x-ray and neutron diffraction for structural analysis, thermal properties of solids, Bloch’s theorem and the nearly free electron model, Band structure, non-conventional crystals (e.g., molecular crystals, quasicrystals), semiconductors, doping, p-n junctions and diodes, light emitting diodes and photovoltaics, excitons and electron-photon interactions, electron-defect and hyperfine interactions, electron-phonon interactions, superconductivity, Josephson effect, SQUIDs, dielectrics, ferroelectrics, magnetism and magnetic materials, spin interactions, phase transitions in solids, magnetic devices, exotic ordered materials (e.g. multiferroics), finite solids and surface effects, Schottky barriers, MOSFETs, fabrication of solid state devices, devices in the nanoscale limit.

@@ -1,0 +1,36 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/GEOS3821.html
+
+UNSW Handbook Course - Geographic Data Analysis - GEOS3821
+
+
+UNSW Handbook Course - Geographic Data Analysis - GEOS3821
+Geographic Data Analysis - GEOS3821
+Faculty:
+Faculty of Science
+School:
+School of Biological, Earth & Environmental Sciences
+Course Outline:
+http://www.bees.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+None
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+The field of Geographic Information Systems has expanded considerably over the past decade and the world has become very much richer in digital geographic information.  Vast amounts of geographic data are routinely collected, with approximately 80% of all data collected having geographic attributes. This course explores a toolbox of conceptual approaches and methods to model and analyse a range of highly complex, often non-deterministic, geographic problems. It explores a true enabling technology for the natural sciences in addition to a rich source of computational and representational challenges for the computer sciences.  This course emphasises a range of GIS and spatial data analysis approaches via a disparate selection of real-world applications.
+Assumed knowledge: GEOS2821

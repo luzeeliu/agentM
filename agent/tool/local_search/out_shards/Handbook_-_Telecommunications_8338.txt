@@ -1,0 +1,322 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/specialisations/2026/TELEES
+
+Handbook - Telecommunications (8338)
+
+
+Handbook - Telecommunications (8338)
+
+Specialisation
+print
+Print Telecommunications (8338) page
+_border
+Telecommunications (8338)
+TELEES
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+For those working in the booming telecommunications industry, or those who can see its potential opportunities, there's no better way to gain a leading edge than through postgraduate study in Telecommunications Engineering. Telecommunications specialisation is underpinned by the attainment of disciplinary and advanced disciplinary knowledge, and the undertaking of an… For more content click the Read More button below.
+For those working in the booming telecommunications industry, or those who can see its potential opportunities, there's no better way to gain a leading edge than through postgraduate study in Telecommunications Engineering.
+Telecommunications specialisation is underpinned by the attainment of disciplinary and advanced disciplinary knowledge, and the undertaking of an enquiry-based learning component. This specialisation offers a broad range of theoretical- and applications-based electives within the discipline of telecommunications, including networking and network security, wireless and satellite communications, modulation and coding, quantum communications, and GPS technology. Such a choice allows students the gain a depth and breadth of knowledge across several themes.
+The stream provides a solid postgraduate program for electrical engineers wishing to upgrade their skills or further their knowledge.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Evaluate advanced concepts, theories and techniques relevant to an engineering science specialisation, including recent developments in theory and professional practice.
+keyboard_arrow_down
+2.
+Identify the potential impacts of international engineering practice and global operating contexts on theory and professional practice.
+keyboard_arrow_down
+3.
+Apply research principles and enquiry-based learning techniques to plan and execute a substantial, evidence-based project in scholarship and/or professional practice.
+keyboard_arrow_down
+4.
+Identify, define, investigate, and analyse complex engineering problems, in a variety of different or unfamiliar contexts.
+keyboard_arrow_down
+5.
+Synthesise and evaluate knowledge to develop effective, creative and innovative solutions to complex engineering problems.
+keyboard_arrow_down
+6.
+Interpret and communicate complex theoretical concepts, and justify professional decisions to other professionals, clients, stakeholders, and the broader community.
+keyboard_arrow_down
+7.
+Exercise ethical and professional judgement with appreciation of the potential impact of decisions and solutions in global, economic, environmental and societal contexts.
+keyboard_arrow_down
+8.
+Collaborate and lead effectively in diverse professional contexts.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Master of Engineering Science - MEngSc
+8338 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+96
+Typical duration:
+1 - 2 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Expand all
+Foundational Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+One of the following
+6 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+TELE3113
+6 UOC
+Analogue and Digital Communications
+OR
+arrow_forward
+TELE3118
+6 UOC
+Network Technologies
+One of the following
+6 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+ELEC3104
+6 UOC
+Digital Signal Processing
+OR
+arrow_forward
+ELEC3115
+6 UOC
+Electromagnetic Engineering
+OR
+arrow_forward
+ELEC3117
+6 UOC
+Electrical Engineering Design
+Disciplinary Knowledge Elective Courses
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+arrow_forward
+ELEC4602
+6 UOC
+Microelectronic Design and Technology
+arrow_forward
+ELEC4612
+6 UOC
+Power System Analysis
+arrow_forward
+ELEC4621
+6 UOC
+Advanced Digital Signal Processing
+arrow_forward
+ELEC4631
+6 UOC
+Continuous - Time Control System Design
+arrow_forward
+PHTN4661
+6 UOC
+Optical Circuits and Fibres
+arrow_forward
+PHTN4662
+6 UOC
+Photonic Networks
+arrow_forward
+TELE4641
+6 UOC
+Network Security and Privacy
+arrow_forward
+TELE4642
+6 UOC
+Network Performance
+arrow_forward
+TELE4651
+6 UOC
+Wireless Communication Technologies
+arrow_forward
+TELE4652
+6 UOC
+Mobile and Satellite Communications Systems
+arrow_forward
+TELE4653
+6 UOC
+Digital Modulation and Coding
+Engineering and Technical Management Courses
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses.
+arrow_forward
+GSOE9445
+6 UOC
+Entrepreneurial Engineering
+arrow_forward
+GSOE9510
+6 UOC
+Ethics and Leadership in Engineering
+arrow_forward
+GSOE9210
+6 UOC
+Engineering Decision Structures
+arrow_forward
+GSOE9820
+6 UOC
+Engineering Project Management
+arrow_forward
+GSOE9830
+6 UOC
+Economic Decision Analysis in Engineering
+arrow_forward
+GSOE9997
+6 UOC
+Engineering Work Related Learning for Postgraduates
+Advanced Disciplinary Knowledge Elective Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+ELEC9721
+6 UOC
+Digital Signal Processing Theory and Applications
+arrow_forward
+ELEC9725
+6 UOC
+Satellite Navigation: Systems, Signals & Receivers
+arrow_forward
+ELEC9741
+6 UOC
+Electrical Engineering Data Science
+arrow_forward
+ELEC9762
+6 UOC
+Space Mission Development
+arrow_forward
+ELEC9764
+6 UOC
+The Ground Segment and Space Operations
+arrow_forward
+GSOE9758
+6 UOC
+Network Systems Architecture
+arrow_forward
+TELE9751
+6 UOC
+Switching Systems Architecture
+arrow_forward
+TELE9752
+6 UOC
+Network Operations and Control
+arrow_forward
+TELE9753
+6 UOC
+Advanced Wireless Communications
+arrow_forward
+TELE9754
+6 UOC
+Coding and Information Theory
+arrow_forward
+TELE9755
+6 UOC
+Microwave Circuits, Theory and Techniques
+arrow_forward
+TELE9756
+6 UOC
+Advanced Networking
+arrow_forward
+TELE9757
+6 UOC
+Quantum Communications
+arrow_forward
+TELE9781
+6 UOC
+Special Topics in Telecommunications 1
+arrow_forward
+TELE9782
+6 UOC
+Special Topics in Telecommunications 2
+Research/Capstone/Project
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses. Students choose either the Project Report (12 UOC) or the Capstone Project (12 UOC).
+Project Report
+keyboard_arrow_down
+arrow_forward
+ELEC9771
+6 UOC
+Project Report A
+arrow_forward
+ELEC9772
+6 UOC
+Project Report B
+Capstone Project
+keyboard_arrow_down
+arrow_forward
+ELEC9773
+12 UOC
+Electrical Engineering Capstone Project
+One of the following
+keyboard_arrow_down
+arrow_forward
+GSOE9010
+6 UOC
+Engineering Postgraduate Coursework Research Skills
+OR
+arrow_forward
+GSOE9011
+6 UOC
+Engineering Postgraduate Coursework Research Skills
+OR
+arrow_forward
+GSOE9220
+6 UOC
+Launching a Startup
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Specialisation
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

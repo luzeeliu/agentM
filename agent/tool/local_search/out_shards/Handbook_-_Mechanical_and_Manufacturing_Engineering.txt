@@ -1,0 +1,459 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MANFBH
+
+Handbook - Mechanical and Manufacturing Engineering
+
+
+Handbook - Mechanical and Manufacturing Engineering
+
+Specialisation
+print
+Print Mechanical and Manufacturing Engineering page
+_border
+Mechanical and Manufacturing Engineering
+MANFBH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The Mechanical and Manufacturing Engineering stream is designed for students with a mechanical engineering major whose interests also lie in realising, commercialising and implementing mechanical and mechatronic systems and designs. The five core courses included as part of this stream have been designed on the basis of world best practice… For more content click the Read More button below.
+The Mechanical and Manufacturing Engineering stream is designed for students with a mechanical engineering major whose interests also lie in realising, commercialising and implementing mechanical and mechatronic systems and designs. The five core courses included as part of this stream have been designed on the basis of world best practice in manufacturing and industrial engineering and reflect a top-down - bottom-up approach, spanning the disciplines of Strategy and Management, Operations and Supply Chains, Analysis and Decision-making, Design of Product-Process Systems and Technology & Automation.
+Within each discipline area this new stream will cover many conceptual and analytical techniques, all supporting fact- and data-based analysis and decision making with the aim of improved product and process performance, economy and sustainability. This stream is designed to help you to learn how to transform a design from a conceptual stage into a prototype and ultimately into a commercially realisable and viable product. This stream focuses on technical as well as commercial aspects and particularly in developing the ability to build a business or commercial case for making engineering related decisions, such as investment in plant, equipment and processes. Although the main emphasis will be on product and process, consideration will also be given to designing compatible and appropriate engineering support services. The stream also emphasises the strategic impact of operations decisions and the interfaces between operations and the other functional areas of organisations, including of course, finance. This stream encompasses the key elements of operations management and investment analysis and pulls them together in a coherent format that allows you to understand the 'big picture' as well as 'the specific details'. It is aimed at integrating the knowledge gained from the mechanical engineering courses you have studied into a framework and process that allows you to implement your designs, solutions and ideas in a commercial environment.
+Mechanical engineers have traditionally played the major role in the analysis and design of complex machinery, devices such as actuators and sensors, as well as energy transformation, heat transfer and electro-mechanical processes. In an environment of global competition, sustainability (energy, environment as well as cost and capital), increasingly complex customer requirements and statutory regulations as well as the increasing pace of technological change and new product innovation, it is vital for modern engineers to possess the skills to not only design but equally importantly, implement and realize their designs in the most appropriate way. In this increasingly complex environment, successful organizations - public, private or governmental - need engineers with analytical and diverse skills, especially in integrating technical with commercial and organisational issues, analyses and ultimately solutions. It is the purpose and aim of the Mechanical and Manufacturing Engineering stream to equip you with this knowledge and understanding to become a global engineer, indeed a leader, with the ability to apply analytical methods and quality processes to create short and long term value for your organization, your customers, and the community. It encapsulates the key elements of mechanical engineering and combines them with the five core disciplines of manufacturing and industrial engineering.
+An engineer trained in Mechanical and Manufacturing Engineering may be employed in a very flexible and diverse range of disciplines and areas of industrial activity, including; product design, process design, computer aided design, computer aided manufacturing, quality improvement, technical and commercial analysis and decision making, strategic decision making, consulting, sales support, technical and organisational maintenance, and supply chain management.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Demonstrate proficiency of knowledge in the enabling sciences (mathematics, computer science and physics) that form the foundation of mechanical and manufacturing engineering.
+keyboard_arrow_down
+2.
+Demonstrate expertise and technical knowledge in mechanical and manufacturing engineering disciplines such as: mechanics, thermodynamics, fluid mechanics, mechanics of solids, advanced materials, product design, management, process technology and automation.
+keyboard_arrow_down
+3.
+Recognise and comply with the national and international standards and regulatory environment which practising Mechanical and Manufacturing Engineers operate within.
+keyboard_arrow_down
+4.
+Use critical thinking, best practice analytical techniques and detailed data to make engineering and financial management decisions, supported by detailed data and analysis.
+keyboard_arrow_down
+5.
+Apply product-system development and decision-making methods for product lifecycle management.
+keyboard_arrow_down
+6.
+Specify, design, integrate and improve systems for manufacturing and process automation (including measurement and feedback control), incorporating advanced digital, AI and IOT technologies.
+keyboard_arrow_down
+7.
+Lead and manage mechanical and manufacturing engineering projects, individually or as part of a team, in a systematic and professional manner.
+keyboard_arrow_down
+8.
+Link the impact of design, plan, and control decisions in different disciplines and apply distinct professional judgement that contributes to the ethical and sustainable practice of mechanical and manufacturing engineering.
+keyboard_arrow_down
+9.
+Communicate professionally and effectively within and outside of mechanical and manufacturing engineering.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+Note: ENGG1811 is the preferred Computing course for the MANFBH Stream.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1300
+6 UOC
+Engineering Mechanics
+arrow_forward
+MMAN1130
+6 UOC
+Design and Manufacturing
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+OR
+arrow_forward
+COMP1911
+6 UOC
+Computing 1A
+OR
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+Level 2 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2400
+6 UOC
+Mechanics of Solids 1
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+MMAN2300
+6 UOC
+Engineering Mechanics 2
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+MANF3510
+6 UOC
+Process Technology and Automation
+arrow_forward
+MECH3110
+6 UOC
+Mechanical Design 1
+arrow_forward
+DESN3000
+6 UOC
+Strategic Design Innovation
+arrow_forward
+MMAN3200
+6 UOC
+Linear Systems and Control
+Level 4 Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+arrow_forward
+MANF4100
+6 UOC
+Design and Analysis of Product-Process Systems
+arrow_forward
+MANF4150
+6 UOC
+Concurrent Engineering of Smart Product and Manufacturing Systems in Industry 4.0
+arrow_forward
+MANF4430
+6 UOC
+Reliability and Maintenance Engineering
+arrow_forward
+MANF4611
+6 UOC
+Process Modelling and Simulation
+arrow_forward
+MMAN4400
+6 UOC
+Engineering Management
+Thesis Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+MMAN4951
+4 UOC
+Thesis A
+arrow_forward
+MMAN4952
+4 UOC
+Thesis B
+arrow_forward
+MMAN4953
+4 UOC
+Thesis C
+Recommended Disciplinary Electives
+keyboard_arrow_down
+Students must take up to a maximum of 12 UOC of disciplinary electives from the "recommended elective list" and/or "disciplinary elective list".
+arrow_forward
+MANF6860
+6 UOC
+Strategic Manufacturing Management
+arrow_forward
+MANF9400
+6 UOC
+Industrial Management
+arrow_forward
+MANF9420
+6 UOC
+Operations and Supply Chain Management in Engineering
+arrow_forward
+MANF9472
+6 UOC
+Production Planning and Control
+arrow_forward
+MMAN4200
+6 UOC
+Additive Manufacturing
+arrow_forward
+MMAN4250
+6 UOC
+Micro/Nanofabrication and Technology
+arrow_forward
+MMAN4410
+6 UOC
+Finite Element Methods
+arrow_forward
+MMAN9350
+6 UOC
+Digital and Artificial Intelligence Technologies for Engineering Applications
+arrow_forward
+ENGG3741
+6 UOC
+Introduction to Nuclear Engineering
+arrow_forward
+MATS1110
+6 UOC
+Introduction to Materials for Engineering Applications
+Discipline Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC from the following courses
+NOTE:
+- At most 2 disciplinary electives (12 UOC)  without a AERO, MECH, MANF or MMAN prefix can be taken.
+- At most 1 disciplinary elective (6 UOC) may be substituted with another course in the School if the substituting course is NOT a core course for the stream and is at Level 3 or higher.
+- Postgraduate courses or/and courses offered outside of the School may require manual enrolment.
+- 2 UOC and 3 UOC courses are run over consecutive terms for a final total of 6 UOC.
+arrow_forward
+AERO9500
+6 UOC
+Space Systems Architectures and Orbits
+arrow_forward
+AERO9610
+6 UOC
+The Space Segment
+arrow_forward
+AERO9660
+6 UOC
+Advanced Aerospace Propulsion
+arrow_forward
+COMP3331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+ELEC4633
+6 UOC
+Real-Time Engineering
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG3060
+3 UOC
+Rehabilitation and Assistive Technology
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4841
+6 UOC
+Systems Engineering Fundamentals
+arrow_forward
+MECH4770
+6 UOC
+Fundamentals and Design of Electrochemical Energy Storage Systems
+arrow_forward
+MECH4100
+6 UOC
+Mechanical Design 2
+arrow_forward
+MECH4305
+6 UOC
+Fundamental and Advanced Vibration Analysis
+arrow_forward
+MECH4320
+6 UOC
+Engineering Mechanics 3
+arrow_forward
+MECH4620
+6 UOC
+Computational Fluid Dynamics
+arrow_forward
+MECH4880
+6 UOC
+Refrigeration and Air Conditioning 1
+arrow_forward
+MECH4900
+6 UOC
+Mechanics of Fracture and Fatigue
+arrow_forward
+MECH9325
+6 UOC
+Fundamentals of Acoustics & Noise
+arrow_forward
+MECH9420
+6 UOC
+Composite Materials and Mechanics
+arrow_forward
+MECH9650
+6 UOC
+Applied Bio and Microfluidics
+arrow_forward
+MECH9720
+6 UOC
+Solar Thermal Energy Design
+arrow_forward
+MECH9761
+6 UOC
+Automobile Engine Technology
+arrow_forward
+MTRN4231
+6 UOC
+Robotics Project
+arrow_forward
+MTRN9400
+6 UOC
+Control of Robotic Systems
+arrow_forward
+SOLA5052
+6 UOC
+Bioenergy and Renewable Fuels
+arrow_forward
+SOLA5053
+6 UOC
+Wind Energy Converters
+arrow_forward
+SOLA5056
+6 UOC
+Sustainable Energy for Developing Countries
+arrow_forward
+SOLA5057
+6 UOC
+Energy Efficiency
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mechanical and Manufacturing Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

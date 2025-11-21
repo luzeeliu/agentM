@@ -1,0 +1,39 @@
+URL: http://www.handbook.unsw.edu.au/postgraduate/courses/2018/MECH9720.html
+
+UNSW Handbook Course - Solar Thermal Energy Design - MECH9720
+
+
+UNSW Handbook Course - Solar Thermal Energy Design - MECH9720
+Solar Thermal Energy Design - MECH9720
+Faculty:
+Faculty of Engineering
+School:
+School of Mechanical and Manufacturing Engineering
+Course Outline:
+http://www.mech.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Postgraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+3
+Enrolment Requirements:
+None
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+The following assumed knowledge is expected for postgraduate students undertaking this course:
+MMAN2600
+and
+MMAN2700
+Characteristics of solar radiation and solar collectors. Collector efficiency evaluation and prediction of long term performance. System modelling, energy storage; computer simulation and modelling of performance and economic worth.

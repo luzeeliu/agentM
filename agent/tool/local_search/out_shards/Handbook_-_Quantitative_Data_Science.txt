@@ -1,0 +1,278 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MATHEH
+
+Handbook - Quantitative Data Science
+
+
+Handbook - Quantitative Data Science
+
+Specialisation
+print
+Print Quantitative Data Science page
+_border
+Quantitative Data Science
+MATHEH
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Additional Information
+Overview
+The School of Mathematics and Statistics (MathsStats) offers a number of Honours streams including in Quantitative Data Science. The Honours year introduces students to the investigative and research aspects of knowledge and consists of advanced lecture courses, an Honours thesis and seminar participation. Our Honours students are supervised in their… For more content click the Read More button below.
+The School of Mathematics and Statistics (MathsStats) offers a number of Honours streams including in Quantitative Data Science. The Honours year introduces students to the investigative and research aspects of knowledge and consists of advanced lecture courses, an Honours thesis and seminar participation. Our Honours students are supervised in their Honours project by some of Australia's finest mathematicians.
+Students who enrol in the Quantitative Data Science Honours Stream are expected to have completed the  Quantitative Data Science major in the Bachelor of Data Science and Decisions (program 3959), or one of the other majors in that program including at least three level 3 MATH courses. Students who have completed degrees in other cognate disciplines and who are completing a project within the usual concerns of data science may also apply for entry to this stream.
+Honours in Quantitative Data Science can be completed full-time or part-time. Most students commence their enrolment in term 1  but entry in term 3 is available subject to resources.  Students should check the MathStats Honours webpages for application procedures and enrolment deadlines.
+Stream structure
+The thesis component of Quantitative Data Science honours requires a student to undertake an 18uoc thesis by enrolling in the course MATH4001 (Mathematics and Statistics Honours Thesis) in each of three successive terms. These courses form one thesis/project. Students (full or part-time) can complete the honours thesis  in any three consecutive terms of their honours enrolment.
+Students will also be required to participate in the regular honours meetings, which will be timetabled as a joint class in the thesis courses. These meetings are intended to allow students to practise their final honours seminar presentation, listen to presentations of other honours students and engage in other honours training activities. Students should also attend any appropriate seminars in their thesis area.
+The thesis will be assessed by at least two academic staff and will include an oral presentation component.
+The 30uoc coursework component of Quantitative Data Science Honours will consist of five 6uoc lecture courses selected from the list below, or others, including at least 18UoC of MATH courses, taken with the approval by the Head of School or nominee and the advice of the honours thesis supervisor.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Plan and execute a piece of research or a professional project in Quantitative Data Science with some independence.
+Professionals
+keyboard_arrow_down
+2.
+Demonstrate an understanding of international perspectives relevant to Data Science.
+Global citizens
+Leaders
+keyboard_arrow_down
+3.
+Reflect critically on existing theoretical knowledge, ideas and practice in Quantitative Data Science to address the research topic.
+Scholars
+Professionals
+keyboard_arrow_down
+4.
+Communicate their research ideas to a suitable audience.
+Leaders
+Global citizens
+keyboard_arrow_down
+5.
+Demonstrate an understanding of specialised knowledge within a systematic and coherent body of knowledge, including established theories relevant to Data Science as a discipline and professional field.
+Scholars
+Professionals
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Science (Honours) - BSc(Hons)
+4500 - Science (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus
+Sydney
+Units of Credit:
+48
+Typical duration:
+1 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 48 UOC.
+Expand all
+Thesis Course
+18 Units of Credit:
+keyboard_arrow_down
+Student must take MATH4001 (6 UOC) three times per year for a total of 18 UOC.
+arrow_forward
+MATH4001
+6 UOC
+Mathematics and Statistics Honours Thesis
+Prescribed Electives 1
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+arrow_forward
+MATH5165
+6 UOC
+Optimization
+arrow_forward
+MATH5171
+6 UOC
+Linear and Discrete Optimization Modelling
+arrow_forward
+MATH5271
+6 UOC
+Environmental Data Science and Statistics
+arrow_forward
+MATH5425
+6 UOC
+Graph Theory
+arrow_forward
+MATH5806
+6 UOC
+Applied Regression Analysis
+arrow_forward
+MATH5836
+6 UOC
+Data and Machine Learning
+arrow_forward
+MATH5845
+6 UOC
+Time Series
+arrow_forward
+MATH5855
+6 UOC
+Multivariate Analysis
+arrow_forward
+MATH5895
+6 UOC
+Nonparametric Statistics
+arrow_forward
+MATH5905
+6 UOC
+Statistical Inference
+arrow_forward
+MATH5945
+6 UOC
+Categorical Data Analysis
+arrow_forward
+MATH5960
+6 UOC
+Bayesian Inference and Computation
+Prescribed Electives 2
+keyboard_arrow_down
+Students may also take up to 12 UOC of the following courses.
+arrow_forward
+COMP6713
+6 UOC
+Natural Language Processing
+arrow_forward
+COMP6714
+6 UOC
+Information Retrieval and Web Search
+arrow_forward
+COMP9313
+6 UOC
+Big Data Management
+arrow_forward
+COMP9321
+6 UOC
+Data Services Engineering
+arrow_forward
+COMP9417
+6 UOC
+Machine Learning
+arrow_forward
+COMP9418
+6 UOC
+Advanced Machine Learning
+arrow_forward
+COMP9444
+6 UOC
+Neural Networks and Deep Learning
+arrow_forward
+COMP9517
+6 UOC
+Computer Vision
+arrow_forward
+COMP9814
+6 UOC
+Extended Artificial Intelligence
+arrow_forward
+DATA5002
+6 UOC
+Data Visualisation
+arrow_forward
+ECON4106
+6 UOC
+Empirical Methods for Causal Inference
+arrow_forward
+ECON4202
+6 UOC
+Advanced Econometric Theory and Methods
+arrow_forward
+ECON4205
+6 UOC
+Microeconometrics
+arrow_forward
+ECON4301
+6 UOC
+Industrial Organisation
+arrow_forward
+ECON4307
+6 UOC
+Health Economics
+arrow_forward
+ECON4309
+6 UOC
+Economic Measurement
+Quantitative Data Science
+keyboard_arrow_down
+Enrolment in courses outside the School of Mathematics and Statistics may be subject to approval from the controlling School or Department.
+Several of the above courses have equivalent undergraduate versions which are excluded against them, so students are advised to check their choices carefully.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Additional Information
+Entry Requirements
+So that students have sufficient background to attempt the courses in the honours year, students must discuss their selection of Level III courses with the Mathematics Honours Coordinator or another academic adviser.
+To enter honours in Quantitative Data Science, students must have
+Completed the Bachelor of Data Science and Decisions program (any stream) but including at least 18uoc in level III MATH or DATA courses
+or
+;
+Completed a suitable quantitatively based data science bachelors degree at any other university
+or
+Completed a bachelors degree which includes at least three level III, or higher level, courses in mathematics or statistics, and at least two level III, or higher level, courses in computer science and/or business that are listed as electives in program 3959
+In addition,
+students will normally be required to have an average above 70 in their level III MATH courses
+With the permission of the Head of School (or nominee), a student may be allowed into Quantitative Data Science Honours without having satisfied the specific requirements, and instead have shown some evidence of the ability to undertake independent study.
+Final Mark
+The marks for the thesis and other honours courses will be combined to give a weighted average mark forming a final honours mark which will be rounded up and used to decide the grade of honours the student will be awarded as follows:
+Honours class 1 -- final mark of 85 or over
+Honours class 2, Division 1 -- final mark from 75 to 84
+Honours class 2, Division 2 -- final mark from 65 to 74
+Honours class 3 -- final mark from 50 to 64
+Pathways
+Students who successfully complete Quantitative Data Science Honours are qualified to continue further in their research careers by applying to undertake postgraduate studies by PhD or Masters. Students with successful honours are qualified to enrol in a PhD program at UNSW. Students achieving a high Honours Grade (Class 1 or 2.1) may apply for an Australian Postgraduate Award (APA) PhD scholarship to support such studies. Further information can be obtained from MathsStats postgraduate studies webpages:
+http://www.maths.unsw.edu.au/futurestudents/postgraduate-coursework
+http://www.maths.unsw.edu.au/futurestudents/postgraduate-research
+Graduates of a Quantitative Data Science honours plan are also well qualified to find employment in many sectors. Past honours graduates in mathematics and statistics have found employment in areas such as banking, computing, education, finance, government, medical research and meteorology. The
+Australian Mathematical Society
+and
+Australian Mathematical Sciences Institute
+to maintain up-to-date information on career prospects in mathematics and statistics.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+48
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

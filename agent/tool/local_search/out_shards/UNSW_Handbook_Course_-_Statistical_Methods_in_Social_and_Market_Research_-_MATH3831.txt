@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3831.html
+
+UNSW Handbook Course - Statistical Methods in Social and Market Research - MATH3831
+
+
+UNSW Handbook Course - Statistical Methods in Social and Market Research - MATH3831
+Statistical Methods in Social and Market Research - MATH3831
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: MATH2801 or MATH2901.
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+In this course you will develop skills important for the design and analysis of research in the social sciences and in market research. The specific focus will be on issues related to survey sampling, and questionnaire design and analysis. By the end of this course, you will be able to identify an appropriate survey design for a particular situation, estimate the required sample sizes to achieve a given level of precision, estimate key quantities of interest (typically expressed as averages, totals or ratios), and make inferences about key quantities using their sample estimates. In addition, you will be able to design a questionnaire suitable for answering a key research question, and analyse responses to a questionnaire using a range of modern techniques.

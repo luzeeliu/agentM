@@ -1,0 +1,125 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MDCNAH
+
+Handbook - Clinical Artificial Intelligence
+
+
+Handbook - Clinical Artificial Intelligence
+
+Specialisation
+print
+Print Clinical Artificial Intelligence page
+_border
+Clinical Artificial Intelligence
+MDCNAH
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+The Clinical AI stream introduces undergraduate medical students to both Clinical AI research and coursework. Students undertaking Clinical AI will undertake an extended coursework Honours program consisting of 30 UoC from selected coursework and 18 UoC from a research project related to the specialisation. The research project may be undertaken… For more content click the Read More button below.
+The Clinical AI stream introduces undergraduate medical students to both Clinical AI research and coursework. Students undertaking Clinical AI will undertake an extended coursework Honours program consisting of 30 UoC from selected coursework and 18 UoC from a research project related to the specialisation. The research project may be undertaken within affiliated hospitals and Research Institutes/centers or other Schools within the Faculty of Medicine and Health
+Students will be required to have the following knowledge in basic statistics:
+The concept of probability and probability density function.
+This includes mean, variance, and median.
+Normal/Gaussian distribution.
+Competence in basic calculus and algebra concepts:
+How to write algebraic equations (for example y = 3 x + 2).
+The concept of mathematical function y = f(x).
+Cartesian coordinates and cartesian representation.
+The concepts of vectors spaces, vectors, and dimensions in a mathematical space.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Science (Medicine) Honours - BSc (Med) Hons
+3831 - Science (Medicine) Honours
+keyboard_arrow_down
+Faculty:
+Faculty of Medicine and Health
+Campus
+Sydney
+Units of Credit:
+48
+Typical duration:
+1 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 48 UOC.
+Expand all
+Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must complete 48 UOC of the following courses.
+Note:
+- MDCN8000 is a multi-term course run over three terms for a total of 18 UOC.
+- MFAC4001 is a multi-term course run over three terms for a total of 6 UOC.
+arrow_forward
+MDCN8000
+6 UOC
+Medicine Honours
+arrow_forward
+MFAC4001
+2 UOC
+Value-Based Health Care in Clinical Practice
+arrow_forward
+HDAT9100
+6 UOC
+Context of Health Data Science
+arrow_forward
+HDAT9300
+6 UOC
+Computing for Health Data Science
+arrow_forward
+HDAT9500
+6 UOC
+Health Data Analytics: Machine Learning I
+arrow_forward
+HDAT9000
+6 UOC
+Clinical Artificial Intelligence
+Clinical Transition Course
+keyboard_arrow_down
+Following the successful completion of the Honours program in Term 3, students are required to complete the following course in preparation for clinical placements in the following year.
+arrow_forward
+MFAC2507
+6 UOC
+Clinical Transition
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Medicine and Health
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+48
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

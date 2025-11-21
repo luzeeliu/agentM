@@ -1,0 +1,37 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/COMP2041.html
+
+UNSW Handbook Course - Software Construction: Techniques and Tools - COMP2041
+
+
+UNSW Handbook Course - Software Construction: Techniques and Tools - COMP2041
+Software Construction: Techniques and Tools - COMP2041
+Faculty:
+Faculty of Engineering
+School:
+School of Computer Science and Engineering
+Course Outline:
+www.cse.unsw.edu.au/~cs2041
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: COMP1511 or COMP1917 or COMP1921
+Excluded:
+COMP9041
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Software system decomposition and design. Overview of the software development life-cycle. Command languages. Version control and configuration management, programming for reliability. Testing and debugging techniques. Profiling and code improvement techniques. Practical work involving programming-in-the-large.

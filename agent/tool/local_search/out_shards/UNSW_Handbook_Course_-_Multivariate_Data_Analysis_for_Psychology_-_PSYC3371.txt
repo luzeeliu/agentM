@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PSYC3371.html
+
+UNSW Handbook Course -  Multivariate Data Analysis for Psychology - PSYC3371
+
+
+UNSW Handbook Course -  Multivariate Data Analysis for Psychology - PSYC3371
+Multivariate Data Analysis for Psychology - PSYC3371
+Faculty:
+Faculty of Science
+School:
+School of Psychology
+Course Outline:
+www.psy.unsw.edu.au
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: PSYC3001
+CSS Contribution Charge:
+1
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+The analysis of multivariate data from experimental and non-experimental designs. Multiple regression analysis and its application to prediction, to the analysis of designed experiments with experimental and subject variables, and to the construction of structural models. Multivariate analysis of variance and its application to analysis of within-subjects designs. These methods are often used across the range of sub-disciplines of psychology and as such are relevant for the analyses of data from Fourth Year research projects in psychology.

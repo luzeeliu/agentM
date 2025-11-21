@@ -1,0 +1,810 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3707
+
+Handbook - Engineering (Honours)
+
+
+Handbook - Engineering (Honours)
+
+Program
+print
+Print Engineering (Honours) page
+_border
+Engineering (Honours)
+3707
+192 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Program Structure
+Program Constraints
+Sample Programs
+Program Requirements
+Associated Programs
+Professional Outcomes
+Recognition of Achievement
+Program Fees
+Overview
+The UNSW Bachelor of Engineering (Honours) is designed to equip you for a career as a professional engineer. We provide you with a solid background in mathematics, natural sciences and computing that will prepare you for learning knowledge and skills in an engineering discipline specialisation. You will get the chance… For more content click the Read More button below.
+The UNSW Bachelor of Engineering (Honours) is designed to equip you for a career as a professional engineer. We provide you with a solid background in mathematics, natural sciences and computing that will prepare you for learning knowledge and skills in an engineering discipline specialisation. You will get the chance to apply yourself to engineering design and enquiry projects, professional engineering practice, engineering and technical management and conduct research towards your thesis project.
+The four year program is offered in 21 engineering specialisations (listed below). A flexible first year engineering specialisation is offered for students who wish to study engineering but choose to delay their choice of which branch of engineering to study until the end of Year 1.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Comprehensive, theory based understanding of the underpinning natural and physical sciences and the engineering fundamentals applicable to the engineering discipline.
+keyboard_arrow_down
+2.
+Conceptual understanding of the mathematics, numerical analysis, statistics, and computer and information sciences which underpin the engineering discipline.
+keyboard_arrow_down
+3.
+In-depth understanding of specialist bodies of knowledge within the engineering discipline.
+keyboard_arrow_down
+4.
+Discernment of knowledge development and research directions within the engineering discipline.
+keyboard_arrow_down
+5.
+Knowledge of engineering design practice and contextual factors impacting the engineering discipline.
+Global citizens
+Professionals
+keyboard_arrow_down
+6.
+Understanding of the scope, principles, norms, accountabilities and bounds of sustainable engineering practice in the specific discipline.
+Professionals
+Global citizens
+keyboard_arrow_down
+7.
+Application of established engineering methods to complex engineering problem solving.
+Professionals
+Global citizens
+keyboard_arrow_down
+8.
+Fluent application of engineering techniques, tools and resources.
+Professionals
+keyboard_arrow_down
+9.
+Application of systematic engineering synthesis and design processes.
+Professionals
+Global citizens
+keyboard_arrow_down
+10.
+Application of systematic approaches to the conduct and management of engineering projects.
+Leaders
+Professionals
+Global citizens
+keyboard_arrow_down
+11.
+Ethical conduct and professional accountability.
+Global citizens
+Professionals
+keyboard_arrow_down
+12.
+Effective oral and written communication in professional and lay domains.
+Global citizens
+Leaders
+keyboard_arrow_down
+13.
+Creative, innovative and pro-active demeanour.
+Leaders
+Professionals
+keyboard_arrow_down
+14.
+Professional use and management of information.
+Leaders
+keyboard_arrow_down
+15.
+Orderly management of self, and professional conduct.
+Professionals
+Leaders
+keyboard_arrow_down
+16.
+Effective team membership and team leadership.
+Leaders
+Professionals
+Global citizens
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Program Structure
+Students must complete 192 UOC when taken as a standalone program.
+168 UOC specialisation
+All students are required to complete ENGG4999- 60 days of Industrial Training
+12 UOC General Education
+12 UOC Free Electives
+Expand all
+Disciplinary Component
+168 Units of Credit:
+keyboard_arrow_down
+Students must complete 168 UOC of the following to satisfy the core requirements of this degree
+Majors
+keyboard_arrow_down
+Students must complete one of the specialisations below.
+Honours
+arrow_forward
+AEROAH
+168 UOC
+Aerospace Engineering
+arrow_forward
+BINFAH
+168 UOC
+Bioinformatics Engineering
+arrow_forward
+BIOMMH
+168 UOC
+Biomedical Engineering
+arrow_forward
+CEICAH
+168 UOC
+Chemical Engineering
+arrow_forward
+CEICDH
+168 UOC
+Chemical Product Engineering
+arrow_forward
+COMPBH
+168 UOC
+Computer Engineering
+arrow_forward
+CVENAH
+168 UOC
+Civil Engineering
+arrow_forward
+CVENBH
+168 UOC
+Environmental Engineering
+arrow_forward
+ELECAH
+168 UOC
+Electrical Engineering
+arrow_forward
+ELECCH
+168 UOC
+Quantum Engineering
+arrow_forward
+ENGGFH
+168 UOC
+Nuclear Engineering
+arrow_forward
+GMATDH
+168 UOC
+Surveying
+arrow_forward
+MANFBH
+168 UOC
+Mechanical and Manufacturing Engineering
+arrow_forward
+MECHAH
+168 UOC
+Mechanical Engineering
+arrow_forward
+MEREAH
+168 UOC
+Geoenergy and Geostorage Engineering
+arrow_forward
+MINEAH
+168 UOC
+Mining Engineering
+arrow_forward
+MTRNBH
+168 UOC
+Robotics and Mechatronics Engineering
+arrow_forward
+SENGAH
+168 UOC
+Software Engineering
+arrow_forward
+SOLAAH
+168 UOC
+Photovoltaics and Solar Energy
+arrow_forward
+SOLABH
+168 UOC
+Renewable Energy Engineering
+arrow_forward
+TELEAH
+168 UOC
+Telecommunications
+Industrial Training
+keyboard_arrow_down
+Students must complete the following course.
+arrow_forward
+ENGG4999
+0 UOC
+Industrial Training
+Free Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of Free Electives
+open_in_new
+any course
+General Education
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of General Education courses. The following courses cannot count towards this requirement:
+- Courses offered by the Faculty of Engineering (except ENGG0360 or GENE1500)
+- Courses that start with CHEM, MATH, or PHYS (except PHYS1160)
+open_in_new
+any General Education course
+Optional Minor
+24 Units of Credit:
+keyboard_arrow_down
+Students who choose to complete a minor must declare the minor before their final term of study. Students should check requirements for the minor and in which Engineering (Honours) specialisations it is available.
+Minor
+arrow_forward
+ENGGA2
+24 UOC
+Humanitarian Engineering
+arrow_forward
+ENGGF2
+24 UOC
+Nuclear Engineering
+Program Constraints
+Expand all
+Maturity Rule
+keyboard_arrow_down
+Students must have completed 102 UOC before taking any of the following courses.
+any level 4 course
+Students must have completed 42 UOC before taking any of the following courses.
+any level 3 course
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Engineering (Honours)
+Program Requirements
+Compulsory Training Component
+Compulsory Industrial Training
+There is a program requirement of 60 days approved Industrial Training.
+Progression Requirements
+Students must make satisfactory progress while studying in the BE (Hons) program. Students must show cause not to be excluded from the program if any of the following occur:
+Fail a core course 2 or more times
+Fail more than half of the courses attempted, after completing 84 UOC or more of the BE(Hons) major
+Have an overall WAM less than 50.000 with 48 UOC or more of your BE(Hons) remaining.
+Students must also satisfy UNSW progression requirements.
+For more information on university policy on progression requirements for coursework programs please visit
+Academic Progression
+and for Research programs visit
+Higher Degree Research.
+Associated Programs
+Related Double Degree
+Expand all
+Bachelor of Science (Advanced Mathematics) (Honours) - BSc(AdvMath)(Hons)
+Bachelor of Engineering (Honours) - BE (Hons)
+3761 - Advanced Mathematics (Honours) / Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+288
+Typical Duration:
+6 Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Engineering (Honours) - BE (Hons)
+3762 - Advanced Science (Honours) / Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+288
+Typical Duration:
+6 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Commerce - BCom
+3764 - Engineering (Honours) / Commerce
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, UNSW Business School
+Campus:
+Sydney
+Units of Credit:
+264
+Typical Duration:
+5.7 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Laws - LLB
+3765 - Engineering (Honours) / Law
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, Faculty of Law and Justice
+Campus:
+Sydney
+Units of Credit:
+312
+Typical Duration:
+6.7 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Science - BSc
+3767 - Engineering (Honours) / Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Master of Biomedical Engineering - MBiomedE
+3768 - Engineering (Honours) / Biomedical Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Engineering Science - BEngSc
+3773 - Engineering (Honours) / Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Surveying - BSurv
+3776 - Engineering (Honours) / Surveying
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Science - BSc
+3785 - Engineering (Honours) / Computer Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Fine Arts - BFA
+Bachelor of Engineering (Honours) - BE (Hons)
+3793 - Fine Arts / Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Arts, Design and Architecture, Faculty of Engineering
+Units of Credit:
+264
+Typical Duration:
+5.7 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Arts - BA
+3961 - Engineering (Honours) / Arts
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, Faculty of Arts, Design and Architecture
+Campus:
+Sydney
+Units of Credit:
+264
+Typical Duration:
+5.7 Year(s)
+open_in_new
+Read More
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Laws (Honours) - LLB(Hons)
+4717 - Engineering (Honours) / Law (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering, Faculty of Law and Justice
+Campus:
+Sydney
+Units of Credit:
+312
+Typical Duration:
+6.7 Year(s)
+open_in_new
+Read More
+Postgraduate Pathway
+Expand all
+Doctor of Philosophy - PhD
+1010 - Chemical Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1016 - Industrial Chemistry
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1031 - Food Science and Technology
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1050 - Mining Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1630 - Civil & Environmental Eng
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1640 - Electrical Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1650 - Computer Science and Eng
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1655 - Photovoltaic Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Doctor of Philosophy - PhD
+1662 - Mechanical & Manufacturing Eng
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 - 4 Year(s)
+open_in_new
+Read More
+Graduate Diploma in Mining Engineering - GDipMinEng
+5335 - Mining Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+48
+Typical Duration:
+1 Year(s)
+open_in_new
+Read More
+Graduate Diploma in Engineering Science - GDipEngSc
+5373 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+72
+Typical Duration:
+1.7 years F/T, 3.3 Years P/T
+open_in_new
+Read More
+Graduate Certificate in Mining Engineering - GCertMinEng
+7335 - Mining Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+24
+Typical Duration:
+0.7 Year(s)
+open_in_new
+Read More
+Graduate Certificate in Engineering Science - GCertEngSc
+7373 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+48
+Typical Duration:
+1 year F/T, 2 years P/T
+open_in_new
+Read More
+Graduate Certificate in Computing - GCertComp
+7543 - Computing
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+24
+Typical Duration:
+0.7 Year(s)
+open_in_new
+Read More
+Master of Science - MSc
+8037 - Food Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+96
+Typical Duration:
+2 Year(s)
+open_in_new
+Read More
+Master of Mining Engineering - MMinEng
+8335 - Mining Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+72
+Typical Duration:
+1.7 Year(s)
+open_in_new
+Read More
+Master of Engineering Science - MEngSc
+8338 - Engineering Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+96
+Typical Duration:
+1 - 2 Year(s)
+open_in_new
+Read More
+Master of Information Technology - MIT
+8543 - Information Technology
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+96
+Typical Duration:
+2 Year(s)
+open_in_new
+Read More
+Master of Biomedical Engineering - MBiomedE
+8660 - Biomedical Engineering
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+72
+Typical Duration:
+1.7 Year(s)
+open_in_new
+Read More
+Professional Outcomes
+Accreditations
+Expand all
+Australian Computer Society
+keyboard_arrow_down
+Majors offered by the School of Computer Science and Engineering (BINFAH, COMPBH, SENGAH) are accredited by the Australian Computer Society.
+Engineers Australia
+keyboard_arrow_down
+The Bachelor of Engineering (Honours) specialisations* and associated double degree programs are fully accredited with Engineers Australia at the level of Professional Engineer.
+*The Quantum Engineering specialisation has provisional accreditation with Engineers Australia at the level of Professional Engineer.
+*The Geoenergy and Geostorage Engineering, Biomedical Engineering and Nuclear Engineering specialisations are seeking provisional accreditation with Engineers Australia at the level of Professional Engineer in 2026.
+Institution of Chemical Engineers
+keyboard_arrow_down
+The following degrees are accredited with IChemE to M-Standard. Graduates with an M-Standard degree will have met the formal educational requirements for Chartered membership with IChemE in full.
+3707 BE(Hons)(Chemical Engineering)
+3761 Adv Math(Hons)/BE(Hons)(Chemical Engineering)
+3762 Adv Sci(Hons)/BE(Hons)(Chemical Engineering)
+3764 BE(Hons)(Chemical Engineering)/BCom
+3765 BE(Hons)(Chemical Engineering)/Law
+3766 BMus/BE(Hons)(Chemical Engineering)
+3767 BE(Hons)(Chemical Engineering)/BSc
+3768 BE(Hons)(Chemical Engineering)/MBiomedE
+3769 BMus(Hons)/BE(Hons)(Chemical Engineering)
+3773 BE(Hons)(Chemical Engineering)/Engineering Science
+3785 BE(Hons)(Chemical Engineering)/BSc(Computer Science)
+3961 BE(Hons)(Chemical Engineering)/BA
+4717 BE(Hons)(Chemical Engineering)/Law(Hons)
+Professional Recognition
+Graduates are eligible to apply for membership of Engineers Australia. Further information may be found on engineersaustralia.org.au
+The Surveying major is recognised by the Board of Surveying and Spatial Information of New South Wales for registration as a surveyor in NSW.
+Career Opportunities
+From your second year, you can specialise in a particular field of engineering. Refer to the various engineering degrees for examples of career opportunities.
+Recognition of Achievement
+Expand all
+University Medal
+keyboard_arrow_down
+The University Medal is awarded to recognise outstanding academic performance by a bachelor degree student in line with the University Medal Policy and University Medal Procedure.
+Honours Classes
+keyboard_arrow_down
+The class is based on the candidate's Honours WAM and on the mark awarded for thesis.
+Class 1: Honours WAM of at least 80 and thesis course mark of at least 65
+Class 2 Division 1: Honours WAM of at least 75 and thesis course mark of at least 65
+Class 2 Division 2: Honours WAM of at least 65 and thesis course mark of at least 65
+For further details on the calculation of the Honours WAM please refer to the Bachelor of
+Engineering (Honours) Program Rules webpage
+.
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+4 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Delivery Mode
+Face-to-face (includes blended)
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+192
+AQF Level
+Level 8
+Award Type
+Bachelor (Honours) (Embedded)
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Engineering (Honours) - BE (Hons)
+UAC Code
+425000 - BE (H)(Flexible First Year)
+425020 - BE (H)(Robotics & Mechatronics)
+425030 - BE (H)(Geoenergy & Geostorage)
+425050 - BE (H)(Aerospace/Mechanical & Manufacturing/Mechanical)
+425100 - BE (H)(Electrical/Telecommunications/Quantum)
+425200 - BE(H)(Photovoltaics & Solar Energy/Renewable Energy)
+425300 - BE (H)(Mining)
+425400 - BE (H)(Civil)
+425470 - BE (H)(Environmental)
+425500 - BE (H)(Surveying)
+425550 - BE (H)(Chemical/Chemical Product)
+425700 - BE (H)(Computer)
+425750 - BE (H)(Software)
+425770 - BE (H)(Bioinformatics)
+CRICOS Code
+056835E
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

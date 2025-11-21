@@ -1,0 +1,368 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/GMATDH
+
+Handbook - Surveying
+
+
+Handbook - Surveying
+
+Specialisation
+print
+Print Surveying page
+_border
+Surveying
+GMATDH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The Surveying specialisation aims to prepare a graduate for a broad range of career opportunities in the various branches of Surveying and Geospatial Engineering. To this end the specialisation covers general scientific and IT principles, as well as specialised Surveying and Geospatial Engineering topics. The specialisation is provided through the… For more content click the Read More button below.
+The Surveying specialisation aims to prepare a graduate for a broad range of career opportunities in the various branches of Surveying and Geospatial Engineering. To this end the specialisation covers general scientific and IT principles, as well as specialised Surveying and Geospatial Engineering topics. The specialisation is provided through the provision of elective courses offered in the third and fourth years of the program and the choice of a targeted final year research thesis project often aligned with an external industry partner.
+The Bachelor of Engineering (Honours) in Surveying is recognised by the Board of Surveying and Spatial Information of New South Wales as meeting the requirements for entry as a candidate to become a Registered Surveyor. The degree is also recognised by the Institution of Surveyors, New South Wales, the Geospatial Council of Australia and Engineers Australia, for admission as members.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Show proficiency in the enabling sciences (maths, computer science and physics) that underpin Surveying.
+keyboard_arrow_down
+2.
+Demonstrate expertise in Surveying specialist technical knowledge such as: surveying, geospatial engineering, cadastral, remote sensing, satellite positioning, GIS and geodesy.
+keyboard_arrow_down
+3.
+Critically evaluate and apply current research to the solution of complex problems in surveying and geospatial engineering.
+keyboard_arrow_down
+4.
+Use appropriate data acquisition, analytical and computational tools, including: total stations, digital levels, GNSS, laser scanners, UAVs, and their analysis, CAD, GIS and least squares to analyse complex problems in surveying.
+keyboard_arrow_down
+5.
+Design and implement innovative engineering solutions and systems in surveying.
+keyboard_arrow_down
+6.
+Lead and manage surveying projects, individually or as part of a team, in a systematic and professional manner.
+keyboard_arrow_down
+7.
+Apply nuanced professional judgement that contributes to the ethical and sustainable practice of surveying.
+keyboard_arrow_down
+8.
+Communicate professionally and effectively within and outside of surveying.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+GMAT1110
+6 UOC
+Surveying and Geospatial Engineering
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+CVEN2002
+6 UOC
+Civil and Environmental Engineering Computations
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+GMAT2120
+6 UOC
+Surveying and Geospatial Technology
+arrow_forward
+GMAT2500
+6 UOC
+Surveying Computations A
+arrow_forward
+GMAT2550
+6 UOC
+Surveying Computations B
+arrow_forward
+GMAT2700
+6 UOC
+Foundations of Geodesy & Geospatial Ref Frames
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+arrow_forward
+CVEN3101
+6 UOC
+Engineering Operations and Control
+arrow_forward
+CVEN3501
+6 UOC
+Water Resources Engineering
+arrow_forward
+GMAT3100
+6 UOC
+Surveying Applications and Design
+arrow_forward
+GMAT3150
+6 UOC
+Surveying Field Projects
+arrow_forward
+GMAT3220
+6 UOC
+Geospatial Information Systems
+arrow_forward
+GMAT3420
+6 UOC
+Cadastral Surveying and Land Law
+arrow_forward
+GMAT3500
+6 UOC
+Remote Sensing and Photogrammetry
+arrow_forward
+GMAT3700
+6 UOC
+Geodetic Positioning and Applications
+Level 4 Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses, or 30 UOC if taking Higher Honours Research Thesis
+arrow_forward
+GMAT4150
+6 UOC
+Field Projects 2
+Thesis
+12 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+CVEN4050
+6 UOC
+Thesis A
+arrow_forward
+CVEN4051
+6 UOC
+Thesis B
+Research Thesis
+12 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+CVEN4951
+4 UOC
+Research Thesis A
+arrow_forward
+CVEN4952
+4 UOC
+Research Thesis B
+arrow_forward
+CVEN4953
+4 UOC
+Research Thesis C
+Higher Honours Research Thesis
+24 Units of Credit:
+keyboard_arrow_down
+arrow_forward
+CVEN4961
+6 UOC
+Higher Honours Research Thesis A
+arrow_forward
+CVEN4962
+6 UOC
+Higher Honours Research Thesis B
+arrow_forward
+CVEN4963
+12 UOC
+Higher Honours Research Thesis C
+Discipline Electives
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses when taking Research Thesis. Students must take at least 6 UOC of the following courses when taking Higher Research Thesis.
+Students who wish to take any courses outside of this list need to get approval from the Program Authority.
+Notes:
+- Students studying GMATDH in a single degree may also take courses from this list to satisfy program requirements.
+- Only students who have completed DESN2000 can count CVEN3401 as a discipline elective.
+- GMAT4400 and GMAT4220 are the recommended electives for this program.
+- Students wishing to apply as candidates for registration through the NSW Board of Surveying and Spatial Information (BOSSI) must take GMAT4400.
+arrow_forward
+AVIA2025
+6 UOC
+Introduction to Airborne Drone Management
+arrow_forward
+CVEN2101
+6 UOC
+Engineering Construction
+arrow_forward
+CVEN3401
+6 UOC
+Transport and Highway Engineering
+arrow_forward
+ENGG1400
+6 UOC
+Infrastructure Systems Engineering
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG4060
+6 UOC
+Student Initiated Project
+arrow_forward
+ENGG4102
+6 UOC
+Humanitarian Engineering Project
+arrow_forward
+ENGG4103
+6 UOC
+International Humanitarian Response
+arrow_forward
+GEOS3911
+6 UOC
+Environmental Impact Assessment
+arrow_forward
+GMAT4220
+6 UOC
+Geospatial Information Science
+arrow_forward
+GMAT4400
+6 UOC
+Land Management Project
+arrow_forward
+PLAN7140
+6 UOC
+Land & Environment Law
+Practice Electives
+keyboard_arrow_down
+Students may take one or more courses from the following list but are not required to do so.
+Students studying a single degree in GMATDH are required to select additional UOC from the Discipline and/or Practice Elective list to satisfy their program requirements. In some situations students in double degrees where there is double counting may also have additional UOC free for practice electives.
+Note: 2 UOC and 3 UOC courses are run over consecutive terms for a final total of 6 UOC.
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Civil and Environmental Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

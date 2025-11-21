@@ -1,0 +1,102 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/CHEM2832
+
+Handbook - Medicines: Small Molecules to Macromolecules
+
+
+Handbook - Medicines: Small Molecules to Macromolecules
+
+Course
+print
+Print Medicines: Small Molecules to Macromolecules page
+_border
+Medicines: Small Molecules to Macromolecules
+CHEM2832
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Equivalent Courses
+Delivery
+Overview
+This course will provide you with an understanding of what medicinal chemistry is, and how it is carried out. It will describe the interdisciplinary process of how new medicines are designed and developed. The first major section of the course contains a refresher of some fundamental concepts in organic chemistry… For more content click the Read More button below.
+This course will provide you with an understanding of what medicinal chemistry is, and how it is carried out. It will describe the interdisciplinary process of how new medicines are designed and developed.
+The first major section of the course contains a refresher of some fundamental concepts in organic chemistry (e.g. structure and bonding; functional groups; intermolecular forces) and an introduction to different classes of drug targets (e.g. DNA; RNA; proteins; carbohydrates).
+The second major section of the course focuses on small-molecule drug development. The various sources of lead compounds are examined, including examples from Australian traditional medicine. The concepts of pharmacodynamics and pharmacokinetics are investigated. Several valuable computational tools for drug development are introduced (e.g. docking, logP prediction). Strategies for lead optimisation are examined (e.g. isosteric replacements; metabolic fixes; rigidification; simplification; extension).
+The third major section of the courses focuses on biologics and other macromolecular drugs. Several classes of biological macromolecules are examined in detail, including their structure and function; methods for their industrial production; and examples of their therapeutic use. A strong emphasis will be given to the science of mRNA vaccines. Non-natural macromolecules / nanoparticles will also be examined, including their use either as therapeutics in their own right or as delivery agents for other drugs (e.g. liposomes for mRNA vaccines).
+Throughout the course, a strong emphasis will be placed on peer learning through a series of student-led workshops.
+Read More
+about Overview
+Conditions for Enrolment
+Pre-requisite: PHRM1021
+Equivalent Courses
+open_in_new
+Course
+CHEM1151
+CHEM1151 - Introductory Medicinal Chemistry
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+7 hours/week
+Notes
+4 hours of lectures, 3 hours of workshop per week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Chemistry
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010501 Organic Chemistry
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,37 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATS2004.html
+
+UNSW Handbook Course - Mechanical Behaviour of Materials - MATS2004
+
+
+UNSW Handbook Course - Mechanical Behaviour of Materials - MATS2004
+Mechanical Behaviour of Materials - MATS2004
+Faculty:
+Faculty of Science
+School:
+School of Materials Science and Engineering
+Course Outline:
+http://www.materials.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: MATS1101 or MATS1192
+Excluded:
+MATS1262
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Stress strain behaviour; atomic bonding and elastic modulus; dislocations and yielding; deformation behaviour of polymers; brittle fracture and Weibull modulus; creep.

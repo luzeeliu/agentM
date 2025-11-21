@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3851.html
+
+UNSW Handbook Course - Experimental Design and Categorical Data - MATH3851
+
+
+UNSW Handbook Course - Experimental Design and Categorical Data - MATH3851
+Experimental Design and Categorical Data - MATH3851
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: MATH2801 OR MATH2901 AND MATH2831 OR MATH2931.
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+This course focuses on the principles of good experimental design and the statistical tools appropriate for discrete valued data. Topics include factorial designs and their analysis, response surface designs for product and process optimization, random effects models and components of variance, exploratory and graphical analysis of data using modern statistical packages, data visualization, analysis of cross-tabulated data, logistic and Poisson regression for analysis of binary and count data and log-linear models for contingency tables.

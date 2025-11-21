@@ -1,0 +1,106 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/ELEC9711
+
+Handbook - Power Electronics for Renewable and Distributed Generation
+
+
+Handbook - Power Electronics for Renewable and Distributed Generation
+
+Course
+print
+Print Power Electronics for Renewable and Distributed Generation page
+_border
+Power Electronics for Renewable and Distributed Generation
+ELEC9711
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Exclusion Courses
+Delivery
+Overview
+Renewable energy from natural sources (e.g., sunlight, wind) is increasingly replacing fossil fuels for electricity generation, usually in the form of small-scale distributed generation sources. Power electronics plays a crucial role in the practical integration of such energy sources into the electricity supply networks. This course is intended for all… For more content click the Read More button below.
+Renewable energy from natural sources (e.g., sunlight, wind) is increasingly replacing fossil fuels for electricity generation, usually in the form of small-scale distributed generation sources. Power electronics plays a crucial role in the practical integration of such energy sources into the electricity supply networks. This course is intended for all of you who may want to work in industry or academic environments where power electronics converters are used. These consist of the design, application and maintenance of converters used for applications including power supplies, motor drives, distribution grid networks, renewable energy generation sources, high power transmission and many more.
+Specifically, this course will cover:
+Multiple types of DC-DC converter
+Grid-connected inverters
+Three-phase inverters
+Wind turbines
+Photovoltaic electrical systems
+HVDC transmission systems
+Multi-level converters
+The topics to be covered in this course will include: Grid integration of electrical power from renewable sources; Current and voltage control; Advanced topics in DC-DC converters, inverters, AC-DC converters and AC-AC converters for use in utility interfacing; resonant converters for DC-DC conversion; dynamic representation of DC-DC converters, control loops design; converter circuit and system modelling using LTSpice or other platforms, device selection and their modeling, thermal design, gate drive circuit design, magnetic core and other component selection and design, and case studies of converter system designs.
+Read More
+about Overview
+Exclusion Courses
+open_in_new
+Course
+ELEC4240
+ELEC4240 - Power Electronics
+open_in_new
+Course
+ELEC9240
+ELEC9240 - Power Electronics
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+3
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031301 Electrical Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

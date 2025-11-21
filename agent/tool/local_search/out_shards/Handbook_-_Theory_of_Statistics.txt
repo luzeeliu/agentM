@@ -1,0 +1,121 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MATH2801
+
+Handbook - Theory of Statistics
+
+
+Handbook - Theory of Statistics
+
+Course
+print
+Print Theory of Statistics page
+_border
+Theory of Statistics
+MATH2801
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+The course introduces theoretical concepts used in classical and modern statistics. MATH2801 is the entry-point for a statistics major and a prerequisite for most higher-level statistics courses. Topics covered include probability, random variables, standard distributions, bivariate distributions, transformations, central limit theorem, sampling distributions, point estimation, interval estimation, maximum likelihood estimation… For more content click the Read More button below.
+The course introduces theoretical concepts used in classical and modern statistics. MATH2801 is the entry-point for a statistics major and a prerequisite for most higher-level statistics courses. Topics covered include probability, random variables, standard distributions, bivariate distributions, transformations, central limit theorem, sampling distributions, point estimation, interval estimation, maximum likelihood estimation and hypothesis testing. Students will use the (free) statistics package R/RStudio. Lecture content will be delivered either in-person or online and will be recorded and made available online. Tutorials will be either in-person or online.
+Note: The Assumed Knowledge is first year probability theory and integration. Probability theory revision notes will be made available online and some exercises will be revised briefly in the first tutorial. MATH2801 is compulsory for mathematics majors to ensure an introduction to statistics as a discipline for studying stochastic (random) systems, as opposed to the deterministic. MATH2901 (Higher Theory of Statistics) is a more theoretical/advanced version of MATH2801 which spends more time on proof and theoretical considerations.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014
+Exclusion Courses
+open_in_new
+Course
+BEES2041
+BEES2041 - Data Analysis for Life and Earth Sciences
+open_in_new
+Course
+CVEN2002
+CVEN2002 - Civil and Environmental Engineering Computations
+open_in_new
+Course
+ECON3209
+ECON3209 - Statistics for Econometrics
+open_in_new
+Course
+MATH2089
+MATH2089 - Numerical Methods and Statistics
+open_in_new
+Course
+MATH2099
+MATH2099 - Mathematics 2B
+open_in_new
+Course
+MATH2859
+MATH2859 - Probability, Statistics and Information
+open_in_new
+Course
+MATH2901
+MATH2901 - Higher Theory of Statistics
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+6 hrs/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010103 Statistics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

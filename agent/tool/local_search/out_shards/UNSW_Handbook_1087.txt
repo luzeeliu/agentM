@@ -1,0 +1,88 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiRUxFQyoifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LmltcGxlbWVudGF0aW9uWWVhciJdLCJxdWVyeSI6IjIwMjYifX0seyJxdWVyeV9zdHJpbmciOnsiZmllbGRzIjpbInVuc3dQcm9kX3BzdWJqZWN0LnN0dWR5TGV2ZWxWYWx1ZSJdLCJxdWVyeSI6IipwZ3JkKiJ9fV19fSwic29ydCI6W3sidW5zd1Byb2RfcHN1YmplY3QuY29kZV9kb3RyYXciOiJhc2MifV0sImZyb20iOjAsInNpemUiOjE1fSwicHJlZml4IjoidW5zd1Byb2RfcCJ9LCJkZXNjcmlwdGlvbiI6ImFueSBFbGVjdHJpY2FsIEVuZ2luZWVyaW5nIGNvdXJzZSIsInZlcnNpb24iOiIyMDI2LjAzIiwiY29kZSI6IkVOR0dHUyIsInRpdGxlIjoiTnVjbGVhciBFbmdpbmVlcmluZyAoNTM3MykiLCJydWxlSWQiOiI1MGI5NGZmNDkzYjNlNjEwZDQ1Y2IyZWE2YWJhMTA0MiIsInNvdXJjZVVSTCI6Ii9wb3N0Z3JhZHVhdGUvc3BlY2lhbGlzYXRpb25zLzIwMjYvRU5HR0dTIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6IlBvc3RncmFkdWF0ZSBTcGVjaWFsaXNhdGlvbiJ9
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Postgraduate Specialisation
+search
+
+any Electrical Engineering course
+
+ELEC1111 Electrical Circuit Fundamentals
+ Sydney
+_border
+ELEC2911 Power Engineering for Renewable Energy
+ Sydney
+_border
+ELEC3104 Digital Signal Processing
+ Sydney
+_border
+ELEC3105 Electrical Energy
+ Sydney
+_border
+ELEC3114 Control Systems
+ Sydney
+_border
+ELEC3115 Electromagnetic Engineering
+ Sydney
+_border
+ELEC3117 Electrical Engineering Design
+ Sydney
+_border
+ELEC4601 Digital and Embedded Systems Design
+ Sydney
+_border
+ELEC4602 Microelectronic Design and Technology
+ Sydney
+_border
+ELEC4603 Solid State Electronics
+ Sydney
+_border
+ELEC4604 RF Circuit Design - Theory and Applications
+ Sydney
+_border
+ELEC4605 Quantum Devices and Computers
+ Sydney
+_border
+ELEC4611 Power System Equipment
+ Sydney
+_border
+ELEC4612 Power System Analysis
+ Sydney
+_border
+ELEC4613 Electrical Drive Systems
+ Sydney
+_border
+ELEC4614 Power Electronics
+ Sydney
+_border
+ELEC4617 Power System Protection
+ Sydney
+_border
+ELEC4621 Advanced Digital Signal Processing
+ Sydney
+_border
+ELEC4622 Multimedia Signal Processing
+ Sydney
+_border
+ELEC4623 Biomedical Instrumentation, Measurement and Design
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+3
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

@@ -1,0 +1,259 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3785
+
+Handbook - Engineering (Honours) / Computer Science
+
+
+Handbook - Engineering (Honours) / Computer Science
+
+Double Degree
+print
+Print Engineering (Honours) / Computer Science page
+_border
+Engineering (Honours) / Computer Science
+3785
+240 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Stand Alone Programs
+Double Degree Structure
+Additional Information
+Program Fees
+Overview
+Students may seek to undertake a five-year full-time double degree program leading to the award of the degrees of Bachelor of Engineering (Honours) (BE (Hons)) and Bachelor of Science (Computer Science) (BE (Hons) BSc). The Faculty of Engineering administers the program, and delegates administration to the School which offers the… For more content click the Read More button below.
+Students may seek to undertake a five-year full-time double degree program leading to the award of the degrees of Bachelor of Engineering (Honours) (BE (Hons)) and Bachelor of Science (Computer Science) (BE (Hons) BSc). The Faculty of Engineering administers the program, and delegates administration to the School which offers the Engineering discipline selected. Students should seek advice from the relevant School Office in the first instance, from the Faculty of Engineering, or from the School of Computer Science and Engineering for the Science component.
+With this double degree program, students take 168 Units of Credit (UOC) core of the Bachelor of Engineering (Honours) 3707 Major and 96 UOC core of the Bachelor of Science (Computer Science) 3778 Major. Because of the overlap of 24 UOC of Science courses in both core, the total UOC required for completion of this double degree program is reduced from 264 UOC to 240 UOC (please see the Double Degree Structure below for more details).
+Read More
+about Overview
+Stand Alone Programs
+Click on the link below to find out more about each individual program.
+open_in_new
+Program
+3707
+Engineering (Honours)
+open_in_new
+Program
+3778
+Computer Science
+Double Degree Structure
+In this double degree students take 168 UOC from the Bachelor of Engineering (Hons) and 96 UOC from the Bachelor of Computer Science, for a total of 264 UOC. As there are courses required for both degrees, there is an overlap of at least 24 UOC to reduce the total minimum volume to 240 UOC.
+Bachelor of Engineering (Hons) - 168 UOC
+1. A 168 UOC Major consisting of the following;
+- At least 48 UOC Disciplinary Knowledge and Enquiry-based Courses
+- 30-42 UOC Introductory Knowledge Core courses
+- At least 12 UOC of Disciplinary Elective courses
+- Remaining UOC to consist of (Specialisation/Major) Foundation Disciplinary Knowledge courses
+2. Students must also complete at least 60 days of approved Industrial Training
+Bachelor of Computer Science – 96 UOC
+1. A Bachelor of Computer Science Major
+BINFAH and COMPBH and SENGAH majors are not available in this double degree.
+Depending on the chosen combination of Engineering Major and Computer Science Major there may be more than 24 UOC of overlapping courses. When a student meets all the requirements for both degrees in less than 240 UOC, students must complete additional Elective course/s to bring the total to 240 UOC. Students must take these additional Electives from Faculty of Engineering and/or the School of Computer Science.
+In certain circumstances, when a course overlaps the student must replace the required course in one program with a more advanced course required in the other program. For example-
+1. Students must take COMP1511 as a Level 1 Core Course. COMP1511 replaces ENGG1811 or COMP1911 in the Bachelor of Engineering (Honours) Major. COMP1511 is double counted towards both degrees.
+2. Students are required to complete one of MATH1131 or MATH1141, and one of MATH1231 or MATH1241. The two MATH courses are double counted towards both degrees.
+3. The Level 2 MATH course taken in the Bachelor of Engineering (Honours) Major is counted towards the MATH1081 requirement in the Bachelor of Computer Science Major.
+Note: Without following the substitutions above, students may need to take more than 240 UOC to complete the double degree.
+Expand all
+Disciplinary Component - 3707 Engineering (Honours)
+168 Units of Credit:
+keyboard_arrow_down
+Students must complete 168 UOC of the following to satisfy the core requirements of this degree
+Majors
+keyboard_arrow_down
+Students must complete one of the specialisations below.
+Honours
+arrow_forward
+AEROAH
+168 UOC
+Aerospace Engineering
+arrow_forward
+BIOMMH
+168 UOC
+Biomedical Engineering
+arrow_forward
+CEICAH
+168 UOC
+Chemical Engineering
+arrow_forward
+CEICDH
+168 UOC
+Chemical Product Engineering
+arrow_forward
+CVENAH
+168 UOC
+Civil Engineering
+arrow_forward
+CVENBH
+168 UOC
+Environmental Engineering
+arrow_forward
+ELECAH
+168 UOC
+Electrical Engineering
+arrow_forward
+ELECCH
+168 UOC
+Quantum Engineering
+arrow_forward
+ENGGFH
+168 UOC
+Nuclear Engineering
+arrow_forward
+GMATDH
+168 UOC
+Surveying
+arrow_forward
+MANFBH
+168 UOC
+Mechanical and Manufacturing Engineering
+arrow_forward
+MECHAH
+168 UOC
+Mechanical Engineering
+arrow_forward
+MEREAH
+168 UOC
+Geoenergy and Geostorage Engineering
+arrow_forward
+MINEAH
+168 UOC
+Mining Engineering
+arrow_forward
+MTRNBH
+168 UOC
+Robotics and Mechatronics Engineering
+arrow_forward
+SOLAAH
+168 UOC
+Photovoltaics and Solar Energy
+arrow_forward
+SOLABH
+168 UOC
+Renewable Energy Engineering
+arrow_forward
+TELEAH
+168 UOC
+Telecommunications
+Industrial Training
+keyboard_arrow_down
+Students must complete the following course.
+arrow_forward
+ENGG4999
+0 UOC
+Industrial Training
+Disciplinary Component - 3778 Computer Science
+96 Units of Credit:
+keyboard_arrow_down
+Students must complete 96 UOC of the following to satisfy the core requirements of this degree
+Majors
+keyboard_arrow_down
+COMPA1 is the default specialisation, and will be used if no other specialisation is selected.
+Major
+arrow_forward
+COMPA1
+96 UOC
+Computer Science
+arrow_forward
+COMPD1
+96 UOC
+Computer Science (Database Systems)
+arrow_forward
+COMPE1
+96 UOC
+Computer Science (eCommerce Systems)
+arrow_forward
+COMPI1
+96 UOC
+Computer Science (Artificial Intelligence)
+arrow_forward
+COMPJ1
+96 UOC
+Computer Science (Programming Languages)
+arrow_forward
+COMPN1
+96 UOC
+Computer Science (Computer Networks)
+arrow_forward
+COMPS1
+96 UOC
+Computer Science (Embedded Systems)
+arrow_forward
+COMPY1
+96 UOC
+Computer Science (Security Engineering)
+Enrolment Disclaimer
+Please read the Double Degree Program rules as some specific rules apply to particular Double Degree combinations.
+You are responsible for ensuring you enrol in courses according to your program requirements and advice from your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program.
+Additional Information
+Accreditation:
+The Engineering component of this double degree has the same accreditation status as the Bachelor of Engineering (Honours). For details please see Program
+3707
+Bachelor of Engineering (Honours) Progression Requirements:
+Students must make satisfactory progress while studying in the Bachelor of Engineering (Honours). Students must show cause not to be excluded from the program if any of the following occur:
+Fail a core course 2 or more times
+Fail more than half of the courses attempted, after completing 84 UOC or more of the Bachelor of Engineering (Honours) major
+Have an overall WAM less than 50.000 with 48 UOC or more of your Bachelor of Engineering (Honours) remaining.
+Students must also satisfy UNSW progression requirements.
+For more information on university policy on progression requirements please visit
+Academic Progression
+.
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+Managing Faculty
+Faculty of Engineering
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+5 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+240
+Award Type(s)
+Bachelor (Honours) (Embedded)
+Bachelor
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Science - BSc
+UAC Code
+425850
+CRICOS Code
+085916G
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

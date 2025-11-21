@@ -1,0 +1,900 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3962
+
+Handbook - Advanced Science (Honours)
+
+
+Handbook - Advanced Science (Honours)
+
+Program
+print
+Print Advanced Science (Honours) page
+_border
+Advanced Science (Honours)
+3962
+192 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Program Structure
+Program Constraints
+Sample Programs
+Admission Requirements
+Program Requirements
+Associated Programs
+Recognition of Achievement
+Additional Information
+Program Fees
+Overview
+The Bachelor of Advanced Science (Honours) is the degree of choice for innovative thinkers with exceptional scientific knowledge and skills. This is a program designed for talented students and offers the flexibility to tailor the degree in a way that works for them. The degree offers students access to advanced… For more content click the Read More button below.
+The Bachelor of Advanced Science (Honours) is the degree of choice for innovative thinkers with exceptional scientific knowledge and skills. This is a program designed for talented students and offers the flexibility to tailor the degree in a way that works for them. The degree offers students access to advanced level courses and includes an Honours year. Students will study foundation courses, which may include areas such as biology, chemistry, physics and maths, before choosing a major and really exploring what inspires them most. In their fourth year, students undertake Honours which involves a supervised research project and in some cases, advanced coursework. Outstanding Honours students may continue their studies in a higher research degree.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Apply, integrate and generate advanced knowledge in both a specialist scientific domain and professional contexts
+keyboard_arrow_down
+2.
+Connect high level conceptual and technical skills including programming languages to identify, analyse and to complex problems – both local and global
+keyboard_arrow_down
+3.
+Critically evaluate information to design scientific investigations
+keyboard_arrow_down
+4.
+Conduct sustained, independent investigations in a specialist research area in the pursuit of new knowledge.
+keyboard_arrow_down
+5.
+Analyse original research data applying appropriate evaluative methods
+keyboard_arrow_down
+6.
+Communicate professional and complex disciplinary information and ideas effectively and persuasively to a variety of audiences using a range of methods
+keyboard_arrow_down
+7.
+Work independently, and collaboratively integrating diverse perspectives and ideas to deliver novel research outcomes
+keyboard_arrow_down
+8.
+Demonstrate responsible professional practice, underpinned by ethical, social and sustainability considerations
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Program Structure
+Students must complete 192 UOC when taken as a standalone program.
+Students in the Advanced Science (Honours) program are expected to complete the following requirements.
+144 UOC of Science courses
+:
+- At least one approved Bachelor of Advanced Science (Honours) major
+- SCIF1001 and SCIF2001
+- 48 UOC Honours year
+- Science elective courses. Science courses are defined in "Table 1" in the Additional Information section.
+36 UOC Free Electives
+. These courses can be taken from any Faculty of the University at any stage of your program.
+12 UOC General Education courses
+. Please see the rules regarding General Education below. These courses can be taken at any stage in your program.
+Please click the Sample Programs link below to view a typical enrolment pattern for this program.
+Expand all
+Disciplinary Component
+144 Units of Credit:
+keyboard_arrow_down
+Students must complete 144 UOC of the following to satisfy the core requirements of this degree
+Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses, including two 0 UOC professional development elements SCIF0000 and SCIF3010.
+SCIF0000 should be enrolled in during the first term of study and SCIF3010 should be enrolled in the final term of study. Students will engage in course Moodle activities as well as the Sciconnect platform (www.sciconnect.unsw.edu.au) to complete these elements.
+arrow_forward
+SCIF0000
+0 UOC
+Introduction to University
+arrow_forward
+SCIF1001
+6 UOC
+Advancing Science
+arrow_forward
+SCIF2001
+6 UOC
+Level 2 Research Skills
+arrow_forward
+SCIF3010
+0 UOC
+Graduation Portfolio
+Majors
+keyboard_arrow_down
+Students must complete at least one of the following majors.
+Students should declare their major prior to commencing Stage 2 courses. Students may also opt to complete either a second major OR up to 2 minors.
+When offered in a particular major, students must take higher versions of any Level 2 or 3 courses. Any variation to this must be approved by the Associate Dean (Academic Programs) or nominee.
+Major
+arrow_forward
+ANATF1
+78 UOC
+Anatomy (Advanced Science)
+arrow_forward
+BINFD1
+84 UOC
+Bioinformatics (Advanced Science)
+arrow_forward
+BIOCG1
+84 UOC
+Genetics (Advanced Science)
+arrow_forward
+BIOCL1
+84 UOC
+Molecular and Cell Biology (Advanced Science)
+arrow_forward
+BIOPB1
+78 UOC
+Biophysics (Advanced Science)
+arrow_forward
+BIOSN1
+84 UOC
+Ecology and Conservation (Advanced Science)
+arrow_forward
+BIOSP1
+84 UOC
+Biology and Biodiversity (Advanced Science)
+arrow_forward
+BIOTB1
+84 UOC
+Biotechnology (Advanced Science)
+arrow_forward
+CHEMB1
+84 UOC
+Chemistry (Advanced Science)
+arrow_forward
+CLIMB1
+84 UOC
+Climate Systems Science (Advanced Science)
+arrow_forward
+GEOGV1
+84 UOC
+Geography (Advanced Science)
+arrow_forward
+GEOLN1
+84 UOC
+Earth Science (Advanced Science)
+arrow_forward
+MATHJ1
+66 UOC
+Mathematics (Advanced Science)
+arrow_forward
+MATHK1
+66 UOC
+Statistics (Advanced Science)
+arrow_forward
+MATHG1
+78 UOC
+Physical Oceanography (Advanced Science)
+arrow_forward
+MATSP1
+84 UOC
+Materials Science (Advanced Science)
+arrow_forward
+MICRE1
+84 UOC
+Microbiology (Advanced Science)
+arrow_forward
+MICRL1
+84 UOC
+Immunology (Advanced Science)
+arrow_forward
+MSCIK1
+84 UOC
+Marine and Coastal Science (Advanced Science)
+arrow_forward
+NEURA1
+84 UOC
+Neuroscience (Advanced Science)
+arrow_forward
+PATHB1
+84 UOC
+Pathology (Advanced Science)
+arrow_forward
+PHARB1
+78 UOC
+Pharmacology (Advanced Science)
+arrow_forward
+PHSLB1
+78 UOC
+Physiology (Advanced Science)
+arrow_forward
+PHYSC1
+84 UOC
+Physics (Advanced Science)
+arrow_forward
+PSYCA1
+78 UOC
+Psychology
+Minors
+keyboard_arrow_down
+Students may complete up to two of the following optional minors where there is capacity in their program to do so.
+Free electives and General Education courses may be used to satisfy any non-science courses required by the minor (see note at end of handbook entry for definition of science courses).
+Minor
+arrow_forward
+ANATB2
+42 UOC
+Anatomy
+arrow_forward
+AVIAF2
+24 UOC
+Drone Applications
+arrow_forward
+BIOCD2
+42 UOC
+Molecular Biology
+arrow_forward
+BIOSI2
+30 UOC
+Biology and Biodiversity
+arrow_forward
+BIOSM2
+30 UOC
+Ecology and Conservation
+arrow_forward
+BIOPA2
+42 UOC
+Biophysics
+arrow_forward
+CHEMD2
+48 UOC
+Chemistry
+arrow_forward
+CHINE2
+36 UOC
+Chinese Studies
+arrow_forward
+CHINF2
+36 UOC
+Advanced Chinese Studies
+arrow_forward
+CLIMB2
+24 UOC
+Climate Systems Science
+arrow_forward
+COMDF2
+36 UOC
+Global Development
+arrow_forward
+COMMJ2
+30 UOC
+Business Analytics
+arrow_forward
+ECONO2
+30 UOC
+Behavioural Economics
+arrow_forward
+ENVPE2
+36 UOC
+Environmental Humanities
+arrow_forward
+FRENF2
+36 UOC
+French Studies
+arrow_forward
+FRENG2
+36 UOC
+Advanced French Studies
+arrow_forward
+GEOGH2
+36 UOC
+Physical Geography
+arrow_forward
+GEOLF2
+36 UOC
+Geology
+arrow_forward
+GERSF2
+36 UOC
+German Studies
+arrow_forward
+INFSA2
+30 UOC
+Information Systems
+arrow_forward
+JAPNF2
+36 UOC
+Japanese Studies
+arrow_forward
+JAPNG2
+36 UOC
+Advanced Japanese Studies
+arrow_forward
+KOREF2
+36 UOC
+Korean Studies
+arrow_forward
+KOREG2
+36 UOC
+Advanced Korean Studies
+arrow_forward
+MATHC2
+36 UOC
+Mathematics
+arrow_forward
+MATHD2
+36 UOC
+Statistics
+arrow_forward
+MATHG2
+36 UOC
+Data Analysis
+arrow_forward
+MDIAO2
+36 UOC
+Communication and Journalism
+arrow_forward
+MGMTJ2
+30 UOC
+Innovation, Strategy and Entrepreneurship
+arrow_forward
+MICRJ2
+48 UOC
+Immunology
+arrow_forward
+MSCIK2
+24 UOC
+Marine and Coastal Science
+arrow_forward
+PATHB2
+48 UOC
+Pathology
+arrow_forward
+PHARB2
+42 UOC
+Pharmacology
+arrow_forward
+PHSLB2
+42 UOC
+Physiology
+arrow_forward
+PHYSC2
+48 UOC
+Physics
+arrow_forward
+PHYSI2
+48 UOC
+Astronomy
+arrow_forward
+POLSG2
+36 UOC
+Politics and International Relations
+arrow_forward
+PSYCM2
+36 UOC
+Psychology
+arrow_forward
+SCIFC2
+24 UOC
+Professional Workplace Practice
+arrow_forward
+SOSSC2
+36 UOC
+Policy, Power and Government
+arrow_forward
+SPANI2
+36 UOC
+Spanish Studies
+arrow_forward
+VISNB2
+36 UOC
+Vision Science
+Double Counting
+keyboard_arrow_down
+Students cannot complete a minor with the same name as their nominated major. Students must declare their minor(s) before their final term.
+Honours Specialisations
+keyboard_arrow_down
+Students must complete at least one Science Honours Specialisation selected from the list below.
+Honours
+arrow_forward
+ARCYBH
+48 UOC
+Palaeoscience
+arrow_forward
+BABSBH
+48 UOC
+Bioinformatics
+arrow_forward
+BIOCFH
+48 UOC
+Molecular and Cell Biology
+arrow_forward
+BIOCGH
+48 UOC
+Genetics
+arrow_forward
+BIOPAH
+48 UOC
+Biophysics
+arrow_forward
+BIOSKH
+48 UOC
+Biology
+arrow_forward
+BIOSLH
+48 UOC
+Ecology
+arrow_forward
+BIOTBH
+48 UOC
+Biotechnology
+arrow_forward
+CHEMFH
+48 UOC
+Chemistry
+arrow_forward
+CLIMDH
+48 UOC
+Climate Science
+arrow_forward
+GEOGTH
+48 UOC
+Geography
+arrow_forward
+GEOLMH
+48 UOC
+Geology
+arrow_forward
+MATHAH
+48 UOC
+Applied Mathematics
+arrow_forward
+MATHNH
+48 UOC
+Physical Oceanography
+arrow_forward
+MATHPH
+48 UOC
+Pure Mathematics
+arrow_forward
+MATHTH
+48 UOC
+Statistics
+arrow_forward
+MATSCH
+48 UOC
+Materials Science
+arrow_forward
+MICRFH
+48 UOC
+Microbiology
+arrow_forward
+MSCIJH
+48 UOC
+Marine Science
+arrow_forward
+NEURBH
+48 UOC
+Neuroscience
+arrow_forward
+PHYSGH
+48 UOC
+Physics
+arrow_forward
+PSYCAH
+48 UOC
+Psychology
+arrow_forward
+SOMSAH
+48 UOC
+Medical Science
+arrow_forward
+SOMSBH
+48 UOC
+Physiology
+arrow_forward
+SOMSCH
+48 UOC
+Pharmacology
+arrow_forward
+SOMSDH
+48 UOC
+Pathology
+arrow_forward
+SOMSEH
+48 UOC
+Anatomy
+arrow_forward
+VISNBH
+48 UOC
+Vision Science
+Science Electives
+keyboard_arrow_down
+Students need to complete 144 UOC to meet the core requirements for the Advanced Science (Honours) program. If the core courses, your choice of specialisation(s), plus Honours requires less than 144 UOC, you are required to complete additional Science elective courses from the following list to meet the 144 UOC requirement.
+open_in_new
+any Aviation course
+open_in_new
+any Biological Science course
+open_in_new
+any Biological, Earth & Environmental Science course
+open_in_new
+any Biophysics course
+open_in_new
+any Climate Science course
+open_in_new
+any Data Science course
+open_in_new
+any Geoscience course
+open_in_new
+any Marine Science course
+open_in_new
+any Biotechnology & Biomolecular Sciences course
+open_in_new
+any Biochemistry course
+open_in_new
+any Biotechnology course
+open_in_new
+any Microbiology course
+open_in_new
+any Chemistry course
+open_in_new
+any Computer Science course
+open_in_new
+any Food Technology course
+open_in_new
+any Materials Science and Engineering course
+open_in_new
+any Mathematics course
+open_in_new
+any Anatomy course
+open_in_new
+any Neuroscience course
+open_in_new
+any Pathology course
+open_in_new
+any Pharmacology course
+open_in_new
+any Physiology course
+open_in_new
+any Medical Science course
+open_in_new
+any Psychology course
+open_in_new
+any Physics course
+open_in_new
+any Faculty of Science course
+Maximum Level 1 UOC
+keyboard_arrow_down
+Students may take up to a maximum of 72 UOC of Level 1 courses, including any General Education or mainstream Level 1 course taken to fulfil either the General Education or the Free Elective requirement.
+any level 1 course
+Minimum Level 1 Science UOC
+keyboard_arrow_down
+Students must complete a minimum of 24 UOC of the following courses.
+any level 1 course offered by Faculty of Science
+any level 1 Biophysics (BIOP) course
+any level 1 Computer Science (COMP) course
+any level 1 Food Technology (FOOD) course
+any level 1 Anatomy (ANAT) course
+any level 1 Neuroscience (NEUR) course
+any level 1 Pathology (PATH) course
+any level 1 Pharmacology (PHAR) course
+any level 1 Physiology (PHSL) course
+any level 1 Medical Science (SOMS) course
+General Education
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+Any course defined as a Science course cannot be taken as General Education (GE). Therefore, the following courses cannot count towards this requirement:
+- any course offered by the Faculty of Science, including GENS courses
+- any Biophysics (BIOP) course
+- any Computer Science (COMP) course
+- any Food Technology (FOOD) course
+- any Medical Science (SOMS) course
+All other courses can be taken as GE, including other GEN# courses. Any exceptions to these rules must be approved by the Director of Academic Programs or nominee.
+open_in_new
+any General Education course
+Free Electives
+keyboard_arrow_down
+Students may take up to a maximum of 36 UOC of the following courses.
+open_in_new
+any course
+Course Information Rule
+keyboard_arrow_down
+GEN# courses cannot count as Free Electives, Science Core Courses, or Science Electives in this program. Any exceptions to these rules must be approved by the Associate Dean (Academic Programs) or nominee.
+Program Constraints
+Expand all
+Maturity Rule
+keyboard_arrow_down
+Students must have completed 24 UOC before taking any of the following courses.
+any level 2 course
+Students must have completed 72 UOC before taking any of the following courses.
+any level 3 course
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Advanced Science (Honours) Degree Template
+Admission Requirements
+Entry Requirements
+Expand all
+Limitations on Recognition of Prior Learning
+keyboard_arrow_down
+UNSW Students may be granted Recognition for Prior Learning (RPL) which may or may not reduce the amount of learning required to achieve a degree at UNSW. Generally, RPL is only granted based on the completion of tertiary-level studies, but in exceptional circumstances may also include non-formal or informal learning such as professional experience. RPL will not be granted based on partly completed tertiary courses. All applications for RPL at UNSW are subject to UNSW Recognition of Prior Learning (Coursework Programs) Policy and Procedures. Students seeking credit for courses completed at another university are required to submit documentary evidence (course outlines, academic transcripts) to support their application, and to nominate the course(s) for which they seek credit. In addition, the following conditions apply for all UNSW Science programs (including the Science component of dual award programs): Specified course credit, i.e. credit granted for an exact or near exact equivalence to a course at UNSW, will not be granted when more than 7 years has elapsed from the successful completion of the course (or other learning) and the student’s commencement in the Science program. Where this time period is shorter it will be stipulated in the individual rules for the relevant program. Unspecified course credit (e.g. General Education or free electives) will not be granted when more than 10 years has elapsed from the successful completion of the course (or other learning) and the student’s commencement in the Science program. Students may only receive credit of up to a maximum of 50% of the coursework component of their Science program, excluding Honours. For most undergraduate programs this will be 72 UOC. For dual award programs that include a Science component, it will be a maximum of 50% of the Science component of the dual degree, excluding Honours. Credit for the other program will be assessed by the Faculty that administers that program. Applications for RPL will only be assessed for students who have accepted a place to study in a UNSW Science program. Students must formally apply for RPL unless they become a UNSW student as part of a formal Articulation Agreement. Applications for RPL should be made as early as possible in the student’s program. Students who are readmitted into a Science program after a period of unapproved absence or deferment, or after exclusion, will not necessarily retain credit for all units completed at UNSW prior to the absence if the date of completion of the units of study is greater than the 7 and 10-year rules outlined in points 1 and 2 above. In these cases, the credit retained will be decided by the Associate Dean (Academic Programs) in consultation (when necessary) with the Program and/or Course Authority.
+Special Admission Requirements
+Expand all
+Other
+keyboard_arrow_down
+Some Schools within the Faculty may grant students exemption from  completing particular first year courses. Where an exemption is given  this is not added to a student's academic record and hence does not  reduce the total units of credit the student must complete for the  program. The exemption merely grants a student the ability to undertake  higher level courses (such as second year courses) that require the  exempted course as a prerequisite. Students with an exemption will need  to be manually enrolled in higher year courses by administrative staff.
+For more information about admission requirements for various UNSW programs, visit the following website(s):
+open_in_new
+Domestic Student
+open_in_new
+International Student
+open_in_new
+Research Candidate
+Program Requirements
+Progression Requirements
+Progression to Stage 4 (the honours year) of this program is subject to academic performance.
+Where students successfully complete a total of 144 UoC and all the requirements of the first three stages of the program, including Level I/II/III, major, and general education requirements, they can apply for entry into the Stage 4 honours component. Entry criteria for honours in each School can be found here
+https://www.science.unsw.edu.au/study-us/undergraduate/honours-degrees/honours-how-apply
+If a student is not permitted to progress in the Advanced Science (Honours) they will be required to transfer to, and graduate from, program 3970 Bachelor of Science. Students should be aware that not all Advanced Science (Honours) majors are available in 3970, meaning that graduation in 3970 may occur in a less specialised major. Entry to Honours may still be possible by application to enter program 4500 Bachelor of Science (Honours).
+Students enrolled in the Advanced Science (Honours) program who wish to take out the Bachelor of Science award at pass level without proceeding to Honours, are required to transfer to the Science program (3970). Applications to transfer should be lodged with Science Student Services no later than the census date for the term in which the student expects to satisfy requirements. Students applying after that date may not be able to graduate in the next round of ceremonies.
+For more information on university policy on progression requirements for coursework programs please visit
+Academic Progression
+and for Research programs visit
+Higher Degree Research.
+Associated Programs
+Similar Program
+Expand all
+Bachelor of Biotechnology (Honours) - BBiotech(Hons)
+3053 - Biotechnology (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Psychology (Honours) - BPsych(Hons)
+3632 - Psychology (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science (Advanced Mathematics) (Honours) - BSc(AdvMath)(Hons)
+3956 - Advanced Mathematics (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Science - BSc
+3970 - Science
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+144
+Typical Duration:
+3 Year(s)
+open_in_new
+Read More
+Related Double Degree
+Expand all
+Bachelor of Economics - BEc
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+3566 - Economics / Advanced Science (Honours)
+keyboard_arrow_down
+Faculty:
+UNSW Business School, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Commerce - BCom
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+3593 - Commerce / Advanced Science (Honours)
+keyboard_arrow_down
+Faculty:
+UNSW Business School, Faculty of Science
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Engineering (Honours) - BE (Hons)
+3762 - Advanced Science (Honours) / Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+288
+Typical Duration:
+6 Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Science - BSc
+3782 - Advanced Science (Honours) / Computer Science
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Fine Arts - BFA
+3922 - Advanced Science (Honours) / Fine Arts
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Units of Credit:
+240
+Typical Duration:
+5  Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Social Sciences - BSocSci
+3924 - Advanced Science (Honours) / Social Sciences
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Arts - BA
+3948 - Advanced Science (Honours) / Arts
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Arts, Design and Architecture
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+Bachelor of Laws - LLB
+3997 - Advanced Science (Honours) / Law
+keyboard_arrow_down
+Faculty:
+Faculty of Science, Faculty of Law and Justice
+Campus:
+Sydney
+Units of Credit:
+288
+Typical Duration:
+6 Year(s)
+open_in_new
+Read More
+Recognition of Achievement
+Expand all
+University Medal
+keyboard_arrow_down
+The University Medal is awarded to recognise outstanding academic performance by a bachelor degree student in line with the University Medal Policy and University Medal Procedure.
+Honours Classes
+keyboard_arrow_down
+Students completing Honours will be considered for the award of Honours according to the following scale (based on performance in Stage 4 and the calculation described in the particular discipline area):
+Honours Class 1: mark or weighted average of 85 or greater;
+Honours Class 2 Division 1: mark or weighted average from 75 to 84;
+Honours Class 2 Division 2: mark or weighted average from 65 to 74;
+Honours Class 3: mark or weighted average below 65;
+A student's Honours Grading is calculated only on their performance in the final year of the program. Each School has its own method for calculating Honours gradings and this is clearly articulated at a stream level in the Handbook.
+Additional Information
+University Medal
+Nominees for the University Medal will be determined by Schools within the Faculty of Science in accordance with UNSW University Medal policies and procedures.
+Definition of 'Science' courses
+Courses that are classified as 'Science' can be found under Table 1 on the
+Science Terminology
+page.
+Talented Students' Program and Accelerated Progression
+The Science
+Talented Students' Program (TSP)
+introduces high performing students - entering the Bachelor of Science or Bachelor of Advanced Science (Honours) - to the Faculty of Science and helps them develop specific skills during their degree. The program offers these students exposure to research within the Faculty and provides a degree that is flexible and tailored to suit students' needs and talents.
+Invitation to participate in the TSP is made by the Dean of Science on the basis of superior secondary education performance (ATAR or equivalent), all incoming students are assessed for eligibility including non-high school leavers. High performing current UNSW Science students, in the BSc or BAdvSci(Hons), will be invited to join at the end of their first year. Contact the Science Student Centre for more details.
+Faculty of Science Rules
+The Faculty of Science has some rules that relate to all students enrolled in programs offered by the Faculty in relation to recognition for prior learning, general education, course exclusions, study load, and cross-institutional study. All students should read the information contained on the
+Faculty General Rules and Requirements
+page.
+Science Handbook Rules and Editions
+Students must follow the program rules and requirements in the UNSW Handbook published in the year they commence their studies with the Faculty of Science.
+Students who transfer from another UNSW Faculty into Science (for example, from a Bachelor of Arts into a Bachelor of Science) must follow the program rules and requirements in the UNSW Handbook published in the year of their transfer.
+Students, who are readmitted to UNSW after a period of unapproved absence or deferment, or after exclusion, must satisfy the program rules in the Handbook published in the year of their readmission. In addition, these students may be subject to restrictions on which courses taken at UNSW may be counted on their return. In some cases, students returning from an unapproved absence may be required to repeat courses. See the Recognition of Prior Learning (RPL) and Advanced Standing sections above for more details. Students who take approved leave or deferment will follow the Handbook for the year of their original commencement unless otherwise approved by the Associate Dean (Academic Programs).
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Additional Expenses and Resources
+This depends on the courses taken. Some courses may require the purchase of notes, textbooks, manuals, laboratory equipment such as lab coats, or have field trip expenses.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+4 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Delivery Mode
+Face-to-face (includes blended)
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+192
+AQF Level
+Level 8
+Award Type
+Bachelor (Honours) (Embedded)
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Advanced Science (Honours) - BAdvSci(Hons)
+UAC Code
+429350
+CRICOS Code
+088842G
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

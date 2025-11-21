@@ -1,0 +1,311 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/COMPIH
+
+Handbook - Artificial Intelligence
+
+
+Handbook - Artificial Intelligence
+
+Specialisation
+print
+Print Artificial Intelligence page
+_border
+Artificial Intelligence
+COMPIH
+144 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Artificial Intelligence (AI) techniques are becoming ubiquitous in the modern world, including data analysis, planning and search, logic and reasoning, machine learning, image and language processing, generative models, robotics and automation; with applications in such diverse areas as finance, medicine, transport, logistics, entertainment, manufacturing and mining. This Major will provide… For more content click the Read More button below.
+Artificial Intelligence (AI) techniques are becoming ubiquitous in the modern world, including data analysis, planning and search, logic and reasoning, machine learning, image and language processing, generative models, robotics and automation; with applications in such diverse areas as finance, medicine, transport, logistics, entertainment, manufacturing and mining.
+This Major will provide highly motivated students with a solid grounding in this exciting and rapidly advancing field, and prepare them for an AI-focused career or postgraduate research in an AI-related area.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Employ a range of AI techniques in developing software solutions to complex problems
+keyboard_arrow_down
+2.
+Interpret accurately the results coming from systems using AI techniques
+keyboard_arrow_down
+3.
+Devise innovative and effective techniques and strategies for building AI-embedded systems
+keyboard_arrow_down
+4.
+Use new and emerging techniques for building AI-embedded systems
+keyboard_arrow_down
+5.
+Lead project groups developing AI-based software
+keyboard_arrow_down
+6.
+Communicate effectively with technical and non-technical users of AI-embedded systems
+keyboard_arrow_down
+7.
+Explain precisely to non-technical users how their systems work and how they should interpret the results
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Advanced Computer Science (Honours) - BAdvCompSci(Hons)
+3779 - Advanced Computer Science (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Years(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 144 UOC.
+Expand all
+Core Courses
+66 Units of Credit:
+keyboard_arrow_down
+Students must take 66 UOC of the following courses.
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+arrow_forward
+COMP1521
+6 UOC
+Computer Systems Fundamentals
+arrow_forward
+COMP1531
+6 UOC
+Software Engineering Fundamentals
+arrow_forward
+COMP2511
+6 UOC
+Software Design and Architecture
+arrow_forward
+COMP2521
+6 UOC
+Data Structures and Algorithms
+arrow_forward
+COMP3821
+6 UOC
+Extended Algorithm Design and Analysis
+arrow_forward
+COMP3900
+6 UOC
+Computer Science Project
+arrow_forward
+COMP4920
+6 UOC
+Professional Issues and Ethics in Information Technology
+arrow_forward
+MATH1081
+6 UOC
+Discrete Mathematics
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+Artificial Intelligence Core Course
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following course.
+arrow_forward
+COMP3411
+6 UOC
+Artificial Intelligence
+Computing Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+Engineering Vertically Integrated Project
+keyboard_arrow_down
+Students may take 6 UOC, up to a maximum of 18 UOC of the following courses.
+Note: 2 UOC courses are run over consecutive terms for a final total of 6 UOC.
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+any Level 3 Computer Science course
+keyboard_arrow_down
+open_in_new
+any Level 3 Computer Science course
+any Level 4 Computer Science course
+keyboard_arrow_down
+open_in_new
+any Level 4 Computer Science course
+any Level 6 Computer Science course
+keyboard_arrow_down
+open_in_new
+any Level 6 Computer Science course
+any Level 9 Computer Science course
+keyboard_arrow_down
+open_in_new
+any Level 9 Computer Science course
+Artificial Intelligence Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP3431
+6 UOC
+Robotic Software Architecture
+arrow_forward
+COMP4418
+6 UOC
+Knowledge Representation and Reasoning
+arrow_forward
+COMP9417
+6 UOC
+Machine Learning
+arrow_forward
+COMP9418
+6 UOC
+Advanced Machine Learning
+arrow_forward
+COMP9444
+6 UOC
+Neural Networks and Deep Learning
+arrow_forward
+COMP9491
+6 UOC
+Applied Artificial Intelligence
+arrow_forward
+COMP9517
+6 UOC
+Computer Vision
+arrow_forward
+COMP9727
+6 UOC
+Recommender Systems
+Advanced Computing Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+open_in_new
+any Level 4 Computer Science course
+open_in_new
+any Level 6 Computer Science course
+open_in_new
+any Level 9 Computer Science course
+Thesis
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP4961
+6 UOC
+Computer Science Thesis A
+arrow_forward
+COMP4962
+6 UOC
+Computer Science Thesis B
+arrow_forward
+COMP4963
+6 UOC
+Computer Science Thesis C
+Alternative Electives
+keyboard_arrow_down
+With permission from the Director of Studies, one of the following courses may be substituted as an Artificial Intelligence Elective
+arrow_forward
+MATH3161
+6 UOC
+Optimization
+arrow_forward
+MATH3171
+6 UOC
+Linear and Discrete Optimization Modelling
+arrow_forward
+MATH3191
+6 UOC
+Mathematical Optimization for Data Science
+arrow_forward
+ELEC3114
+6 UOC
+Control Systems
+arrow_forward
+MMAN3200
+6 UOC
+Linear Systems and Control
+arrow_forward
+MTRN4030
+6 UOC
+Optimisation Methods for Engineering Systems
+arrow_forward
+PSYC2071
+6 UOC
+Perception and Cognition
+arrow_forward
+PSYC3221
+6 UOC
+Vision and Brain
+Recommended Electives
+keyboard_arrow_down
+Although not a requirement, students in the Artificial Intelligence major might like to consider the following AI-related courses for either Free Electives or General Education:
+ARTS1690 The Structure of Language
+ARTS1691 The Use of Language
+ARTS2692 Syntax
+ARTS2361 Philosophy of Mind
+ARTS2690 Semantics and Pragmatics
+PSYC1001 Psychology 1A
+Minimum Elective Requirement
+keyboard_arrow_down
+Students must complete a minimum 30 UOC COMP4, COMP6, COMP9 courses towards Artificial Intelligence Electives and/or Advanced Computing Electives to satisfy degree requirements.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+144
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

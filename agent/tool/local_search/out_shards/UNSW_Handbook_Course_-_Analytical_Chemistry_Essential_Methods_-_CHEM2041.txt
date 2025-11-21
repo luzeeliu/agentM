@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/CHEM2041.html
+
+UNSW Handbook Course - Analytical Chemistry: Essential Methods - CHEM2041
+
+
+UNSW Handbook Course - Analytical Chemistry: Essential Methods - CHEM2041
+Analytical Chemistry: Essential Methods - CHEM2041
+Faculty:
+Faculty of Science
+School:
+School of Chemistry
+Course Outline:
+http://www.chem.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+6
+Enrolment Requirements:
+Prerequisite: CHEM1011 or CHEM1031 or CHEM1811, CHEM1021 or CHEM1041 or CHEM1821,  MATH1031 or MATH1041 or MATH1131 or MATH1141 or MATH1231 or MATH1241
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+This course teaches the essential methods in analytical chemistry applicable to chemists, biologists, and most other disciplines of science. The course covers data analysis methods of treating analytical data including estimation of uncertainties, chromatography and other separation techniques, the applications of spectroscopy (UV/Visible absorption, infrared, fluorescence, NMR and mass spectrometry) to analysis and electrochemistry including pH measurements. These analytical techniques will be applied to solving chemical structure problems and interesting applications of these techniques will be covered (e.g., gene and protein sequencing and metal speciation in environmental samples).

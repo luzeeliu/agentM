@@ -1,0 +1,397 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/MATHE1
+
+Handbook - Quantitative Data Science
+
+
+Handbook - Quantitative Data Science
+
+Specialisation
+print
+Print Quantitative Data Science page
+_border
+Quantitative Data Science
+MATHE1
+66 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Additional Information
+Overview
+Quantitative Data Science is the study of methods for organising, modelling and analysing large and complex data relevant for businesses, governments or other organisations. The information gleaned from the data analysis is intended to improve business decisions and inform policies. The program provides a strong technical background in mathematics, statistics,… For more content click the Read More button below.
+Quantitative Data Science is the study of methods for organising, modelling and analysing large and complex data relevant for businesses, governments or other organisations. The information gleaned from the data analysis is intended to improve business decisions and inform policies.
+The program provides a strong technical background in mathematics, statistics, computer science and economics. The Quantitative Data Science major enables a student to specialise further in mathematical and statistical methods to interpret, understand and predict data.
+The program and this major open a pathway to exciting careers in data science and data analytics.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Actuarial Studies - BActSt
+3586 - Actuarial Studies
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Bachelor of Actuarial Studies (Co-op) - BActSt (Co-op)
+3587 - Actuarial Studies (Co-op)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Data Science and Decisions - BDataSci
+3959 - Data Science and Decisions
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 66 UOC.
+Expand all
+Level 1 Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+Level 2 Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+MATH2831
+6 UOC
+Linear Models
+arrow_forward
+MATH2871
+6 UOC
+Data Management for Statistical Analysis
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2801
+6 UOC
+Theory of Statistics
+OR
+arrow_forward
+MATH2901
+6 UOC
+Higher Theory of Statistics
+Level 3 Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+MATH3821
+6 UOC
+Statistical Modelling and Computing
+arrow_forward
+MATH3871
+6 UOC
+Bayesian Inference and Computation
+Prescribed Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take at least 24 UOC of the following courses.
+arrow_forward
+ACTL3141
+6 UOC
+Modelling and Prediction of Life and Health Related Risks
+arrow_forward
+ACTL3142
+6 UOC
+Statistical Machine Learning for Risk and Actuarial Applications
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP2511
+6 UOC
+Software Design and Architecture
+arrow_forward
+COMP3121
+6 UOC
+Algorithm Design and Analysis
+arrow_forward
+COMP3411
+6 UOC
+Artificial Intelligence
+arrow_forward
+COMP4121
+6 UOC
+Advanced Algorithms
+arrow_forward
+COMP4418
+6 UOC
+Knowledge Representation and Reasoning
+arrow_forward
+COMP6441
+6 UOC
+Security Engineering and Cyber Security
+arrow_forward
+COMP6771
+6 UOC
+Advanced C++ Programming
+arrow_forward
+COMP9313
+6 UOC
+Big Data Management
+arrow_forward
+COMP9315
+6 UOC
+Database Systems Implementation
+arrow_forward
+COMP9319
+6 UOC
+Web Data Compression and Search
+arrow_forward
+COMP9417
+6 UOC
+Machine Learning
+arrow_forward
+COMP9418
+6 UOC
+Advanced Machine Learning
+arrow_forward
+ECON1102
+6 UOC
+Macroeconomics 1
+arrow_forward
+ECON2101
+6 UOC
+Microeconomics 2
+arrow_forward
+ECON2102
+6 UOC
+Macroeconomics 2
+arrow_forward
+ECON2103
+6 UOC
+Business and Government
+arrow_forward
+ECON2107
+6 UOC
+Modern Labour Markets: Theory and Policy
+arrow_forward
+ECON2111
+6 UOC
+Introduction to Economic Development
+arrow_forward
+ECON2112
+6 UOC
+Game Theory and Business Strategy
+arrow_forward
+ECON2206
+6 UOC
+Introductory Econometrics
+arrow_forward
+ECON2209
+6 UOC
+Business Forecasting
+arrow_forward
+ECON3107
+6 UOC
+Economics of Finance
+arrow_forward
+ECON3121
+6 UOC
+Industrial Organisation
+arrow_forward
+ECON3123
+6 UOC
+Organisational Economics
+arrow_forward
+ECON3202
+6 UOC
+Mathematical Economics
+arrow_forward
+ECON3206
+6 UOC
+Financial Econometrics
+arrow_forward
+ECON3208
+6 UOC
+Applied Econometric Methods
+arrow_forward
+INFS1602
+6 UOC
+Digital Transformation in Business
+arrow_forward
+INFS3603
+6 UOC
+Introduction to Business Analytics
+arrow_forward
+MARK2012
+6 UOC
+Marketing Fundamentals
+arrow_forward
+MARK3054
+6 UOC
+Marketing Analytics and Big Data
+arrow_forward
+MARK3085
+6 UOC
+Digital Marketing and Web Analytics
+arrow_forward
+MATH1081
+6 UOC
+Discrete Mathematics
+arrow_forward
+MATH2011
+6 UOC
+Several Variable Calculus
+arrow_forward
+MATH2111
+6 UOC
+Higher Several Variable Calculus
+arrow_forward
+MATH3041
+6 UOC
+Mathematical Modelling for Real World Systems
+arrow_forward
+MATH3161
+6 UOC
+Optimization
+arrow_forward
+MATH3191
+6 UOC
+Mathematical Optimization for Data Science
+arrow_forward
+MATH3411
+6 UOC
+Information, Codes and Ciphers
+arrow_forward
+MATH3801
+6 UOC
+Probability and Stochastic Processes
+arrow_forward
+MATH3811
+6 UOC
+Statistical Inference
+arrow_forward
+MATH3831
+6 UOC
+Statistical Methods in Social and Market Research
+arrow_forward
+MATH3841
+6 UOC
+Statistical Analysis of Dependent Data
+arrow_forward
+MATH3852
+6 UOC
+Experimental Design and Causal Inference
+arrow_forward
+MATH3856
+6 UOC
+Introduction to Data and Machine Learning
+arrow_forward
+MATH3881
+6 UOC
+Statistical Machine Learning Theory
+arrow_forward
+MATH3901
+6 UOC
+Higher Probability and Stochastic Processes
+arrow_forward
+MATH3911
+6 UOC
+Higher Statistical Inference
+arrow_forward
+MATH3945
+6 UOC
+Categorical Data Analysis
+arrow_forward
+MATH5836
+6 UOC
+Data and Machine Learning
+arrow_forward
+MATH6781
+6 UOC
+Biomathematics
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Additional Information
+Students enrolled in program 3959 (Data Science) will already complete MATH1131 or MATH1141, MATH1231 or MATH1241 and MATH2801 or MATH2901 as part of the core requirements for their program.
+All COMP electives and electives listed below have prerequisite requirements. Prerequisite requirements may be completed as part of the core requirements for 3959 Data Science or by using free electives.
+Additional electives requiring prerequisites are:
+ECON1102 Macroeconomics 1
+ECON2101 Microeconomics 2
+ECON2104 Applied Macroeconomics
+ECON2111 Intro to Economic Development
+ECON3107 Economics of Finance
+ECON3123 Organisational Economics
+ECON3130 Real Estate Economics
+ECON3202 Mathematical Economics
+MATH3841 Statistical Analysis of Dependent Data
+MATH6781 Biomathematics
+Further Information
+Please note that these requirements may be subject to change.
+Students are advised to follow requirements according to the year they commenced. Please refer to previous editions of the Online Handbook for your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+66
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

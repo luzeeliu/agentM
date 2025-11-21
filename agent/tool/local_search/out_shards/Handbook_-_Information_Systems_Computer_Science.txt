@@ -1,0 +1,365 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3795
+
+Handbook - Information Systems / Computer Science
+
+
+Handbook - Information Systems / Computer Science
+
+Double Degree
+print
+Print Information Systems / Computer Science page
+_border
+Information Systems / Computer Science
+3795
+192 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Stand Alone Programs
+Double Degree Structure
+Additional Information
+Program Fees
+Overview
+The double degree program Bachelor of Information Systems/Bachelor of Science (Computer Science) (BIS/BSc(Comp Sc)) provides a comprehensive skill set and a holistic understanding of both the technical and business aspects of technology. The combination of these two degrees will equip the student with a diverse range of technical skills and… For more content click the Read More button below.
+The double degree program Bachelor of Information Systems/Bachelor of Science (Computer Science) (BIS/BSc(Comp Sc)) provides a comprehensive skill set and a holistic understanding of both the technical and business aspects of technology. The combination of these two degrees will equip the student with a diverse range of technical skills and knowledge in computer science, as well as an in-depth understanding of the business application of technology in information systems, including but not limited to data management, systems development, and digital strategies.
+Completing a double degree allows students to explore a more versatile career path. With this degree, students will have the flexibility to pursue various career paths in computer science and information systems, such as systems analyst, software engineer, data scientist, IT consultant, project manager, and cybersecurity specialist.
+Both Information Systems and Computer Science graduates are in very high demand. Given the growing pervasiveness of technology and the global demand for tech talent, there is an abundance of job prospects and opportunities for growth in a technology-driven world. A double degree between Information Systems and Computer Science will provide students with a unique and valuable opportunity to gain a comprehensive understanding of the interplay between technology and business. Students completing this program will stand out in the job market with a unique double degree that demonstrates their ability to integrate multiple technology-related disciplines and contribute to improving business performance.
+Read More
+about Overview
+Stand Alone Programs
+Click on the link below to find out more about each individual program.
+open_in_new
+Program
+3979
+Information Systems
+open_in_new
+Program
+3778
+Computer Science
+Double Degree Structure
+Students must complete 192 UOC.
+In this double degree 96 UOC is required for the Bachelor of Computer Science, and 120 UOC is required for the Bachelor of Information Systems for a total of 216 UOC. However, 24 UOC will be double counted towards both degrees (as outlined below), and therefore the total UOC required for the double degree is reduced by 24 UOC to 192 UOC.
+Bachelor of Science (Computer Science) (96 UOC)
+Core courses
+Computing electives
+Bachelor of Information Systems (120 UOC)
+Business Core Courses (30 UOC):
+3795 students do not need to take COMM1110 as this requirement is satisfied in the Computer Science program. Students will be able to fulfill this requirement by completing MATH pair (e.g., MATH1131/41/51 + MATH1231/41/51).
+Information Systems Core Courses (72 UOC)
+The completion of COMP1531 will be counted as a substitute for INFS2822 and will satisfy this as a core in the Information Systems program.
+Students enrolled in a Computer Science major who require COMP3311 must replace INFS1603 with another Level 2 or 3 Information Systems elective. Similarly, students who require COMP9313 or COMP9315 must replace INFS2608 with another Level 2 or 3 Information Systems elective.
+Information Systems Electives (12 UOC)
+: CS major elective courses can be counted as IS elective courses.
+Work Integrated Learning (6 UOC):
+Requirement can be satisfied by taking a Computer Science or IS WIL course.
+Once requirements for the Information Systems and Computer Science programs have been met, students take Business electives to ensure a total of 192 UOC is completed for the double degree.
+Expand all
+Disciplinary Component - 3979 Information Systems
+120 Units of Credit:
+keyboard_arrow_down
+Students must complete 120 UOC of the following to satisfy the core requirements of this degree
+Business Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+Integrated First Year Courses
+18 Units of Credit:
+add
+arrow_forward
+COMM1100
+6 UOC
+Business Decision Making
+arrow_forward
+COMM1110
+6 UOC
+Evidence-Based Problem Solving
+arrow_forward
+COMM1190
+6 UOC
+Data, Insights and Decisions
+One of the following:
+6 Units of Credit:
+add
+arrow_forward
+COMM1140
+6 UOC
+Financial Management
+OR
+arrow_forward
+COMM1150
+6 UOC
+Global Business Environments
+One of the following:
+6 Units of Credit:
+add
+arrow_forward
+COMM1120
+6 UOC
+Collaboration and Innovation in Business
+OR
+arrow_forward
+COMM1180
+6 UOC
+Value Creation
+Information Systems Core Courses
+72 Units of Credit:
+keyboard_arrow_down
+Students must take 72 UOC of the following courses.
+arrow_forward
+INFS1602
+6 UOC
+Digital Transformation in Business
+arrow_forward
+INFS1603
+6 UOC
+Introduction to Business Databases
+arrow_forward
+INFS1701
+6 UOC
+Introduction to Networking and Security
+arrow_forward
+INFS2603
+6 UOC
+Business Analysis and Agile Product Management
+arrow_forward
+INFS2608
+6 UOC
+Database Management & Big Data Infrastructures
+arrow_forward
+INFS2701
+6 UOC
+Managing Cybersecurity in the Digital Age
+arrow_forward
+INFS2822
+6 UOC
+Programming for Data Analytics
+arrow_forward
+INFS3604
+6 UOC
+Business Process Management
+arrow_forward
+INFS3605
+6 UOC
+Information Systems Innovation & Transformation
+arrow_forward
+INFS3700
+6 UOC
+User Experience and IT Service Design
+arrow_forward
+INFS3701
+6 UOC
+Enterprise Architecture for Scalable Cloud Solutions
+arrow_forward
+INFS3703
+6 UOC
+Information Systems Project Management
+Prescribed Information Systems Electives
+12 Units of Credit:
+keyboard_arrow_down
+Choose any two IS Electives from the following courses.
+IS Data Analytics Electives
+add
+Elective courses focused on developing skills in data analytics.
+arrow_forward
+INFS3300
+6 UOC
+Practising Ethical AI and Responsible Digital Innovation
+arrow_forward
+INFS3603
+6 UOC
+Introduction to Business Analytics
+arrow_forward
+INFS3830
+6 UOC
+Social Media Analytics
+arrow_forward
+INFS3873
+6 UOC
+Business Analytics Methods
+arrow_forward
+INFS3822
+6 UOC
+Artificial Intelligence for Business Analytics
+IS Organisational Electives
+add
+Elective courses focused on IS in Organisations
+arrow_forward
+INFS2631
+6 UOC
+Digital Innovation Management
+arrow_forward
+INFS2702
+6 UOC
+Supply Chain and Logistics Design
+arrow_forward
+INFS3020
+6 UOC
+Information Systems and Technology International Study Tour
+arrow_forward
+INFS3300
+6 UOC
+Practising Ethical AI and Responsible Digital Innovation
+IS Cybersecurity Management Electives
+add
+Elective courses focused on developing skills and knowledge in cybersecurity
+arrow_forward
+INFS3922
+6 UOC
+Cybersecurity Trends and Best Practices
+arrow_forward
+INFS3929
+6 UOC
+Risk Management in Cybersecurity
+arrow_forward
+INFS3959
+6 UOC
+Cybersecurity Intelligence and the Incident Response
+Work Integrated Learning (WIL)
+6 Units of Credit:
+keyboard_arrow_down
+As part of the Bachelor of Information Systems degree, students must complete a 6 UOC Work Integrated Learning (WIL) course, chosen from the below courses within their program, to satisfy the minimum of 150 hours of professional work that is a requirement of the degree. The same 150 hour minimum professional work requirement applies to the Bachelor of Commerce/Information Systems double degree. Students can satisfy the requirement in either the commerce or information system component of the double degree. For the avoidance of doubt, students are NOT required to satisfy the requirement in both components of the double degree.
+arrow_forward
+COMM2222
+6 UOC
+Industry Experience Program
+arrow_forward
+COMM2233
+6 UOC
+Industry Consulting Project
+arrow_forward
+COMM2244
+6 UOC
+Future of Work Project
+arrow_forward
+COMM3020
+6 UOC
+Global Business Practicum
+arrow_forward
+COMM3030
+6 UOC
+Social Entrepreneurship Practicum
+arrow_forward
+COMM3101
+6 UOC
+Industry Experience Placement 1
+arrow_forward
+COMM3202
+6 UOC
+Industry Experience Placement 2
+Disciplinary Component - 3778 Computer Science
+96 Units of Credit:
+keyboard_arrow_down
+Students must complete 96 UOC of the following to satisfy the core requirements of this degree
+Majors
+keyboard_arrow_down
+COMPA1 is the default specialisation, and will be used if no other specialisation is selected.
+Major
+arrow_forward
+COMPA1
+96 UOC
+Computer Science
+arrow_forward
+COMPD1
+96 UOC
+Computer Science (Database Systems)
+arrow_forward
+COMPE1
+96 UOC
+Computer Science (eCommerce Systems)
+arrow_forward
+COMPI1
+96 UOC
+Computer Science (Artificial Intelligence)
+arrow_forward
+COMPJ1
+96 UOC
+Computer Science (Programming Languages)
+arrow_forward
+COMPN1
+96 UOC
+Computer Science (Computer Networks)
+arrow_forward
+COMPS1
+96 UOC
+Computer Science (Embedded Systems)
+arrow_forward
+COMPY1
+96 UOC
+Computer Science (Security Engineering)
+Enrolment Disclaimer
+Please read the Double Degree Program rules as some specific rules apply to particular Double Degree combinations.
+You are responsible for ensuring you enrol in courses according to your program requirements and advice from your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program.
+Additional Information
+Please note that these requirements may be subject to change. Students should always follow the program requirements according to the year they started their degree. For more information please visit
+previous UNSW Online Handbooks
+Contact
+The Nucleus: Student Hub
+for advice.
+Tel: + 61 2 9385 8500
+Location: The Nucleus: Student Hub, Level 2, in the Main Library
+(UNSW map location F21)
+Use
+myPlan
+to plan your studies and track your progress for graduation in real time. Find out more
+here
+.
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+Faculty of Engineering
+Managing Faculty
+UNSW Business School
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+4 Years
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+192
+Award Type(s)
+Bachelor
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Information Systems - BIS
+Bachelor of Science - BSc
+UAC Code
+424510
+CRICOS Code
+116103G
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

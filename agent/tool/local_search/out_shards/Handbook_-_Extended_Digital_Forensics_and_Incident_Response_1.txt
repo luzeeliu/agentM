@@ -1,0 +1,102 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/COMP6845
+
+Handbook - Extended Digital Forensics and Incident Response
+
+
+Handbook - Extended Digital Forensics and Incident Response
+
+Course
+print
+Print Extended Digital Forensics and Incident Response page
+_border
+Extended Digital Forensics and Incident Response
+COMP6845
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looking at the underlying engineering of hiding, finding, interpreting and responding to… For more content click the Read More button below.
+The subject of Digital Forensics is a blend of technical expertise, legal procedures for an expert witness, persuasive report writing and your performance in the theatre of court. This course covers both forensic theory / professional practice, and looking at the underlying engineering of hiding, finding, interpreting and responding to traces. Students will use of standard forensic tools to extract, carve and analyse data as well as learning the low-level technical skills and knowledge underlying them. Students will also be introduced to advanced topics such as Cloud Forensics and latest anti-forensics techniques.
+COMP3445/COMP6445 and COMP6845 run in an overlapping mode. All share a set of common activities and assessments; however COMP6845 students have additional extension activities and assessments related to digital forensics. These activities offer more advanced and in-depth study of the topic. The main differences between COMP3445/COMP6445 and COMP6845 derive from the motivations behind them, unlike other SECedu courses, the extended course (COMP6845) is not only exclusively a more technical deep dive into core (COMP3445/COMP6445) concepts but also exposes students to advanced topics in Digital Forensics such as Splunk Logging, iOS and Android Forensics. Hence, COMP6845 includes a deeper dive into more technical aspects of digital forensics. This is achieved through additional weekly workshop/lecture during the term.
+By the end of the course students should be able to write and analyse simple forensic tools as well as being able to use them. The course covers Memory Forensics, Disc Forensics Network, Device Forensics, Stealth Techniques, Anti-forensics, Professional Forensic Practice, (chain of custody, records etc), Logging, and Mobile Forensics. Students of this course will apply forensic methods in controlled environments and gain an understanding of the technical process of uncovering hidden data and other metadata which may reveal user behaviour. Students will also develop skills in reporting their findings and evaluate the ethical consequences of their findings. Digital Forensics students are invited to participate in a mock courtroom experience involving testimony and cross-examination of digital forensics expert witnesses. We plan to run a mock civil trial of company vs rogue employee with a presiding Judge, and lecturers acting as advocates and students as expert witnesses.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: COMP6441 or COMP6841 or COMP9441, and COMP9201 or COMP9283
+Exclusion Courses
+open_in_new
+Course
+COMP3445
+COMP3445 - Digital Forensics
+open_in_new
+Course
+COMP6445
+COMP6445 - Digital Forensics
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+6
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020100 Computer Science
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

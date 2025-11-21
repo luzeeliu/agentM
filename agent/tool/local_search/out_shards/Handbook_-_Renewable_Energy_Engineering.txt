@@ -1,0 +1,351 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/SOLABH
+
+Handbook - Renewable Energy Engineering
+
+
+Handbook - Renewable Energy Engineering
+
+Specialisation
+print
+Print Renewable Energy Engineering page
+_border
+Renewable Energy Engineering
+SOLABH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The specialisation in Renewable Energy Engineering develops skills for planning, design and operation of renewable energy systems and their integration into larger electricity systems. The degree covers a range of renewable energy technologies and systems, including utility-scale and distributed generation of electricity from photovoltaics, wind turbines; electricity and heat from… For more content click the Read More button below.
+The specialisation in Renewable Energy Engineering develops skills for planning, design and operation of renewable energy systems and their integration into larger electricity systems. The degree covers a range of renewable energy technologies and systems, including utility-scale and distributed generation of electricity from photovoltaics, wind turbines; electricity and heat from solar thermal and biomass systems; supporting technologies including battery energy storage systems; and broader energy transition and sustainability topics such as energy efficiency, low energy buildings, life-cycle assessment, and electricity industry integration.
+The cross-disciplinary nature of renewable energy engineering necessitates a range of core engineering skills and working in teams across disciplines, including electrical power systems, and data science. Data science skills are increasingly important in the industry and are developed across the four year degree. From Year 2, students can select a set of ‘Strand elective’ courses in one of three areas to develop interdisciplinary depth to their education in Renewable Energy. These strands are available in Humanitarian Engineering, Low Energy Systems, and Renewable Energy Systems. This structure offers a solid base of the core engineering knowledge, followed by secondary specialisation paths.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Show proficiency in the enabling sciences that underpin Renewable Energy (physics, mathematics and computer science), sustainability and climate change, quantify the impact of human activities on environmental systems and propose engineering solutions.
+keyboard_arrow_down
+2.
+Demonstrate proficiency of Renewable Energy specialist technical knowledge including quantifying the magnitude, variability and uncertainty of the resources underpinning renewable energy and energy systems, analysing the impact on system design, operation, performance and integration within the broader energy system.
+keyboard_arrow_down
+3.
+Critically evaluate and apply current research to the solution of problems faced in a real world context, in Renewable Energy engineering, by considering technical, economic, social and environmental implications.
+keyboard_arrow_down
+4.
+Use appropriate analytical and computational tools to analyse complex problems in renewable energy and solve by applying critical thinking and engaging with real world context.
+keyboard_arrow_down
+5.
+Design renewable energy systems using knowledge of the functionality and operating principles of systems components, enabling technologies and relevant standards.
+keyboard_arrow_down
+6.
+Use plant and electricity industry data to analyse the operation and impacts of renewable and distributed energy systems and design and implement solutions to improve their performance and integration into electricity systems.
+keyboard_arrow_down
+7.
+Lead and manage renewable energy projects, individually or as part of a team, in a systematic and professional manner.
+keyboard_arrow_down
+8.
+Demonstrate a high level of personal autonomy, perseverance, ethical conduct and professional accountability when working as an individual and within diverse multi-cultural and multi-disciplinary team environments.
+keyboard_arrow_down
+9.
+Communicate professionally and effectively within and outside of renewable energy engineering and effectively incorporate feedback.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+SOLA1070
+6 UOC
+Sustainable Energy
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1221
+6 UOC
+Physics 1B
+OR
+arrow_forward
+PHYS1231
+6 UOC
+Higher Physics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP1911
+6 UOC
+Computing 1A
+OR
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+OR
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+Level 2 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Note: Students selecting Mathematics Strand and Physics Stand, and BE/BSc students majoring in 'Mathematics' or 'Physics' should replace MATH2019 with MATH2011 Several Variable Calculus and MATH2121 Theory and Applications of Differential Equations.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+arrow_forward
+SOLA2051
+6 UOC
+Project in Photovoltaics and Renewable Energy
+arrow_forward
+SOLA2060
+6 UOC
+Introduction to Electronic Devices
+arrow_forward
+SOLA2540
+6 UOC
+Applied Photovoltaics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+SOLA5053
+6 UOC
+Wind Energy Converters
+arrow_forward
+SOLA5057
+6 UOC
+Energy Efficiency
+arrow_forward
+SOLA5050
+6 UOC
+Renewable Energy Industry and Policy
+arrow_forward
+ELEC2911
+6 UOC
+Power Engineering for Renewable Energy
+Level 4 Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+ELEC4122
+6 UOC
+Strategic Leadership and Ethics
+arrow_forward
+SOLA4012
+6 UOC
+Photovoltaic Systems Design
+arrow_forward
+SOLA4951
+4 UOC
+Research Thesis A
+arrow_forward
+SOLA4952
+4 UOC
+Research Thesis B
+arrow_forward
+SOLA4953
+4 UOC
+Research Thesis C
+Strand Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students should choose 18 UOC of elective courses in one of the three areas to develop depth and focus to their education in renewable energy. Areas include: Humanitarian and Sustainability, Low Energy Systems, and Renewable Energy Systems. It is recommended that students choose at least 12 UOC Strand Electives from the same area in Engineering.
+Humanitarian and Sustainability
+keyboard_arrow_down
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG4102
+6 UOC
+Humanitarian Engineering Project
+arrow_forward
+SOLA5056
+6 UOC
+Sustainable Energy for Developing Countries
+Low Energy Systems
+keyboard_arrow_down
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+MECH3610
+6 UOC
+Advanced Thermofluids
+arrow_forward
+SOLA3010
+6 UOC
+Low Energy Buildings and Photovoltaics
+Renewable Energy Systems
+keyboard_arrow_down
+arrow_forward
+ELEC2134
+6 UOC
+Circuits and Signals
+arrow_forward
+SOLA2060
+6 UOC
+Introduction to Electronic Devices
+Discipline (Depth) Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC  of the following courses.
+Students may choose any level 3 or above Photovoltaics and Solar Energy course included in the list of Strand Electives.
+Discipline (Depth) Electives
+keyboard_arrow_down
+arrow_forward
+ENGG4111
+6 UOC
+Energy Storage
+arrow_forward
+SOLA4237
+6 UOC
+Consumer Energy Resources Operation and Integration
+arrow_forward
+SOLA5051
+6 UOC
+Life Cycle Assessment
+arrow_forward
+SOLA5052
+6 UOC
+Bioenergy and Renewable Fuels
+arrow_forward
+MECH9720
+6 UOC
+Solar Thermal Energy Design
+open_in_new
+Level 3 or above Faculty of Engineering course with permission from the Specialisation Authority.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Photovoltaic and Renewable Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

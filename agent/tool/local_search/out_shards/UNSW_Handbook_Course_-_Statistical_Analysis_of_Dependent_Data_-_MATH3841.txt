@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3841.html
+
+UNSW Handbook Course - Statistical Analysis of Dependent Data - MATH3841
+
+
+UNSW Handbook Course - Statistical Analysis of Dependent Data - MATH3841
+Statistical Analysis of Dependent Data - MATH3841
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: MATH3811 or MATH3911.
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Extension of statistical modelling from independently distributed data to modelling dependence in observed data. Understanding of  basic distributions and models useful in practical situations.   Development of statistical methods for analysis of dependent data arising in multivariate observations, time series and spatial processes.  Multivariate normal distribution, Hotelling's T-squared, Wishart distribution.  Time series models, stationary time series, ARMA and forecasting ARMA.  Spatial processes, sample semivariograms and Kriging.

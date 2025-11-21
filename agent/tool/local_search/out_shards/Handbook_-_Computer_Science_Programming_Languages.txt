@@ -1,0 +1,207 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/COMPJ1
+
+Handbook - Computer Science (Programming Languages)
+
+
+Handbook - Computer Science (Programming Languages)
+
+Specialisation
+print
+Print Computer Science (Programming Languages) page
+_border
+Computer Science (Programming Languages)
+COMPJ1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Programming languages form the underpinnings of all software development. Over the years, computer scientists have identified a number of major programming paradigms and developed a wide variety of programming languages based on these, ranging from general purpose languages to application specific languages. The study of programming languages gives valuable insights… For more content click the Read More button below.
+Programming languages form the underpinnings of all software development. Over the years, computer scientists have identified a number of major programming paradigms and developed a wide variety of programming languages based on these, ranging from general purpose languages to application specific languages. The study of programming languages gives valuable insights into the nature of computation in all of its manifestations.
+The Programming Languages stream in the Computer Science program exposes students to the foundations of programming languages, how they are designed, how they are implemented, and how they might best be exploited by programmers.The stream considers procedural languages, functional languages, object-oriented languages and parallel languages.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Science - BSc
+3778 - Computer Science
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 96 UOC.
+Expand all
+Core Course
+72 Units of Credit:
+keyboard_arrow_down
+Students must take 72 UOC of the following courses.
+Core Course
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+arrow_forward
+COMP1521
+6 UOC
+Computer Systems Fundamentals
+arrow_forward
+COMP1531
+6 UOC
+Software Engineering Fundamentals
+arrow_forward
+COMP2511
+6 UOC
+Software Design and Architecture
+arrow_forward
+COMP2521
+6 UOC
+Data Structures and Algorithms
+arrow_forward
+COMP3121
+6 UOC
+Algorithm Design and Analysis
+arrow_forward
+COMP3161
+6 UOC
+Concepts of Programming Languages
+arrow_forward
+COMP3900
+6 UOC
+Computer Science Project
+arrow_forward
+COMP4920
+6 UOC
+Professional Issues and Ethics in Information Technology
+arrow_forward
+MATH1081
+6 UOC
+Discrete Mathematics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+Computing Electives
+6 Units of Credit:
+keyboard_arrow_down
+Students must complete 6 UOC of the following courses.
+NOTE: A student may take up to 6 UOC of VIP courses (ENGG2600, ENG3600, ENG4600) as a computing elective. Counting further VIP courses as computing electives is only possible if approved by the Program Authority (ENG SSS) and Deputy Head of School.
+2 UOC courses are run over consecutive terms for a final total of 6 UOC.
+Computing Electives
+keyboard_arrow_down
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+open_in_new
+any level 3 Computer Science course
+open_in_new
+any level 4 Computer Science course
+open_in_new
+any level 6 Computer Science course
+open_in_new
+any level 9 Computer Science course
+Discipline Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must take at least 18 UOC of the following courses.
+arrow_forward
+COMP3131
+6 UOC
+Programming Languages and Compilers
+arrow_forward
+COMP3141
+6 UOC
+Software System Design and Implementation
+arrow_forward
+COMP3142
+6 UOC
+Software Testing and Quality Assurance
+arrow_forward
+COMP3151
+6 UOC
+Foundations of Concurrency
+arrow_forward
+COMP6771
+6 UOC
+Advanced C++ Programming
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,87 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiQ09NUDMqIn19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5pbXBsZW1lbnRhdGlvblllYXIiXSwicXVlcnkiOiIyMDI2In19LHsicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5zdHVkeUxldmVsVmFsdWUiXSwicXVlcnkiOiIqdWdyZCoifX1dfX0sInNvcnQiOlt7InVuc3dQcm9kX3BzdWJqZWN0LmNvZGVfZG90cmF3IjoiYXNjIn1dLCJmcm9tIjowLCJzaXplIjoxNX0sInByZWZpeCI6InVuc3dQcm9kX3AifSwiZGVzY3JpcHRpb24iOiJhbnkgbGV2ZWwgMyBDb21wdXRlciBTY2llbmNlIGNvdXJzZSIsInZlcnNpb24iOiIyMDI2LjAxQVIiLCJjb2RlIjoiQ09NUE4xIiwidGl0bGUiOiJDb21wdXRlciBTY2llbmNlIChDb21wdXRlciBOZXR3b3JrcykiLCJydWxlSWQiOiI1OTEwMGNjYmMzY2NmYTUwZDkxZWZkNzc3ZDAxMzE1MyIsInNvdXJjZVVSTCI6Ii91bmRlcmdyYWR1YXRlL3NwZWNpYWxpc2F0aW9ucy8yMDI2L0NPTVBOMSIsInNvdXJjZVVSTFRleHRLZXkiOiJjc193aWxkY2FyZF9zb3VyY2VfYmFja19saW5rdGV4dCIsInNvdXJjZVR5cGUiOiJVbmRlcmdyYWR1YXRlIE1ham9yIn0=
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Undergraduate Major
+search
+
+any level 3 Computer Science course
+
+COMP3110 Machine Learning Engineering
+ Sydney
+_border
+COMP3121 Algorithm Design and Analysis
+ Sydney
+_border
+COMP3131 Programming Languages and Compilers
+ Sydney
+_border
+COMP3141 Software System Design and Implementation
+ Sydney
+_border
+COMP3142 Software Testing and Quality Assurance
+ Sydney
+_border
+COMP3151 Foundations of Concurrency
+ Sydney
+_border
+COMP3153 Algorithmic Verification
+ Sydney
+_border
+COMP3161 Concepts of Programming Languages
+ Sydney
+_border
+COMP3211 Computer Architecture
+ Sydney
+_border
+COMP3222 Digital Circuits and Systems
+ Sydney
+_border
+COMP3231 Operating Systems
+ Sydney
+_border
+COMP3311 Database Systems
+ Sydney
+_border
+COMP3331 Computer Networks and Applications
+ Sydney
+_border
+COMP3411 Artificial Intelligence
+ Sydney
+_border
+COMP3421 Computer Graphics
+ Sydney
+_border
+COMP3431 Robotic Software Architecture
+ Sydney
+_border
+COMP3443 Web Application Security and Testing
+ Sydney
+_border
+COMP3444 Privacy Engineering
+ Sydney
+_border
+COMP3445 Digital Forensics
+ Sydney
+_border
+COMP3446 Cloud Security
+ Sydney
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+2
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

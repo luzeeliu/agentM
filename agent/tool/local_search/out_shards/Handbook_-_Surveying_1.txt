@@ -1,0 +1,383 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3775
+
+Handbook - Surveying
+
+
+Handbook - Surveying
+
+Program
+print
+Print Surveying page
+_border
+Surveying
+3775
+192 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+sms_failed
+Not admitting new students
+Overview
+Program Structure
+Sample Programs
+Program Requirements
+Associated Programs
+Professional Outcomes
+Recognition of Achievement
+Program Fees
+Overview
+This program is only available combined with the 3707 Bachelor of Engineering (Honours) program. The Bachelor of Surveying is designed to equip you for a career as a professional Surveyor. We provide you with a solid background that will prepare you for learning knowledge and skills in this discipline. You… For more content click the Read More button below.
+This program is only available combined with the 3707 Bachelor of Engineering (Honours) program.
+The Bachelor of Surveying is designed to equip you for a career as a professional Surveyor. We provide you with a solid background that will prepare you for learning knowledge and skills in this discipline. You will get the chance to apply yourself to surveying knowledge, application and professional practice. This program will cater for students wishing to gain accreditation as Surveyors as part of an integrated five-year program in double degree mode with the Bachelor of Engineering (Honours) 3707. The School of Civil and Environmental Engineering administers the program.
+The program is designed to allow students to gain accreditation as both Engineers and Surveyors when taken with the 3707 Bachelor of Engineering (Honours) program as a double degree program.
+Read More
+about Overview
+Program Structure
+This program is only offered as part of the 3776 Engineering (Honours) / Surveying double degree program and is not available for direct entry.
+Expand all
+Disciplinary Component
+144 Units of Credit:
+keyboard_arrow_down
+Students must complete 144 UOC of the following to satisfy the core requirements of this degree
+Engineering Foundation Core Courses
+72 Units of Credit:
+keyboard_arrow_down
+Students must take 72 UOC of the following courses.
+Engineering Foundation Core Courses
+add
+arrow_forward
+CVEN2002
+6 UOC
+Civil and Environmental Engineering Computations
+arrow_forward
+CVEN3101
+6 UOC
+Engineering Operations and Control
+arrow_forward
+CVEN3401
+6 UOC
+Transport and Highway Engineering
+arrow_forward
+CVEN3501
+6 UOC
+Water Resources Engineering
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1300
+6 UOC
+Engineering Mechanics
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+One of the following:
+add
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+add
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+add
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Surveying Core Courses
+66 Units of Credit:
+keyboard_arrow_down
+Students must take 66 UOC of the following courses.
+arrow_forward
+GMAT1110
+6 UOC
+Surveying and Geospatial Engineering
+arrow_forward
+GMAT2120
+6 UOC
+Surveying and Geospatial Technology
+arrow_forward
+GMAT2500
+6 UOC
+Surveying Computations A
+arrow_forward
+GMAT2550
+6 UOC
+Surveying Computations B
+arrow_forward
+GMAT2700
+6 UOC
+Foundations of Geodesy & Geospatial Ref Frames
+arrow_forward
+GMAT3100
+6 UOC
+Surveying Applications and Design
+arrow_forward
+GMAT3150
+6 UOC
+Surveying Field Projects
+arrow_forward
+GMAT3220
+6 UOC
+Geospatial Information Systems
+arrow_forward
+GMAT3420
+6 UOC
+Cadastral Surveying and Land Law
+arrow_forward
+GMAT3500
+6 UOC
+Remote Sensing and Photogrammetry
+arrow_forward
+GMAT3700
+6 UOC
+Geodetic Positioning and Applications
+Professional Electives
+6 Units of Credit:
+keyboard_arrow_down
+Students must take at least 6 UOC of the following courses.
+Students wishing to apply as candidates for registration through the NSW Board of Surveying and Spatial Information (BOSSI) must take GMAT4400.
+arrow_forward
+CVEN4102
+6 UOC
+Operations and Projects
+arrow_forward
+CVEN4103
+6 UOC
+Engineering Contracts
+arrow_forward
+CVEN4104
+6 UOC
+Sustainability in Construction
+arrow_forward
+CVEN4201
+6 UOC
+Rock and Slope Engineering
+arrow_forward
+CVEN4202
+6 UOC
+Advanced Topics in Geotechnical Engineering
+arrow_forward
+CVEN4204
+6 UOC
+Ground Improvement and Monitoring Techniques
+arrow_forward
+CVEN4301
+6 UOC
+Advanced Concrete Structures
+arrow_forward
+CVEN4308
+6 UOC
+Structural Dynamics
+arrow_forward
+CVEN4402
+6 UOC
+Transport Networks
+arrow_forward
+CVEN4404
+6 UOC
+Traffic Engineering
+arrow_forward
+CVEN4503
+6 UOC
+Groundwater Resource Investigation
+arrow_forward
+CVEN4507
+6 UOC
+Resilient Flood Design
+arrow_forward
+CVEN4701
+6 UOC
+Planning Sustainable Infrastructure
+arrow_forward
+CVEN4703
+6 UOC
+Advanced Water Quality Principles
+arrow_forward
+CVEN4800
+6 UOC
+Satellite Remote Sensing and Applications
+arrow_forward
+GEOS3731
+6 UOC
+Coastal Processes and Hazards
+arrow_forward
+GEOS3761
+6 UOC
+Environmental Change
+arrow_forward
+GEOS3911
+6 UOC
+Environmental Impact Assessment
+arrow_forward
+GEOS3921
+6 UOC
+Coastal Resource Management
+arrow_forward
+GMAT4400
+6 UOC
+Land Management Project
+Free Electives
+36 Units of Credit:
+keyboard_arrow_down
+Students must take at least 36 UOC of the following courses.
+open_in_new
+any course
+General Education
+12 Units of Credit:
+keyboard_arrow_down
+Students must take at least 12 UOC of the following courses.
+open_in_new
+any General Education course
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Sample Programs
+To access sample program(s), please visit:
+open_in_new
+Surveying
+Program Requirements
+Progression Requirements
+Progression rules are in accordance with university policy.
+For more information on university policy on progression requirements for coursework programs please visit
+Academic Progression
+and for Research programs visit
+Higher Degree Research.
+Associated Programs
+Similar Program
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Related Double Degree
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+Bachelor of Surveying - BSurv
+3776 - Engineering (Honours) / Surveying
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+240
+Typical Duration:
+5 Year(s)
+open_in_new
+Read More
+Professional Outcomes
+Professional Recognition
+The Bachelor of Surveying is recognised by the Board of Surveying and Spatial Information of New South Wales for registration as a surveyor in NSW. The degree is also recognised by the Institution of Surveyors, New South Wales, the Geospatial Council of Australia and Engineers Australia, for admission as members.
+Career Opportunities
+Engineer working in the mining industry, construction surveying firms, architecture firms, land management and planning, hydrographic surveying, aerial imaging and cartography.
+Recognition of Achievement
+Expand all
+University Medal
+keyboard_arrow_down
+The University Medal is awarded to recognise outstanding academic performance by a bachelor degree student in line with the University Medal Policy and University Medal Procedure.
+Award of Pass with Distinction
+keyboard_arrow_down
+The Award of Pass with Distinction is awarded when a weighted average mark (WAM) of at least 75% has been achieved and at least 50% of the requirements of the award completed at UNSW.
+All eligible programs will award Pass with Distinction except in special circumstances where approval of Academic Board has been given for a program to opt out.
+For more information, please visit the link above.
+open_in_new
+Current Students Pass With Distinction
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Additional Expenses and Resources
+Course dependent.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+4 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Delivery Mode
+Face-to-face (includes blended)
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+192
+AQF Level
+Level 7
+Award Type
+Bachelor
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Surveying - BSurv
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

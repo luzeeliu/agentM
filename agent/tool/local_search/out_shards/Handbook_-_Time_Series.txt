@@ -1,0 +1,98 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/MATH5845
+
+Handbook - Time Series
+
+
+Handbook - Time Series
+
+Course
+print
+Print Time Series page
+_border
+Time Series
+MATH5845
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Additional Enrolment Constraints
+Delivery
+Overview
+The course is concerned with the theory and application of appropriate statistical techniques for analysis of time series data -- data collected over time. The course will help students develop a sound understanding of stationary and non-stationary time series models and their properties in discrete time. The topics include the… For more content click the Read More button below.
+The course is concerned with the theory and application of appropriate statistical techniques for analysis of time series data -- data collected over time. The course will help students develop a sound understanding of stationary and non-stationary time series models and their properties in discrete time. The topics include the theory of stationary time series; methods for trend and seasonal analysis and adjustment; modelling and forecasting with autoregressive moving average processes; modelling the impact of exogenous or intervention variables on responses; models for stochastic volatility and long-term dependence; regression models for time series. Applications are primarily drawn from finance and public health and the R software environment is used to perform appropriate analyses for numerical examples.
+Read More
+about Overview
+Conditions for Enrolment
+Enrolment in program 5518 or 5546 or 5659 or 5959 or 7546 or 7659 or 7959 or 8161 or 8411 or 8416 or 5518 or 8518 or 8543 or 8544 or 8719 or 8750 or 8959 or 9372 or 9373
+Additional Enrolment Constraints
+Assumed knowledge: Students are expected to be familiar with the basic principles of Probability and Statistics, including: random variables and their characteristics (mean, variance, covariance, and correlation); estimators and their properties (bias, variance, consistency, asymptotic distribution); the Law of Large Numbers and the Central Limit Theorem; and the methods of… For more content click the Read More button below.
+Assumed knowledge: Students are expected to be familiar with the basic principles of Probability and Statistics, including: random variables and their characteristics (mean, variance, covariance, and correlation); estimators and their properties (bias, variance, consistency, asymptotic distribution); the Law of Large Numbers and the Central Limit Theorem; and the methods of moments and maximum likelihood estimation.
+In addition, a basic knowledge of Real Analysis is assumed. This includes understanding functions and their properties, limits and series, differentiation and integration, Taylor expansions, and function spaces. Students should also be familiar with complex numbers and their basic characteristics, as well as complex-valued functions.
+Students can contact the course authority for advice regarding assumed knowledge.
+Read More
+about Additional Enrolment Constraints
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4 hours/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Mathematics & Statistics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010103 Statistics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

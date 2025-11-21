@@ -1,0 +1,99 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/CVEN9840
+
+Handbook - Structural Health Monitoring Fundamentals and Practices
+
+
+Handbook - Structural Health Monitoring Fundamentals and Practices
+
+Course
+print
+Print Structural Health Monitoring Fundamentals and Practices page
+_border
+Structural Health Monitoring Fundamentals and Practices
+CVEN9840
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+Structural health monitoring (SHM) refers to the process of design and implementing a condition monitoring and characterization strategy for engineering structures. Needs for optimization of maintenance costs, objective and science-based inspection practices, increase of safety, emergence of new and improved construction materials and methods, new developments in measurement, sensing, processing… For more content click the Read More button below.
+Structural health monitoring (SHM) refers to the process of design and implementing a condition monitoring and characterization strategy for engineering structures. Needs for optimization of maintenance costs, objective and science-based inspection practices, increase of safety, emergence of new and improved construction materials and methods, new developments in measurement, sensing, processing and monitoring, as well as recent technological developments in various branches of science and engineering led to creation of relatively new, interdisciplinary branch of engineering – Structural Health Monitoring. SHM examines the use of low-cost, long term monitoring systems to keep civil infrastructure under constant surveillance, ensuring structural integrity. It has received great deal of attention all over the world due to its significant impact on safety and longevity of the structures.
+This subject provides an introduction and motivation of SHM with a systematic approach to SHM process. It introduces the topics with basic definitions of measurement and monitoring, various available and emerging monitoring technologies, data acquisition systems and instrumentation, passive and active sensing technologies. The course will cover the principal methods used for local non-destructive evaluation (NDE) and global vibration based SHM techniques. Overview of signal processing basics, feature extraction and a comprehensive list of comparative features will be addressed. Brief overview of structural dynamics will be presented. The students will be provided with hands-on experience in experimental and operational modal analysis, and will learn with structural properties extraction from data. Basics on data interpretation and analysis for both static and dynamic monitoring are presented. It will also introduce students to the concepts of statistical pattern recognition, machine learning, artificial intelligence and neural network and demonstrate the application of these technologies to SHM. Techniques based on data-driven approach and model-based approach to develop SHM solutions are presented. Techniques of combining finite element modelling and field measurements for realistic loading simulations and spatial extrapolation of measured data are discussed and finally, real-world applications and current state of the technology are discussed.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: CVEN2303 and CVEN2002
+Delivery
+Expand all
+Fully online - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+Fully online
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Civil and Environmental Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+030903 Structural Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

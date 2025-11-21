@@ -1,0 +1,111 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/COMP6843
+
+Handbook - Extended Web Application Security and Testing
+
+
+Handbook - Extended Web Application Security and Testing
+
+Course
+print
+Print Extended Web Application Security and Testing page
+_border
+Extended Web Application Security and Testing
+COMP6843
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Course Attributes
+Delivery
+Overview
+Web applications are currently the predominant source of software vulnerabilities exploited in in online attacks. There is a growing need and growing demand for web programmers to be security aware. This course covers the main types of web application vulnerabilities and current best practice professional coding and testing practices to… For more content click the Read More button below.
+Web applications are currently the predominant source of software vulnerabilities exploited in in online attacks. There is a growing need and growing demand for web programmers to be security aware.
+This course covers the main types of web application vulnerabilities and current best practice professional coding and testing practices to be able to successfully develop secure web applications.
+The course covers OWASP vulnerabilities cross site scripting browser security model and weaknesses Injection attacks DNS Man in the middle Data leakage Spoofing UI and Social vulnerabilities Assurance and Testing Standards. Course coverage will be constantly updated over time to reflect emerging vulnerabilities and practices.
+There are numerous formative assessments and activities throughout the course to provide feedback and learning opportunities. These do not directly contribute to your final grade but are expected to be used to provide evidence of your capabilities in your portfolio.
+A programming background is required. Students also need a keen devious and analytical mind. To get the most from this course students will need to engage in independent study and research and be able to act as independent self directed learners.
+This is the extended version of COMP6443. This course includes the material of COMP6443, a deeper coverage of vulnerability classifications, and more sophisticated exploitation techniques. Students will work in teams to conduct application tests and report on them to real and simulated clients.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: COMP6441 or COMP6841 or COMP3441 or COMP1337
+Exclusion Courses
+open_in_new
+Course
+COMP3443
+COMP3443 - Web Application Security and Testing
+open_in_new
+Course
+COMP6443
+COMP6443 - Web Application Security and Testing
+Course Attributes
+Expand all
+General Education
+keyboard_arrow_down
+This course is available as general education and normally taken outside the study area in which the student’s program is based. Availability of general education courses outside of the owning Faculty may be restricted by the Program Authority, usually because they are closely related to the study area of the student’s program.
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+6
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020100 Computer Science
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

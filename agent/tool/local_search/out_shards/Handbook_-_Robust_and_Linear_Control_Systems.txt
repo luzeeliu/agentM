@@ -1,0 +1,102 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/ELEC9731
+
+Handbook - Robust and Linear Control Systems
+
+
+Handbook - Robust and Linear Control Systems
+
+Course
+print
+Print Robust and Linear Control Systems page
+_border
+Robust and Linear Control Systems
+ELEC9731
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Exclusion Courses
+Delivery
+Overview
+Linear and robust control systems are important areas of modern control engineering. It is important that control engineers are able to model, analyze, and design linear and robust control systems and develop effective control solutions to achieve better system performance. The course covers basic topics of linear and robust control… For more content click the Read More button below.
+Linear and robust control systems are important areas of modern control engineering. It is important that control engineers are able to model, analyze, and design linear and robust control systems and develop effective control solutions to achieve better system performance.
+The course covers basic topics of linear and robust control such as continuous and discrete linear time-invariant (LTI) systems, discrete-time approximations, controllability, canonical forms, pole placement, observability, Lyapunov stability applied to linear systems, basic robustness, sensitivity and complementary sensitivity, classical loop shaping, single-input and single-output (SISO) controller design using polynomial methods, singular value decomposition,  optimal control, the optimal linear regulator (discrete, continuous), model predictive control, Kalman filter and predictor (discrete, continuous), advanced robustness, disturbance rejection, H-infinity control and state estimation.
+Read More
+about Overview
+Exclusion Courses
+open_in_new
+Course
+ELEC9421
+ELEC9421 - Robust and Linear Control Systems
+Delivery
+Expand all
+Multimodal - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+Multimodal
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+3
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+3
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031301 Electrical Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

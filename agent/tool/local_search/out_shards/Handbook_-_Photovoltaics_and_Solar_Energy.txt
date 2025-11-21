@@ -1,0 +1,483 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/SOLAAH
+
+Handbook - Photovoltaics and Solar Energy
+
+
+Handbook - Photovoltaics and Solar Energy
+
+Specialisation
+print
+Print Photovoltaics and Solar Energy page
+_border
+Photovoltaics and Solar Energy
+SOLAAH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+The specialisation includes training in photovoltaics technology development, manufacturing, quality control, reliability and life-cycle analysis, cell interconnection and encapsulation, a range of solar cell applications, system planning and design, operation, maintenance and fault diagnosis and electricity industry integration. While the degree focuses on photovoltaics, electives can be taken across a… For more content click the Read More button below.
+The specialisation includes training in photovoltaics technology development, manufacturing, quality control, reliability and life-cycle analysis, cell interconnection and encapsulation, a range of solar cell applications, system planning and design, operation, maintenance and fault diagnosis and electricity industry integration. While the degree focuses on photovoltaics, electives can be taken across a range of relevant courses in electrical or mechanical engineering, renewable energy and complementary technologies such as battery storage. Emphasis is placed on gaining hands-on experience of working with solar energy devices, modules and systems.
+UNSW academics in the photovoltaic field have been consistently ranked amongst the leaders worldwide through international peer review. This team has held the world record for silicon solar cell efficiencies for decades and were responsible for developing the most successfully commercialized new photovoltaic technology internationally throughout the same period. From 2006 onwards we have seen an explosion of interest in the School's technologies from major industry players all around the world.
+Second Area of Specialisation
+The cross-disciplinary nature of photovoltaics and renewable energy applications necessitates many PV engineers possessing broad engineering backgrounds or else working in teams with other engineers.
+A unique feature of this specialisation is that in Year 2, students have the opportunity to select a strand comprising 18 units of credit to complement their education in Photovoltaics and Solar Energy. The strands available cover areas such as computer science, electrical engineering, mathematics, mechanical engineering, civil engineering, physics, chemical engineering, and architecture. Students may also formulate their own strands subject to the approval of the specialisation authority.
+Selection of a second area of specialisation is subject to the specialisation rule that states that no more than 60 UOC of first-year level courses may be counted toward the BE (Hons) in Photovoltaics and Solar Energy.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Show proficiency in the enabling sciences that underpin Photovoltaic and Solar Energy (PVSE) Engineering (physics, mathematics and computer science).
+keyboard_arrow_down
+2.
+Demonstrate proficiency of PVSE Energy specialist technical knowledge such as operation, design and manufacturing of solar cells and modules, energy efficiency and photovoltaic systems design.
+keyboard_arrow_down
+3.
+Critically evaluate and apply current research to the solution of problems faced in a real world context, in PVSE Energy engineering, by considering technical, economic, social and environmental implications.
+keyboard_arrow_down
+4.
+Use appropriate analytical and computational tools to analyse complex problems in PVSE and solve by applying critical thinking and engaging with real world context.
+keyboard_arrow_down
+5.
+Design PVSE systems using knowledge of the functionality and operating principles of systems components, enabling technologies and relevant standards
+keyboard_arrow_down
+6.
+Lead and manage PVSE projects, individually or as part of a team, in a systematic and professional manner.
+keyboard_arrow_down
+7.
+Demonstrate a high level of personal autonomy, perseverance, ethical conduct and professional accountability when working as an individual and within diverse multi-cultural and multi-disciplinary team environments.
+keyboard_arrow_down
+8.
+Communicate professionally and effectively within and outside of PVSE engineering and effectively incorporate feedback.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+Note: Students doing  a Computing Strand should take COMP1911.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+SOLA1070
+6 UOC
+Sustainable Energy
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+PHYS1221
+6 UOC
+Physics 1B
+OR
+arrow_forward
+PHYS1231
+6 UOC
+Higher Physics 1B
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+OR
+arrow_forward
+COMP1911
+6 UOC
+Computing 1A
+OR
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+Level 2 Core Courses
+36 Units of Credit:
+keyboard_arrow_down
+Students must take 36 UOC of the following courses.
+Note: Students selecting Mathematics Strand and Physics Stand, and BE/BSc students majoring in 'Mathematics' or 'Physics' should replace MATH2019 with MATH2011 Several Variable Calculus and MATH2121 Theory and Applications of Differential Equations.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+SOLA2051
+6 UOC
+Project in Photovoltaics and Renewable Energy
+arrow_forward
+SOLA2060
+6 UOC
+Introduction to Electronic Devices
+arrow_forward
+SOLA2540
+6 UOC
+Applied Photovoltaics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+SOLA3010
+6 UOC
+Low Energy Buildings and Photovoltaics
+arrow_forward
+SOLA3020
+6 UOC
+Photovoltaic Technology and Manufacturing
+arrow_forward
+SOLA3507
+6 UOC
+Solar Cells
+Level 4 Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+arrow_forward
+ELEC4122
+6 UOC
+Strategic Leadership and Ethics
+arrow_forward
+SOLA4012
+6 UOC
+Photovoltaic Systems Design
+arrow_forward
+SOLA4951
+4 UOC
+Research Thesis A
+arrow_forward
+SOLA4952
+4 UOC
+Research Thesis B
+arrow_forward
+SOLA4953
+4 UOC
+Research Thesis C
+arrow_forward
+SOLA5057
+6 UOC
+Energy Efficiency
+Strand Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must choose 18 UOC of elective courses in a particular area of focus (Strand) such as Computing, Electronics, Electric Energy, Communications and Control, Mathematics, Mechanical Engineering, Chemical Engineering, Physics, Faculty of Built Environment.
+Students may submit a request to the Engineering Student Support Services Office to formulate their own Strands subject to the approval of the Undergraduate Coordinator.
+Note:
+- The Strand options listed are subject to change and may not be available every year.
+- Strand options are for students commencing the second year of their program; third year students should complete the strand courses they have already nominated and consult the School Office as required.
+arrow_forward
+ARCH1361
+6 UOC
+Architectural Science and Building Environment
+arrow_forward
+BENV1072
+6 UOC
+Design for Energy Efficiency
+arrow_forward
+CEIC2000
+6 UOC
+Material and Energy Systems
+arrow_forward
+CEIC2001
+6 UOC
+Fluid and Particle Mechanics
+arrow_forward
+CEIC2002
+6 UOC
+Heat and Mass Transfer
+arrow_forward
+CODE2170
+6 UOC
+Building Information Modelling
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP2511
+6 UOC
+Software Design and Architecture
+arrow_forward
+ELEC2133
+6 UOC
+Analogue Electronics
+arrow_forward
+ELEC2134
+6 UOC
+Circuits and Signals
+arrow_forward
+ELEC3104
+6 UOC
+Digital Signal Processing
+arrow_forward
+ELEC3105
+6 UOC
+Electrical Energy
+arrow_forward
+ELEC3106
+6 UOC
+Electronics
+arrow_forward
+ELEC3114
+6 UOC
+Control Systems
+arrow_forward
+ELEC3115
+6 UOC
+Electromagnetic Engineering
+arrow_forward
+ELEC3117
+6 UOC
+Electrical Engineering Design
+arrow_forward
+ELEC4614
+6 UOC
+Power Electronics
+arrow_forward
+MATH2011
+6 UOC
+Several Variable Calculus
+arrow_forward
+MATH2121
+6 UOC
+Theory and Applications of Differential Equations
+arrow_forward
+MATH3041
+6 UOC
+Mathematical Modelling for Real World Systems
+arrow_forward
+MATH3101
+6 UOC
+Computational Mathematics for Science and Engineering
+arrow_forward
+MATH3121
+6 UOC
+Mathematical Methods and Partial Differential Equations
+arrow_forward
+MATH3261
+6 UOC
+Fluids, Oceans and Climate
+arrow_forward
+MECH3610
+6 UOC
+Advanced Thermofluids
+arrow_forward
+MECH4620
+6 UOC
+Computational Fluid Dynamics
+arrow_forward
+MECH9720
+6 UOC
+Solar Thermal Energy Design
+arrow_forward
+MMAN2600
+6 UOC
+Fluid Mechanics
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+arrow_forward
+PHYS2111
+6 UOC
+Quantum Physics
+arrow_forward
+PHYS3111
+6 UOC
+Quantum Mechanics
+arrow_forward
+PHYS3113
+6 UOC
+Thermal Physics and Statistical Mechanics
+arrow_forward
+PHYS3118
+6 UOC
+Quantum Physics of Solids and Devices
+arrow_forward
+TELE3113
+6 UOC
+Analogue and Digital Communications
+Discipline (Depth) Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students can take up to a maximum of 18 UOC of the following courses.
+NOTE: Students studying SOLAAH in a single degree may also take courses from this list to satisfy program requirements.
+arrow_forward
+ENGG4111
+6 UOC
+Energy Storage
+arrow_forward
+SOLA4237
+6 UOC
+Consumer Energy Resources Operation and Integration
+arrow_forward
+SOLA5050
+6 UOC
+Renewable Energy Industry and Policy
+arrow_forward
+SOLA5051
+6 UOC
+Life Cycle Assessment
+arrow_forward
+SOLA5056
+6 UOC
+Sustainable Energy for Developing Countries
+arrow_forward
+SOLA9101
+6 UOC
+Advanced Photovoltaics
+arrow_forward
+SOLA9102
+6 UOC
+Advanced Solar Cell Characterisation
+Breadth Elective
+keyboard_arrow_down
+Students studying a single degree in SOLAAH may select additional UOC from the Discipline (Depth) and/or Breadth Elective list to satisfy their program requirements. In some situations students in double degrees where there is double counting may also have additional UOC free for practice electives.
+NOTE: 2 UOC and 3 UOC courses are run over consecutive terms for a final total of 6 UOC.
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3001
+6 UOC
+Fundamentals of Humanitarian Engineering
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4102
+6 UOC
+Humanitarian Engineering Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+SOLA5052
+6 UOC
+Bioenergy and Renewable Fuels
+arrow_forward
+SOLA5053
+6 UOC
+Wind Energy Converters
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Photovoltaic and Renewable Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

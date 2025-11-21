@@ -1,0 +1,33 @@
+URL: http://www.handbook.unsw.edu.au/postgraduate/courses/2018/CVEN9612.html
+
+UNSW Handbook Course -  Catchment and Water Resources Modelling - CVEN9612
+
+
+UNSW Handbook Course -  Catchment and Water Resources Modelling - CVEN9612
+Catchment and Water Resources Modelling - CVEN9612
+Faculty:
+Faculty of Engineering
+School:
+School of Civil and Environmental Engineering
+Course Outline:
+http://www.civeng.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Postgraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+3
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Processes, generation and modelling of catchment surface runoff quantity and quality; a broad range of surface runoff and water quality models ranging from simple to process based will be considered; selection, calibration, validation and reliability of the various models is presented; water resources data, analysis and modelling including considerations of data sources, errors, time series analysis, stochastic models and extension of hydrological records; stochastic reservoir analysis; optimisation in water resources.

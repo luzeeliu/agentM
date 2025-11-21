@@ -1,0 +1,37 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH3871.html
+
+UNSW Handbook Course -  Bayesian Inference and Computation - MATH3871
+
+
+UNSW Handbook Course -  Bayesian Inference and Computation - MATH3871
+Bayesian Inference and Computation - MATH3871
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Prerequisite: MATH2801 or MATH2901
+Equivalent:
+MATH5960
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+After describing the fundamentals of Bayesian inference, this course will examine the specification of prior and posterior distributions, Bayesian decision theoretic concepts, the ideas behind Bayesian hypothesis tests, model choice and model averaging, and evaluate the  capabilities of several common model types, such as hierarchical and mixture models. An important part of Bayesian inference is the requirement to numerically evaluate complex integrals on a routine basis. Accordingly this course will also introduce the ideas behind Monte Carlo integration, importance sampling, rejection sampling, Markov chain Monte Carlo samplers such as the Gibbs sampler and the Metropolis-Hastings algorithm, and use of the WinBuGS posterior simulation software.

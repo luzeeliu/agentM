@@ -1,0 +1,33 @@
+URL: http://www.handbook.unsw.edu.au/postgraduate/courses/2018/GMAT9600.html
+
+UNSW Handbook Course - Principles of Remote Sensing - GMAT9600
+
+
+UNSW Handbook Course - Principles of Remote Sensing - GMAT9600
+Principles of Remote Sensing - GMAT9600
+Faculty:
+Faculty of Engineering
+School:
+School of Civil and Environmental Engineering
+Course Outline:
+course profile
+Campus:
+Sydney
+Career:
+Postgraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+3
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Remote sensing techniques are powerful tools for spatial data acquisition and this course will describe the history, challenges and developments in remote sensing. Topics covered include definition and physics of basic electromagnetic radiation propertises, energy-matter relationships, spectral signatures of surfaces and the atmosphere, the reduction of atmospheric effects, sensor concepts (including film and electro-optical sensors), an introduction to data processing and enhancement (including image interpretation procedures). Satellite missions such as Landsat, SPOT, and ERS will be briefly introduced, as well as future remote sensing satellite constellations. The variety of satellite and airborne platforms, and the greater access to imagery, now make it possible to use remote sensing to address a wide range of applications. The diverse and ever-growing applications will be reviewed.

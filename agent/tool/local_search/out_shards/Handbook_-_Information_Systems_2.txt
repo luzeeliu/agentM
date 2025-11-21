@@ -1,0 +1,538 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/programs/2026/3979
+
+Handbook - Information Systems
+
+
+Handbook - Information Systems
+
+Program
+print
+Print Information Systems page
+_border
+Information Systems
+3979
+144 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Program Structure
+Program Constraints
+Program Requirements
+Associated Programs
+Professional Outcomes
+Recognition of Achievement
+Additional Information
+Program Fees
+Overview
+The Bachelor of Information Systems (BIS) is a highly valued and accredited business qualification offering students a career-focused education in Information Systems (IS). Organisations are always looking for 'business savvy' IS graduates who understand both the business and technical issues related to their systems. This three-year degree is designed for… For more content click the Read More button below.
+The
+Bachelor of Information Systems (BIS)
+is a highly valued and accredited business qualification offering students a career-focused education in Information Systems (IS). Organisations are always looking for 'business savvy' IS graduates who understand both the business and technical issues related to their systems. This three-year degree is designed for students interested in the practical application of technology in business and government.
+Information Systems relates to the interaction between technology, people and processes to achieve business goals. This can include internal applications of technology such as networks and Information Technology (IT) services that help those who work for organisations operate more efficiently, as well as external applications such as technological products and user experiences. IS professionals are in the business of transformation, working in teams to understand data, solve problems, optimise systems, create innovations, and enrich organisational workflows. Through the BIS degree, you will learn from leading academics and business experts in Information Systems to become an adaptive thinker, solve problems through a variety of digital technologies and tools, and drive purposeful change required to thrive in a fast-changing and increasingly digital world.
+The BIS degree now includes an Integrated First Year (IFY) experience, allowing you to begin your study with other students in the business school. You will learn about business management and the broader environment in which an organisation operates, with a focus on developing professional skills and capabilities. The BIS now also offers a work integrated learning (WIL) course. WIL enables you to engage in
+authentic, purposeful, partnered, supervised
+and
+assessed
+work learning experiences that integrate academic learning with its application in the workplace.
+The core BIS courses cover discipline specific competency areas that prepare you for a career as an IS graduate. This includes the study of
+Design and Development
+and
+Organisational IS such as
+Business Analysis, Agile Product Management, User Experience (UX) and IT Service Design, IS Project Management, as well as Business Process Management. In addition, you will undertake studies in
+Data & Information Management
+, including courses that will develop your knowledge and skills in Databases (SQL), Database Management, Big Data, and programming for analytics (R and Python). The core IS curriculum also prepares you for a career in Technology/Security related areas of business, and the study of Networking and Security, Cyber Security Management and Governance as well as Enterprise Architecture and Cloud Solutions. Finally, you will conclude your core study of IS through an
+Integration
+and capstone project course. This course will synthesise your learnings across the program, requiring you to complete an authentic, sandbox project that closely relates to professional and collaborative work in the field. The BIS degree also offers a number of technical elective courses for students looking to further their data analytic or programming skills (Java and Android app development).
+Once you have successfully completed the BIS degree, you will be able to pursue a career in the following areas: digital transformation, IT consulting, business systems analysis, User Experience (UX) design, information system design, communications network analysis, IS security development, cybersecurity consulting, digital innovation, data science, IS and IT architecture, database administration, and infrastructure development and maintenance.
+High performing students can study an additional Honours year for more advanced studies in Information Systems, including the completion of an honours research thesis project.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Business knowledge: Students make informed and effective selection and application of knowledge in a discipline or profession, in the contexts of local and global business.
+Leaders
+Global citizens
+Scholars
+Professionals
+keyboard_arrow_down
+2.
+Problem solving: Students define and address business problems, and propose effective evidence-based solutions, through the application of rigorous analysis and critical thinking.
+Professionals
+Scholars
+Leaders
+Global citizens
+keyboard_arrow_down
+3.
+Business communication: Students harness, manage and communicate business information effectively using multiple forms of communication across different channels.
+Scholars
+Professionals
+Global citizens
+Leaders
+keyboard_arrow_down
+4.
+Teamwork: Students interact and collaborate effectively with others to achieve a common business purpose or fulfil a common business project, and reflect critically on the process and the outcomes.
+Scholars
+Leaders
+Global citizens
+keyboard_arrow_down
+5.
+Responsible business practice: Students develop and commit to responsible business thinking and approaches, which are underpinned by ethical professional practice and sustainability considerations.
+Global citizens
+Professionals
+keyboard_arrow_down
+6.
+Global and cultural competence: Students have awareness of business systems in the wider world and actively commit to recognise and respect the cultural norms, beliefs and values of others, and apply this knowledge to interact, communicate and work effectively in diverse environments.
+Global citizens
+Leaders
+keyboard_arrow_down
+7.
+Leadership development: Students develop the capacity to take initiative, engage in forward thinking and bring about innovation, while effectively influencing others to achieve desired results.
+Scholars
+Leaders
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Program Structure
+Students must complete 144 UOC when taken as a standalone program.
+These UOC are made up of:
+IFY Business Core Courses (30 UOC)
+Information Systems Core Courses (72 UOC)
+Level 2 and 3 Prescribed Information Systems Electives (12 UOC)
+Work Integrated Learning Course (6 UOC)
+Free Electives (12 UOC)
+General Education (12 UOC)
+Please see
+Progression Plan
+Expand all
+Disciplinary Component
+120 Units of Credit:
+keyboard_arrow_down
+Students must complete 120 UOC of the following to satisfy the core requirements of this degree
+Business Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+Integrated First Year Courses
+18 Units of Credit:
+add
+arrow_forward
+COMM1100
+6 UOC
+Business Decision Making
+arrow_forward
+COMM1110
+6 UOC
+Evidence-Based Problem Solving
+arrow_forward
+COMM1190
+6 UOC
+Data, Insights and Decisions
+One of the following:
+6 Units of Credit:
+add
+arrow_forward
+COMM1140
+6 UOC
+Financial Management
+OR
+arrow_forward
+COMM1150
+6 UOC
+Global Business Environments
+One of the following:
+6 Units of Credit:
+add
+arrow_forward
+COMM1120
+6 UOC
+Collaboration and Innovation in Business
+OR
+arrow_forward
+COMM1180
+6 UOC
+Value Creation
+Information Systems Core Courses
+72 Units of Credit:
+keyboard_arrow_down
+Students must take 72 UOC of the following courses.
+arrow_forward
+INFS1602
+6 UOC
+Digital Transformation in Business
+arrow_forward
+INFS1603
+6 UOC
+Introduction to Business Databases
+arrow_forward
+INFS1701
+6 UOC
+Introduction to Networking and Security
+arrow_forward
+INFS2603
+6 UOC
+Business Analysis and Agile Product Management
+arrow_forward
+INFS2608
+6 UOC
+Database Management & Big Data Infrastructures
+arrow_forward
+INFS2701
+6 UOC
+Managing Cybersecurity in the Digital Age
+arrow_forward
+INFS2822
+6 UOC
+Programming for Data Analytics
+arrow_forward
+INFS3604
+6 UOC
+Business Process Management
+arrow_forward
+INFS3605
+6 UOC
+Information Systems Innovation & Transformation
+arrow_forward
+INFS3700
+6 UOC
+User Experience and IT Service Design
+arrow_forward
+INFS3701
+6 UOC
+Enterprise Architecture for Scalable Cloud Solutions
+arrow_forward
+INFS3703
+6 UOC
+Information Systems Project Management
+Prescribed Information Systems Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+IS Data Analytics Electives
+add
+Elective courses focused on developing skills in data analytics.
+arrow_forward
+INFS3300
+6 UOC
+Practising Ethical AI and Responsible Digital Innovation
+arrow_forward
+INFS3603
+6 UOC
+Introduction to Business Analytics
+arrow_forward
+INFS3830
+6 UOC
+Social Media Analytics
+arrow_forward
+INFS3873
+6 UOC
+Business Analytics Methods
+arrow_forward
+INFS3822
+6 UOC
+Artificial Intelligence for Business Analytics
+IS Organisational Electives
+add
+Elective courses focused on IS in Organisations
+arrow_forward
+INFS2631
+6 UOC
+Digital Innovation Management
+arrow_forward
+INFS2702
+6 UOC
+Supply Chain and Logistics Design
+arrow_forward
+INFS3020
+6 UOC
+Information Systems and Technology International Study Tour
+arrow_forward
+INFS3300
+6 UOC
+Practising Ethical AI and Responsible Digital Innovation
+IS Cybersecurity Management Electives
+add
+Elective courses focused on developing skills and knowledge in cybersecurity
+arrow_forward
+INFS3922
+6 UOC
+Cybersecurity Trends and Best Practices
+arrow_forward
+INFS3929
+6 UOC
+Risk Management in Cybersecurity
+arrow_forward
+INFS3959
+6 UOC
+Cybersecurity Intelligence and the Incident Response
+Work Integrated Learning (WIL)
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses to satisfy the minimum 150 hours of professional work that is required for this degree. This also applies to students in the Bachelor of Commerce/Information Systems double degree. Students can satisfy the requirement in either the Commerce or Information Systems component of the double degree. Students are NOT required to satisfy the requirement in both components of the double degree.
+arrow_forward
+COMM2222
+6 UOC
+Industry Experience Program
+arrow_forward
+COMM2233
+6 UOC
+Industry Consulting Project
+arrow_forward
+COMM2244
+6 UOC
+Future of Work Project
+arrow_forward
+COMM3020
+6 UOC
+Global Business Practicum
+arrow_forward
+COMM3030
+6 UOC
+Social Entrepreneurship Practicum
+arrow_forward
+COMM3101
+6 UOC
+Industry Experience Placement 1
+arrow_forward
+COMM3202
+6 UOC
+Industry Experience Placement 2
+SAS Certification and SAS Academic Digital Badge Requirements
+keyboard_arrow_down
+Students who complete any four of the following five courses at UNSW will be eligible for an SAS Certificate in Business Analytics (awarded jointly by UNSW and SAS) and an SAS Academic Digital Badge. Please note that for any of the listed Business Analytics courses, being awarded Recognition of Prior Learning (RPL) will not count as part of the four required courses for the SAS Certificate and Digital Badge.
+· INFS2608 Database Management & Big Data Infrastructures (6 UOC)
+· INFS3603 Introduction to Business Analytics (6 UOC)
+· INFS3822 Artificial Intelligence for Business Analytics (6 UOC)
+· INFS3830 Social Media Analytics (6 UOC)
+· INFS3873 Business Analytics Methods (6 UOC)
+Students enrolled in the COMPD1 Computer Science (Database Systems) major who choose to replace INFS2608 with COMP9313 AND COMP9315 should complete INFS3603, INFS3822, INFS3830 and INFS3873 to meet the SAS Certification requirement.
+For more information about certification and digital badges, please see the Additional Information section below.
+Optional Minor
+keyboard_arrow_down
+Students may complete an optional minor using Free Elective and General Education UOC. Please refer to the Free Elective and General Education requirements below.
+Minor
+arrow_forward
+COMMI2
+24 UOC
+AI in Business and Society
+Free Electives
+12 Units of Credit:
+keyboard_arrow_down
+Students must complete 12 UOC of Free Electives. These can be any courses offered by any Faculty.
+Students may instead use their Free Electives to complete an optional minor.
+Note: GEN# courses cannot towards this requirement.
+open_in_new
+any course
+General Education
+12 Units of Credit:
+keyboard_arrow_down
+Students must complete 12 UOC of General Education.
+The following courses cannot count towards this requirement:
+- Courses offered by the UNSW Business School
+- GENL2021 An Introduction to the Australian Legal System
+- GENL2032 Cyberspace Law
+open_in_new
+any General Education course
+Program Constraints
+Expand all
+Limit Rule
+keyboard_arrow_down
+Students may take a maximum of 72 UOC of Level 1 courses, including any GEN# courses (irrespective of their level).
+Maturity Rule
+keyboard_arrow_down
+Students must have completed 24 UOC before taking any Level 2 courses.
+Students must have completed 48 UOC before taking any Level 3 courses.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Program Requirements
+Progression Requirements
+Progression rules are in accordance with university policy.
+For more information on university policy on progression requirements for coursework programs please visit
+Academic Progression
+and for Research programs visit
+Higher Degree Research.
+Associated Programs
+Similar Program
+Expand all
+Bachelor of Information Systems (Co-op) (Honours) - BIS(Co-op)(Hons)
+3964 - Information Systems (Co-op) (Honours)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Related Double Degree
+Expand all
+Bachelor of Commerce - BCom
+Bachelor of Information Systems - BIS
+3584 - Commerce / Information Systems
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Actuarial Studies - BActSt
+Bachelor of Information Systems - BIS
+3671 - Actuarial Studies / Information Systems
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Information Systems - BIS
+Bachelor of Science - BSc
+3795 - Information Systems / Computer Science
+keyboard_arrow_down
+Faculty:
+UNSW Business School, Faculty of Engineering
+Campus:
+Sydney
+Units of Credit:
+192
+Typical Duration:
+4 Years
+open_in_new
+Read More
+Honours Pathway
+Expand all
+Bachelor of Commerce (Honours) - BCom (Hons)
+4501 - Commerce (Honours)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus:
+Sydney
+Units of Credit:
+48
+Typical Duration:
+1 Year(s)
+open_in_new
+Read More
+Professional Outcomes
+Accreditations
+Expand all
+Australian Computer Society
+keyboard_arrow_down
+For further information regarding the Australian Computer Society, please see
+https://www.acs.org.au/cpd-education/accredited-courses.html
+.
+Professional Recognition
+Graduates are eligible to apply for membership of various professional organisations according to the area of specialisation completed. For further information regarding the Australian Computer Society, please see https://www.acs.org.au
+Career Opportunities
+Business analyst, e-commerce specialist, IS development specialist, IS/IT consultant, IT infrastructure developer, network analyst, network developer, project management specialist, systems analyst, User Experience Analyst, User Experience Designer.
+Recognition of Achievement
+Expand all
+University Medal
+keyboard_arrow_down
+The University Medal is awarded to recognise outstanding academic performance by a bachelor degree student in line with the University Medal Policy and University Medal Procedure.
+Award of Pass with Distinction
+keyboard_arrow_down
+The Award of Pass with Distinction is awarded when a weighted average mark (WAM) of at least 75% has been achieved and at least 50% of the requirements of the award completed at UNSW.
+All eligible programs will award Pass with Distinction except in special circumstances where approval of Academic Board has been given for a program to opt out.
+For more information, please visit the link above.
+open_in_new
+Current Students Pass With Distinction
+Additional Information
+SAS Certification and Academic Digital Badge
+SAS Certification
+credentials are globally recognised as the premier means to validate SAS knowledge. With an SAS Certification credential, students will set themselves apart from others and prove that they have the SAS knowledge to make a difference within an organisation.
+SAS Academic Digital Badge
+is to provide you with a digital version of your SAS credentials. Your Academic digital badge can be used in email signatures or digital résumés, and on social media sites such as LinkedIn, Facebook and Twitter. This digital image contains verified metadata that describes your qualifications and the process required to earn them.
+When you earn your SAS Joint Certificate, you will also receive an email from your university inviting you to claim your badge. Click the link in the email, create an account on the Acclaim site and claim your badge and start sharing.
+Further Information
+Please note that these requirements may be subject to change. Students should always follow the program requirements according to the year they started their degree. For more information please visit
+previous UNSW online handbooks.
+Contact
+The Nucleus: Student Hub
+for advice.
+Tel: + 61 2 9385 8500
+Location: The Nucleus: Student Hub, Level 2, in the Main Library
+(UNSW map location F21)
+Use
+myPlan
+to plan your studies and track your progress for graduation in real time. Find out more
+here
+.
+Program Fees
+At UNSW fees are generally charged at course level and therefore dependent upon individual enrolment and other factors such as student's residency status. For generic information on fees and additional expenses of UNSW programs, click on one of the following:
+open_in_new
+Domestic Students
+open_in_new
+Commonwealth Supported Students (if applicable)
+open_in_new
+International Students
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+Campus
+Sydney
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Typical duration:
+3 Year(s)
+info
+This is the typical duration for a student who studies the program full-time. Where a range is specified, this is because there are multiple entry points to the program for different applicants according to their prior qualifications and experience. Please contact the relevant Faculty for further information.
+Delivery Mode
+Face-to-face (includes blended)
+Intake Period
+Term 1, Term 2, Term 3
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Minimum Units of Credit
+144
+AQF Level
+Level 7
+Award Type
+Bachelor
+Award(s)
+info
+Award(s): Qualification upon completion (all awards offered by UNSW are accredited by UNSW and align with the Australian Qualifications Framework).
+Bachelor of Information Systems - BIS
+UAC Code
+424500
+CRICOS Code
+068782C
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,96 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/PHYS4143
+
+Handbook - Topics in Contemporary Physics
+
+
+Handbook - Topics in Contemporary Physics
+
+Course
+print
+Print Topics in Contemporary Physics page
+_border
+Topics in Contemporary Physics
+PHYS4143
+12 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+This course is only available to students enrolled in the School of Physics Honours Program, and the School’s Honours Coordinator must approve enrolment. Students will be offered four lecture modules and are required to take two of their choosing. The modules cover the topics of 1) general relativity; 2) quantum… For more content click the Read More button below.
+This course is only available to students enrolled in the School of Physics Honours Program, and the School’s Honours Coordinator must approve enrolment.
+Students will be offered four lecture modules and are required to take two of their choosing. The modules cover the topics of 1) general relativity; 2) quantum field theory; 3) astrophysics; and 4) quantum matter, information and computing.
+1) This first course in General Relativity will provide an introduction to non-Euclidean geometry, Einstein’s equation; spherically symmetric solutions of Einstein’s equations (Schwarzschild solution), the weak field limit; Gravitational collapse, black holes; linearised gravity, gravitational waves and their production and observation; Friedmann-Lemaitre-Robertson-Walker cosmology, the standard hot Big Bang model.
+2) The quantum field theory framework combines special relativity and quantum mechanics to explain the subatomic structure of matter and the physics of the early universe. In condensed matter physics, it provides a quantum description of many-body systems. This first course in QFT comprises an introduction to classical field theory, the Euler-Lagrange equations and Noether’s theorem, the Dirac and Klein-Gordon equations, the quantisation of free scalar, vector and spinor fields; and a selection of topics other relevant topics.
+3) The Advanced Astrophysics module develops in-depth knowledge of topics in modern Astrophysics and equips students with a modern toolset to engage in cutting-edge research. Students obtain a core understanding of the physics of relevant equations and develop fundamental physics intuition.
+4) Quantum Matter, Information and Computing will introduce students to selected topics relevant to modern condensed matter physics and to the development of quantum computation. Specific topics include topological effects in materials including the Quantum Hall effect, physical implementations of quantum computing, and quantum error correction.
+Students who are approved for Honours will need to enrol in this course in Term 2. This course constitutes 12 UoC out of a total of 24 UoC coursework in the Physics Honours structure. There is also a total of 24 UoC of Honours research project work to be completed over the year.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: PHYS4141 and PHYS4142
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+7 hrs/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Physics
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+010301 Physics
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

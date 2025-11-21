@@ -1,0 +1,246 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/FOODB1
+
+Handbook - Food Engineering
+
+
+Handbook - Food Engineering
+
+Specialisation
+print
+Print Food Engineering page
+_border
+Food Engineering
+FOODB1
+96 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Specialisation Structure
+Overview
+Food engineers develop and design large-scale technologies that can produce tonnes of foods per hour to provide healthy and nutritious foods for the world population. As a food engineer, you are responsible that food and drink products are of high quality, safe, and healthy, working towards the United Nations Sustainable… For more content click the Read More button below.
+Food engineers develop and design large-scale technologies that can produce tonnes of foods per hour to provide healthy and nutritious foods for the world population. As a food engineer, you are responsible that food and drink products are of high quality, safe, and healthy, working towards the United Nations Sustainable Development Goals (UN SDGs) to improve global food systems, reduce their impact on global warming and optimize the use of water and energy. Your knowledge of chemical engineering, chemical product engineering or manufacturing engineering brings valuable skills to transform the food industry, allowing you to effectively scale food production while ensuring that our food supports and improves both individual and planetary health. You will work with food scientists, food technologists, nutrition professionals, product developers and marketers to innovate and develop new food products and processes. Food processing at scale requires the understanding of the core subjects from your engineering Honours stream, while also understanding the biological complexities of foods. Foods are perishable having a certain shelf life, they are ingested with the purpose of nourishment and enjoyment – so processing must retain, or enhance, their nutritional characteristics. As a graduate from this stream, you will be a sought-after professional who can excel in food manufacturing, with unique skills, able to lead multidisciplinary teams that work towards nourishing the world’s growing population.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Demonstrate knowledge and expertise in the use of the methods, tools and ideas from biology, chemistry, mathematics, physics, and computing that underpin food engineering.
+keyboard_arrow_down
+2.
+Solve engineering problems in the processing and development of food and drink products by competent application of technical knowledge in areas including biochemistry, chemistry, microbiology, nutrition, analytical chemistry, colloids, complex fluids, thermodynamics, fluid mechanics, transport phenomena, process technology, and automation.
+keyboard_arrow_down
+3.
+Use systems thinking to guide engineering practice, including articulating constraints on product or process design, analysing competitive intellectual property to identify opportunities in markets and technologies, and providing a basis for product scale-up and manufacturing.
+keyboard_arrow_down
+4.
+Use appropriate resources, including research data, to analyse food product characteristics, create quantifiable product benchmarks, develop sustainable, holistic approaches while dealing with uncertainty and solving complex food engineering problems with actual social and environmental contexts.
+keyboard_arrow_down
+5.
+Communicate complex multidisciplinary ideas effectively and professionally through a range of media to diverse audiences within and outside of food engineering.
+keyboard_arrow_down
+6.
+Conduct themselves professionally, ethically, and respectfully, being accountable as an individual, as members of teams, and as a leader of teams, while recognising the social and environmental obligations of food engineers.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Specialisation Structure
+Students must complete 96 UOC.
+Expand all
+Level 1 Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+One of the following:
+keyboard_arrow_down
+arrow_forward
+CHEM1811
+6 UOC
+Engineering Chemistry 1A
+OR
+arrow_forward
+CHEM1011
+6 UOC
+Chemistry 1A: Atoms, Molecules and Energy
+One of the following:
+keyboard_arrow_down
+arrow_forward
+CHEM1821
+6 UOC
+Engineering Chemistry 1B
+OR
+arrow_forward
+CHEM1021
+6 UOC
+Chemistry 1B: Elements, Compounds and Life
+Level 2 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+CHEM2921
+6 UOC
+Food Chemistry
+One of the following:
+keyboard_arrow_down
+arrow_forward
+CEIC2001
+6 UOC
+Fluid and Particle Mechanics
+OR
+arrow_forward
+ENGG2500
+6 UOC
+Fluid Mechanics for Engineers
+One of the following:
+keyboard_arrow_down
+arrow_forward
+CEIC2002
+6 UOC
+Heat and Mass Transfer
+OR
+arrow_forward
+MMAN2700
+6 UOC
+Thermodynamics
+Level 3 Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+FOOD3010
+6 UOC
+Food Products and Ingredients Technology
+arrow_forward
+FOOD3020
+6 UOC
+Food Properties and Functions Laboratory
+arrow_forward
+FOOD3030
+6 UOC
+Food Safety and Quality Assurance
+arrow_forward
+FOOD3801
+6 UOC
+Unit Operations in Food Processing
+Level 4 Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses.
+arrow_forward
+FOOD4450
+6 UOC
+Industry Applications of Food Processing Unit Operations
+arrow_forward
+CEIC6711
+6 UOC
+Complex Fluids Microstructure and Rheology
+Discipline (Depth) Electives
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+FOOD1120
+6 UOC
+Food Science, Society and Sustainability
+arrow_forward
+FOOD2320
+6 UOC
+Food Microbiology
+arrow_forward
+FOOD3220
+6 UOC
+Nutrition
+arrow_forward
+FOOD4104
+6 UOC
+Food and Health Security
+arrow_forward
+FOOD4110
+6 UOC
+Advanced Food Chemistry
+arrow_forward
+FOOD4403
+6 UOC
+Advanced Nutrition
+arrow_forward
+FOOD9102
+6 UOC
+Sensory Analysis of Foods
+arrow_forward
+BIOC2201
+6 UOC
+Principles of Molecular Biology (Advanced)
+arrow_forward
+CHEM2041
+6 UOC
+Analytical Chemistry: Essential Methods
+arrow_forward
+MICR2011
+6 UOC
+Microbiology 1
+On of the following:
+keyboard_arrow_down
+arrow_forward
+BIOC2101
+6 UOC
+Principles of Biochemistry (Advanced)
+OR
+arrow_forward
+BIOC2181
+6 UOC
+Fundamentals of Biochemistry
+Information Rule
+keyboard_arrow_down
+CEICDH Major Combination - 3773:
+Students in a CEICDH Chemical Product Engineering major already complete CEIC6711 and should take FOOD2320 instead.
+Recommended Electives
+Students are recommended to take FOOD1120, FOOD2320 and FOOD4110 as elective courses. It is highly recommended that students use the Free Elective courses to take additional discipline electives either from their primary engineering stream or from this Food Engineering stream.
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Chemical Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+96
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

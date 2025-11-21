@@ -1,0 +1,50 @@
+URL: https://www.handbook.unsw.edu.au/search?appliedFilters=eyJzZWFyY2giOnsiZXMiOnsicXVlcnkiOnsiYm9vbCI6eyJmaWx0ZXIiOlt7InRlcm1zIjp7ImNvbnRlbnR0eXBlIjpbInVuc3dQcm9kX3BzdWJqZWN0Il19fSx7InRlcm0iOnsibGl2ZSI6dHJ1ZX19XSwibXVzdCI6W3sicXVlcnlfc3RyaW5nIjp7ImZpZWxkcyI6WyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlIl0sInF1ZXJ5IjoiRERFUzExKiJ9fSx7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3QuaW1wbGVtZW50YXRpb25ZZWFyIl0sInF1ZXJ5IjoiMjAyNiJ9fSx7InF1ZXJ5X3N0cmluZyI6eyJmaWVsZHMiOlsidW5zd1Byb2RfcHN1YmplY3Quc3R1ZHlMZXZlbFZhbHVlIl0sInF1ZXJ5IjoiKnVncmQqIn19XX19LCJzb3J0IjpbeyJ1bnN3UHJvZF9wc3ViamVjdC5jb2RlX2RvdHJhdyI6ImFzYyJ9XSwiZnJvbSI6MCwic2l6ZSI6MTV9LCJwcmVmaXgiOiJ1bnN3UHJvZF9wIn0sImRlc2NyaXB0aW9uIjoiQW55IGNvdXJzZSBtYXRjaGluZyB0aGUgcGF0dGVybiBEREVTMTF4eCIsInZlcnNpb24iOiIyMDI2LjAxQVIiLCJjb2RlIjoiRERFU0IyIiwidGl0bGUiOiJJbnRlZ3JhdGVkIERlc2lnbiIsInJ1bGVJZCI6IjU5ZGUyZjBkOTNiNzIyMTBkNDVjYjJlYTZhYmExMDEzIiwic291cmNlVVJMIjoiL3VuZGVyZ3JhZHVhdGUvc3BlY2lhbGlzYXRpb25zLzIwMjYvRERFU0IyIiwic291cmNlVVJMVGV4dEtleSI6ImNzX3dpbGRjYXJkX3NvdXJjZV9iYWNrX2xpbmt0ZXh0Iiwic291cmNlVHlwZSI6IlVuZGVyZ3JhZHVhdGUgTWlub3IifQ==
+
+UNSW Handbook
+
+
+UNSW Handbook
+
+Handbook
+arrow_back
+Return to the owning Undergraduate Minor
+search
+
+Any course matching the pattern DDES11xx
+
+DDES1101 Studio 2: Design and Identity
+ Paddington
+_border
+DDES1110 3D Visualisation 1: 3D Virtual Objects
+ Paddington
+_border
+DDES1120 Object 1: Objects and the Hand
+ Paddington
+_border
+DDES1130 Experience 1: Spaces and Senses
+ Paddington
+_border
+DDES1140 Graphics 1: Image and Type
+ Paddington
+_border
+DDES1150 Interaction 1: Principles and Practices
+ Paddington
+_border
+DDES1160 Textiles 1: Concepts and Context
+ Paddington
+_border
+DDES1170 Fashion 1: Designing Fashion
+ Paddington
+_border
+keyboard_arrow_left
+keyboard_arrow_left
+keyboard_arrow_left
+1
+keyboard_arrow_right
+keyboard_arrow_right
+keyboard_arrow_right
+Show per page
+20
+10
+20
+50

@@ -1,0 +1,325 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/BIOMMH
+
+Handbook - Biomedical Engineering
+
+
+Handbook - Biomedical Engineering
+
+Specialisation
+print
+Print Biomedical Engineering page
+_border
+Biomedical Engineering
+BIOMMH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Imagine using engineering skills to create solutions that improve people’s health! That’s what Biomedical Engineering is all about. It’s a field where engineering principles meet biological and medical sciences to innovate and enhance healthcare solutions, making patient care more effective. In this specialisation, you’ll have the chance to design and… For more content click the Read More button below.
+Imagine using engineering skills to create solutions that improve people’s health! That’s what Biomedical Engineering is all about. It’s a field where engineering principles meet biological and medical sciences to innovate and enhance healthcare solutions, making patient care more effective.
+In this specialisation, you’ll have the chance to design and develop medical devices and health technologies. These are the tools clinicians use for diagnosing, treating, and monitoring health conditions. You’ll get to explore cutting-edge healthcare solutions like imaging systems (think X-rays and MRIs), prosthetics (artificial limbs), biocompatible materials (stuff that can safely be used in the body), and diagnostic instruments.
+Biomedical Engineering is a mix of different fields. So, you’ll need to understand both engineering and biological sciences. You’ll work closely with healthcare providers, using your broad knowledge to create better healthcare solutions.
+Our program gives you a solid foundation in core engineering principles. But we also go deeper into how these principles apply to biomedical challenges. Plus, you’ll get to interact and work with clinical and industry professionals at the Randwick Health Innovation Precinct. It’s a great way to see how what you’re learning applies to the real world.
+And speaking of the real world, we want to make sure you’re ready for it. That’s why our students complete 60 days of approved industry training. This gives you practical, hands-on experience and prepares you for a successful career in Biomedical Engineering. So, are you ready to use engineering to make a difference in healthcare?
+The Biomedical Engineering specialisation will be seeking provisional accreditation with Engineers Australia at the level of Professional Engineer in 2026.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Use methods, tools and ideas from mathematics, physics, chemistry, biology and computer science to solve complex biomedical engineering problems, employing both analytical and computational tools in a real-world context.
+keyboard_arrow_down
+2.
+Evaluate current research findings and industry best practices to address multifaceted problems in Biomedical Engineering, considering both technological advancements and clinical implications.
+keyboard_arrow_down
+3.
+Design and implement innovative biomedical technologies and systems, ensuring they meet safety, effectiveness and efficacy requirements using critical assessment methods and standards.
+keyboard_arrow_down
+4.
+Apply ethical and professional judgement in the practice of Biomedical Engineering for sustainable and responsible solutions in healthcare.
+keyboard_arrow_down
+5.
+Apply communication strategies to engage effectively with diverse audiences within and beyond the Biomedical Engineering field.
+keyboard_arrow_down
+6.
+Implement project management tools and processes to the planning and execution of project work to a professional standard.
+keyboard_arrow_down
+7.
+Evaluate personal development of learning through reflection on feedback to enhance the quality and impact of work.
+keyboard_arrow_down
+8.
+Collaborate effectively with others to achieve a common objective or fulfil a common project and reflect critically on the process and the outcomes.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+BIOM1500
+6 UOC
+Musculoskeletal Biomechanics
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+ELEC1111
+6 UOC
+Electrical Circuit Fundamentals
+arrow_forward
+ENGG1811
+6 UOC
+Computing for Engineers
+arrow_forward
+MATS1101
+6 UOC
+Engineering Materials and Chemistry
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+One of the following
+keyboard_arrow_down
+arrow_forward
+PHYS1121
+6 UOC
+Physics 1A
+OR
+arrow_forward
+PHYS1131
+6 UOC
+Higher Physics 1A
+Level 2 Core Courses
+48 Units of Credit:
+keyboard_arrow_down
+Students must take 48 UOC of the following courses.
+Level 2 Core Courses
+keyboard_arrow_down
+arrow_forward
+BIOM2300
+6 UOC
+Biomaterials and Cell Technologies
+arrow_forward
+BIOM2600
+6 UOC
+Bioelectronics and Physiological Measurement
+arrow_forward
+BIOM2601
+6 UOC
+Biomedical Instrumentation
+arrow_forward
+BIOM2700
+6 UOC
+Biomedical Data Analysis
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+MATH2089
+6 UOC
+Numerical Methods and Statistics
+arrow_forward
+PHSL2121
+6 UOC
+Principles of Physiology A
+One of the following
+keyboard_arrow_down
+arrow_forward
+MATH2018
+6 UOC
+Engineering Mathematics 2D
+OR
+arrow_forward
+MATH2019
+6 UOC
+Engineering Mathematics 2E
+Level 3 Core Courses
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+arrow_forward
+BIOM3000
+6 UOC
+Health Technology Innovation
+arrow_forward
+BIOM3001
+6 UOC
+Biocompatibility
+arrow_forward
+BIOM3300
+6 UOC
+Mechanics of Biomaterials
+arrow_forward
+BIOM3500
+6 UOC
+Mechanics of the Human Body
+arrow_forward
+BIOM3600
+6 UOC
+Biosensors
+Level 4 Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+BIOM4951
+4 UOC
+Research Thesis A
+arrow_forward
+BIOM4952
+4 UOC
+Research Thesis B
+arrow_forward
+BIOM4953
+4 UOC
+Research Thesis C
+arrow_forward
+BIOM9410
+6 UOC
+Regulatory Requirements of Biomedical Technology
+arrow_forward
+BIOM9711
+6 UOC
+Modelling Organs, Tissues and Devices
+Discipline Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+BIOM9027
+6 UOC
+Medical Imaging
+arrow_forward
+BIOM9311
+6 UOC
+Mass Transfer in Medicine
+arrow_forward
+BIOM9333
+6 UOC
+Cellular and Tissue Engineering
+arrow_forward
+BIOM9450
+6 UOC
+Biomedical and Health Informatics
+arrow_forward
+BIOM9551
+6 UOC
+Rehabilitation Engineering and Assistive Technology
+arrow_forward
+BIOM9621
+6 UOC
+Biological Signal Analysis
+arrow_forward
+BIOM9660
+6 UOC
+Bionics and Neuromodulation
+arrow_forward
+BIOM9701
+6 UOC
+Dynamics of the Cardiovascular System
+arrow_forward
+BIOM9811
+6 UOC
+Applications of Light in Engineering, Technology and the Life Sciences
+arrow_forward
+BIOM9910
+6 UOC
+Health Technology Innovation: Clinical Immersion
+arrow_forward
+BIOM9920
+6 UOC
+Health Technology Innovation: Healthcare Solutions
+arrow_forward
+CEIC6712
+6 UOC
+Pharmaceutical Design and Engineering
+arrow_forward
+MATS4019
+6 UOC
+Materials and Processes for Biomedical Applications
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+Graduate School of Biomedical Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

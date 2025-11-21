@@ -1,0 +1,128 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/AVIAC2
+
+Handbook - Aviation Data Analytics
+
+
+Handbook - Aviation Data Analytics
+
+Specialisation
+print
+Print Aviation Data Analytics page
+_border
+Aviation Data Analytics
+AVIAC2
+24 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Learning Outcomes
+Available in Program(s)
+Specialisation Structure
+Overview
+Data analysis enables modern aviation corporates to make informed decisions. With the increasing demand for data analytics skills and data analysis techniques in the aviation industry, this specialisation allows students to obtain data science knowledge and data analytics skills in the Aviation Programme. In particular, four specialised courses are provided… For more content click the Read More button below.
+Data analysis enables modern aviation corporates to make informed decisions. With the increasing demand for data analytics skills and data analysis techniques in the aviation industry, this specialisation allows students to obtain data science knowledge and data analytics skills in the Aviation Programme. In particular, four specialised courses are provided to equip students with technical skills to analyse qualitative, quantitative, and large datasets in the big-data era. Building on the fundamental statistical course in the first year of the Aviation Programme, this specialisation provides two stage-two courses to introduce research methods for analysing quantitative and qualitative data in aviation. Machine-Learning (ML) based models are taught to equip students with data science knowledge and Python programming skills in order to handle big data and data modeling in the operations of airlines and airports.
+Two stage-three courses are provided to equip students with advanced skills in handling flight operations-related data. This knowledge and skill to analyse flight operations data enable students to solve operation-related challenges in the airline industry such as aircraft fault prediction, aircraft maintenance scheduling, aircraft routing for maintenance, and aircraft parts inventory. Artificial Intelligence (AI) based models are taught to equip students with an advanced understanding of AI theories and skills to build AI-based data analytic models in solving industrial problems. This includes using large data sets to conduct time-series analysis, seasonality analysis of passenger demand, and anomaly detection in operations and aircraft maintenance. Both data science theories and scenario-based tutorials will be provided to students with hands-on experience in solving industry-oriented problems.
+Read More
+about Overview
+Learning Outcomes
+Expand all
+1.
+Explore and investigate aviation big data to generate business intelligence for decision making including customer behaviour, market demand analysis, operations efficiency and asset utilisation in aviation.
+keyboard_arrow_down
+2.
+Apply critical thinking and specialised aviation knowledge for interpreting qualitative and quantitative data to analyse current and future market demands, improve planning and strategically align decision-making.
+keyboard_arrow_down
+3.
+Undertake data analysis and modelling to monitor, interpret, synthesise and strategically improve key performance drivers relevant to the airline industry including operational, commercial, social and environmental areas.
+keyboard_arrow_down
+4.
+Create Machine-Learning (ML) and Artificial Intelligence (AI) based models to test hypotheses and develop solutions to problems in the aviation industry.
+keyboard_arrow_down
+5.
+Effectively communicate results and recommendations from an analytical process to stakeholders using clear and appropriate language in both written and oral forms.
+keyboard_arrow_down
+Graduate Capabilities
+For more information on Graduate Capabilities please click on this
+link
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Aviation - BAv
+3981 - Aviation (Management)
+keyboard_arrow_down
+Faculty:
+Faculty of Science
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 24 UOC
+Expand all
+Level 2 Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses
+arrow_forward
+AVIA2601
+6 UOC
+Aviation Operations Research
+arrow_forward
+AVIA2610
+6 UOC
+Quantitative and Qualitative Research Methods in Aviation
+Level 3 Core Courses
+12 Units of Credit:
+keyboard_arrow_down
+Students must take 12 UOC of the following courses
+arrow_forward
+AVIA3601
+6 UOC
+Flight Data Analytics
+arrow_forward
+AVIA3610
+6 UOC
+Aviation Data Modelling
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Science
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Aviation
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+24
+Specialisation Type
+info
+Minor: A specified field of study within a discipline or sub-discipline, smaller in size and scope than a major.
+Minor
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

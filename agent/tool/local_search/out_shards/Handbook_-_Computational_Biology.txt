@@ -1,0 +1,129 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/BINFBH
+
+Handbook - Computational Biology
+
+
+Handbook - Computational Biology
+
+Specialisation
+print
+Print Computational Biology page
+_border
+Computational Biology
+BINFBH
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Computational Biology is the science of using biological data to develop algorithms and relations among various biological systems. The field draws on a range of computing disciplines including algorithms, databases, machine learning and big data for the purpose of developing methods to better analyse data from biology, and especially genomics.… For more content click the Read More button below.
+Computational Biology is the science of using biological data to develop algorithms and relations among various biological systems. The field draws on a range of computing disciplines including algorithms, databases, machine learning and big data for the purpose of developing methods to better analyse data from biology, and especially genomics. Honours in Computational Biology allows graduates from the BSc (Bioinformatics) to deepen their study of computer science and computational methods and apply these to a bioinformatics research project in the School of Computer Science and Engineering.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Science (Honours) - BSc (Hons)
+4515 - Computer Science & Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+48
+Typical duration:
+1 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 48 UOC.
+Expand all
+Thesis
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP4961
+6 UOC
+Computer Science Thesis A
+arrow_forward
+COMP4962
+6 UOC
+Computer Science Thesis B
+arrow_forward
+COMP4963
+6 UOC
+Computer Science Thesis C
+Coursework
+30 Units of Credit:
+keyboard_arrow_down
+Students must take at least 30 UOC of the following courses.
+any level 4 Computer Science course
+keyboard_arrow_down
+open_in_new
+any level 4 Computer Science course
+any level 4 Bioinformatics course
+keyboard_arrow_down
+open_in_new
+any level 4 Bioinformatics course
+any level 6 Computer Science course
+keyboard_arrow_down
+open_in_new
+any level 6 Computer Science course
+any level 9 Computer Science course
+keyboard_arrow_down
+open_in_new
+any level 9 Computer Science course
+One of the following:
+keyboard_arrow_down
+arrow_forward
+COMP3821
+6 UOC
+Extended Algorithm Design and Analysis
+OR
+arrow_forward
+COMP3891
+6 UOC
+Extended Operating Systems
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+48
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,90 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/plans/2018/MATHT13970.html
+
+UNSW Handbook Stream - Statistics - MATHT13970
+
+
+UNSW Handbook Stream - Statistics - MATHT13970
+Statistics - MATHT13970
+Stream Summary
+Faculty:
+SCI - Faculty of Science
+School:
+School of Mathematics and Statistics
+Contact:
+http://www.maths.unsw.edu.au/
+Program:
+3970 - Science
+Award(s):
+Bachelor of Science (Major)
+Stream Outline
+The major in Statistics has been designed to ensure that graduates are well trained in three key areas: probability and stochastic processes, statistical inference and modelling, and modern statistical computing methods. Third year electives allow students to further develop their statistical capabilities according to their own interests. Computing has become firmly entrenched in modern Statistics and our courses take full advantage of our excellent computing facilities. This will only enhance the portfolio of skills that students bring to their career.
+Stream Structure
+A major in Statistics is comprised of 60 UOC of courses as follows:
+Stage 1
+MATH1131 Mathematics 1A
+(6 UOC)
+or
+MATH1141 Higher Mathematics 1A
+(6 UOC)
+MATH1231 Mathematics 1B
+(6 UOC)
+or
+MATH1241 Higher Mathematics 1B
+(6 UOC)
+Students are also recommended to take
+MATH1081 Discrete Mathematics
+(6UOC)
+Stage 2
+MATH2011 Several Variable Calculus
+(6 UOC)
+or
+MATH2111 Higher Several Variable Calculus
+(6 UOC)
+MATH2501 Linear Algebra
+(6 UOC)
+or
+MATH2601 Higher Linear Algebra
+(6 UOC)
+MATH2801 Theory of Statistics
+(6 UOC)
+or
+MATH2901 Higher Theory of Statistics
+(6 UOC)
+MATH2831 Linear Models
+(6 UOC)
+or
+MATH2931 Higher Linear Models
+(6 UOC)
+Stage 3
+MATH3801 Probability & Stochastic Processes
+(6 UOC)
+or
+MATH3901 Higher Probability & Stochastic Processes
+(6 UOC)
+MATH3811 Statistical Inference
+(6 UOC)
+or
+MATH3911 Higher Statistical Inference
+(6 UOC)
+MATH3821 Stat Modelling & Computing
+(6 UOC)
+PLUS one of the following courses:
+MATH3831 Stats in Social & Market Resch
+(6 UOC)
+MATH3841 Stats of Dependent Data
+(6 UOC)
+MATH3851 Exp Design & Categorical Data
+(6 UOC)
+MATH3871 Bayesian Inference and Comp
+(6 UOC)
+Notes
+Many courses in Mathematics are offered at two levels. The higher level courses cater for students with greater mathematical ability and/or a higher level of prior knowledge. Students with suitable qualifications are encouraged to enrol in the higher level courses.
+Students who are completing the Bachelor Science (majoring in Statistics) in concurrent mode with a Bachelor of Engineering will need to substitute some level II courses in the Engineering program. For more information see this document:
+Mathematics in BE BSc Programs
+or contact the
+School of Mathematics and Statistics
+.
+Honours
+For further information on Honours in Statistics, please see the
+Statistics Honours
+entry in this Handbook.

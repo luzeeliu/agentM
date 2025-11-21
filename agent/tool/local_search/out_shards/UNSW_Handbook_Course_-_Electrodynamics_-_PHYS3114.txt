@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS3114.html
+
+UNSW Handbook Course -  Electrodynamics - PHYS3114
+
+
+UNSW Handbook Course -  Electrodynamics - PHYS3114
+Electrodynamics - PHYS3114
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+School of Physics
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: (PHYS2114 or PHYS2210) and PHYS2113. Exclusion: PHYS3011
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Classical electrodynamics is important from both the fundamental and applied viewpoints. This course aims to provide students with an introduction to the principles and behaviours of dynamical electric and magnetic systems, and a theoretical foundation in classical field theory. The course will begin with the application of electromagnetic theory to study optical phenomena, before moving on to more formal topics. It will finish with an introduction to relativistic electrodynamics and its covariant formulation, paving the way for a quantum field theory of electrodynamics (QED). Topics to be covered include: Scalar diffraction theory. Image formation and Fourier Optics, Coherence. Electromagnetic fields in dispersive media. Scattering. Maxwell’s equations potential formulation. Gauge transformation. Poynting’s theorem, conservation laws. Green’s function solution of static problems. Inhomogeneous wave equation and Green’s function solution. Dipole radiation. Emission of radiation from accelerating and decelerating charges. Relativistic electrodynamics. Covariant formulation.

@@ -1,0 +1,91 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/ELEC3111
+
+Handbook - Distributed Energy Generation
+
+
+Handbook - Distributed Energy Generation
+
+Course
+print
+Print Distributed Energy Generation page
+_border
+Distributed Energy Generation
+ELEC3111
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+Distributed energy generation is developing into a significant market in the generation, distribution and utilisation of electrical energy. It includes local fossil fuel-derived energy sources, for example, co-generation from liquefied natural gas, renewable energy sources, such as wind and hydro, and low-carbon hybrid energy systems that combine energy sources from… For more content click the Read More button below.
+Distributed energy generation is developing into a significant market in the generation, distribution and utilisation of electrical energy. It includes local fossil fuel-derived energy sources, for example, co-generation from liquefied natural gas, renewable energy sources, such as wind and hydro, and low-carbon hybrid energy systems that combine energy sources from more than one energy source, whether renewable or fossil-fuelled. This course will equip you with the fundamental technical and economic processes and drivers at play in the electrical power industry.
+Issues that will be covered include the basics of distribution network modelling, the different types of distributed energy sources utilised (combined heat and power, wind, hydro, photovoltaics, energy storage) and how they are integrated onto the electrical grid, the impact of the integration of such sources on the fundamental operation of the distribution and transmission networks, and how distributed generation is impacting on the development and operation of market frameworks.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: ELEC2134
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+6
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Electrical Engineering & Telecommunications
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+031301 Electrical Engineering
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

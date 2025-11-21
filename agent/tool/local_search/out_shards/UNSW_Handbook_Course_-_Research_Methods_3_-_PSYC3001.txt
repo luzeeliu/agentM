@@ -1,0 +1,35 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PSYC3001.html
+
+UNSW Handbook Course - Research Methods 3 - PSYC3001
+
+
+UNSW Handbook Course - Research Methods 3 - PSYC3001
+Research Methods 3 - PSYC3001
+Faculty:
+Faculty of Science
+School:
+School of Psychology
+Course Outline:
+http://www.psy.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: PSYC2001
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Analysis of variance for single factor and multifactor designs. MANOVA model analyses of repeated measures data. Simultaneous inference procedures for contrasts defined on parameters of ANOVA and MANOVA models. General principles of experimental design. Analysing experimental data with the PSY program.

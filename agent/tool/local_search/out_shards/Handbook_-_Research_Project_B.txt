@@ -1,0 +1,114 @@
+URL: https://www.handbook.unsw.edu.au/postgraduate/courses/2026/COMP9992
+
+Handbook - Research Project B
+
+
+Handbook - Research Project B
+
+Course
+print
+Print Research Project B page
+_border
+Research Project B
+COMP9992
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Additional Enrolment Constraints
+Exclusion Courses
+Delivery
+Overview
+Students who have completed COMP9991 in their penultimate term of study in MIT (8543) and achieved a mark of at least 75 have the option to, in their last term of study, complete COMP9992. Unless they scored at least 85 in COMP9991, they do not have the option to select… For more content click the Read More button below.
+Students who have completed COMP9991 in their penultimate term of study in MIT (8543) and achieved a mark of at least 75 have the option to, in their last term of study, complete COMP9992. Unless they scored at least 85 in COMP9991, they do not have the option to select COMP9993. Also, rather than following up with COMP9992, they can instead enrol in COMP9990, would they wish so, or would they have to in case they scored less than 75 in COMP9991. The supervisor will make sure that the project is possibly restricted so it is equivalent to completing 1 standard course, in particular in the case of a student who is eligible to enrol in COMP9993 but who prefers to follow up with COMP9992.
+COMP9992 is expected to require a workload that is roughly equivalent to that of one standard course, but a research project being more open ended and tackled by very motivated students, it might turn out to be more time consuming.
+Meeting the expectations of COMP9991 + COMP9992, or even better, exceeding them with a piece of work that can result in a conference or journal publication, can make applications for a research degree stronger. COMP9991 has also been appealing to students who wanted to modestly improve on the state of the art in a particular discipline and be exposed to the various aspects of conducting research, working on a specific problem; COMP9992 completes that journey.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: COMP9991
+Additional Enrolment Constraints
+Achieve a mark of at least 75 in COMP9991
+Achieve a mark of at least 75 in COMP9991
+Exclusion Courses
+open_in_new
+Course
+COMP9596
+COMP9596 - Research Project
+open_in_new
+Course
+COMP9900
+COMP9900 - Information Technology Project
+open_in_new
+Course
+COMP9945
+COMP9945 - Research Project
+open_in_new
+Course
+COMP9993
+COMP9993 - Research Project C
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+1
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Postgraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1, Term 2, Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020100 Computer Science
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

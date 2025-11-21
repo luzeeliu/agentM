@@ -1,0 +1,99 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/COMP4952
+
+Handbook - Research Thesis B
+
+
+Handbook - Research Thesis B
+
+Course
+print
+Print Research Thesis B page
+_border
+Research Thesis B
+COMP4952
+4 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Course Attributes
+Delivery
+Overview
+The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow… For more content click the Read More button below.
+The thesis provides an opportunity for you to bring together engineering principles learned over the previous years of study, and apply these principles to innovatively solve problems, which may include the development of specific designs and/or the investigation of various research hypotheses. Thesis projects are complex, open-ended problems that allow room for your creativity, and the acquisition, analysis, and interpretation of results. Typically, the project you work with will have multiple possible solutions or conclusions and sufficient complexity to require a degree of project planning. The thesis requires you to formulate problems in engineering terms, manage an engineering project and find solutions by applying engineering methods. You will also develop an ability to work in a research and development environment.
+Through the thesis, you will put into practice the knowledge and skills that you've learned in your study up to this point. You do this by investigating a research topic, developing a significant software/hardware system, or some combination of these.
+Undergraduate theses consist of a single piece of work spread over three courses: Part A, Part B and Part C.
+Thesis B is a continuation of Thesis A. By the end of Thesis A, you are expected to have identified a research and/or development gap and have planned out the technical work to be carried out for Thesis B and Thesis C. In Thesis B, you will carry out the technical work that you have planned out in Thesis A. At the end of Thesis B, you will evaluate the progress of your work, and revise the work plan to be carried out in Thesis C based on your findings and progress in Thesis B.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: COMP4951
+Course Attributes
+Expand all
+Multi-Term Course
+keyboard_arrow_down
+This course is taught across multiple terms or is a member of a group of courses taken across multiple terms. In either case a final grade is withheld until the final course is completed.
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+1
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1, Term 2, Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020199 Computer Science not elsewhere classified
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

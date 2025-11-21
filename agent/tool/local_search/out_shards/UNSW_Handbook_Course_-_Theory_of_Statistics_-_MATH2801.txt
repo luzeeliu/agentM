@@ -1,0 +1,37 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/MATH2801.html
+
+UNSW Handbook Course - Theory of Statistics - MATH2801
+
+
+UNSW Handbook Course - Theory of Statistics - MATH2801
+Theory of Statistics - MATH2801
+Faculty:
+Faculty of Science
+School:
+School of Mathematics and Statistics
+Course Outline:
+http://www.maths.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+5
+Enrolment Requirements:
+Prerequisite: MATH1231 or MATH1241 or MATH1251 (or enrolment in program 3653 Software Engineering / Commerce and completion of either MATH1131 or MATH1141). Exclusion: CVEN2002, CVEN2025, CVEN2702, ECON2215, ECON1203
+Excluded:
+BEES2041, MATH2089, MATH2099, MATH2859, MATH2901
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+Probability, random variables, standard distributions, bivariate distributions, transformations, central limit theorem, sampling distributions, point estimation, interval estimation, hypothesis testing.

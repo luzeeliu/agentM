@@ -1,0 +1,101 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MARK3087
+
+Handbook - Customer Analytics
+
+
+Handbook - Customer Analytics
+
+Course
+print
+Print Customer Analytics page
+_border
+Customer Analytics
+MARK3087
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Course Attributes
+Delivery
+Overview
+The constantly increasing availability of customer data offers great opportunities to gain managerial insights for attracting new customers and developing and maintaining relationships with existing customers. This course will equip you with the knowledge required to use data to inform customer relationship management (CRM) practices in order to increase their… For more content click the Read More button below.
+The constantly increasing availability of customer data offers great opportunities to gain managerial insights for attracting new customers and developing and maintaining relationships with existing customers. This course will equip you with the knowledge required to use data to inform customer relationship management (CRM) practices in order to increase their effectiveness and efficiency. You will learn how to apply state-of-the-art analytics to manage customers throughout different stages of the customer life cycle. You will also learn how to identify customer segments, forecast customer demand, target customers with marketing initiatives and adopt a value-based CRM approach. Instead of standard two hour lectures, the course uses a combination of short lecturing videos and accompanying materials and short interactive sessions. Through short online videos and accompanying materials you will be able to adapt the learning experience to your needs so that you gain general understanding of typical CRM problems and suitable methods to solve them. During short interactive sessions you will deepen this understanding through case studies, discussions, and quizzes. During lab-based tutorials, you’ll tackle real-world CRM problems exercising hands-on data analytics using R. No prior knowledge of R is needed because this course will go through R step-by-step.
+Read More
+about Overview
+Conditions for Enrolment
+Pre-requisite: ECON1203 or COMM1190 or INFS1609 or COMP2511 or MATH1041 or MATH1231 or MATH1241 or MATH1251 or MARK2052 or COMM2050/COMM3050 or COMM2501 or INFS2605 or INFS2609.
+Students with equivalent Statistics knowledge can seek pre-requisite waiver via webforms
+Course Attributes
+Expand all
+General Education
+keyboard_arrow_down
+This course is available as general education and normally taken outside the study area in which the student’s program is based. Availability of general education courses outside of the owning Faculty may be restricted by the Program Authority, usually because they are closely related to the study area of the student’s program.
+Delivery
+Expand all
+In-person -
+keyboard_arrow_down
+Delivery Mode
+In-person
+Multimodal - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+Multimodal
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Marketing
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 1, Term 2, Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+080505 Marketing
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

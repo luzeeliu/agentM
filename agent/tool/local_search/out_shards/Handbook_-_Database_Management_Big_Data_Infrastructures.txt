@@ -1,0 +1,111 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/INFS2608
+
+Handbook - Database Management & Big Data Infrastructures
+
+
+Handbook - Database Management & Big Data Infrastructures
+
+Course
+print
+Print Database Management & Big Data Infrastructures page
+_border
+Database Management & Big Data Infrastructures
+INFS2608
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Delivery
+Overview
+INFS2608 is a Level 2 Information Systems (IS) course that continues students’ study of IS by covering various advanced topics pertinent to Big Data. Building upon the principles and theoretical fundamentals taught in INFS1603, students will learn to apply data design to Big Data systems, specifically data warehousing. Through this… For more content click the Read More button below.
+INFS2608 is a Level 2 Information Systems (IS) course that continues students’ study of IS by covering various advanced topics pertinent to Big Data. Building upon the principles and theoretical fundamentals taught in INFS1603, students will learn to apply data design to Big Data systems, specifically data warehousing. Through this course students will be taught the complexities of Big Data systems through business case studies.
+Students will learn to distinguish the elements that make up Big Data and appraise the journey of building Big Data from start to finish. It is crucial for students to be able to evaluate the design and architecture of Big Data technology. This will cover emerging technologies and trends in Database Design, Data Management and Big Data.
+Students will also apply strategic thinking to enable effective data management. Situating oneself as a business person, students will practice how to navigate big data systems, make sense of the data and lastly generate insights to solve business problems.
+Through collaboration, students will look at Big Data from the perspective of a data project manager and be capable of explaining technical details to a wide range of stakeholders, in order to activate the use of data within an organisation.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: INFS1603 or COMM1822 or COMM2822 or COMP3311 or COMP9311
+Exclusion Courses
+open_in_new
+Course
+COMP9313
+COMP9313 - Big Data Management
+open_in_new
+Course
+COMP9315
+COMP9315 - Database Systems Implementation
+open_in_new
+Course
+INFS3608
+INFS3608 - Data and Information Management
+open_in_new
+Course
+INFS5926
+INFS5926 - Advanced Data Management
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Information Systems and Technology Management
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020303 Database Management
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

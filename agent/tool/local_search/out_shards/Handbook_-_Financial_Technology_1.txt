@@ -1,0 +1,327 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/FINSR1
+
+Handbook - Financial Technology
+
+
+Handbook - Financial Technology
+
+Specialisation
+print
+Print Financial Technology page
+_border
+Financial Technology
+FINSR1
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Financial Technology (FinTech) is a rapidly growing field in finance where technology is used to enhance and reimagine financial services and sometimes results in disruptive changes. The most well-known examples are payment systems (PayPal, WeChat, Bitcoin and cryptocurrency), portfolio management and Robo-advice (US, Europe, Australia), peer-to-peer lending (US, China, India… For more content click the Read More button below.
+Financial Technology (FinTech) is a rapidly growing field in finance where technology is used to enhance and reimagine financial services and sometimes results in disruptive changes. The most well-known examples are payment systems (PayPal, WeChat, Bitcoin and cryptocurrency), portfolio management and Robo-advice (US, Europe, Australia), peer-to-peer lending (US, China, India and elsewhere), high-frequency trading (global), and decentralized finance (of which Bitcoin and cryptocurrency form the foundation). Established financial services firms (BigTech) and entrepreneurs (FinTech) both demand talent in this space as FinTech products are by nature scalable and have potential for huge impact in a financial services business.
+Co-developed with financial services industry experts, this major introduces students to finance theory, financial products, markets, and institutions, then explores how big data and other technologies allow FinTech start-ups to cause consumers to shift away from traditional finance - fundamentally changing the way money is raised, transferred, stored, loaned, and invested around the world. In addition to a conceptual understanding of finance theory, financial markets, and financial services firms, students will experience FinTech courses via the Integrated Learning Laboratory (iLab). They will be able to gain personal access to financial market data platforms, handle financial market and unstructured data, learn how financial products work via the Python programming language, trade using the leading stock trading platform used by brokerage firms, and interact with practitioners.
+The Bachelor of Commerce (Financial Technology) major can be taken standalone or be taken to complement other streams of studies such as finance, information system, computer science, engineering, law, and more. It is also available as a minor for students with a constrained degree program.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Commerce - BCom
+3502 - Commerce
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Bachelor of Commerce (International) - BCom(Int)
+3558 - Commerce (International)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Actuarial Studies - BActSt
+3586 - Actuarial Studies
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Bachelor of Actuarial Studies (Co-op) - BActSt (Co-op)
+3587 - Actuarial Studies (Co-op)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 48 UOC.
+Expand all
+Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Students in Comm/Actl should complete MATH1151 or MATH1251 instead of COMM1190. All other students should complete COMM1190.
+Core Courses
+keyboard_arrow_down
+arrow_forward
+COMM1190
+6 UOC
+Data, Insights and Decisions
+arrow_forward
+FINS2618
+6 UOC
+Capital Markets and Institutions
+arrow_forward
+FINS3645
+6 UOC
+Financial Market Data Design and Analysis
+arrow_forward
+FINS3646
+6 UOC
+Toolkit for Finance
+arrow_forward
+FINS3647
+6 UOC
+Bitcoin and Decentralised Finance
+arrow_forward
+FINS3648
+6 UOC
+Banking, Finance and Technology
+One of the following:
+keyboard_arrow_down
+arrow_forward
+FINS2615
+6 UOC
+Intermediate Business Finance
+OR
+arrow_forward
+FINS2624
+6 UOC
+Portfolio Management
+OR
+arrow_forward
+FINS3623
+6 UOC
+Venture Capital
+OR
+arrow_forward
+FINS3630
+6 UOC
+Bank Financial Management
+OR
+arrow_forward
+FINS3657
+6 UOC
+AI in Finance
+Prescribed Electives
+6 Units of Credit:
+keyboard_arrow_down
+Students must take 6 UOC of the following courses.
+Students may count ONE (6 UOC) of the Work Integrated Learning or any Final Year Synthesis course towards their Financial Technology major.
+Prescribed Electives
+keyboard_arrow_down
+arrow_forward
+ACCT3563
+6 UOC
+Issues in Financial Reporting and Analysis
+arrow_forward
+FINS2622
+6 UOC
+Asia-Pacific Capital Markets
+arrow_forward
+FINS2624
+6 UOC
+Portfolio Management
+arrow_forward
+FINS2643
+6 UOC
+Wealth Management and Client Engagement
+arrow_forward
+FINS3610
+6 UOC
+Private Credit
+arrow_forward
+FINS3611
+6 UOC
+Impact Investing
+arrow_forward
+FINS3612
+6 UOC
+Valuation
+arrow_forward
+FINS3614
+6 UOC
+Asset Management
+arrow_forward
+FINS3623
+6 UOC
+Venture Capital
+arrow_forward
+FINS3625
+6 UOC
+Applied Corporate Finance
+arrow_forward
+FINS3630
+6 UOC
+Bank Financial Management
+arrow_forward
+FINS3631
+6 UOC
+Personal Risk, Insurance, and Superannuation for Financial Planning
+arrow_forward
+FINS3633
+6 UOC
+Real Estate Finance
+arrow_forward
+FINS3635
+6 UOC
+Options, Futures and Risk Management
+arrow_forward
+FINS3636
+6 UOC
+Interest Rate Risk Management
+arrow_forward
+FINS3637
+6 UOC
+Wealth Management Advice and Ethics
+arrow_forward
+FINS3640
+6 UOC
+Investment Management Modeling
+arrow_forward
+FINS3641
+6 UOC
+Security Analysis and Valuation
+arrow_forward
+FINS3644
+6 UOC
+Sustainable and Responsible Investing
+arrow_forward
+FINS3650
+6 UOC
+International Banking
+arrow_forward
+FINS3655
+6 UOC
+Behavioural Finance
+arrow_forward
+FINS3666
+6 UOC
+Trading and Market Making
+Work Integrated Learning and Final Year Synthesis Electives
+keyboard_arrow_down
+Students can take a maximum of 6 UOC from the following courses.
+For students in the Bachelor of Commerce degree these courses may satisfy the Work Integrated Learning and/or Final Year Synthesis requirements of your degree.
+arrow_forward
+ACTL3192
+6 UOC
+Retirement Saving and Spending Over the Lifecycle
+arrow_forward
+COMM2222
+6 UOC
+Industry Experience Program
+arrow_forward
+COMM2233
+6 UOC
+Industry Consulting Project
+arrow_forward
+COMM2244
+6 UOC
+Future of Work Project
+arrow_forward
+COMM3000
+6 UOC
+Evidence-based Intervention Design and Evaluation
+arrow_forward
+COMM3020
+6 UOC
+Global Business Practicum
+arrow_forward
+COMM3030
+6 UOC
+Social Entrepreneurship Practicum
+arrow_forward
+COMM3060
+6 UOC
+Regional Business Practicum
+arrow_forward
+COMM3101
+6 UOC
+Industry Experience Placement 1
+arrow_forward
+COMM3202
+6 UOC
+Industry Experience Placement 2
+arrow_forward
+COMM3900
+6 UOC
+Business Sustainability and Social Impact Capstone Project
+arrow_forward
+MGMT3004
+6 UOC
+Solving Complex Strategy and Policy Problems
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Banking and Finance
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+48
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

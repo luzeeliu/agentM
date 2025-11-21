@@ -1,0 +1,38 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/GEOS2821.html
+
+UNSW Handbook Course -  Introduction to GIS and Remote Sensing - GEOS2821
+
+
+UNSW Handbook Course -  Introduction to GIS and Remote Sensing - GEOS2821
+Introduction to GIS and Remote Sensing - GEOS2821
+Faculty:
+Faculty of Science
+School:
+School of Biological, Earth & Environmental Sciences
+Course Outline:
+http://www.bees.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+Excl: GEOG2821, GEOS2811
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+There has been a rapid growth in the use of digital spatial data in many areas of resource management and the environmental sciences. The aim of this course is to provide both a solid theoretical understanding and a comprehensive practical introduction to the use of geographic information systems and remote sensing in the analysis of digital spatial data, simple modelling using digital spatial data, and in decision support using commercially available software. Topics covered in the course provide an overview of the use of digital geographic information and earth-resource imagery for a wide range of environmental applications including geology, vegetation and forestry, agriculture, oceanographic and regional and urban analysis.
+This course will be conducted through a combination of lectures, computer laboratories and field work.
+Note:
+This course was previously offered as GEOG2821 Introduction to Geographic Information Systems.

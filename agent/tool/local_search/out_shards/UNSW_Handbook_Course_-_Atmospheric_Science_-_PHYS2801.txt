@@ -1,0 +1,39 @@
+URL: http://www.handbook.unsw.edu.au/undergraduate/courses/2018/PHYS2801.html
+
+UNSW Handbook Course - Atmospheric Science - PHYS2801
+
+
+UNSW Handbook Course - Atmospheric Science - PHYS2801
+Atmospheric Science - PHYS2801
+Faculty:
+Faculty of Science
+School:
+School of Physics
+Course Outline:
+http://www.phys.unsw.edu.au/
+Campus:
+Sydney
+Career:
+Undergraduate
+Units of Credit:
+6
+EFTSL:
+0.12500
+(more info)
+Indicative Contact Hours per Week:
+4
+Enrolment Requirements:
+(PHYS1111 or PHYS1121 or PHYS1131 or PHYS1141 or PHYS1211) and (MATH1011 or MATH1031 or MATH1131 or MATH1141 or MATH1151)
+Equivalent:
+CLIM2001
+Excluded:
+CLIM2001, PHYS2810
+CSS Contribution Charge:
+2
+(more info)
+Tuition Fee:
+See Tuition Fee Schedule
+Further Information:
+See Class Timetable
+Description
+The basic physical principles and processes which govern our atmosphere and its climate: atmospheric composition, thermodynamics of dry and moist air, stability, cloud processes, atmospheric motion and weather systems, energy transport, radiation laws, solar and terrestrial radiation, ozone formation and loss, 1D and 3D climate models and predictions, climate change. Laboratory exercises including chart analysis and computer simulations.

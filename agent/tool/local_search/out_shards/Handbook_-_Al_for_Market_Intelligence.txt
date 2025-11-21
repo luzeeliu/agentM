@@ -1,0 +1,92 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/MARK3086
+
+Handbook - Al for Market Intelligence
+
+
+Handbook - Al for Market Intelligence
+
+Course
+print
+Print Al for Market Intelligence page
+_border
+Al for Market Intelligence
+MARK3086
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Delivery
+Overview
+Artificial Intelligence (AI) and Machine Learning (ML) are transforming marketing analytics by helping marketers better predict consumer demand, segment audiences, and uncover consumer behaviours with unprecedented precision. It is imperative for the next generation of marketing analysts to have a solid understanding of these algorithms and hands-on experience applying them… For more content click the Read More button below.
+Artificial Intelligence (AI) and Machine Learning (ML) are transforming marketing analytics by helping marketers better predict consumer demand, segment audiences, and uncover consumer behaviours with unprecedented precision. It is imperative for the next generation of marketing analysts to have a solid understanding of these algorithms and hands-on experience applying them to real-world marketing analytics problems. This course will cover established ML techniques—linear models (e.g., linear and logistic regression), non-linear models (e.g., decision tree, random forest, support vector machine, neural network), and model assessment and enhancement methods (e.g., crossvalidation, regularisation, ensemble learning)—as well as recent advances in AI for natural language processing (e.g., word2vec, transformer, ChatGPT) and computer vision (e.g., convolutional neural network). Throughout the term, we will use overarching case studies and datasets to demonstrate their practical applications in marketing analytics (e.g., consumer segmentation via classification prediction, customer review analysis through text mining, and consumer demographic/behaviour inference from image data analysis). This course is designed for students interested in a career as marketing analysts in the marketing industry, providing them with practical AI and ML skills to study data-driven consumer and marketing insights.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: ECON1203 or COMM1190 or MATH1041 or MATH1231 or MATH1241 or MATH1251 or
+MARK2052.
+Students with equivalent statistics knowledge can seek a prerequisite waiver.
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+4 hours/week
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Marketing
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+080505 Marketing
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

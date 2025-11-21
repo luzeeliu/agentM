@@ -1,0 +1,289 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/COMMJ1
+
+Handbook - Business Analytics
+
+
+Handbook - Business Analytics
+
+Specialisation
+print
+Print Business Analytics page
+_border
+Business Analytics
+COMMJ1
+48 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Business Analytics equips students with the technical and non-technical skills required to produce and communicate actionable findings and insights from an organisation’s data. Students will be introduced to descriptive, predictive and prescriptive analytics for business problems, evaluating policies, and understanding the interplay between financial and non-financial data. In addition to… For more content click the Read More button below.
+Business Analytics equips students with the technical and non-technical skills required to produce and communicate actionable findings and insights from an organisation’s data. Students will be introduced to descriptive, predictive and prescriptive analytics for business problems, evaluating policies, and understanding the interplay between financial and non-financial data. In addition to statistical modelling, programming and database management skills, students will be introduced to the ethical and legal issues of using data. Business Analytics equips graduates with a holistic framework to span the bridge between business-problem owners and technical experts, and to communicate the output of analysis to improve business decision making.
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Commerce - BCom
+3502 - Commerce
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Bachelor of Economics - BEc
+3543 - Economics
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Bachelor of Commerce (Co-op) - BCom(Co-op)
+3554 - Commerce (Co-op)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Commerce (International) - BCom(Int)
+3558 - Commerce (International)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Bachelor of Actuarial Studies - BActSt
+3586 - Actuarial Studies
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+144
+Typical duration:
+3 Year(s)
+open_in_new
+Read More
+Bachelor of Actuarial Studies (Co-op) - BActSt (Co-op)
+3587 - Actuarial Studies (Co-op)
+keyboard_arrow_down
+Faculty:
+UNSW Business School
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 48 UOC.
+Students taking a combination of majors and/or minors that require COMP2511 as a core course should not take INFS2822.
+Students pursuing a double major in Business Analytics and Information Systems can complete either INFS1603 or COMM2822 as the core course and fulfill the major UOC requirement by completing an additional prescribed elective for the major.
+Students in the 3584 Bachelor of Commerce/Information Systems program who pursue a major in Business Analytics should take INFS1603 instead of COMM2822 and complete an additional Business Analytics elective course to meet the requirements of the Business Analytics major.
+Expand all
+Core Course
+30 Units of Credit:
+keyboard_arrow_down
+Students must take 30 UOC of the following courses.
+Students in Comm/Actl should complete MATH1151 or MATH1251 instead of COMM1190. All other students should complete COMM1190.
+arrow_forward
+COMM1190
+6 UOC
+Data, Insights and Decisions
+arrow_forward
+COMM2501
+6 UOC
+Data Visualisation and Communication
+arrow_forward
+COMM2822
+6 UOC
+Introduction to Databases for Business Analytics
+arrow_forward
+COMM3050
+6 UOC
+Data Use and Misuse
+arrow_forward
+COMM3501
+6 UOC
+Quantitative Business Analytics
+Prescribed Electives
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+Elective List A
+keyboard_arrow_down
+Students may take a minimum 0 UOC up to a maximum of 12 UOC of the following courses.
+arrow_forward
+ECON2206
+6 UOC
+Introductory Econometrics
+arrow_forward
+ECON2209
+6 UOC
+Business Forecasting
+arrow_forward
+INFS2608
+6 UOC
+Database Management & Big Data Infrastructures
+arrow_forward
+INFS2822
+6 UOC
+Programming for Data Analytics
+arrow_forward
+RISK2001
+6 UOC
+Fundamentals of Risk and Risk Management
+Elective List B
+6 Units of Credit:
+keyboard_arrow_down
+Students must take at least 6 UOC of the following courses.
+arrow_forward
+ECON3206
+6 UOC
+Financial Econometrics
+arrow_forward
+ECON3210
+6 UOC
+Big Data Econometrics
+arrow_forward
+INFS3822
+6 UOC
+Artificial Intelligence for Business Analytics
+arrow_forward
+INFS3830
+6 UOC
+Social Media Analytics
+arrow_forward
+MARK3054
+6 UOC
+Marketing Analytics and Big Data
+arrow_forward
+MARK3087
+6 UOC
+Customer Analytics
+arrow_forward
+MARK3088
+6 UOC
+Product Analytics
+arrow_forward
+MGMT3730
+6 UOC
+Human Capital Analytics
+arrow_forward
+RISK3003
+6 UOC
+Risk Decision Analytics
+Elective List C
+keyboard_arrow_down
+Students may take a minimum 0 UOC up to a maximum of 6 UOC of the following courses.
+arrow_forward
+ACTL3192
+6 UOC
+Retirement Saving and Spending Over the Lifecycle
+arrow_forward
+ACCT3583
+6 UOC
+Strategic Value Management
+arrow_forward
+COMM2222
+6 UOC
+Industry Experience Program
+arrow_forward
+COMM2233
+6 UOC
+Industry Consulting Project
+arrow_forward
+COMM2244
+6 UOC
+Future of Work Project
+arrow_forward
+COMM3000
+6 UOC
+Evidence-based Intervention Design and Evaluation
+arrow_forward
+COMM3020
+6 UOC
+Global Business Practicum
+arrow_forward
+COMM3030
+6 UOC
+Social Entrepreneurship Practicum
+arrow_forward
+COMM3060
+6 UOC
+Regional Business Practicum
+arrow_forward
+COMM3101
+6 UOC
+Industry Experience Placement 1
+arrow_forward
+COMM3202
+6 UOC
+Industry Experience Placement 2
+arrow_forward
+MGMT3004
+6 UOC
+Solving Complex Strategy and Policy Problems
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+UNSW Business School
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+48
+Specialisation Type
+info
+Major: A specified sequence of study in a discipline or sub discipline area within a program. More than one major may be completed within a program.
+Major
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

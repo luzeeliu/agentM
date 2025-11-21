@@ -1,0 +1,121 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/courses/2026/COMP1911
+
+Handbook - Computing 1A
+
+
+Handbook - Computing 1A
+
+Course
+print
+Print Computing 1A page
+_border
+Computing 1A
+COMP1911
+6 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Conditions for Enrolment
+Exclusion Courses
+Course Attributes
+Delivery
+Overview
+From recent innovations in AI like self-driving cars to humanoid robotics navigating complex environments, leapfrogs in battery technology to sequencing the human genome - the world is benefiting and evolving thanks to computer systems. At the core of all these systems are computers executing instructions to solve exciting problems. In… For more content click the Read More button below.
+From recent innovations in AI like self-driving cars to humanoid robotics navigating complex environments, leapfrogs in battery technology to sequencing the human genome - the world is benefiting and evolving thanks to computer systems. At the core of all these systems are computers executing instructions to solve exciting problems.
+In this course, you will learn the fundamentals of how we instruct computers to solve problems. You will explore the architecture and mechanics of how computers operate and how you can translate real-world problems to computer programs that solve these problems.
+The concepts you learn will provide a foundation for your future endeavours in computing and, we hope, will begin to change the way you think about real-world problems.
+This course is an introductory course to the basics of Computer Programming and Computer Science. It is intended as an introduction to studying further in Computer Science or related fields. Topics include:
+Fundamental programming concepts
+Introduction to Computer Science
+The C programming language and use of a C compiler
+Programming style
+Program design and organisation concepts
+Program testing and debugging
+Additional Information:
+This course is taught within COMP1511.
+Read More
+about Overview
+Conditions for Enrolment
+Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG)
+Exclusion Courses
+open_in_new
+Course
+COMP1511
+COMP1511 - Programming Fundamentals
+Course Attributes
+Expand all
+Introductory Course
+keyboard_arrow_down
+This course is usually taken in the early part of a program and may be required as a pre-requisite before taking a more advanced course.
+Delivery
+Expand all
+In-person - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+In-person
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+7
+Multimodal - Standard (usually weekly or fortnightly)
+keyboard_arrow_down
+Delivery Mode
+Multimodal
+Delivery Format
+Standard (usually weekly or fortnightly)
+Indicative Contact Hours
+7
+Please note that the above delivery information is an indication on how this course may be delivered within the year.  Delivery mode(s) for each term can be viewed on other sources such as
+myUNSW
+and
+class timetable
+site.
+This Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year. Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Offering Terms
+info
+Depending on the Academic Calendar type, an offering term generally refers to an academic teaching period of between 8-13 weeks in duration.
+Term 2, Term 3
+Campus
+Sydney
+Academic Calendar
+3+
+info
+Consists of three standard terms, each with ten weeks teaching, and an optional five week summer term.  Some programs in Medicine, AGSM, and UNSW Global have different term dates.  See the university website for details.
+Field of Education
+020103 Programming
+Timetable
+Visit timetable website for details
+Course Outline
+info
+This link will take you to UNSW Course Outline website that is first released for all faculties for 2024 academic year. Note that the Handbook publishes course information regardless of whether the course is offered (and therefore has a course outline available), or not.
+Visit Course Outline website
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC

@@ -1,0 +1,278 @@
+URL: https://www.handbook.unsw.edu.au/undergraduate/specialisations/2026/SENGAH
+
+Handbook - Software Engineering
+
+
+Handbook - Software Engineering
+
+Specialisation
+print
+Print Software Engineering page
+_border
+Software Engineering
+SENGAH
+168 Units of Credit
+You are viewing the 2026 version
+2026
+keyboard_arrow_down
+info
+Select the relevant year of handbook information you wish to view.
+Overview
+Available in Program(s)
+Specialisation Structure
+Overview
+Software Engineering is an Engineering profession concerned with the processes, methods, and tools for the design and development of high quality, reliable software systems. This involves the study and application of software specification, design, implementation, testing, and documentation of software. Target systems may range from simple software applications to mission-critical… For more content click the Read More button below.
+Software Engineering is an Engineering profession concerned with the processes, methods, and tools for the design and development of high quality, reliable software systems. This involves the study and application of software specification, design, implementation, testing, and documentation of software. Target systems may range from simple software applications to mission-critical real-time systems.
+Software Engineering is studied as a stream in the BE(Hons). Day to day administration of this stream is conducted through the Computer Science and Engineering Student Office.
+This page outlines the core rules for the Software Engineering stream when taken as part of a single or dual award. The requirements total 168 units of credit, plus 60 days of industrial training. Refer to the program page for full details on the overall program requirements.
+Further details on the stream requirements, electives, and advice regarding the order and placement of courses in the stream can be found at the:
+School website
+Read More
+about Overview
+Available in Program(s)
+Single degree program(s) in which this specialisation is available:
+Expand all
+Bachelor of Engineering (Honours) - BE (Hons)
+3707 - Engineering (Honours)
+keyboard_arrow_down
+Faculty:
+Faculty of Engineering
+Campus
+Sydney
+Units of Credit:
+192
+Typical duration:
+4 Year(s)
+open_in_new
+Read More
+Specialisation Structure
+Students must complete 168 UOC.
+Expand all
+Level 1 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+Level 1 Core Courses
+keyboard_arrow_down
+arrow_forward
+COMP1511
+6 UOC
+Programming Fundamentals
+arrow_forward
+COMP1521
+6 UOC
+Computer Systems Fundamentals
+arrow_forward
+COMP1531
+6 UOC
+Software Engineering Fundamentals
+arrow_forward
+DESN1000
+6 UOC
+Introduction to Engineering Design and Innovation
+arrow_forward
+MATH1081
+6 UOC
+Discrete Mathematics
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1131
+6 UOC
+Mathematics 1A
+OR
+arrow_forward
+MATH1141
+6 UOC
+Higher Mathematics 1A
+One of the following:
+keyboard_arrow_down
+arrow_forward
+MATH1231
+6 UOC
+Mathematics 1B
+OR
+arrow_forward
+MATH1241
+6 UOC
+Higher Mathematics 1B
+Level 2 Core Courses
+42 Units of Credit:
+keyboard_arrow_down
+Students must take 42 UOC of the following courses.
+arrow_forward
+COMP2041
+6 UOC
+Software Construction: Techniques and Tools
+arrow_forward
+COMP2511
+6 UOC
+Software Design and Architecture
+arrow_forward
+COMP2521
+6 UOC
+Data Structures and Algorithms
+arrow_forward
+DESN2000
+6 UOC
+Engineering Design and Professional Practice
+arrow_forward
+MATH2400
+3 UOC
+Finite Mathematics
+arrow_forward
+MATH2859
+3 UOC
+Probability, Statistics and Information
+arrow_forward
+SENG2011
+6 UOC
+Workshop on Reasoning about Programs
+arrow_forward
+SENG2021
+6 UOC
+Requirements and Design Workshop
+Level 3 Core Courses
+24 Units of Credit:
+keyboard_arrow_down
+Students must take 24 UOC of the following courses.
+arrow_forward
+COMP3142
+6 UOC
+Software Testing and Quality Assurance
+arrow_forward
+COMP3311
+6 UOC
+Database Systems
+arrow_forward
+COMP3331
+6 UOC
+Computer Networks and Applications
+arrow_forward
+SENG3011
+6 UOC
+Software Engineering Workshop 3
+Level 4 Core Courses
+18 Units of Credit:
+keyboard_arrow_down
+Students must take 18 UOC of the following courses.
+arrow_forward
+COMP4920
+6 UOC
+Professional Issues and Ethics in Information Technology
+arrow_forward
+COMP4951
+4 UOC
+Research Thesis A
+arrow_forward
+COMP4952
+4 UOC
+Research Thesis B
+arrow_forward
+COMP4953
+4 UOC
+Research Thesis C
+Discipline Electives
+36 Units of Credit:
+keyboard_arrow_down
+2 UOC and 3 UOC courses are run over consecutive terms for a final total of 6 UOC.
+Discipline Electives
+keyboard_arrow_down
+arrow_forward
+COMP6131
+6 UOC
+Software Security Analysis
+arrow_forward
+ENGG2600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG3060
+3 UOC
+Rehabilitation and Assistive Technology
+arrow_forward
+ENGG3600
+2 UOC
+Engineering Vertically Integrated Project
+arrow_forward
+ENGG4600
+2 UOC
+Engineering Vertically Integrated Project
+open_in_new
+any level 3 Computer Science course
+open_in_new
+any level 4 Computer Science course
+open_in_new
+any level 6 Computer Science course
+open_in_new
+any level 9 Computer Science course
+open_in_new
+any level 3 Information Systems course
+open_in_new
+any level 4 Information Systems course
+open_in_new
+any level 3 Mathematics course
+open_in_new
+any level 4 Mathematics course
+open_in_new
+any level 6 Mathematics course
+open_in_new
+any level 3 Electrical Engineering course
+open_in_new
+any level 4 Electrical Engineering course
+open_in_new
+any level 3 Telecommunications course
+open_in_new
+any level 4 Telecommunications course
+Free Elective
+6 Units of Credit:
+keyboard_arrow_down
+Students must take at least 6 UOC of the following courses.
+open_in_new
+any course
+Level 4 (or higher) COMP UOC Minimum
+keyboard_arrow_down
+Students must complete a minimum of 30 UOC of the following courses.
+COMP4920 - Professional Issues and Ethics in Information Technology
+any level 4 Computer Science (COMP) course
+any level 6 Computer Science (COMP) course
+any level 9 Computer Science (COMP) course
+COMP4951 - Research Thesis A
+COMP4952 - Research Thesis B
+COMP4953 - Research Thesis C
+Enrolment Disclaimer
+Please note that this Handbook is a comprehensive catalogue of our offerings and includes courses that can be taken to satisfy program requirements irrespective as to their availability for a particular year.  Availability of courses is best checked using filters on this site or on the
+class timetable
+site.
+You are responsible for ensuring that you enrol in courses according to your program requirements and by following the advice of your Program Authority. myUNSW enrolment checks that you have met enrolment requirements such as pre-requisites for individual courses but not that you are enrolling in courses that will count towards your program requirements.
+Pre-2019 Handbook Editions
+Access past handbook editions (2018 and prior)
+open_in_new
+Pre-2019 Handbook Editions
+Faculty
+info
+Faculty: The primary academic unit in which related disciplines of teaching and research are conducted.
+Faculty of Engineering
+School
+info
+School: The academic unit responsible for teaching in disciplines or subject areas (school is part of a faculty).
+School of Computer Science and Engineering
+Study Level
+info
+Study Level refers to the academic level of a program, specialisation or course.
+Undergraduate
+Minimum Units of Credit
+168
+Specialisation Type
+info
+Honours: The highest level of learning in an undergraduate program. It typically includes a research component. Honours is available in two modes: separate year honours and embedded honours.
+Honours
+open_in_new
+Fees Information
+Search UNSW fees and related policies
+open_in_new
+Credit Transfer
+Information on credit transfer, or recognition of prior learning, at UNSW Sydney, including any formal articulation or credit arrangements that relate to specific coursework programs.
+open_in_new
+Apply Online
+Some programs require application via the Universities Admissions Centre (UAC) depending on study level, applicant's residency etc. Please check the "Can I apply online?" section on the Apply Online page to confirm whether to apply via the UNSW Apply Online service or through the UAC
