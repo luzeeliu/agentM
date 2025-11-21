@@ -65,7 +65,6 @@ async def _embedding_func(texts: List[str], embedding_dim: int = 1024, **_) -> n
 
 @dataclass
 class VanillaRAG:
-    """Minimal RAG pipeline for demo/comparison with LightRAG."""
 
     namespace: str = "vanilla"
     workspace: str = "vanilla"

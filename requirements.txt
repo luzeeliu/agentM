@@ -27,6 +27,6 @@ langchain-mcp-adapters
 
 # Utilities
 jsonschema-pydantic
-faiss-cpu>=1.7.4
+#faiss-gpu
 tiktoken
 numpy

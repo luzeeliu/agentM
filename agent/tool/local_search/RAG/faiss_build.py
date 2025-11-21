@@ -48,7 +48,13 @@ class FaissVectorStorage(BaseVectorStorage):
         self._faiss_index_file = workspace_dir / f"{self.namespace}_faiss.index"
         self._metadata_file = Path(str(self._faiss_index_file) + ".meta.json")
         self._dim = self.embedding_func.embedding_dim
-        self._embedding_batch = 500
+        # batching too many texts at once easily exhausts memory on CPU-only hosts
+        batch_env = os.getenv("RAG_EMBED_BATCH_SIZE")
+        try:
+            self._embedding_batch = max(8, int(batch_env)) if batch_env else 128
+        except ValueError:
+            logger.warning(f"[{self.workspace}] Invalid RAG_EMBED_BATCH_SIZE={batch_env}, fallback to 128.")
+            self._embedding_batch = 128
         self._hnsw_m = 16
         self._hnsw_ef_construction = 80
         self._hnsw_ef_search = 16
@@ -126,17 +132,16 @@ class FaissVectorStorage(BaseVectorStorage):
             contents.append(v["content"])
             metadatas.append(meta)
 
-        batchs = [
+        batches = [
             contents[i : i + self._embedding_batch] for i in range(0, len(contents), self._embedding_batch)
         ]
 
-        embedding_task = [self.embedding_func(batch) for batch in batchs]
-        embedding_list = await asyncio.gather(*embedding_task)
+        embeddings_split: list[np.ndarray] = []
+        for batch in batches:
+            embed = await self.embedding_func(batch)
+            embeddings_split.append(np.asarray(embed, dtype="float32"))
 
-        embeddings = np.concatenate(
-            [np.asarray(embed, dtype="float32") for embed in embedding_list],
-            axis=0,
-        )
+        embeddings = np.concatenate(embeddings_split, axis=0) if embeddings_split else np.empty((0, self._dim))
 
         if len(embeddings) != len(metadatas):
             logger.error(

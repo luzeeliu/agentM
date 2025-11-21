@@ -20,14 +20,9 @@ def check_tool_call(state: GraphState):
     return False
 
 # Cache tools to avoid reloading on every call
-_tools_cache = None
 
-def _get_tools():
-    """Lazy initialization of tools."""
-    global _tools_cache
-    if _tools_cache is None:
-        _tools_cache = {tool.name: tool for tool in tool_box()}
-    return _tools_cache
+_tools_cache = {tool.name: tool for tool in tool_box()}
+    
 
 # the tool_wrapper manually executes tools without using ToolNode
 async def tool_wrapper(state: GraphState):
@@ -51,7 +46,7 @@ async def tool_wrapper(state: GraphState):
         return state
 
     # Get available tools
-    tools = _get_tools()
+    tools = _tools_cache
 
     # Execute each tool call
     tool_messages = []
@@ -148,6 +143,7 @@ def build_graph():
     return graph
 
 def compile_app():
+    print("[warm-up]tools")
     return build_graph().compile()
 
 def run_query(query: str, user_id: str = "default_user") -> GraphState:
