@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import asyncio
-from typing import Optional
+from typing import Optional, ClassVar
 
 from langchain_core.tools import BaseTool
 from pydantic import BaseModel, Field
@@ -15,11 +15,11 @@ class VanillaRAGInput(BaseModel):
 
 
 class VanillaRAGSearchTool(BaseTool):
-    name = "vanilla_rag_search"
-    description = (
+    name: ClassVar[str] = "vanilla_rag_search"
+    description: ClassVar[str] = (
         "Search the local demo FAISS cache built from out_shards and return the original chunks."
     )
-    args_schema = VanillaRAGInput
+    args_schema: ClassVar[type[BaseModel]] = VanillaRAGInput
 
     top_k: int = 3
 
@@ -36,4 +36,3 @@ class VanillaRAGSearchTool(BaseTool):
             for r in results
         ]
         return "\n".join(lines)
-

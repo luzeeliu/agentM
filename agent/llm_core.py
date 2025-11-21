@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 import dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
+from typing import Any
 
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from .graph_state import GraphState
@@ -14,10 +15,34 @@ system_prompt = system_prompt_path.read_text(encoding="utf-8") if system_prompt_
 
 
 based_llm = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash",
+        model="gemini-2.5-flash",
         temperature=0,
         google_api_key=os.environ["GEMINI_API_KEY"],
     )
+
+
+def _flatten_content(content: Any) -> str:
+    """
+    Gemini responses may return either a plain string or a structured list of blocks.
+    Convert anything non-string into a readable string to satisfy downstream schemas.
+    """
+    if isinstance(content, str):
+        return content
+
+    if isinstance(content, list):
+        pieces = []
+        for block in content:
+            if isinstance(block, dict):
+                block_type = block.get("type")
+                if block_type == "text":
+                    pieces.append(block.get("text", ""))
+                else:
+                    pieces.append(str(block))
+            else:
+                pieces.append(str(block))
+        return "\n".join(piece for piece in pieces if piece).strip()
+
+    return str(content)
 
 def agent(state: GraphState) -> GraphState:
     messages = state.get("message", [])
@@ -51,8 +76,9 @@ def agent(state: GraphState) -> GraphState:
         new_messages = messages + [response]
         new_state = {**state, "message": new_messages}
         if not has_tool and isinstance(response, AIMessage):
-            new_state["output"] = response.content
-            print(f"[agent] Setting output: {response.content[:100]}...")
+            normalized_output = _flatten_content(response.content)
+            new_state["output"] = normalized_output
+            print(f"[agent] Setting output: {normalized_output[:100]}...")
         return new_state
     except Exception as e:
         import traceback

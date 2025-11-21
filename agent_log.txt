@@ -3,3 +3,5 @@
 2025-11-20 02:38:21,331 - agent - INFO - [vanilla] KV storage initialized.
 2025-11-20 02:38:21,336 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
 2025-11-20 02:38:45,129 - agent - INFO - [vanilla-rag] build result: {'status': 'success', 'files': ['Handbook - Accounting Analytics for Business Decision Making.txt', 'Handbook - Advanced Science (Honours).txt', 'Handbook - Auditing and Assurance Services.txt'], 'chunks_indexed': 9}
+2025-11-20 09:42:03,780 - agent - INFO - [vanilla] KV storage initialized.
+2025-11-20 09:42:27,555 - agent - INFO - [vanilla-rag] build result: {'status': 'success', 'files': ['Handbook - Accounting Analytics for Business Decision Making.txt', 'Handbook - Advanced Science (Honours).txt', 'Handbook - Auditing and Assurance Services.txt'], 'chunks_indexed': 9}

@@ -30,6 +30,7 @@ RUN python -m pip install --upgrade pip setuptools wheel
 
 # Install backend requirements first (smaller file)
 RUN python -m pip install --no-cache-dir --prefer-binary -r backend/requirements.txt
+RUN python -m pip install --no-cache-dir --prefer-binary -r ./requirements.txt
 
 # Install agent requirements individually to isolate potential segfault issues
 # Core dependencies

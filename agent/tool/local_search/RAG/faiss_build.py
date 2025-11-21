@@ -39,7 +39,7 @@ class FaissVectorStorage(BaseVectorStorage):
         self.threshold = self.cosine_similarity_threshold
 
         # Resolve workspace under ./rag_cache unless an absolute path is provided
-        workspace_dir = Path(self.workspace)
+        workspace_dir = Path("__file__").resolve().parent / "rag_cache" / self.workspace
         if not workspace_dir.is_absolute():
             workspace_dir = Path(".") / "rag_cache" / self.workspace
         workspace_dir.mkdir(parents=True, exist_ok=True)
@@ -49,9 +49,12 @@ class FaissVectorStorage(BaseVectorStorage):
         self._metadata_file = Path(str(self._faiss_index_file) + ".meta.json")
         self._dim = self.embedding_func.embedding_dim
         self._embedding_batch = 500
+        self._hnsw_m = 16
+        self._hnsw_ef_construction = 80
+        self._hnsw_ef_search = 16
 
         # use cosine similarity with normalized vectors
-        self._index = faiss.IndexFlatIP(self._dim)
+        self._index = self._create_hnsw_index()
         self._id_to_meta: dict[int, dict[str, Any]] = {}
         self.lock = asyncio.Lock()
 
@@ -66,7 +69,7 @@ class FaissVectorStorage(BaseVectorStorage):
                     logger.warning(
                         f"[{self.workspace}] FAISS index dim mismatch ({self._index.d} != {self._dim}), reinitializing."
                     )
-                    self._index = faiss.IndexFlatIP(self._dim)
+                    self._index = self._create_hnsw_index()
 
                 if self._metadata_file.exists():
                     with open(self._metadata_file, "r", encoding="utf-8") as f:
@@ -79,11 +82,17 @@ class FaissVectorStorage(BaseVectorStorage):
             except Exception as e:  # pragma: no cover - defensive load
                 logger.error(f"[{self.workspace}] Error loading FAISS index or metadata: {e}")
                 logger.warning(f"[{self.workspace}] Initializing empty FAISS index and metadata.")
-                self._index = faiss.IndexFlatIP(self._dim)
+                self._index = self._create_hnsw_index()
                 self._id_to_meta = {}
         else:
-            self._index = faiss.IndexFlatIP(self._dim)
+            self._index = self._create_hnsw_index()
             self._id_to_meta = {}
+
+    def _create_hnsw_index(self):
+        index = faiss.IndexHNSWFlat(self._dim, self._hnsw_m, faiss.METRIC_INNER_PRODUCT)
+        index.hnsw.efConstruction = self._hnsw_ef_construction
+        index.hnsw.efSearch = self._hnsw_ef_search
+        return index
 
     # hook for concurrency control
     async def get_index(self):
@@ -187,7 +196,7 @@ class FaissVectorStorage(BaseVectorStorage):
             new_id_to_meta[new_id] = vector_meta
 
         async with self.lock:
-            self._index = faiss.IndexFlatIP(self._dim)
+            self._index = self._create_hnsw_index()
             if vector_keep:
                 arr = np.array(vector_keep, dtype="float32")
                 faiss.normalize_L2(arr)
@@ -306,7 +315,7 @@ class FaissVectorStorage(BaseVectorStorage):
     async def drop(self) -> dict[str, str]:
         try:
             async with self.lock:
-                self._index = faiss.IndexFlatIP(self._dim)
+                self._index = self._create_hnsw_index()
                 self._id_to_meta = {}
 
                 if self._faiss_index_file.exists():
@@ -319,4 +328,3 @@ class FaissVectorStorage(BaseVectorStorage):
         except Exception as e:  # pragma: no cover - defensive
             logger.error(f"[{self.workspace}] Error dropping FAISS index {self.namespace}: {e}")
             return {"status": "error", "message": str(e)}
-

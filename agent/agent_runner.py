@@ -6,9 +6,11 @@ from .graph_state import GraphState
 from langchain_core.messages import AIMessage, ToolMessage
 from .llm_core import agent
 from .tool.tool_box import tool_box
+from .tool.local_search.RAG.rag_main import warmup_vanilla_rag
 
 
 dotenv.load_dotenv()
+warmup_vanilla_rag(auto_build=True)
 
 # the agent will include planner, tool, knn intent, generate
 def check_tool_call(state: GraphState):

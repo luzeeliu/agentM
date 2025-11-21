@@ -29,3 +29,4 @@ langchain-mcp-adapters
 jsonschema-pydantic
 faiss-cpu>=1.7.4
 tiktoken
+numpy

@@ -28,7 +28,7 @@ def _build_logger() -> logging.Logger:
     stream_handler.setLevel(level)
     logger.addHandler(stream_handler)
 
-    log_file = Path("agent_log.txt")
+    log_file = Path("__file__").parent / "agent_log.txt"
     file_handler = logging.handlers.RotatingFileHandler(
         log_file, maxBytes=5 * 1024 * 1024, backupCount=3, encoding="utf-8"
     )

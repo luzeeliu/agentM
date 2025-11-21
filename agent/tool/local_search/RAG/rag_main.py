@@ -1,5 +1,7 @@
 from __future__ import annotations
+import argparse
 import asyncio
+import threading
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, List
@@ -10,7 +12,6 @@ from .faiss_build import FaissVectorStorage
 from .kv_storage import KVStorage
 from ....log.logger import logger
 from .tokenizer import TiktokenTokenizer
-import argparse
 
 
 class _BgeM3Embedder:
@@ -70,7 +71,6 @@ class VanillaRAG:
     workspace: str = "vanilla"
     top_k: int = 5
     embedding_dim: int = 1024
-    shard_limit: int = 3
     shard_dir: Path = field(
         default_factory=lambda: Path(__file__).resolve().parent.parent / "out_shards"
     )
@@ -168,7 +168,7 @@ class VanillaRAG:
 
     async def build_from_shards(self, limit_files: int | None = None) -> dict[str, Any]:
         await self.initialize()
-        limit = limit_files or self.shard_limit
+        limit = limit_files 
         files = self._iter_shards(limit)
         if not files:
             return {"status": "error", "message": "no shard files found"}
@@ -242,6 +242,63 @@ class VanillaRAG:
 
 
 _DEFAULT_SERVICE = VanillaRAG()
+_warmup_lock = threading.Lock()
+_warmup_task: asyncio.Task | None = None
+_warmup_complete = False
+
+
+async def _warmup_default_service(auto_build: bool) -> None:
+    await _DEFAULT_SERVICE.initialize()
+    if auto_build and not _DEFAULT_SERVICE.vector_storage.client_storage.get("data"):
+        await _DEFAULT_SERVICE.build_from_shards()
+
+
+def warmup_vanilla_rag(auto_build: bool = False) -> None:
+    """
+    Preload the default VanillaRAG service so the FAISS index and KV cache are
+    ready before the first tool invocation.
+
+    When no event loop is running, warmup runs synchronously. When invoked from
+    within an active loop, the coroutine is scheduled in the background.
+    """
+    global _warmup_task, _warmup_complete
+
+    # because the task is asyncio event loop, so it need thread to run
+    # remember the asyncio need thread to avoid occupied event loop
+    with _warmup_lock:
+        if _warmup_complete:
+            print("[warmup_vanilla_rag] already completed")
+            return
+        task = _warmup_task
+
+    if task is not None and not task.done():
+        print("[warmup_vanilla_rag] already completed")
+        return
+
+    async def _runner():
+        try:
+            await _warmup_default_service(auto_build)
+            await _EMBEDDER._ensure_model()
+        except Exception as exc:  # pragma: no cover - defensive
+            logger.error("[vanilla-rag] Warmup failed: %s", exc)
+            raise
+        else:
+            with _warmup_lock:
+                _warmup_complete = True
+        finally:
+            with _warmup_lock:
+                _warmup_task = None
+
+    try:
+        loop = asyncio.get_running_loop()
+    except RuntimeError:
+        asyncio.run(_runner())
+    else:
+        with _warmup_lock:
+            if _warmup_complete:
+                print("[warmup_vanilla_rag] already completed")
+                return
+            _warmup_task = loop.create_task(_runner())
 
 
 async def async_query_local_rag(query: str, top_k: int = 5, auto_build: bool = True) -> list[dict[str, Any]]:
@@ -258,12 +315,6 @@ async def async_query_local_rag(query: str, top_k: int = 5, auto_build: bool = T
 
     return await _DEFAULT_SERVICE.query(query, top_k=top_k)
 
-
-def build_demo_cache(limit_files: int = 3) -> dict[str, Any]:
-    """Synchronous helper to trigger demo cache building."""
-    return asyncio.run(_DEFAULT_SERVICE.build_from_shards(limit_files))
-
-
 async def _cli_build(limit: int):
     result = await _DEFAULT_SERVICE.build_from_shards(limit)
     logger.info("[vanilla-rag] build result: %s", result)
@@ -275,8 +326,8 @@ def main():
     parser.add_argument(
         "--limit",
         type=int,
-        default=3,
-        help="Number of shard files to process (default: 3).",
+        default= None,
+        help="Number of shard files to process (default: none).",
     )
     args = parser.parse_args()
 

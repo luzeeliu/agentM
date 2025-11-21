@@ -68,6 +68,7 @@ def tool_box() -> List[BaseTool]:
     tools: List[BaseTool] = []
 
     # Add direct search tools (not via MCP to avoid async complexity)
+    """
     try:
         from .search_tool.google_search_tool import GoogleSearchTool
         from .search_tool.duckduckgo_search_tool import DuckDuckGoSearchTool
@@ -81,7 +82,7 @@ def tool_box() -> List[BaseTool]:
         print(f"[tool_box] Added 4 search tools directly")
     except Exception as e:
         print(f"[tool_box] Failed to load search tools: {e}")
-
+"""
     try:
         from .local_search.rag_tool import VanillaRAGSearchTool
 
@@ -91,5 +92,5 @@ def tool_box() -> List[BaseTool]:
         print(f"[tool_box] Failed to load vanilla RAG tool: {e}")
 
     # Add MCP tools (e.g., arxiv)
-    tools.extend(_ensure_mcp_tools())
+    #tools.extend(_ensure_mcp_tools())
     return tools
