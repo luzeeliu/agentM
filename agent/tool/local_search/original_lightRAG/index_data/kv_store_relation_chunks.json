@@ -1,0 +1,20 @@
+{
+  "Gemini<SEP>Google": {
+    "chunk_ids": [
+      "chunk-de6df889a71350db51633b679eca5d3b"
+    ],
+    "count": 1,
+    "create_time": 1764212350,
+    "update_time": 1764212350,
+    "_id": "Gemini<SEP>Google"
+  },
+  "Gemini<SEP>Multimodal AI Models": {
+    "chunk_ids": [
+      "chunk-de6df889a71350db51633b679eca5d3b"
+    ],
+    "count": 1,
+    "create_time": 1764212350,
+    "update_time": 1764212350,
+    "_id": "Gemini<SEP>Multimodal AI Models"
+  }
+}

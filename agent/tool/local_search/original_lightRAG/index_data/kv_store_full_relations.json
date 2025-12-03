@@ -1,0 +1,18 @@
+{
+  "doc-de6df889a71350db51633b679eca5d3b": {
+    "relation_pairs": [
+      [
+        "Gemini",
+        "Multimodal AI Models"
+      ],
+      [
+        "Gemini",
+        "Google"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1764212350,
+    "update_time": 1764212350,
+    "_id": "doc-de6df889a71350db51633b679eca5d3b"
+  }
+}

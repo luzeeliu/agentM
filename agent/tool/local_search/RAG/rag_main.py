@@ -1,17 +1,20 @@
 from __future__ import annotations
 import argparse
 import asyncio
+import time
 import threading
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, List
 import numpy as np
+import torch
 from sentence_transformers import SentenceTransformer
 from .base import EmbeddingFunc
 from .faiss_build import FaissVectorStorage
 from .kv_storage import KVStorage
 from ....log.logger import logger
 from .tokenizer import TiktokenTokenizer
+from ..pdf_process import local_doc_process, _move_to_save
 
 
 class _BgeM3Embedder:
@@ -24,12 +27,13 @@ class _BgeM3Embedder:
 
     async def _ensure_model(self):
         if self._model is None:
+            device = "cuda" if torch.cuda.is_available() else "cpu"
             async with self._load_lock:
                 if self._model is None:
                     loop = asyncio.get_running_loop()
 
                     def _load():
-                        return SentenceTransformer(self.model_name)
+                        return SentenceTransformer(self.model_name, device=device)
 
                     self._model = await loop.run_in_executor(None, _load)
 
@@ -47,6 +51,14 @@ class _BgeM3Embedder:
             ).astype("float32")
 
         return await loop.run_in_executor(None, _encode)
+
+# image multimodel 
+class clipembedder:
+    # load clip moel and instantiate it for warm up
+    def __init__(self, model_name: str = "openai/clip-vit-base-patch32"):
+        self.model_name = model_name
+        self._model: SentenceTransformer | None = None
+
 
 
 _EMBEDDER = _BgeM3Embedder()
@@ -72,6 +84,9 @@ class VanillaRAG:
     embedding_dim: int = 1024
     shard_dir: Path = field(
         default_factory=lambda: Path(__file__).resolve().parent.parent / "out_shards"
+    )
+    update_dir: Path = field(
+        default_factory=lambda: Path(__file__).resolve().parent.parent / "update_box"
     )
 
     def __post_init__(self):
@@ -105,12 +120,14 @@ class VanillaRAG:
             await self.kv_storage.initialize()
             # FAISS initialize runs in __post_init__, but ensure metadata reload if persisted
             self.vector_storage.initialize()
-
+            
+    # deprecated
     def _iter_shards(self, limit: int | None = None) -> list[Path]:
         if not self.shard_dir.exists():
             logger.warning(f"[vanilla-rag] shard directory not found: {self.shard_dir}")
             return []
         files = sorted(self.shard_dir.glob("*.txt"))
+        
         return files[:limit] if limit else files
 
     def _chunk_text(
@@ -124,6 +141,7 @@ class VanillaRAG:
 
         # chunk content by the token size or character
         token = self.tokenizer.encode(content)
+        #logger.info(f"[process moniter] rm line144")
         result: list[dict[str, Any]] = []
         if split_by_character:
             chunks = content.split(split_by_character)
@@ -163,12 +181,12 @@ class VanillaRAG:
                     "chunk_length": min(chunk_token_size, len(token[start : start + chunk_token_size])),
                     "chunk_index": start
                 })
+        #logger.info(f"[process moniter] rm line184")
         return result
 
-    async def build_from_shards(self, limit_files: int | None = None) -> dict[str, Any]:
+    async def build_from_shards(self) -> dict[str, Any]:
         await self.initialize()
-        limit = limit_files 
-        files = self._iter_shards(limit)
+        files, images = local_doc_process(self.update_dir)
         if not files:
             return {"status": "error", "message": "no shard files found"}
 
@@ -177,12 +195,20 @@ class VanillaRAG:
 
         for file in files:
             try:
+                #logger.info(f"[process moniter] rm line199")
                 content = file.read_text(encoding="utf-8")
             except UnicodeDecodeError:
                 content = file.read_text(encoding="utf-8", errors="ignore")
 
             doc_id = file.stem
+            
+            #start = time.time()
+            
             chunks = self._chunk_text(content)
+            
+            #end = time.time()
+
+            #logger.info(f"[process moniter] rm line206")
             for chunk in chunks:
                 chunk_id = f"{doc_id}_chunk_{chunk['chunk_index']}"
                 metadata = {
@@ -202,13 +228,18 @@ class VanillaRAG:
 
         if not vector_payload:
             return {"status": "error", "message": "no chunks generated"}
-
+        #logger.info(f"[process moniter] rm line226")
+        start1 = time.time()
         await self.kv_storage.upsert(kv_payload)
         await self.vector_storage.upsert(vector_payload)
         # index done callbacks is to save result
         await self.kv_storage.index_done_callback()
         await self.vector_storage.index_done_callback()
-
+        #logger.info(f"[process moniter] rm line232")
+        end1 = time.time()
+        logger.info(
+            f"[{self.workspace}] indexing {len(vector_payload)} chunks took {end1 - start1} seconds"
+        )
         return {
             "status": "success",
             "files": [f.name for f in files],
@@ -216,7 +247,6 @@ class VanillaRAG:
         }
 
     async def query(self, query: str, top_k: int | None = None) -> list[dict[str, Any]]:
-        await self.initialize()
 
         hits = await self.vector_storage.query(query, top_k=top_k or self.top_k)
         if not hits:
@@ -307,30 +337,17 @@ async def async_query_local_rag(query: str, top_k: int = 5, auto_build: bool = T
     2. Optionally build a demo cache from a few shards if nothing exists
     3. Return matched chunks with original content
     """
-    await _DEFAULT_SERVICE.initialize()
-
-    if auto_build and not _DEFAULT_SERVICE.vector_storage.client_storage.get("data"):
-        await _DEFAULT_SERVICE.build_from_shards()
-
+    #warmup_vanilla_rag(auto_build)
     return await _DEFAULT_SERVICE.query(query, top_k=top_k)
 
-async def _cli_build(limit: int):
-    result = await _DEFAULT_SERVICE.build_from_shards(limit)
+async def _cli_build():
+    result = await _DEFAULT_SERVICE.build_from_shards()
     logger.info("[vanilla-rag] build result: %s", result)
     return result
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Build vanilla RAG cache from out_shards.")
-    parser.add_argument(
-        "--limit",
-        type=int,
-        default= None,
-        help="Number of shard files to process (default: none).",
-    )
-    args = parser.parse_args()
-
-    asyncio.run(_cli_build(args.limit))
+    asyncio.run(_cli_build())
 
 
 if __name__ == "__main__":

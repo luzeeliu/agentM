@@ -11,6 +11,7 @@ from typing import List, final, Any
 import numpy as np
 import faiss
 from dataclasses import dataclass
+from tqdm.auto import tqdm
 
 from .base import BaseVectorStorage
 from ....log.logger import logger
@@ -137,9 +138,13 @@ class FaissVectorStorage(BaseVectorStorage):
         ]
 
         embeddings_split: list[np.ndarray] = []
-        for batch in batches:
-            embed = await self.embedding_func(batch)
-            embeddings_split.append(np.asarray(embed, dtype="float32"))
+        if batches:
+            desc = f"[{self.workspace}] Embedding batches"
+            with tqdm(total=len(batches), desc=desc, unit="batch") as pbar:
+                for batch in batches:
+                    embed = await self.embedding_func(batch)
+                    embeddings_split.append(np.asarray(embed, dtype="float32"))
+                    pbar.update(1)
 
         embeddings = np.concatenate(embeddings_split, axis=0) if embeddings_split else np.empty((0, self._dim))
 
@@ -151,6 +156,12 @@ class FaissVectorStorage(BaseVectorStorage):
 
         faiss.normalize_L2(embeddings)
 
+        """
+        step 1 - remove duplicates
+        step 2 - upsert
+        step 3 - update metadata
+        """
+        
         # remove duplicates if needed
         need_remove = []
         for meta in metadatas:

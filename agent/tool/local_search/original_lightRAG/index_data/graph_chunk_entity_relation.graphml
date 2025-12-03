@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Gemini">
+  <data key="d0">Gemini</data>
+  <data key="d1">concept</data>
+  <data key="d2">Gemini is a family of multimodal AI models developed by Google and is described as Google's most capable model.</data>
+  <data key="d3">chunk-de6df889a71350db51633b679eca5d3b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1764212350</data>
+  <data key="d6"></data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+  <data key="d1">organization</data>
+  <data key="d2">Google is an organization that developed the Gemini family of multimodal AI models.</data>
+  <data key="d3">chunk-de6df889a71350db51633b679eca5d3b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1764212350</data>
+  <data key="d6"></data>
+</node>
+<node id="Multimodal AI Models">
+  <data key="d0">Multimodal AI Models</data>
+  <data key="d1">concept</data>
+  <data key="d2">Multimodal AI models are a type of artificial intelligence model, of which Gemini is a family.</data>
+  <data key="d3">chunk-de6df889a71350db51633b679eca5d3b</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1764212350</data>
+  <data key="d6"></data>
+</node>
+<edge source="Gemini" target="Google">
+  <data key="d7">1.0</data>
+  <data key="d8">Gemini is a family of multimodal AI models developed by Google.</data>
+  <data key="d9">creation,development</data>
+  <data key="d10">chunk-de6df889a71350db51633b679eca5d3b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1764212350</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gemini" target="Multimodal AI Models">
+  <data key="d7">1.0</data>
+  <data key="d8">Gemini is a family of multimodal AI models.</data>
+  <data key="d9">classification,type</data>
+  <data key="d10">chunk-de6df889a71350db51633b679eca5d3b</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1764212350</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

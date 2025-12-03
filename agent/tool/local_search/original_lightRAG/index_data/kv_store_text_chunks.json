@@ -1,0 +1,16 @@
+{
+  "chunk-de6df889a71350db51633b679eca5d3b": {
+    "tokens": 21,
+    "content": "Gemini is a family of multimodal AI models developed by Google. It is their most capable model.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-de6df889a71350db51633b679eca5d3b",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:2fe5e858155c9709cd8ea669d48975da",
+      "default:extract:4da13f00390a49e4abb8a425e6cae8f2"
+    ],
+    "create_time": 1764212328,
+    "update_time": 1764212350,
+    "_id": "chunk-de6df889a71350db51633b679eca5d3b"
+  }
+}
