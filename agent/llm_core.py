@@ -3,6 +3,7 @@ from pathlib import Path
 import dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from typing import Any
+import json
 
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from .graph_state import GraphState
@@ -77,6 +78,25 @@ def agent(state: GraphState) -> GraphState:
         new_state = {**state, "message": new_messages}
         if not has_tool and isinstance(response, AIMessage):
             normalized_output = _flatten_content(response.content)
+            # go generate part add wrapper fot gemini output
+            # here we dont need to extract images only when we need show it in UI
+            """
+            # Attempt to parse JSON payload from RAG tool to extract images
+            # make gemini see image in finally for output
+            try:
+                parsed = json.loads(normalized_output)
+                if isinstance(parsed, list):
+                    image_urls = []
+                    for item in parsed:
+                        for img in item.get("images", []) if isinstance(item, dict) else []:
+                            url = img.get("data_url") or img.get("url")
+                            if url:
+                                image_urls.append(url)
+                    if image_urls:
+                        new_state["images"] = image_urls
+            except Exception:
+                pass
+            """
             new_state["output"] = normalized_output
             print(f"[agent] Setting output: {normalized_output[:100]}...")
         return new_state

@@ -5,3 +5,8 @@ venv
 rag_cache
 __pycache__
 out_shards
+model_cache
+.venv
+pdf_pro
+image_cache
+update_box

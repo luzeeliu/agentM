@@ -7,10 +7,25 @@ from langchain_core.messages import AIMessage, ToolMessage
 from .llm_core import agent
 from .tool.tool_box import tool_box
 from .tool.local_search.RAG.rag_main import warmup_vanilla_rag
-
+import time
+from .log.logger import logger
 
 dotenv.load_dotenv()
-warmup_vanilla_rag(auto_build=True)
+
+def initialize():
+    """
+    Initialize the agent services (RAG, etc.).
+    Returns the warmup task if running in an event loop, or None if synchronous.
+    """
+    logger.info("[agent_runner] Initializing RAG service...", flush=True)
+    start_time = time.time()
+    task = warmup_vanilla_rag(auto_build=True)
+    
+    # If synchronous (task is None), we can log completion now
+    if task is None:
+        logger.info(f"[agent_runner] RAG service warmup took {time.time() - start_time:.2f} seconds", flush=True)
+    
+    return task
 
 # the agent will include planner, tool, knn intent, generate
 def check_tool_call(state: GraphState):
@@ -102,8 +117,37 @@ async def tool_wrapper(state: GraphState):
 
             print(f"[tool_wrapper] Tool {tool_name} result: {str(result)[:200]}...")
 
+            # Parse result for images if it matches RAG tool output pattern
+            parsed_content = None
+            if isinstance(result, str):
+                try:
+                    parsed = json.loads(result)
+                    if isinstance(parsed, list) and any(item.get("images") for item in parsed if isinstance(item, dict)):
+                        message_content = []
+                        for item in parsed:
+                            # Use a copy to separate text and images
+                            item_text = item.copy()
+                            item_images = item_text.pop("images", [])
+                            
+                            # Add text part
+                            message_content.append({
+                                "type": "text",
+                                "text": json.dumps(item_text, ensure_ascii=False)
+                            })
+                            
+                            # Add image parts
+                            for img in item_images:
+                                if "data_url" in img and img["data_url"]:
+                                    message_content.append({
+                                        "type": "image_url",
+                                        "image_url": {"url": img["data_url"]}
+                                    })
+                        parsed_content = message_content
+                except (json.JSONDecodeError, TypeError):
+                    pass
+
             tool_messages.append(ToolMessage(
-                content=str(result),
+                content=parsed_content if parsed_content else str(result),
                 tool_call_id=tool_call_id,
                 name=tool_name
             ))

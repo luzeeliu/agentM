@@ -1,6 +1,8 @@
 import base64
 import os
 from typing import Optional, List, Any, Dict
+from contextlib import asynccontextmanager
+import asyncio
 
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
@@ -12,7 +14,7 @@ import sys
 import traceback
 
 try:
-    from agent.agent_runner import run_query, compile_app
+    from agent.agent_runner import run_query, compile_app, warmup_vanilla_rag
     from langchain_core.messages import HumanMessage
     print("[backend] Successfully imported agent modules", file=sys.stderr)
 except Exception as e:
@@ -20,6 +22,7 @@ except Exception as e:
     run_query = None  # type: ignore
     compile_app = None  # type: ignore
     HumanMessage = None  # type: ignore
+    warmup_vanilla_rag = None # type: ignore
     print(f"[backend] Import error: {e}", file=sys.stderr)
     print("[backend] Full traceback:", file=sys.stderr)
     traceback.print_exc(file=sys.stderr)
@@ -46,7 +49,22 @@ def image_to_data_url(file_bytes: bytes, filename: str) -> str:
     return f"data:{mime};base64,{b64}"
 
 
-app = FastAPI(title="AgentM Backend", version="0.1.0")
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    if warmup_vanilla_rag:
+        print("[backend] Starting RAG service warm-up...", file=sys.stderr)
+        try:
+            task = warmup_vanilla_rag(auto_build=True)
+            if task:
+                await task
+            print("[backend] RAG service warm-up completed.", file=sys.stderr)
+        except Exception as e:
+            print(f"[backend] RAG warm-up failed: {e}", file=sys.stderr)
+            traceback.print_exc(file=sys.stderr)
+    yield
+
+
+app = FastAPI(title="AgentM Backend", version="0.1.0", lifespan=lifespan)
 
 # Allow local development from file:// or a dev server
 app.add_middleware(

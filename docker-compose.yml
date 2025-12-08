@@ -9,7 +9,8 @@ services:
       - .env
       - agent/.env
     restart: unless-stopped
-    # Uncomment to live-edit frontend files inside the container (optional)
-    # volumes:
-    #   - ./frontend:/app/frontend:ro
-
+    volumes:
+      - ./model_cache:/app/model_cache
+      - ./rag_cache:/app/rag_cache
+    environment:
+      - HF_HOME=/app/model_cache

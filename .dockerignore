@@ -9,4 +9,5 @@ node_modules
 agent/debug_screenshot
 *.log
 *.DS_Store
-
+model_cache
+rag_cache

@@ -23,8 +23,6 @@ Metadata structure stored alongside the FAISS index:
         "__id__": "custom_id",
         "__vector__": [float, ...],
         "created_at": <timestamp>,
-        "src_id": ...,
-        "tgt_id": ...,
         ...
     }
 }
@@ -65,7 +63,7 @@ class FaissVectorStorage(BaseVectorStorage):
         self._id_to_meta: dict[int, dict[str, Any]] = {}
         self.lock = asyncio.Lock()
 
-        self.initialize()
+        #self.initialize()
 
     # fetch the faiss index and metadata if exist
     def initialize(self):
@@ -201,7 +199,7 @@ class FaissVectorStorage(BaseVectorStorage):
         return None
 
     async def _remove_faiss_ids(self, faiss_ids: List[int]):
-        keep = [fid for fid in self._id_to_meta if fid not in faiss_ids]
+        keep = [fid for fid in self._id_to_meta.keys() if fid not in faiss_ids]
 
         vector_keep = []
         new_id_to_meta = {}
@@ -211,6 +209,7 @@ class FaissVectorStorage(BaseVectorStorage):
             vector_keep.append(vector_meta["__vector__"])
             new_id_to_meta[new_id] = vector_meta
 
+        # after change the fasiss index we need rebuild index vector so we need save vector in meta
         async with self.lock:
             self._index = self._create_hnsw_index()
             if vector_keep:

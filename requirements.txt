@@ -9,7 +9,7 @@ langchain-core>=1.0.0,<2.0.0
 langchain>=0.1.0
 langchain-google-genai>=1.0.0
 langgraph>=0.0.20
-numpy>=1.24.0
+numpy>=1.24.0,<2.0.0
 sentence-transformers>=2.5.1
 tqdm>=4.66.0
 
@@ -27,8 +27,9 @@ mcp
 langchain-mcp-adapters
 
 # Utilities
-jsonschema-pyd
+jsonschema-pydantic
 faiss-cpu>=1.7.4
 tiktoken
-numpy
 lightrag-hku
+PyMuPDF
+pdfplumber

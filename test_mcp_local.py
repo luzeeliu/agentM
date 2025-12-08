@@ -77,7 +77,10 @@ def test_langgraph_integration():
     print("=" * 60)
 
     try:
-        from agent.agent_runner import compile_app
+        from agent.agent_runner import compile_app, initialize
+
+        # Initialize services (RAG, etc.)
+        initialize()
 
         app = compile_app()
         print("✓ LangGraph app compiled successfully")
