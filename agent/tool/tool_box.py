@@ -72,12 +72,12 @@ def tool_box() -> List[BaseTool]:
         from .search_tool.google_search_tool import GoogleSearchTool
         from .search_tool.duckduckgo_search_tool import DuckDuckGoSearchTool
         from .search_tool.yahoo_search_tool import YahooSearchTool
-        from .search_tool.bing_search_tool import BingSearchTool
+        #from .search_tool.bing_search_tool import BingSearchTool
 
         tools.append(GoogleSearchTool())
         tools.append(DuckDuckGoSearchTool())
         tools.append(YahooSearchTool())
-        tools.append(BingSearchTool())
+        #tools.append(BingSearchTool())
         print(f"[tool_box] Added 4 search tools directly")
     except Exception as e:
         print(f"[tool_box] Failed to load search tools: {e}")

@@ -17,7 +17,7 @@ from .image_faiss_build import FaissImageStorage
 from .kv_storage import KVStorage
 from ....log.logger import logger
 from .tokenizer import TiktokenTokenizer
-from ..pdf_process import local_doc_process, _move_to_save
+from ..data_process import local_doc_process, _move_to_save
 
 
 def _resolve_device() -> str:
@@ -362,8 +362,17 @@ class VanillaRAG:
             doc_id = file.stem
             
             #start = time.time()
-            
-            chunks = self._chunk_text(content)
+            # separate csv by the ine
+            if file.suffix.lower() == ".csv":
+                chunks = self._chunk_text(
+                    content,
+                    split_by_character="\n",
+                    only_character=True,
+                    chunk_overlap=0,
+                )
+            else:
+                # separate by the token size
+                chunks = self._chunk_text(content)
             
             #end = time.time()
 
@@ -484,6 +493,7 @@ class VanillaRAG:
         for hit, kv in zip(hits, kv_records):
             if not kv:
                 continue
+            # fetch all image in this PDF
             linked_images = kv.get("linked_images") or []
             results.append(
                 {

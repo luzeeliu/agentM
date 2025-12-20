@@ -1,3 +1,4 @@
+import asyncio
 import dotenv
 import json
 from langgraph.graph import StateGraph
@@ -193,6 +194,6 @@ def compile_app():
 def run_query(query: str, user_id: str = "default_user") -> GraphState:
     app = compile_app()
     init: GraphState = {"query": query, "facts": [], "message": [], "user_id": user_id}
-    final = app.invoke(init)
-    return final
+    # tool_wrapper is async, so invoke the graph via the async API even in sync contexts
+    return asyncio.run(app.ainvoke(init))
 

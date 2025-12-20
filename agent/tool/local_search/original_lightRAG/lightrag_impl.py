@@ -13,9 +13,11 @@ try:
 except ImportError:
     raise ImportError("lightrag-hku is not installed. Please run 'pip install lightrag-hku'.")
 
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_ollama import ChatOllama
 from sentence_transformers import SentenceTransformer
-from langchain_core.messages import HumanMessage, SystemMessage, BaseMessage
+from langchain_core.messages import HumanMessage, SystemMessage, BaseMessage, AIMessage
+from ..data_process import local_doc_process
+from dataclasses import field
 
 # Load environment variables
 load_dotenv()
@@ -50,15 +52,17 @@ async def bge_embedding_func(texts: list[str]) -> np.ndarray:
         lambda: model.encode(texts, normalize_embeddings=True)
     )
 
-async def gemini_llm_func(prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        raise ValueError("GEMINI_API_KEY not found in environment variables.")
+async def ollama_llm_func(prompt: str, system_prompt: str = None, history_messages: list = [], **kwargs) -> str:
+    """
+    Lightweight wrapper to call an Ollama-hosted model (defaults to qwen2.5:3b).
+    """
+    model_name = os.environ.get("OLLAMA_MODEL", "qwen2.5:3b")
+    base_url = os.environ.get("OLLAMA_BASE_URL") or os.environ.get("OLLAMA_HOST")
 
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash",
+    llm = ChatOllama(
+        model=model_name,
         temperature=0,
-        google_api_key=api_key,
+        base_url=base_url,
     )
 
     messages: List[BaseMessage] = []
@@ -72,7 +76,6 @@ async def gemini_llm_func(prompt: str, system_prompt: str = None, history_messag
         if role == 'user':
             messages.append(HumanMessage(content=content))
         elif role == 'assistant':
-            from langchain_core.messages import AIMessage
             messages.append(AIMessage(content=content))
         elif role == 'system':
             messages.append(SystemMessage(content=content))
@@ -81,10 +84,11 @@ async def gemini_llm_func(prompt: str, system_prompt: str = None, history_messag
     
     try:
         response = await llm.ainvoke(messages)
-        return response.content
+        # ChatOllama returns content as a string; safeguard other shapes
+        return response.content if isinstance(response.content, str) else str(response.content)
     except Exception as e:
         # Simple error handling
-        print(f"Error in Gemini LLM call: {e}")
+        print(f"Error in Ollama LLM call: {e}")
         return ""
 
 class LightRAGWrapper:
@@ -95,7 +99,7 @@ class LightRAGWrapper:
         
         self.rag = LightRAG(
             working_dir=self.working_dir,
-            llm_model_func=gemini_llm_func,
+            llm_model_func=ollama_llm_func,
             embedding_func=EmbeddingFunc(
                 embedding_dim=1024,
                 max_token_size=8192,
@@ -126,11 +130,15 @@ async def main():
     wrapper = LightRAGWrapper()
     
     print("Inserting test text...")
-    test_text = "Gemini is a family of multimodal AI models developed by Google. It is their most capable model."
-    await wrapper.insert_text(test_text)
+    update_dir = Path(__file__).resolve().parent.parent / "update_box"
+
+    text, image = local_doc_process(update_dir)
+    for f in text:
+        content = f.read_text(encoding="utf-8")
+        await wrapper.insert_text(content)
     
     print("Querying (Local Mode)...")
-    result = await wrapper.query("Who developed Gemini?", mode="local")
+    result = await wrapper.query("overview of happiness and philosophy", mode="local")
     print(f"Result: {result}")
 
 if __name__ == "__main__":

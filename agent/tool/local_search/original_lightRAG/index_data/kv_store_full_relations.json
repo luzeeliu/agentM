@@ -1,18 +1,3110 @@
 {
-  "doc-de6df889a71350db51633b679eca5d3b": {
+  "doc-32bcdbba2d266d061d85f94faf74b18a": {
     "relation_pairs": [
       [
-        "Gemini",
-        "Multimodal AI Models"
+        "Shanghai AI Laboratory",
+        "Yuchen Zhang"
       ],
       [
-        "Gemini",
-        "Google"
+        "Harbin Institute of Technology",
+        "Pengfei Li"
+      ],
+      [
+        "Shanghai AI Laboratory",
+        "Yafu Li"
+      ],
+      [
+        "OpenRLHF",
+        "RL Infrastructure & Frameworks"
+      ],
+      [
+        "Tsinghua University",
+        "Weize Chen"
+      ],
+      [
+        "Tsinghua University",
+        "Yuru Wang"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Fangfu Liu"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Applications",
+        "Section 6"
+      ],
+      [
+        "Agent",
+        "Environment"
+      ],
+      [
+        "Applications",
+        "RL Infrastructure & Frameworks"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Shijie Wang"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Jiaze Ma"
+      ],
+      [
+        "Mathematics",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Guoli Jia",
+        "Tsinghua University"
+      ],
+      [
+        "Computational Resources",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Shanghai Jiao Tong University",
+        "Xuekai Zhu"
+      ],
+      [
+        "Action",
+        "Interaction (Episode)"
+      ],
+      [
+        "Applications",
+        "Policy Optimization"
+      ],
+      [
+        "Environment",
+        "Interaction (Episode)"
+      ],
+      [
+        "Tsinghua University",
+        "Yihao Liu"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Guoli Jia"
+      ],
+      [
+        "Tsinghua University",
+        "Xinwei Long"
+      ],
+      [
+        "Foundational Components",
+        "Training Recipes"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Training Resources"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Junqi Gao"
+      ],
+      [
+        "Algorithm Design",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Ning Ding"
+      ],
+      [
+        "Generalize Memorize",
+        "Training Recipes"
+      ],
+      [
+        "Tsinghua University",
+        "Zhiyuan Liu"
+      ],
+      [
+        "Pengfei Li",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "Policy Critic-Based Algorithms",
+        "Policy Gradient Algorithms"
+      ],
+      [
+        "Section 5",
+        "Training Resources"
+      ],
+      [
+        "Critic-Free Algorithms",
+        "Sampling Strategy"
+      ],
+      [
+        "Bowen Zhou",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "Interaction (Episode)",
+        "Reward"
+      ],
+      [
+        "Ning Ding",
+        "Tsinghua University"
+      ],
+      [
+        "Tsinghua University",
+        "Xingtai Lv"
+      ],
+      [
+        "Harbin Institute of Technology",
+        "Junqi Gao"
+      ],
+      [
+        "RL Infrastructure & Frameworks",
+        "veRL"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Biqing Qi"
+      ],
+      [
+        "Shang Qu",
+        "Tsinghua University"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Ganqu Cui"
+      ],
+      [
+        "Reward Type",
+        "Shaping Rewards"
+      ],
+      [
+        "Biqing Qi",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "Process Outcome",
+        "Reward Type"
+      ],
+      [
+        "Agent",
+        "Reward"
+      ],
+      [
+        "Sihang Zeng",
+        "University of Washington"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Applications"
+      ],
+      [
+        "RL Infrastructure & Frameworks",
+        "TRL"
+      ],
+      [
+        "Shanghai AI Laboratory",
+        "Shijie Wang"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Foundational Components"
+      ],
+      [
+        "Foundational Components",
+        "RL's Role"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Che Jiang"
+      ],
+      [
+        "Tsinghua University",
+        "Youbang Sun"
+      ],
+      [
+        "Haozhan Li",
+        "Tsinghua University"
+      ],
+      [
+        "Ermo Hua",
+        "Tsinghua University"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Bingxiang He"
+      ],
+      [
+        "Dong Li",
+        "Harbin Institute of Technology"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yuxin Zuo"
+      ],
+      [
+        "Foundational Problems",
+        "Reward Design"
+      ],
+      [
+        "AReaL",
+        "RL Infrastructure & Frameworks"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Xiang Xu"
+      ],
+      [
+        "Reward Type",
+        "Verifiable Generative Rewards"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Bowen Zhou"
+      ],
+      [
+        "Runze Liu",
+        "Tsinghua University"
+      ],
+      [
+        "Compute",
+        "Sampling Strategy"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Ermo Hua"
+      ],
+      [
+        "Bingxiang He",
+        "Tsinghua University"
+      ],
+      [
+        "Dynamic Environment",
+        "Training Resources"
+      ],
+      [
+        "Reward Design",
+        "Sharpening Discovery"
+      ],
+      [
+        "Jiaze Ma",
+        "Tsinghua University"
+      ],
+      [
+        "Action",
+        "Agent"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Dong Li"
+      ],
+      [
+        "Applications",
+        "Multimodal Robotics Tasks"
+      ],
+      [
+        "Peking University",
+        "Yuchen Zhang"
+      ],
+      [
+        "Policy Critic-Based Algorithms",
+        "Policy Optimization"
+      ],
+      [
+        "RL Infrastructure & Frameworks",
+        "slime"
+      ],
+      [
+        "Fangfu Liu",
+        "Tsinghua University"
+      ],
+      [
+        "Coding",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Huayu Chen"
+      ],
+      [
+        "Math Code",
+        "Model Ensemble"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Agent",
+        "Interaction (Episode)"
+      ],
+      [
+        "Reward Design",
+        "Weak Strong"
+      ],
+      [
+        "Math Code",
+        "STEM Agent"
+      ],
+      [
+        "Static Corpus Training",
+        "Training Resources"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yuchen Fan"
+      ],
+      [
+        "Multi-Agent Sampling",
+        "Sampling Strategy"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Runze Liu"
+      ],
+      [
+        "Shanghai AI Laboratory",
+        "Yuchen Fan"
+      ],
+      [
+        "Critic-Free Algorithms",
+        "Policy Optimization"
+      ],
+      [
+        "Applications",
+        "Medical Systems Tasks"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Zhenzhao Yuan"
+      ],
+      [
+        "Kaiyan Zhang",
+        "Tsinghua University"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Abstract"
+      ],
+      [
+        "Critic-Free Algorithms",
+        "Optimization Objectives"
+      ],
+      [
+        "Tsinghua University",
+        "Yuxin Zuo"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Kai Tian"
+      ],
+      [
+        "Math Code",
+        "Mixture"
+      ],
+      [
+        "Applications",
+        "Math Code"
+      ],
+      [
+        "Ning Ding",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "University of Science and Technology of China",
+        "Xiang Xu"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Sihang Zeng"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Shang Qu"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yuchen Zhang"
+      ],
+      [
+        "Large Language Models (LLMs)",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Foundational Problems",
+        "Section 4"
+      ],
+      [
+        "Bowen Zhou",
+        "Tsinghua University"
+      ],
+      [
+        "Foundational Components",
+        "Model Prior"
+      ],
+      [
+        "DeepSeek-R1",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yafu Li"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Weize Chen"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yuru Wang"
+      ],
+      [
+        "Shang Qu",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "Sampling Hyper-Parameters",
+        "Sampling Strategy"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Foundational Problems"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Kaiyan Zhang"
+      ],
+      [
+        "University College London",
+        "Yu Fu"
+      ],
+      [
+        "Game",
+        "Math Code"
+      ],
+      [
+        "Artificial SuperIntelligence (ASI)",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Huazhong University of Science and Technology",
+        "Zhiyuan Ma"
+      ],
+      [
+        "Critic-Free Algorithms",
+        "Off-Policy Regularization"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Training Data"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Haozhan Li"
+      ],
+      [
+        "Infrastructure",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Applications",
+        "Coding Tasks"
+      ],
+      [
+        "Environment",
+        "Reward"
+      ],
+      [
+        "Agentic Tasks",
+        "Applications"
+      ],
+      [
+        "Huayu Chen",
+        "Tsinghua University"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Zonglin Li"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Youbang Sun"
+      ],
+      [
+        "Shanghai AI Laboratory",
+        "Zonglin Li"
+      ],
+      [
+        "Ermo Hua",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Xiaoye Qu"
+      ],
+      [
+        "Reward Type",
+        "Unsupervised Rewards"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Xuekai Zhu"
+      ],
+      [
+        "Shanghai AI Laboratory",
+        "Xiaoye Qu"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yihao Liu"
+      ],
+      [
+        "Training Recipes",
+        "Tricks Traps"
+      ],
+      [
+        "Foundational Problems",
+        "RL vs. SFT"
+      ],
+      [
+        "Shanghai Jiao Tong University",
+        "Yuchen Fan"
+      ],
+      [
+        "Shanghai AI Laboratory",
+        "Yihao Liu"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Xinwei Long"
+      ],
+      [
+        "Foundational Problems",
+        "Reward Type"
+      ],
+      [
+        "Che Jiang",
+        "Tsinghua University"
+      ],
+      [
+        "Kai Tian",
+        "Tsinghua University"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Zhiyuan Liu"
+      ],
+      [
+        "Ganqu Cui",
+        "Shanghai AI Laboratory"
+      ],
+      [
+        "Dynamic Sampling",
+        "Sampling Strategy"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Yu Fu"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Pengfei Li"
+      ],
+      [
+        "Foundational Components",
+        "Section 3"
+      ],
+      [
+        "Tsinghua University",
+        "Zhenzhao Yuan"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Zhiyuan Ma"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Xingtai Lv"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Figure 1"
       ]
     ],
-    "count": 2,
-    "create_time": 1764212350,
-    "update_time": 1764212350,
-    "_id": "doc-de6df889a71350db51633b679eca5d3b"
+    "count": 158,
+    "create_time": 1765218608,
+    "update_time": 1765218608,
+    "_id": "doc-32bcdbba2d266d061d85f94faf74b18a"
+  },
+  "doc-b836ebc3527208cd954c81601d5fc314": {
+    "relation_pairs": [
+      [
+        "Dynamic Environment",
+        "Training Resources"
+      ],
+      [
+        "Foundational Problems",
+        "RL Vs. SFT: Generalize Or Memorize"
+      ],
+      [
+        "Sampling Hyper-Parameters",
+        "Sampling Strategy"
+      ],
+      [
+        "Dense Rewards",
+        "Reward Design"
+      ],
+      [
+        "Foundational Problems",
+        "Training Recipes: Tricks Or Traps"
+      ],
+      [
+        "Page 43",
+        "RL Infrastructure"
+      ],
+      [
+        "RL Infrastructure",
+        "Training Resources"
+      ],
+      [
+        "Applications",
+        "Multimodal Tasks"
+      ],
+      [
+        "Foundational Problems",
+        "RL's Role: Sharpening Or Discovery"
+      ],
+      [
+        "Static Corpus",
+        "Training Resources"
+      ],
+      [
+        "Reward Design",
+        "Rewards Shaping"
+      ],
+      [
+        "Applications",
+        "Coding Tasks"
+      ],
+      [
+        "Agentic Tasks",
+        "Applications"
+      ],
+      [
+        "Foundational Components",
+        "Policy Optimization"
+      ],
+      [
+        "Foundational Problems",
+        "Model Prior: Weak And Strong"
+      ],
+      [
+        "Critic-Based Algorithms",
+        "Policy Optimization"
+      ],
+      [
+        "Coding Tasks",
+        "Page 47"
+      ],
+      [
+        "Policy Optimization",
+        "Regularization Objectives"
+      ],
+      [
+        "Multimodal Tasks",
+        "Page 52"
+      ],
+      [
+        "Foundational Components",
+        "Sampling Strategy"
+      ],
+      [
+        "Dynamic And Structured Sampling",
+        "Sampling Strategy"
+      ],
+      [
+        "Reward Design",
+        "Verifiable Rewards"
+      ],
+      [
+        "Critic-Free Algorithms",
+        "Policy Optimization"
+      ],
+      [
+        "Agentic Tasks",
+        "Page 49"
+      ],
+      [
+        "Applications",
+        "Page 46"
+      ],
+      [
+        "Generative Rewards",
+        "Reward Design"
+      ],
+      [
+        "Preliminaries",
+        "Related Surveys"
+      ],
+      [
+        "Frontier Models",
+        "Preliminaries"
+      ],
+      [
+        "Reward Design",
+        "Unsupervised Rewards"
+      ],
+      [
+        "Policy Gradient Objective",
+        "Policy Optimization"
+      ],
+      [
+        "Background",
+        "Preliminaries"
+      ],
+      [
+        "Foundational Components",
+        "Reward Design"
+      ],
+      [
+        "Off-Policy Optimization",
+        "Policy Optimization"
+      ],
+      [
+        "Foundational Problems",
+        "Reward Type: Process Or Outcome"
+      ]
+    ],
+    "count": 34,
+    "create_time": 1765218641,
+    "update_time": 1765218641,
+    "_id": "doc-b836ebc3527208cd954c81601d5fc314"
+  },
+  "doc-0f35d639cf51f0ab7d4017f06d35581f": {
+    "relation_pairs": [
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Author Contributions"
+      ],
+      [
+        "Large Reasoning Models",
+        "Teaching LRMs Efficient Reasoning"
+      ],
+      [
+        "Large Language Models",
+        "RL for LLMs in Scientific Discovery"
+      ],
+      [
+        "Continual RL for LLMs",
+        "Future Directions"
+      ],
+      [
+        "Large Language Models",
+        "Teaching LLMs Latent Space Reasoning"
+      ],
+      [
+        "Large Language Models",
+        "RL for LLMs Pre-training"
+      ],
+      [
+        "Model-based RL for LLMs",
+        "Reinforcement Learning"
+      ],
+      [
+        "Future Directions",
+        "RL for Architecture-Algorithm Co-Design"
+      ],
+      [
+        "Large Language Models",
+        "Model-based RL for LLMs"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Robotics Tasks"
+      ],
+      [
+        "Continual RL for LLMs",
+        "Large Language Models"
+      ],
+      [
+        "RL for Architecture-Algorithm Co-Design",
+        "Reinforcement Learning"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Multi-Agent Systems"
+      ],
+      [
+        "Large Language Models",
+        "RL for Diffusion-based LLMs"
+      ],
+      [
+        "Continual RL for LLMs",
+        "Reinforcement Learning"
+      ],
+      [
+        "Future Directions",
+        "RL for LLMs in Scientific Discovery"
+      ],
+      [
+        "Large Language Models",
+        "Memory-based RL for LLMs"
+      ],
+      [
+        "Memory-based RL for LLMs",
+        "Reinforcement Learning"
+      ],
+      [
+        "Future Directions",
+        "Teaching LLMs Latent Space Reasoning"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Medical Tasks"
+      ],
+      [
+        "Future Directions",
+        "Teaching LRMs Efficient Reasoning"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Future Directions"
+      ],
+      [
+        "Future Directions",
+        "RL for LLMs Pre-training"
+      ],
+      [
+        "Future Directions",
+        "Model-based RL for LLMs"
+      ],
+      [
+        "RL for Diffusion-based LLMs",
+        "Reinforcement Learning"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Conclusion"
+      ],
+      [
+        "Future Directions",
+        "RL for Diffusion-based LLMs"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Large Reasoning Models"
+      ],
+      [
+        "RL for LLMs in Scientific Discovery",
+        "Reinforcement Learning"
+      ],
+      [
+        "Future Directions",
+        "Memory-based RL for LLMs"
+      ],
+      [
+        "RL for LLMs Pre-training",
+        "Reinforcement Learning"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Reinforcement Learning"
+      ]
+    ],
+    "count": 32,
+    "create_time": 1765218686,
+    "update_time": 1765218686,
+    "_id": "doc-0f35d639cf51f0ab7d4017f06d35581f"
+  },
+  "doc-8b7f62b7202fa8bc4469bb44567df186": {
+    "relation_pairs": [
+      [
+        "Compute Budget",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Direct Preference Optimization (DPO)",
+        "Rafailov et al., 2023"
+      ],
+      [
+        "Data Limitations",
+        "Villalobos et al., 2022"
+      ],
+      [
+        "DeepSeek-R1",
+        "Reinforcement Learning with Verifiable Rewards (RLVR)"
+      ],
+      [
+        "Pre-Training",
+        "Scaling Axis"
+      ],
+      [
+        "Data Limitations",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Chain-of-Thought",
+        "Wei et al., 2022"
+      ],
+      [
+        "AlphaZero",
+        "Chess"
+      ],
+      [
+        "Automatically Checkable Rewards",
+        "Competition Mathematics"
+      ],
+      [
+        "Human Alignment",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Reinforcement Learning with Verifiable Rewards (RLVR)",
+        "Verifiable Rewards"
+      ],
+      [
+        "AlphaZero",
+        "Silver et al., 2017"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Self-Generated Training Data"
+      ],
+      [
+        "Data Limitations",
+        "Shumailov et al., 2024"
+      ],
+      [
+        "Liu et al., 2025m",
+        "Test-Time Compute"
+      ],
+      [
+        "Human Alignment",
+        "Ouyang et al., 2022"
+      ],
+      [
+        "DeepSeek-R1",
+        "RL for Large Reasoning Models (LRMs)"
+      ],
+      [
+        "DeepSeek-R1",
+        "Guo et al., 2025a"
+      ],
+      [
+        "Large Language Models (LLMs)",
+        "Zhao et al., 2023a"
+      ],
+      [
+        "Jaech et al., 2024",
+        "OpenAI o1"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Reward Maximization Objective"
+      ],
+      [
+        "DeepSeek-R1",
+        "Mathematics"
+      ],
+      [
+        "Automatically Checkable Rewards",
+        "Competitive Programming"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Sutton et al., 1998"
+      ],
+      [
+        "AlphaZero",
+        "Stratego"
+      ],
+      [
+        "Bai et al., 2022b",
+        "Helpfulness, Honesty, and Harmlessness (3H)"
+      ],
+      [
+        "AlphaGo",
+        "Reward Feedback"
+      ],
+      [
+        "Infrastructure",
+        "RL for Large Reasoning Models (LRMs)"
+      ],
+      [
+        "AlphaZero",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Artificial Superintelligence (ASI)",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Human Alignment",
+        "Reinforcement Learning from Human Feedback (RLHF)"
+      ],
+      [
+        "RL for Large Reasoning Models (LRMs)",
+        "Training Data"
+      ],
+      [
+        "Snell et al., 2024",
+        "Test-Time Compute"
+      ],
+      [
+        "AlphaZero",
+        "Go"
+      ],
+      [
+        "Automatically Checkable Rewards",
+        "Selected Scientific Domains"
+      ],
+      [
+        "RL for Large Reasoning Models (LRMs)",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Artificial Agents",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Direct Preference Optimization (DPO)",
+        "Human Alignment"
+      ],
+      [
+        "AlphaZero",
+        "Silver et al., 2018"
+      ],
+      [
+        "Christiano et al., 2017",
+        "Reinforcement Learning from Human Feedback (RLHF)"
+      ],
+      [
+        "Long-Form Reasoning",
+        "Reinforcement Learning with Verifiable Rewards (RLVR)"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Reward Signals"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Test-Time Compute"
+      ],
+      [
+        "Brown et al., 2024",
+        "Test-Time Compute"
+      ],
+      [
+        "DeepSeek-R1",
+        "Group Relative Policy Optimization (GRPO)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Frontier Reasoning Models"
+      ],
+      [
+        "Self-Generated Training Data",
+        "Silver et al., 2018"
+      ],
+      [
+        "OpenAI o1",
+        "Scaling Axis"
+      ],
+      [
+        "Helpfulness, Honesty, and Harmlessness (3H)",
+        "Reinforcement Learning from Human Feedback (RLHF)"
+      ],
+      [
+        "OpenAI, 2025a,b",
+        "Reasoning"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Foundational Components of RL for LRMs"
+      ],
+      [
+        "Reward Maximization Objective",
+        "Silver et al., 2021"
+      ],
+      [
+        "Frontier Reasoning Models",
+        "OpenAI o1"
+      ],
+      [
+        "Base Models",
+        "Group Relative Policy Optimization (GRPO)"
+      ],
+      [
+        "Computational Resources",
+        "RL for Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Aghajanyan et al., 2023",
+        "Scaling Axis"
+      ],
+      [
+        "Long-Form Reasoning",
+        "Self-Correction"
+      ],
+      [
+        "OpenAI o1",
+        "RL for Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Algorithm Design",
+        "RL for Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Direct Preference Optimization (DPO)",
+        "Helpfulness, Honesty, and Harmlessness (3H)"
+      ],
+      [
+        "Long-Form Reasoning",
+        "RL for Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Large Language Models (LLMs)",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Preliminary Definitions of RL Modeling"
+      ],
+      [
+        "OpenAI o1",
+        "Reinforcement Learning with Verifiable Rewards (RLVR)"
+      ],
+      [
+        "OpenAI o1",
+        "Train-Time Compute"
+      ],
+      [
+        "RL for Large Reasoning Models (LRMs)",
+        "Reasoning"
+      ],
+      [
+        "Kaplan et al., 2020",
+        "Scaling Axis"
+      ],
+      [
+        "AlphaZero",
+        "Perolat et al., 2022"
+      ],
+      [
+        "Chain-of-Thought",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Long-Form Reasoning",
+        "Planning"
+      ],
+      [
+        "Coding Tasks",
+        "DeepSeek-R1"
+      ],
+      [
+        "AlphaZero",
+        "Reward Feedback"
+      ],
+      [
+        "Group Relative Policy Optimization (GRPO)",
+        "Reasoning"
+      ],
+      [
+        "Bai et al., 2025",
+        "Selected Scientific Domains"
+      ],
+      [
+        "AlphaGo",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "AlphaZero",
+        "Schrittwieser et al., 2020"
+      ],
+      [
+        "Long-Form Reasoning",
+        "Reflection"
+      ],
+      [
+        "AlphaGo",
+        "Go"
+      ],
+      [
+        "Answer Correctness for Mathematics",
+        "Reinforcement Learning with Verifiable Rewards (RLVR)"
+      ],
+      [
+        "OpenAI o1",
+        "Test-Time Compute"
+      ],
+      [
+        "Reinforcement Learning with Verifiable Rewards (RLVR)",
+        "Unit-Test Pass Rates for Code"
+      ],
+      [
+        "RL for Large Reasoning Models (LRMs)",
+        "Xu et al., 2025a"
+      ],
+      [
+        "AlphaGo",
+        "Silver et al., 2016"
+      ],
+      [
+        "Competitive Programming",
+        "El-Kishky et al., 2025"
+      ],
+      [
+        "AlphaZero",
+        "Shogi"
+      ]
+    ],
+    "count": 85,
+    "create_time": 1765218773,
+    "update_time": 1765218773,
+    "_id": "doc-8b7f62b7202fa8bc4469bb44567df186"
+  },
+  "doc-8355cb8033a4afe3e01992fcee557002": {
+    "relation_pairs": [
+      [
+        "Multimodal Tasks",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Open-Ended RL",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Training Infrastructure",
+        "Training Resources"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Controversial Problems"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Foundational Problems"
+      ],
+      [
+        "Actions",
+        "Agent"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Scaling RL"
+      ],
+      [
+        "Sampling Strategies",
+        "Technical Approaches"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Role of RL"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Technical Approaches"
+      ],
+      [
+        "RL From Human Direct Preference",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Markov Decision Process",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Mechanisms"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Llama 3"
+      ],
+      [
+        "Features",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Rule-Based RL"
+      ],
+      [
+        "Dynamic Environments",
+        "Training Resources"
+      ],
+      [
+        "RLVR",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Scaling RL"
+      ],
+      [
+        "Static Corpora",
+        "Training Resources"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Technical Approaches"
+      ],
+      [
+        "Policy Optimization",
+        "Technical Approaches"
+      ],
+      [
+        "RL With Verifiable Feedback Optimization Reward",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Robotics Tasks"
+      ],
+      [
+        "Research Directions",
+        "Sampling Strategies"
+      ],
+      [
+        "Controversial Problems",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Features"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "O1"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Sequential Decision Making"
+      ],
+      [
+        "Agent",
+        "Environment"
+      ],
+      [
+        "Model Priors",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Large Language Models (LLMs)",
+        "Open-Ended RL"
+      ],
+      [
+        "Mechanisms",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Qwen 2.5"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Training Recipes"
+      ],
+      [
+        "Foundational Problems",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "DPO",
+        "Human Alignment"
+      ],
+      [
+        "DeepSeek-R1",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Coding Tasks",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Training Resources"
+      ],
+      [
+        "Policy Optimization",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Agentic Tasks",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Reward Definitions"
+      ],
+      [
+        "Agent",
+        "Cumulative Reward"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Reward-Free RL"
+      ],
+      [
+        "DPO",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "RLHF",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Agent",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "RLVR"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Training Recipes"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Research Directions"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Supervised Fine-Tuning (SFT)"
+      ],
+      [
+        "Large Language Models (LLMs)",
+        "Scaling RL"
+      ],
+      [
+        "Multi-Agent Systems",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Policy Optimization",
+        "Research Directions"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Reward Definitions"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Research Directions"
+      ],
+      [
+        "Controversial Problems",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "GPT-3.5",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "GPT-4",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Role of RL"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Novel Algorithms"
+      ],
+      [
+        "Complex Task Solving",
+        "RLVR"
+      ],
+      [
+        "Medical Applications",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Research Avenues"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Reward-Based RL"
+      ],
+      [
+        "Human Alignment",
+        "RLHF"
+      ],
+      [
+        "Novel Algorithms",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Scaling RL"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Sampling Strategies"
+      ],
+      [
+        "Foundational Problems",
+        "Large Reasoning Models (LRMs)"
+      ],
+      [
+        "Reinforcement Learning (RL)",
+        "Role of RL"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Research Avenues"
+      ],
+      [
+        "Large Reasoning Models (LRMs)",
+        "Model Priors"
+      ]
+    ],
+    "count": 76,
+    "create_time": 1765218861,
+    "update_time": 1765218861,
+    "_id": "doc-8355cb8033a4afe3e01992fcee557002"
+  },
+  "doc-42002d06ba2f88fbde0f4fdbf912a18f": {
+    "relation_pairs": [
+      [
+        "Agent",
+        "Language Models (LMs)"
+      ],
+      [
+        "Large Language Models (LLMs)",
+        "Transition Dynamics (P)"
+      ],
+      [
+        "Action",
+        "Agent"
+      ],
+      [
+        "State",
+        "Token (a ∈ V)"
+      ],
+      [
+        "Reward",
+        "Token (a ∈ V)"
+      ],
+      [
+        "Policy (πθ)",
+        "Terminal State"
+      ],
+      [
+        "Prompt/Task (x)",
+        "State"
+      ],
+      [
+        "Completion Tokens",
+        "State"
+      ],
+      [
+        "Markov Decision Process (MDP)",
+        "Reward Function (R)"
+      ],
+      [
+        "Action",
+        "Sequence (y)"
+      ],
+      [
+        "Markov Decision Process (MDP)",
+        "State Space (S)"
+      ],
+      [
+        "Discount Factor (γ)",
+        "Markov Decision Process (MDP)"
+      ],
+      [
+        "Response",
+        "Reward"
+      ],
+      [
+        "Action",
+        "Reward"
+      ],
+      [
+        "Environment",
+        "Reward"
+      ],
+      [
+        "Data Distribution (D)",
+        "Learning Objective"
+      ],
+      [
+        "Reward",
+        "Sequence (y)"
+      ],
+      [
+        "Return (G)",
+        "Trajectory"
+      ],
+      [
+        "Dataset D",
+        "Prompt/Task (x)"
+      ],
+      [
+        "Action Space (A)",
+        "Markov Decision Process (MDP)"
+      ],
+      [
+        "Agent",
+        "Policy (πθ)"
+      ],
+      [
+        "Learning Objective",
+        "Return (G)"
+      ],
+      [
+        "Return (G)",
+        "Table 2"
+      ],
+      [
+        "Policy (πθ)",
+        "Sequence (y)"
+      ],
+      [
+        "Agent",
+        "State"
+      ],
+      [
+        "Environment",
+        "State"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Agent",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Action",
+        "Segment (y(k))"
+      ],
+      [
+        "Environment",
+        "Reinforcement Learning (RL)"
+      ],
+      [
+        "Completion Tokens",
+        "Language Models (LMs)"
+      ],
+      [
+        "Markov Decision Process (MDP)",
+        "Sutton et al., 1998"
+      ],
+      [
+        "Markov Decision Process (MDP)",
+        "Transition Dynamics (P)"
+      ],
+      [
+        "Reward",
+        "Segment (y(k))"
+      ],
+      [
+        "State",
+        "Transition Dynamics (P)"
+      ],
+      [
+        "EOS Token",
+        "Trajectory"
+      ],
+      [
+        "EOS Token",
+        "Terminal State"
+      ],
+      [
+        "Data Distribution (D)",
+        "Dataset D"
+      ],
+      [
+        "Language Models (LMs)",
+        "Policy (πθ)"
+      ],
+      [
+        "Terminal State",
+        "Trajectory"
+      ],
+      [
+        "Data Distribution (D)",
+        "Prompt/Task (x)"
+      ],
+      [
+        "Action",
+        "Table 2"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Large Reasoning Models"
+      ],
+      [
+        "Action",
+        "Token (a ∈ V)"
+      ]
+    ],
+    "count": 44,
+    "create_time": 1765218908,
+    "update_time": 1765218908,
+    "_id": "doc-42002d06ba2f88fbde0f4fdbf912a18f"
+  },
+  "doc-37f12102e8df23d0bf48e221b1e75d9e": {
+    "relation_pairs": [
+      [
+        "Science Benchmarks",
+        "o1 Series"
+      ],
+      [
+        "Claude Series",
+        "Multimodality"
+      ],
+      [
+        "Gemini 2.5",
+        "Longer Context Lengths"
+      ],
+      [
+        "GPT5",
+        "OpenAI, 2025a"
+      ],
+      [
+        "OpenAI",
+        "o1 Series"
+      ],
+      [
+        "R1-Distilled Models",
+        "Skywork-OR1"
+      ],
+      [
+        "Kimi 1.5",
+        "Team, 2025d"
+      ],
+      [
+        "Advanced Reasoning Abilities",
+        "o3 Series"
+      ],
+      [
+        "GPT5",
+        "OpenAI"
+      ],
+      [
+        "Algorithmic Innovations",
+        "Skywork-OR1"
+      ],
+      [
+        "Scaling Train-Time RL",
+        "o1 Series"
+      ],
+      [
+        "Anthropic, 2025a",
+        "Claude-3.7-Sonnet"
+      ],
+      [
+        "Agentic Tasks",
+        "DeepSeek-V3.1"
+      ],
+      [
+        "Hybrid RL",
+        "MPO"
+      ],
+      [
+        "AI System",
+        "GPT5"
+      ],
+      [
+        "Large Reasoning Models",
+        "Multimodal LRMs"
+      ],
+      [
+        "Anthropic, 2025b",
+        "Claude-4.1-Opus"
+      ],
+      [
+        "Scaling Test-Time Compute",
+        "o1 Series"
+      ],
+      [
+        "Coding Benchmarks",
+        "o1 Series"
+      ],
+      [
+        "Skywork R1V2",
+        "Wang et al., 2025k"
+      ],
+      [
+        "Qwen Family",
+        "Qwen3 Series"
+      ],
+      [
+        "GPT-5 Thinking",
+        "GPT5"
+      ],
+      [
+        "Mathematics Benchmarks",
+        "o1 Series"
+      ],
+      [
+        "Reinforcement Learning",
+        "Skywork R1V2"
+      ],
+      [
+        "InternVL3",
+        "Zhu et al., 2025c"
+      ],
+      [
+        "QVQ",
+        "Visual Reasoning"
+      ],
+      [
+        "QwQ-32B",
+        "Qwen Team"
+      ],
+      [
+        "Learned Policy",
+        "Reference Policy"
+      ],
+      [
+        "GRPO",
+        "Hybrid RL"
+      ],
+      [
+        "Agentic LRMs",
+        "Large Reasoning Models"
+      ],
+      [
+        "QwQ-32B",
+        "Team, 2025g"
+      ],
+      [
+        "Qwen3 Series",
+        "Qwen3-235B"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Reinforcement Learning"
+      ],
+      [
+        "KL-Divergence Constraints",
+        "Training"
+      ],
+      [
+        "Jaechetal.,2024",
+        "o1 Series"
+      ],
+      [
+        "Agarwal et al., 2025a",
+        "gpt-oss-120b"
+      ],
+      [
+        "Multimodality",
+        "Widespread Adoption of Reasoning Models"
+      ],
+      [
+        "Joint Reasoning Over Text and Vision Domains",
+        "Kimi 1.5"
+      ],
+      [
+        "Seed-OSS",
+        "Team, 2025a"
+      ],
+      [
+        "He et al., 2025d",
+        "Skywork-OR1"
+      ],
+      [
+        "Agentic Tasks",
+        "Claude Series"
+      ],
+      [
+        "Benchmark Scores",
+        "Qwen3-235B"
+      ],
+      [
+        "OpenAI",
+        "gpt-oss-120b"
+      ],
+      [
+        "Chen et al., 2025a",
+        "Minimax-M1"
+      ],
+      [
+        "Multi-Stage Training Pipeline",
+        "R1"
+      ],
+      [
+        "Kimi K2",
+        "Team, 2025d"
+      ],
+      [
+        "QVQ",
+        "Qwen Team, 2025"
+      ],
+      [
+        "R1",
+        "o1 Series"
+      ],
+      [
+        "Bercovich et al., 2025",
+        "Llama-Nemotron-Ultra"
+      ],
+      [
+        "General RL Procedure",
+        "Kimi K2"
+      ],
+      [
+        "Jimenez et al., 2023",
+        "SWE-bench"
+      ],
+      [
+        "Gemini 2.5",
+        "Text Domain"
+      ],
+      [
+        "Gemini 2.5",
+        "Video Domain"
+      ],
+      [
+        "Analytical Thinking",
+        "QVQ"
+      ],
+      [
+        "Gemini Family",
+        "Multimodality"
+      ],
+      [
+        "Large Reasoning Models",
+        "Reinforcement Learning"
+      ],
+      [
+        "Qwen3 Series",
+        "Yang et al., 2025a"
+      ],
+      [
+        "Qwen Team",
+        "Qwen3 Series"
+      ],
+      [
+        "OpenAI",
+        "o3 Series"
+      ],
+      [
+        "Agentic Tasks",
+        "GLM4.5"
+      ],
+      [
+        "Anthropic",
+        "Claude-3.7-Sonnet"
+      ],
+      [
+        "Minimax-M1",
+        "Reinforcement Learning"
+      ],
+      [
+        "KL-Divergence Constraints",
+        "Language Quality"
+      ],
+      [
+        "Comanici et al., 2025",
+        "Gemini 2.5"
+      ],
+      [
+        "Agentic Tasks",
+        "Kimi K2"
+      ],
+      [
+        "Data Mixtures",
+        "Skywork-OR1"
+      ],
+      [
+        "Efficient Model",
+        "GPT5"
+      ],
+      [
+        "QwQ-32B",
+        "R1"
+      ],
+      [
+        "Claude-4.1-Opus",
+        "SWE-bench"
+      ],
+      [
+        "Kimi K2",
+        "Non-Verifiable Rewards"
+      ],
+      [
+        "Comanici et al., 2025",
+        "Gemini 2.0"
+      ],
+      [
+        "Hybrid RL",
+        "Skywork R1V2"
+      ],
+      [
+        "Multimodality",
+        "o3 Series"
+      ],
+      [
+        "InternVL Series",
+        "InternVL3"
+      ],
+      [
+        "Efficiency",
+        "Llama-Nemotron-Ultra"
+      ],
+      [
+        "Frontier Models",
+        "Large Reasoning Models"
+      ],
+      [
+        "Long-Context Reasoning Abilities",
+        "Seed-OSS"
+      ],
+      [
+        "Qwen Family",
+        "Qwen Team"
+      ],
+      [
+        "Kimi 1.5",
+        "Multimodal Reasoning"
+      ],
+      [
+        "Generalization Across Domains",
+        "Seed-Thinking 1.5"
+      ],
+      [
+        "Gemini 2.5",
+        "Images Domain"
+      ],
+      [
+        "Anthropic",
+        "Claude-4.1-Opus"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Large Reasoning Models"
+      ],
+      [
+        "GLM4.5",
+        "Tool-Use"
+      ],
+      [
+        "Seed et al., 2025b",
+        "Seed-Thinking 1.5"
+      ],
+      [
+        "Kimi K2",
+        "Large-Scale Agentic Training Data Synthesis"
+      ],
+      [
+        "R1",
+        "Zero RL"
+      ],
+      [
+        "Kimi 1.5",
+        "Long Context Scaling"
+      ],
+      [
+        "Audio Domain",
+        "Gemini 2.5"
+      ],
+      [
+        "General Abilities",
+        "Skywork R1V2"
+      ],
+      [
+        "Reasoning Abilities",
+        "o1 Series"
+      ],
+      [
+        "GLM4.5",
+        "Zeng et al., 2025a"
+      ],
+      [
+        "DeepSeek-V3.1",
+        "Tool-Use"
+      ],
+      [
+        "Claude-3.7-Sonnet",
+        "Hybrid Reasoning"
+      ],
+      [
+        "Magistral24B",
+        "Rastogi et al., 2025"
+      ],
+      [
+        "Scalable RL Training",
+        "Skywork-OR1"
+      ],
+      [
+        "KL-Divergence Constraints",
+        "Reference Policy"
+      ],
+      [
+        "Guo et al., 2025a",
+        "R1"
+      ],
+      [
+        "OpenAI, 2025b",
+        "o3 Series"
+      ],
+      [
+        "Accuracy",
+        "Llama-Nemotron-Ultra"
+      ],
+      [
+        "LRMs",
+        "Large Reasoning Models"
+      ],
+      [
+        "Magistral24B",
+        "Reinforcement Learning from Scratch"
+      ],
+      [
+        "AI System",
+        "OpenAI"
+      ],
+      [
+        "Reinforcement Learning",
+        "Zero RL"
+      ],
+      [
+        "Frontier Models",
+        "Reinforcement Learning"
+      ],
+      [
+        "Hybrid Attention",
+        "Minimax-M1"
+      ],
+      [
+        "QwQ-32B",
+        "Qwen Family"
+      ],
+      [
+        "GPT5",
+        "Multimodality"
+      ],
+      [
+        "Distillation from Prior Models",
+        "Magistral24B"
+      ],
+      [
+        "DeepSeek",
+        "R1"
+      ],
+      [
+        "Gemini 2.0",
+        "Longer Context Lengths"
+      ]
+    ],
+    "count": 111,
+    "create_time": 1765219044,
+    "update_time": 1765219044,
+    "_id": "doc-37f12102e8df23d0bf48e221b1e75d9e"
+  },
+  "doc-aa95a088a3c7d1c923aa324fd7c02a63": {
+    "relation_pairs": [
+      [
+        "Adaptive Behaviors",
+        "LLMs"
+      ],
+      [
+        "Gemini 2.5 Pro",
+        "O3-Pro"
+      ],
+      [
+        "DeepSeek-R1",
+        "DeepSeek-R1-0528 671B"
+      ],
+      [
+        "Ghasemi et al. [2024]",
+        "Reinforcement Learning"
+      ],
+      [
+        "DeepSeek-R1",
+        "DeepSeek-R1 671B"
+      ],
+      [
+        "Foundation Models",
+        "Sun et al. [2025b]"
+      ],
+      [
+        "RLVR",
+        "Reasoning LLMs"
+      ],
+      [
+        "Large Reasoning Models",
+        "Sun et al. [2025b]"
+      ],
+      [
+        "GLM-4.5V",
+        "Visual Multimodal Benchmarks"
+      ],
+      [
+        "Li et al. [2025w]",
+        "Long Chain-of-Thought Reasoning"
+      ],
+      [
+        "Intern-S1",
+        "Multimodal Scientific Reasoning"
+      ],
+      [
+        "RL in Computer Vision Tasks",
+        "Wu et al. [2025h]"
+      ],
+      [
+        "DeepSeek-R1",
+        "Zhang et al. [2025a]"
+      ],
+      [
+        "Chen et al. [2025m]",
+        "Long Chain-of-Thought Reasoning"
+      ],
+      [
+        "Step3",
+        "Wang et al. [2025a]"
+      ],
+      [
+        "Minimizing Decoding Costs",
+        "Step3"
+      ],
+      [
+        "Figure 4",
+        "Multimodal Models"
+      ],
+      [
+        "Large Reasoning Models",
+        "Table 1"
+      ],
+      [
+        "Gemini 2.5 Flash",
+        "Gemini 2.5 Pro"
+      ],
+      [
+        "InternVL3.5",
+        "Two-Stage Cascade RL Framework"
+      ],
+      [
+        "Intern-S1",
+        "Online RL"
+      ],
+      [
+        "Long Chain-of-Thought Reasoning",
+        "Xia et al. [2024]"
+      ],
+      [
+        "O3-Pro",
+        "Seed-Thinking 1.6"
+      ],
+      [
+        "LLMs",
+        "RLHF"
+      ],
+      [
+        "LLMs",
+        "RLVR"
+      ],
+      [
+        "21/117B",
+        "GLM-4.5V 106B"
+      ],
+      [
+        "Bai et al. [2025]",
+        "Intern-S1"
+      ],
+      [
+        "InternVL3.5",
+        "InternVL3.5 1-241B"
+      ],
+      [
+        "Li et al. [2025w]",
+        "System 1 Reasoning"
+      ],
+      [
+        "RLHF",
+        "Reasoning LLMs"
+      ],
+      [
+        "LLMs",
+        "Zhao et al. [2023a]"
+      ],
+      [
+        "LLMs",
+        "Long Chain-of-Thought Reasoning"
+      ],
+      [
+        "Efficient Training",
+        "Step3"
+      ],
+      [
+        "Adaptive Behaviors",
+        "Sui et al. [2025]"
+      ],
+      [
+        "GLM-4.5V",
+        "GLM-4.5V 106B"
+      ],
+      [
+        "Intern-S1",
+        "Mixture-of-Rewards Design"
+      ],
+      [
+        "GLM-4.5V",
+        "Team et al. [2025a]"
+      ],
+      [
+        "Gemini 2.5 Flash",
+        "Seed-Thinking 1.6"
+      ],
+      [
+        "Hunyuan-TurboS Step 3321B",
+        "Step3"
+      ],
+      [
+        "Intern-S 1241B",
+        "Intern-S1"
+      ],
+      [
+        "Li et al. [2025w]",
+        "System 2 Reasoning"
+      ],
+      [
+        "InternVL3.5",
+        "Unified Native Multimodal Pretraining Phase"
+      ],
+      [
+        "LLM Architectures",
+        "Zhao et al. [2023a]"
+      ],
+      [
+        "Gemini 2.5 Flash",
+        "O3-Pro"
+      ],
+      [
+        "Adaptive Behaviors",
+        "Feng et al. [2025c]"
+      ],
+      [
+        "Huh and Mohapatra [2023]",
+        "Multi-Agent RL"
+      ],
+      [
+        "Figure 4",
+        "Large Reasoning Models"
+      ],
+      [
+        "InternVL3.5",
+        "Wang et al. [2025o]"
+      ],
+      [
+        "Self-Play Techniques",
+        "Zhang et al. [2024b]"
+      ],
+      [
+        "Figure 4",
+        "Reinforcement Learning"
+      ],
+      [
+        "Reasoning LLMs",
+        "Zhang et al. [2025a]"
+      ],
+      [
+        "Figure 4",
+        "Language Models"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Large Reasoning Models"
+      ],
+      [
+        "Agentic Models",
+        "Figure 4"
+      ],
+      [
+        "Gemini 2.5 Pro",
+        "Seed-Thinking 1.6"
+      ],
+      [
+        "ASurveyofReinforcementLearningforLargeReasoningModels",
+        "Reinforcement Learning"
+      ],
+      [
+        "Reasoning via Foundation Models",
+        "Sun et al. [2025b]"
+      ]
+    ],
+    "count": 57,
+    "create_time": 1765219167,
+    "update_time": 1765219167,
+    "_id": "doc-aa95a088a3c7d1c923aa324fd7c02a63"
+  },
+  "doc-9f6704aa27cd8e9483d9f72f2cf4c3fe": {
+    "relation_pairs": [
+      [
+        "GLM-4.1V-Thinking",
+        "Open-Source Models"
+      ],
+      [
+        "Image Modality",
+        "InternVL3"
+      ],
+      [
+        "SkyworkOR-1",
+        "Text Modality"
+      ],
+      [
+        "GRPO",
+        "Magistral"
+      ],
+      [
+        "InternVL3.5",
+        "Open-Source Models"
+      ],
+      [
+        "Dense Architecture",
+        "Phi-4Reasoning"
+      ],
+      [
+        "Step3",
+        "Text Modality"
+      ],
+      [
+        "ORZ",
+        "StepAI"
+      ],
+      [
+        "DeepSeek-R1",
+        "Multi-Layer Attention"
+      ],
+      [
+        "DeepSeek-R1",
+        "Mixture of Experts"
+      ],
+      [
+        "DeepSeek-R1",
+        "Text Modality"
+      ],
+      [
+        "GSPO",
+        "InternVL3.5"
+      ],
+      [
+        "InternVL3",
+        "Mixed Preference Optimization"
+      ],
+      [
+        "Llama-Nemotron-Ultra",
+        "NVIDIA"
+      ],
+      [
+        "GRPO",
+        "Skywork-R1V2"
+      ],
+      [
+        "GRPO",
+        "Llama-Nemotron-Ultra"
+      ],
+      [
+        "GRPO",
+        "Intern-S1"
+      ],
+      [
+        "InternVL3",
+        "ShanghaiAILab"
+      ],
+      [
+        "GLM-4.1V-Thinking",
+        "Text Modality"
+      ],
+      [
+        "Mixed Preference Optimization",
+        "Skywork-R1V2"
+      ],
+      [
+        "Skywork",
+        "SkyworkOR-1"
+      ],
+      [
+        "InternVL3",
+        "Open-Source Models"
+      ],
+      [
+        "Open-Source Models",
+        "Skywork-R1V2"
+      ],
+      [
+        "Clipped IS-weight Policy Optimization",
+        "Reinforcement Learning"
+      ],
+      [
+        "Phi-4Reasoning",
+        "Text Modality"
+      ],
+      [
+        "Magistral",
+        "MistralAI"
+      ],
+      [
+        "Image Modality",
+        "Skywork-R1V2"
+      ],
+      [
+        "Dense Architecture",
+        "QwQ"
+      ],
+      [
+        "Open-Source Models",
+        "Phi-4Reasoning"
+      ],
+      [
+        "GRPO",
+        "SkyworkOR-1"
+      ],
+      [
+        "Step3",
+        "Video Modality"
+      ],
+      [
+        "Minimax-M1",
+        "Open-Source Models"
+      ],
+      [
+        "GLM-4.5V",
+        "Image Modality"
+      ],
+      [
+        "DeepSeek-R1",
+        "GRPO"
+      ],
+      [
+        "Dense Architecture",
+        "InternVL3"
+      ],
+      [
+        "Qwen3",
+        "Text Modality"
+      ],
+      [
+        "MiMo",
+        "Open-Source Models"
+      ],
+      [
+        "InternVL3",
+        "Text Modality"
+      ],
+      [
+        "GLM-4.5V",
+        "GRPO"
+      ],
+      [
+        "Hybrid Mixture of Experts",
+        "Minimax-M1"
+      ],
+      [
+        "GLM-4.1V-Thinking",
+        "Video Modality"
+      ],
+      [
+        "Dense Architecture",
+        "Qwen3-2507"
+      ],
+      [
+        "Dense Architecture",
+        "Magistral"
+      ],
+      [
+        "Llama-Nemotron-Ultra",
+        "Open-Source Models"
+      ],
+      [
+        "GRPO",
+        "Reinforcement Learning"
+      ],
+      [
+        "PPO",
+        "Reinforcement Learning"
+      ],
+      [
+        "Baidu",
+        "ERNIE-4.5-Thinking"
+      ],
+      [
+        "Mixed Preference Optimization",
+        "Reinforcement Learning"
+      ],
+      [
+        "Minimax-M1",
+        "Text Modality"
+      ],
+      [
+        "Open-Source Models",
+        "Reinforcement Learning"
+      ],
+      [
+        "Intern-S1",
+        "ShanghaiAILab"
+      ],
+      [
+        "Seed-OSS",
+        "Text Modality"
+      ],
+      [
+        "Hunyuan-TurboS",
+        "Hybrid Mixture of Experts"
+      ],
+      [
+        "Mixture of Experts",
+        "Qwen3-2507"
+      ],
+      [
+        "Intern-S1",
+        "Open-Source Models"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Reinforcement Learning"
+      ],
+      [
+        "GRPO",
+        "Qwen3"
+      ],
+      [
+        "GLM-4.5V",
+        "Open-Source Models"
+      ],
+      [
+        "Dense Architecture",
+        "Skywork-R1V2"
+      ],
+      [
+        "Dense Architecture",
+        "Llama-Nemotron-Ultra"
+      ],
+      [
+        "MiMo",
+        "Text Modality"
+      ],
+      [
+        "Microsoft",
+        "Phi-4Reasoning"
+      ],
+      [
+        "Minimax",
+        "Minimax-M1"
+      ],
+      [
+        "DeepSeek-R1-0528",
+        "Multi-Layer Attention"
+      ],
+      [
+        "DeepSeek-R1-0528",
+        "Mixture of Experts"
+      ],
+      [
+        "Llama-Nemotron-Ultra",
+        "Text Modality"
+      ],
+      [
+        "InternVL3",
+        "Video Modality"
+      ],
+      [
+        "Open-Source Models",
+        "Qwen3-2507"
+      ],
+      [
+        "MiMo",
+        "Xiaomi"
+      ],
+      [
+        "AlibabaQwen",
+        "QwQ"
+      ],
+      [
+        "KimiK2",
+        "Open-Source Models"
+      ],
+      [
+        "Online Policy Mirror Descent",
+        "Reinforcement Learning"
+      ],
+      [
+        "INTELLECT-2",
+        "Text Modality"
+      ],
+      [
+        "Intern-S1",
+        "Mixture of Experts"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Table 1"
+      ],
+      [
+        "Intern-S1",
+        "Text Modality"
+      ],
+      [
+        "GLM-4.5V",
+        "Mixture of Experts"
+      ],
+      [
+        "GLM-4.5V",
+        "Text Modality"
+      ],
+      [
+        "Dense Architecture",
+        "ORZ"
+      ],
+      [
+        "Image Modality",
+        "Intern-S1"
+      ],
+      [
+        "DeepSeek-R1-0528",
+        "GRPO"
+      ],
+      [
+        "AlibabaQwen",
+        "Qwen3-2507"
+      ],
+      [
+        "KimiK2",
+        "Text Modality"
+      ],
+      [
+        "Skywork-R1V2",
+        "Text Modality"
+      ],
+      [
+        "KimiK2",
+        "Mixture of Experts"
+      ],
+      [
+        "DeepSeek",
+        "DeepSeek-R1-0528"
+      ],
+      [
+        "Open-Source Models",
+        "SkyworkOR-1"
+      ],
+      [
+        "Intern-S1",
+        "Video Modality"
+      ],
+      [
+        "Dense Architecture",
+        "GLM-4.1V-Thinking"
+      ],
+      [
+        "INTELLECT-2",
+        "IntellectAI"
+      ],
+      [
+        "Qwen3-2507",
+        "Text Modality"
+      ],
+      [
+        "GLM-4.5V",
+        "Video Modality"
+      ],
+      [
+        "DeepSeek-R1-0528",
+        "Open-Source Models"
+      ],
+      [
+        "Mixture of Experts",
+        "Step3"
+      ],
+      [
+        "Mixture of Experts",
+        "Qwen3"
+      ],
+      [
+        "Image Modality",
+        "InternVL3.5"
+      ],
+      [
+        "GRPO",
+        "Hunyuan-TurboS"
+      ],
+      [
+        "INTELLECT-2",
+        "Open-Source Models"
+      ],
+      [
+        "Hunyuan-TurboS",
+        "Open-Source Models"
+      ],
+      [
+        "Open-Source Models",
+        "Step3"
+      ],
+      [
+        "Step3",
+        "StepAI"
+      ],
+      [
+        "Text Modality",
+        "gpt-oss"
+      ],
+      [
+        "Image Modality",
+        "Step3"
+      ],
+      [
+        "Open-Source Models",
+        "Qwen3"
+      ],
+      [
+        "ORZ",
+        "Text Modality"
+      ],
+      [
+        "DeepSeek-R1-0528",
+        "Text Modality"
+      ],
+      [
+        "GLM-4.5",
+        "ZhipuAI"
+      ],
+      [
+        "GLM-4.5",
+        "GRPO"
+      ],
+      [
+        "Open-Source Models",
+        "Table 1"
+      ],
+      [
+        "Dense Architecture",
+        "SkyworkOR-1"
+      ],
+      [
+        "Hunyuan-TurboS",
+        "Tencent"
+      ],
+      [
+        "Hunyuan-TurboS",
+        "Text Modality"
+      ],
+      [
+        "Skywork",
+        "Skywork-R1V3"
+      ],
+      [
+        "GSPO",
+        "Qwen3-2507"
+      ],
+      [
+        "Dense Architecture",
+        "InternVL3.5"
+      ],
+      [
+        "GLM-4.5",
+        "Open-Source Models"
+      ],
+      [
+        "GRPO",
+        "Skywork-R1V3"
+      ],
+      [
+        "Magistral",
+        "Text Modality"
+      ],
+      [
+        "Image Modality",
+        "Skywork-R1V3"
+      ],
+      [
+        "Dense Architecture",
+        "Qwen3"
+      ],
+      [
+        "InternVL3.5",
+        "Mixed Preference Optimization"
+      ],
+      [
+        "ORZ",
+        "Open-Source Models"
+      ],
+      [
+        "GRPO",
+        "MiMo"
+      ],
+      [
+        "GLM-4.5",
+        "Text Modality"
+      ],
+      [
+        "GLM-4.5",
+        "Mixture of Experts"
+      ],
+      [
+        "A Survey of Reinforcement Learning for Large Reasoning Models",
+        "Large Reasoning Models"
+      ],
+      [
+        "InternVL3.5",
+        "ShanghaiAILab"
+      ],
+      [
+        "DeepSeek",
+        "DeepSeek-R1"
+      ],
+      [
+        "ORZ",
+        "PPO"
+      ],
+      [
+        "Skywork",
+        "Skywork-R1V2"
+      ],
+      [
+        "Skywork-R1V3",
+        "Text Modality"
+      ],
+      [
+        "Mixture of Experts",
+        "gpt-oss"
+      ],
+      [
+        "GRPO",
+        "INTELLECT-2"
+      ],
+      [
+        "OpenAI",
+        "gpt-oss"
+      ],
+      [
+        "Open-Source Models",
+        "Seed-OSS"
+      ],
+      [
+        "GSPO",
+        "Reinforcement Learning"
+      ],
+      [
+        "BytedanceSeed",
+        "Seed-OSS"
+      ],
+      [
+        "KimiK2",
+        "Online Policy Mirror Descent"
+      ],
+      [
+        "GRPO",
+        "Phi-4Reasoning"
+      ],
+      [
+        "Magistral",
+        "Open-Source Models"
+      ],
+      [
+        "InternVL3.5",
+        "Text Modality"
+      ],
+      [
+        "Dense Architecture",
+        "Skywork-R1V3"
+      ],
+      [
+        "InternVL3.5",
+        "Mixture of Experts"
+      ],
+      [
+        "Open-Source Models",
+        "gpt-oss"
+      ],
+      [
+        "ERNIE-4.5-Thinking",
+        "Open-Source Models"
+      ],
+      [
+        "GLM-4.1V-Thinking",
+        "Image Modality"
+      ],
+      [
+        "Kimi",
+        "KimiK2"
+      ],
+      [
+        "AlibabaQwen",
+        "Qwen3"
+      ],
+      [
+        "Dense Architecture",
+        "MiMo"
+      ],
+      [
+        "GLM-4.5V",
+        "ZhipuAI"
+      ],
+      [
+        "Clipped IS-weight Policy Optimization",
+        "Minimax-M1"
+      ],
+      [
+        "GLM-4.1V-Thinking",
+        "ZhipuAI"
+      ],
+      [
+        "QwQ",
+        "Text Modality"
+      ],
+      [
+        "Open-Source Models",
+        "Skywork-R1V3"
+      ],
+      [
+        "GLM-4.1V-Thinking",
+        "GRPO"
+      ],
+      [
+        "InternVL3.5",
+        "Video Modality"
+      ],
+      [
+        "Open-Source Models",
+        "QwQ"
+      ],
+      [
+        "DeepSeek-R1",
+        "Open-Source Models"
+      ],
+      [
+        "ERNIE-4.5-Thinking",
+        "Text Modality"
+      ],
+      [
+        "ERNIE-4.5-Thinking",
+        "Mixture of Experts"
+      ],
+      [
+        "Dense Architecture",
+        "Seed-OSS"
+      ],
+      [
+        "Dense Architecture",
+        "INTELLECT-2"
+      ]
+    ],
+    "count": 162,
+    "create_time": 1765219262,
+    "update_time": 1765219262,
+    "_id": "doc-9f6704aa27cd8e9483d9f72f2cf4c3fe"
   }
 }

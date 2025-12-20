@@ -33,3 +33,5 @@ tiktoken
 lightrag-hku
 PyMuPDF
 pdfplumber
+langchain_ollama
+mem0
