@@ -15,7 +15,7 @@ from .base import EmbeddingFunc
 from .faiss_build import FaissVectorStorage
 from .image_faiss_build import FaissImageStorage
 from .kv_storage import KVStorage
-from ....log.logger import logger
+from .....log.logger import logger
 from .tokenizer import TiktokenTokenizer
 from ..data_process import local_doc_process, _move_to_save
 
@@ -609,7 +609,10 @@ async def async_query_local_rag(query: str, top_k: int = 5, auto_build: bool = T
     2. Optionally build a demo cache from a few shards if nothing exists
     3. Return matched chunks with original content
     """
-
+    task = warmup_vanilla_rag(auto_build=auto_build)
+    if task:
+        print("[vanilla-rag] system initialize not include local DB now wait warmup complete")
+        await task
     return await _DEFAULT_SERVICE.query(query, top_k=top_k)
 
 async def _cli_build():

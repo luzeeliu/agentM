@@ -4,7 +4,7 @@ import asyncio
 from dataclasses import dataclass
 from typing import final, Any
 
-from ....log.logger import logger
+from .....log.logger import logger
 from .json_process import write_json, load_json
 from .base import BaseKVStorage
 

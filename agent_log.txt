@@ -1,61 +1,419 @@
-2025-12-08 14:36:52,546 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 14:36:52,594 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 14:36:52,598 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:17:25,226 - agent - WARNING - cpu mode
-2025-12-08 16:18:00,653 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:18:00,709 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:18:00,712 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:21:51,931 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:21:51,989 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:21:51,992 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 16:22:37,634 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:22:37,691 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:22:37,694 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 16:22:47,919 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:22:47,977 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:22:47,980 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 16:23:20,957 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:23:21,011 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:23:21,015 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 16:25:19,390 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:25:19,439 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:25:19,442 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 16:25:26,161 - agent - ERROR - [vanilla-rag] Warmup failed: 'clipembedder' object has no attribute 'devic'
-2025-12-08 16:25:56,172 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:25:56,221 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:25:56,225 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 16:26:02,821 - agent - ERROR - [vanilla-rag] Warmup failed: SentenceTransformer.__init__() got an unexpected keyword argument 'use_fast'
-2025-12-08 16:26:17,983 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 16:26:18,032 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 16:26:18,036 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 17:19:14,889 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 17:19:14,956 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 17:19:15,008 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 17:22:20,182 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 17:22:20,267 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 17:22:20,270 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 17:22:44,631 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 17:22:44,682 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 17:22:44,687 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 17:23:09,003 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-08 17:23:09,054 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-08 17:23:09,057 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-08 17:23:37,395 - agent - INFO - [vanilla] indexing 133 text chunks and 19 images took 19.012256145477295 seconds
-2025-12-08 17:23:37,401 - agent - INFO - [vanilla-rag] build result: {'status': 'success', 'files': ['A Survey of Reinforcement Learning for LLMs-page-1.txt', 'A Survey of Reinforcement Learning for LLMs-page-2.txt', 'A Survey of Reinforcement Learning for LLMs-page-3.txt', 'A Survey of Reinforcement Learning for LLMs-page-4.txt', 'A Survey of Reinforcement Learning for LLMs-page-5.txt', 'A Survey of Reinforcement Learning for LLMs-page-6.txt', 'A Survey of Reinforcement Learning for LLMs-page-7.txt', 'A Survey of Reinforcement Learning for LLMs-page-8.txt', 'A Survey of Reinforcement Learning for LLMs-page-9.txt', 'A Survey of Reinforcement Learning for LLMs-page-10.txt', 'A Survey of Reinforcement Learning for LLMs-page-11.txt', 'A Survey of Reinforcement Learning for LLMs-page-12.txt', 'A Survey of Reinforcement Learning for LLMs-page-13.txt', 'A Survey of Reinforcement Learning for LLMs-page-14.txt', 'A Survey of Reinforcement Learning for LLMs-page-15.txt', 'A Survey of Reinforcement Learning for LLMs-page-16.txt', 'A Survey of Reinforcement Learning for LLMs-page-17.txt', 'A Survey of Reinforcement Learning for LLMs-page-18.txt', 'A Survey of Reinforcement Learning for LLMs-page-19.txt', 'A Survey of Reinforcement Learning for LLMs-page-20.txt', 'A Survey of Reinforcement Learning for LLMs-page-21.txt', 'A Survey of Reinforcement Learning for LLMs-page-22.txt', 'A Survey of Reinforcement Learning for LLMs-page-23.txt', 'A Survey of Reinforcement Learning for LLMs-page-24.txt', 'A Survey of Reinforcement Learning for LLMs-page-25.txt', 'A Survey of Reinforcement Learning for LLMs-page-26.txt', 'A Survey of Reinforcement Learning for LLMs-page-27.txt', 'A Survey of Reinforcement Learning for LLMs-page-28.txt', 'A Survey of Reinforcement Learning for LLMs-page-29.txt', 'A Survey of Reinforcement Learning for LLMs-page-30.txt', 'A Survey of Reinforcement Learning for LLMs-page-31.txt', 'A Survey of Reinforcement Learning for LLMs-page-32.txt', 'A Survey of Reinforcement Learning for LLMs-page-33.txt', 'A Survey of Reinforcement Learning for LLMs-page-34.txt', 'A Survey of Reinforcement Learning for LLMs-page-35.txt', 'A Survey of Reinforcement Learning for LLMs-page-36.txt', 'A Survey of Reinforcement Learning for LLMs-page-37.txt', 'A Survey of Reinforcement Learning for LLMs-page-38.txt', 'A Survey of Reinforcement Learning for LLMs-page-39.txt', 'A Survey of Reinforcement Learning for LLMs-page-40.txt', 'A Survey of Reinforcement Learning for LLMs-page-41.txt', 'A Survey of Reinforcement Learning for LLMs-page-42.txt', 'A Survey of Reinforcement Learning for LLMs-page-43.txt', 'A Survey of Reinforcement Learning for LLMs-page-44.txt', 'A Survey of Reinforcement Learning for LLMs-page-45.txt', 'A Survey of Reinforcement Learning for LLMs-page-46.txt', 'A Survey of Reinforcement Learning for LLMs-page-47.txt', 'A Survey of Reinforcement Learning for LLMs-page-48.txt', 'A Survey of Reinforcement Learning for LLMs-page-49.txt', 'A Survey of Reinforcement Learning for LLMs-page-50.txt', 'A Survey of Reinforcement Learning for LLMs-page-51.txt', 'A Survey of Reinforcement Learning for LLMs-page-52.txt', 'A Survey of Reinforcement Learning for LLMs-page-53.txt', 'A Survey of Reinforcement Learning for LLMs-page-54.txt', 'A Survey of Reinforcement Learning for LLMs-page-55.txt', 'A Survey of Reinforcement Learning for LLMs-page-56.txt', 'A Survey of Reinforcement Learning for LLMs-page-57.txt', 'A Survey of Reinforcement Learning for LLMs-page-58.txt', 'A Survey of Reinforcement Learning for LLMs-page-59.txt', 'A Survey of Reinforcement Learning for LLMs-page-60.txt', 'A Survey of Reinforcement Learning for LLMs-page-61.txt', 'A Survey of Reinforcement Learning for LLMs-page-62.txt', 'A Survey of Reinforcement Learning for LLMs-page-63.txt', 'A Survey of Reinforcement Learning for LLMs-page-64.txt', 'A Survey of Reinforcement Learning for LLMs-page-65.txt', 'A Survey of Reinforcement Learning for LLMs-page-66.txt', 'A Survey of Reinforcement Learning for LLMs-page-67.txt', 'A Survey of Reinforcement Learning for LLMs-page-68.txt', 'A Survey of Reinforcement Learning for LLMs-page-69.txt', 'A Survey of Reinforcement Learning for LLMs-page-70.txt', 'A Survey of Reinforcement Learning for LLMs-page-71.txt', 'A Survey of Reinforcement Learning for LLMs-page-72.txt', 'A Survey of Reinforcement Learning for LLMs-page-73.txt', 'A Survey of Reinforcement Learning for LLMs-page-74.txt', 'A Survey of Reinforcement Learning for LLMs-page-75.txt', 'A Survey of Reinforcement Learning for LLMs-page-76.txt', 'A Survey of Reinforcement Learning for LLMs-page-77.txt', 'A Survey of Reinforcement Learning for LLMs-page-78.txt', 'A Survey of Reinforcement Learning for LLMs-page-79.txt', 'A Survey of Reinforcement Learning for LLMs-page-80.txt', 'A Survey of Reinforcement Learning for LLMs-page-81.txt', 'A Survey of Reinforcement Learning for LLMs-page-82.txt', 'A Survey of Reinforcement Learning for LLMs-page-83.txt', 'A Survey of Reinforcement Learning for LLMs-page-84.txt', 'A Survey of Reinforcement Learning for LLMs-page-85.txt', 'A Survey of Reinforcement Learning for LLMs-page-86.txt', 'A Survey of Reinforcement Learning for LLMs-page-87.txt', 'A Survey of Reinforcement Learning for LLMs-page-88.txt', 'A Survey of Reinforcement Learning for LLMs-page-89.txt', 'A Survey of Reinforcement Learning for LLMs-page-90.txt', 'A Survey of Reinforcement Learning for LLMs-page-91.txt', 'A Survey of Reinforcement Learning for LLMs-page-92.txt', 'A Survey of Reinforcement Learning for LLMs-page-93.txt', 'A Survey of Reinforcement Learning for LLMs-page-94.txt', 'A Survey of Reinforcement Learning for LLMs-page-95.txt', 'A Survey of Reinforcement Learning for LLMs-page-96.txt', 'A Survey of Reinforcement Learning for LLMs-page-97.txt', 'A Survey of Reinforcement Learning for LLMs-page-98.txt', 'A Survey of Reinforcement Learning for LLMs-page-99.txt', 'A Survey of Reinforcement Learning for LLMs-page-100.txt', 'A Survey of Reinforcement Learning for LLMs-page-101.txt', 'A Survey of Reinforcement Learning for LLMs-page-102.txt', 'A Survey of Reinforcement Learning for LLMs-page-103.txt', 'A Survey of Reinforcement Learning for LLMs-page-104.txt', 'A Survey of Reinforcement Learning for LLMs-page-105.txt', 'A Survey of Reinforcement Learning for LLMs-page-106.txt', 'A Survey of Reinforcement Learning for LLMs-page-107.txt', 'A Survey of Reinforcement Learning for LLMs-page-108.txt', 'A Survey of Reinforcement Learning for LLMs-page-109.txt', 'A Survey of Reinforcement Learning for LLMs-page-110.txt', 'A Survey of Reinforcement Learning for LLMs-page-111.txt', 'A Survey of Reinforcement Learning for LLMs-page-112.txt', 'A Survey of Reinforcement Learning for LLMs-page-113.txt', 'A Survey of Reinforcement Learning for LLMs-page-114.txt', 'A Survey of Reinforcement Learning for LLMs-page-115.txt', 'A Survey of Reinforcement Learning for LLMs-page-116.txt', 'A Survey of Reinforcement Learning for LLMs-page-117.txt', 'Handbook - Fraud Examination Fundamentals.txt', 'Handbook - Global Financial Reporting and Analysis.txt', 'Handbook - Happiness and Philosophy.txt', 'Handbook - Industry Placement 1.txt', 'Handbook - Industry Placement 2.txt'], 'chunks_indexed': 133, 'images_indexed': 19}
-2025-12-09 05:20:27,376 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-09 05:20:27,454 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-09 05:20:27,486 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-09 05:20:38,050 - agent - INFO - Loading model BAAI/bge-m3
-2025-12-09 05:20:53,153 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
-2025-12-09 05:20:56,429 - agent - INFO - [vanilla] indexing 133 text chunks and 19 images took 18.382010221481323 seconds
-2025-12-09 05:20:56,434 - agent - INFO - [vanilla-rag] build result: {'status': 'success', 'files': ['A Survey of Reinforcement Learning for LLMs-page-1.txt', 'A Survey of Reinforcement Learning for LLMs-page-2.txt', 'A Survey of Reinforcement Learning for LLMs-page-3.txt', 'A Survey of Reinforcement Learning for LLMs-page-4.txt', 'A Survey of Reinforcement Learning for LLMs-page-5.txt', 'A Survey of Reinforcement Learning for LLMs-page-6.txt', 'A Survey of Reinforcement Learning for LLMs-page-7.txt', 'A Survey of Reinforcement Learning for LLMs-page-8.txt', 'A Survey of Reinforcement Learning for LLMs-page-9.txt', 'A Survey of Reinforcement Learning for LLMs-page-10.txt', 'A Survey of Reinforcement Learning for LLMs-page-11.txt', 'A Survey of Reinforcement Learning for LLMs-page-12.txt', 'A Survey of Reinforcement Learning for LLMs-page-13.txt', 'A Survey of Reinforcement Learning for LLMs-page-14.txt', 'A Survey of Reinforcement Learning for LLMs-page-15.txt', 'A Survey of Reinforcement Learning for LLMs-page-16.txt', 'A Survey of Reinforcement Learning for LLMs-page-17.txt', 'A Survey of Reinforcement Learning for LLMs-page-18.txt', 'A Survey of Reinforcement Learning for LLMs-page-19.txt', 'A Survey of Reinforcement Learning for LLMs-page-20.txt', 'A Survey of Reinforcement Learning for LLMs-page-21.txt', 'A Survey of Reinforcement Learning for LLMs-page-22.txt', 'A Survey of Reinforcement Learning for LLMs-page-23.txt', 'A Survey of Reinforcement Learning for LLMs-page-24.txt', 'A Survey of Reinforcement Learning for LLMs-page-25.txt', 'A Survey of Reinforcement Learning for LLMs-page-26.txt', 'A Survey of Reinforcement Learning for LLMs-page-27.txt', 'A Survey of Reinforcement Learning for LLMs-page-28.txt', 'A Survey of Reinforcement Learning for LLMs-page-29.txt', 'A Survey of Reinforcement Learning for LLMs-page-30.txt', 'A Survey of Reinforcement Learning for LLMs-page-31.txt', 'A Survey of Reinforcement Learning for LLMs-page-32.txt', 'A Survey of Reinforcement Learning for LLMs-page-33.txt', 'A Survey of Reinforcement Learning for LLMs-page-34.txt', 'A Survey of Reinforcement Learning for LLMs-page-35.txt', 'A Survey of Reinforcement Learning for LLMs-page-36.txt', 'A Survey of Reinforcement Learning for LLMs-page-37.txt', 'A Survey of Reinforcement Learning for LLMs-page-38.txt', 'A Survey of Reinforcement Learning for LLMs-page-39.txt', 'A Survey of Reinforcement Learning for LLMs-page-40.txt', 'A Survey of Reinforcement Learning for LLMs-page-41.txt', 'A Survey of Reinforcement Learning for LLMs-page-42.txt', 'A Survey of Reinforcement Learning for LLMs-page-43.txt', 'A Survey of Reinforcement Learning for LLMs-page-44.txt', 'A Survey of Reinforcement Learning for LLMs-page-45.txt', 'A Survey of Reinforcement Learning for LLMs-page-46.txt', 'A Survey of Reinforcement Learning for LLMs-page-47.txt', 'A Survey of Reinforcement Learning for LLMs-page-48.txt', 'A Survey of Reinforcement Learning for LLMs-page-49.txt', 'A Survey of Reinforcement Learning for LLMs-page-50.txt', 'A Survey of Reinforcement Learning for LLMs-page-51.txt', 'A Survey of Reinforcement Learning for LLMs-page-52.txt', 'A Survey of Reinforcement Learning for LLMs-page-53.txt', 'A Survey of Reinforcement Learning for LLMs-page-54.txt', 'A Survey of Reinforcement Learning for LLMs-page-55.txt', 'A Survey of Reinforcement Learning for LLMs-page-56.txt', 'A Survey of Reinforcement Learning for LLMs-page-57.txt', 'A Survey of Reinforcement Learning for LLMs-page-58.txt', 'A Survey of Reinforcement Learning for LLMs-page-59.txt', 'A Survey of Reinforcement Learning for LLMs-page-60.txt', 'A Survey of Reinforcement Learning for LLMs-page-61.txt', 'A Survey of Reinforcement Learning for LLMs-page-62.txt', 'A Survey of Reinforcement Learning for LLMs-page-63.txt', 'A Survey of Reinforcement Learning for LLMs-page-64.txt', 'A Survey of Reinforcement Learning for LLMs-page-65.txt', 'A Survey of Reinforcement Learning for LLMs-page-66.txt', 'A Survey of Reinforcement Learning for LLMs-page-67.txt', 'A Survey of Reinforcement Learning for LLMs-page-68.txt', 'A Survey of Reinforcement Learning for LLMs-page-69.txt', 'A Survey of Reinforcement Learning for LLMs-page-70.txt', 'A Survey of Reinforcement Learning for LLMs-page-71.txt', 'A Survey of Reinforcement Learning for LLMs-page-72.txt', 'A Survey of Reinforcement Learning for LLMs-page-73.txt', 'A Survey of Reinforcement Learning for LLMs-page-74.txt', 'A Survey of Reinforcement Learning for LLMs-page-75.txt', 'A Survey of Reinforcement Learning for LLMs-page-76.txt', 'A Survey of Reinforcement Learning for LLMs-page-77.txt', 'A Survey of Reinforcement Learning for LLMs-page-78.txt', 'A Survey of Reinforcement Learning for LLMs-page-79.txt', 'A Survey of Reinforcement Learning for LLMs-page-80.txt', 'A Survey of Reinforcement Learning for LLMs-page-81.txt', 'A Survey of Reinforcement Learning for LLMs-page-82.txt', 'A Survey of Reinforcement Learning for LLMs-page-83.txt', 'A Survey of Reinforcement Learning for LLMs-page-84.txt', 'A Survey of Reinforcement Learning for LLMs-page-85.txt', 'A Survey of Reinforcement Learning for LLMs-page-86.txt', 'A Survey of Reinforcement Learning for LLMs-page-87.txt', 'A Survey of Reinforcement Learning for LLMs-page-88.txt', 'A Survey of Reinforcement Learning for LLMs-page-89.txt', 'A Survey of Reinforcement Learning for LLMs-page-90.txt', 'A Survey of Reinforcement Learning for LLMs-page-91.txt', 'A Survey of Reinforcement Learning for LLMs-page-92.txt', 'A Survey of Reinforcement Learning for LLMs-page-93.txt', 'A Survey of Reinforcement Learning for LLMs-page-94.txt', 'A Survey of Reinforcement Learning for LLMs-page-95.txt', 'A Survey of Reinforcement Learning for LLMs-page-96.txt', 'A Survey of Reinforcement Learning for LLMs-page-97.txt', 'A Survey of Reinforcement Learning for LLMs-page-98.txt', 'A Survey of Reinforcement Learning for LLMs-page-99.txt', 'A Survey of Reinforcement Learning for LLMs-page-100.txt', 'A Survey of Reinforcement Learning for LLMs-page-101.txt', 'A Survey of Reinforcement Learning for LLMs-page-102.txt', 'A Survey of Reinforcement Learning for LLMs-page-103.txt', 'A Survey of Reinforcement Learning for LLMs-page-104.txt', 'A Survey of Reinforcement Learning for LLMs-page-105.txt', 'A Survey of Reinforcement Learning for LLMs-page-106.txt', 'A Survey of Reinforcement Learning for LLMs-page-107.txt', 'A Survey of Reinforcement Learning for LLMs-page-108.txt', 'A Survey of Reinforcement Learning for LLMs-page-109.txt', 'A Survey of Reinforcement Learning for LLMs-page-110.txt', 'A Survey of Reinforcement Learning for LLMs-page-111.txt', 'A Survey of Reinforcement Learning for LLMs-page-112.txt', 'A Survey of Reinforcement Learning for LLMs-page-113.txt', 'A Survey of Reinforcement Learning for LLMs-page-114.txt', 'A Survey of Reinforcement Learning for LLMs-page-115.txt', 'A Survey of Reinforcement Learning for LLMs-page-116.txt', 'A Survey of Reinforcement Learning for LLMs-page-117.txt', 'Handbook - Fraud Examination Fundamentals.txt', 'Handbook - Global Financial Reporting and Analysis.txt', 'Handbook - Happiness and Philosophy.txt', 'Handbook - Industry Placement 1.txt', 'Handbook - Industry Placement 2.txt'], 'chunks_indexed': 133, 'images_indexed': 19}
-2025-12-09 05:26:25,491 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-09 05:26:25,564 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-09 05:26:25,590 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-09 05:27:00,582 - agent - INFO - [vanilla] KV storage initialized.
-2025-12-09 05:27:00,633 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
-2025-12-09 05:27:00,637 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
-2025-12-09 05:27:09,878 - agent - INFO - Loading model BAAI/bge-m3
-2025-12-09 05:27:24,733 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
-2025-12-09 05:27:27,868 - agent - INFO - [vanilla] indexing 133 text chunks and 19 images took 17.99267029762268 seconds
-2025-12-09 05:27:27,873 - agent - INFO - [vanilla-rag] build result: {'status': 'success', 'files': ['A Survey of Reinforcement Learning for LLMs-page-1.txt', 'A Survey of Reinforcement Learning for LLMs-page-2.txt', 'A Survey of Reinforcement Learning for LLMs-page-3.txt', 'A Survey of Reinforcement Learning for LLMs-page-4.txt', 'A Survey of Reinforcement Learning for LLMs-page-5.txt', 'A Survey of Reinforcement Learning for LLMs-page-6.txt', 'A Survey of Reinforcement Learning for LLMs-page-7.txt', 'A Survey of Reinforcement Learning for LLMs-page-8.txt', 'A Survey of Reinforcement Learning for LLMs-page-9.txt', 'A Survey of Reinforcement Learning for LLMs-page-10.txt', 'A Survey of Reinforcement Learning for LLMs-page-11.txt', 'A Survey of Reinforcement Learning for LLMs-page-12.txt', 'A Survey of Reinforcement Learning for LLMs-page-13.txt', 'A Survey of Reinforcement Learning for LLMs-page-14.txt', 'A Survey of Reinforcement Learning for LLMs-page-15.txt', 'A Survey of Reinforcement Learning for LLMs-page-16.txt', 'A Survey of Reinforcement Learning for LLMs-page-17.txt', 'A Survey of Reinforcement Learning for LLMs-page-18.txt', 'A Survey of Reinforcement Learning for LLMs-page-19.txt', 'A Survey of Reinforcement Learning for LLMs-page-20.txt', 'A Survey of Reinforcement Learning for LLMs-page-21.txt', 'A Survey of Reinforcement Learning for LLMs-page-22.txt', 'A Survey of Reinforcement Learning for LLMs-page-23.txt', 'A Survey of Reinforcement Learning for LLMs-page-24.txt', 'A Survey of Reinforcement Learning for LLMs-page-25.txt', 'A Survey of Reinforcement Learning for LLMs-page-26.txt', 'A Survey of Reinforcement Learning for LLMs-page-27.txt', 'A Survey of Reinforcement Learning for LLMs-page-28.txt', 'A Survey of Reinforcement Learning for LLMs-page-29.txt', 'A Survey of Reinforcement Learning for LLMs-page-30.txt', 'A Survey of Reinforcement Learning for LLMs-page-31.txt', 'A Survey of Reinforcement Learning for LLMs-page-32.txt', 'A Survey of Reinforcement Learning for LLMs-page-33.txt', 'A Survey of Reinforcement Learning for LLMs-page-34.txt', 'A Survey of Reinforcement Learning for LLMs-page-35.txt', 'A Survey of Reinforcement Learning for LLMs-page-36.txt', 'A Survey of Reinforcement Learning for LLMs-page-37.txt', 'A Survey of Reinforcement Learning for LLMs-page-38.txt', 'A Survey of Reinforcement Learning for LLMs-page-39.txt', 'A Survey of Reinforcement Learning for LLMs-page-40.txt', 'A Survey of Reinforcement Learning for LLMs-page-41.txt', 'A Survey of Reinforcement Learning for LLMs-page-42.txt', 'A Survey of Reinforcement Learning for LLMs-page-43.txt', 'A Survey of Reinforcement Learning for LLMs-page-44.txt', 'A Survey of Reinforcement Learning for LLMs-page-45.txt', 'A Survey of Reinforcement Learning for LLMs-page-46.txt', 'A Survey of Reinforcement Learning for LLMs-page-47.txt', 'A Survey of Reinforcement Learning for LLMs-page-48.txt', 'A Survey of Reinforcement Learning for LLMs-page-49.txt', 'A Survey of Reinforcement Learning for LLMs-page-50.txt', 'A Survey of Reinforcement Learning for LLMs-page-51.txt', 'A Survey of Reinforcement Learning for LLMs-page-52.txt', 'A Survey of Reinforcement Learning for LLMs-page-53.txt', 'A Survey of Reinforcement Learning for LLMs-page-54.txt', 'A Survey of Reinforcement Learning for LLMs-page-55.txt', 'A Survey of Reinforcement Learning for LLMs-page-56.txt', 'A Survey of Reinforcement Learning for LLMs-page-57.txt', 'A Survey of Reinforcement Learning for LLMs-page-58.txt', 'A Survey of Reinforcement Learning for LLMs-page-59.txt', 'A Survey of Reinforcement Learning for LLMs-page-60.txt', 'A Survey of Reinforcement Learning for LLMs-page-61.txt', 'A Survey of Reinforcement Learning for LLMs-page-62.txt', 'A Survey of Reinforcement Learning for LLMs-page-63.txt', 'A Survey of Reinforcement Learning for LLMs-page-64.txt', 'A Survey of Reinforcement Learning for LLMs-page-65.txt', 'A Survey of Reinforcement Learning for LLMs-page-66.txt', 'A Survey of Reinforcement Learning for LLMs-page-67.txt', 'A Survey of Reinforcement Learning for LLMs-page-68.txt', 'A Survey of Reinforcement Learning for LLMs-page-69.txt', 'A Survey of Reinforcement Learning for LLMs-page-70.txt', 'A Survey of Reinforcement Learning for LLMs-page-71.txt', 'A Survey of Reinforcement Learning for LLMs-page-72.txt', 'A Survey of Reinforcement Learning for LLMs-page-73.txt', 'A Survey of Reinforcement Learning for LLMs-page-74.txt', 'A Survey of Reinforcement Learning for LLMs-page-75.txt', 'A Survey of Reinforcement Learning for LLMs-page-76.txt', 'A Survey of Reinforcement Learning for LLMs-page-77.txt', 'A Survey of Reinforcement Learning for LLMs-page-78.txt', 'A Survey of Reinforcement Learning for LLMs-page-79.txt', 'A Survey of Reinforcement Learning for LLMs-page-80.txt', 'A Survey of Reinforcement Learning for LLMs-page-81.txt', 'A Survey of Reinforcement Learning for LLMs-page-82.txt', 'A Survey of Reinforcement Learning for LLMs-page-83.txt', 'A Survey of Reinforcement Learning for LLMs-page-84.txt', 'A Survey of Reinforcement Learning for LLMs-page-85.txt', 'A Survey of Reinforcement Learning for LLMs-page-86.txt', 'A Survey of Reinforcement Learning for LLMs-page-87.txt', 'A Survey of Reinforcement Learning for LLMs-page-88.txt', 'A Survey of Reinforcement Learning for LLMs-page-89.txt', 'A Survey of Reinforcement Learning for LLMs-page-90.txt', 'A Survey of Reinforcement Learning for LLMs-page-91.txt', 'A Survey of Reinforcement Learning for LLMs-page-92.txt', 'A Survey of Reinforcement Learning for LLMs-page-93.txt', 'A Survey of Reinforcement Learning for LLMs-page-94.txt', 'A Survey of Reinforcement Learning for LLMs-page-95.txt', 'A Survey of Reinforcement Learning for LLMs-page-96.txt', 'A Survey of Reinforcement Learning for LLMs-page-97.txt', 'A Survey of Reinforcement Learning for LLMs-page-98.txt', 'A Survey of Reinforcement Learning for LLMs-page-99.txt', 'A Survey of Reinforcement Learning for LLMs-page-100.txt', 'A Survey of Reinforcement Learning for LLMs-page-101.txt', 'A Survey of Reinforcement Learning for LLMs-page-102.txt', 'A Survey of Reinforcement Learning for LLMs-page-103.txt', 'A Survey of Reinforcement Learning for LLMs-page-104.txt', 'A Survey of Reinforcement Learning for LLMs-page-105.txt', 'A Survey of Reinforcement Learning for LLMs-page-106.txt', 'A Survey of Reinforcement Learning for LLMs-page-107.txt', 'A Survey of Reinforcement Learning for LLMs-page-108.txt', 'A Survey of Reinforcement Learning for LLMs-page-109.txt', 'A Survey of Reinforcement Learning for LLMs-page-110.txt', 'A Survey of Reinforcement Learning for LLMs-page-111.txt', 'A Survey of Reinforcement Learning for LLMs-page-112.txt', 'A Survey of Reinforcement Learning for LLMs-page-113.txt', 'A Survey of Reinforcement Learning for LLMs-page-114.txt', 'A Survey of Reinforcement Learning for LLMs-page-115.txt', 'A Survey of Reinforcement Learning for LLMs-page-116.txt', 'A Survey of Reinforcement Learning for LLMs-page-117.txt', 'Handbook - Fraud Examination Fundamentals.txt', 'Handbook - Global Financial Reporting and Analysis.txt', 'Handbook - Happiness and Philosophy.txt', 'Handbook - Industry Placement 1.txt', 'Handbook - Industry Placement 2.txt'], 'chunks_indexed': 133, 'images_indexed': 19}
+                              python .\test_system.py
+[tools_agent tool_box] Added 2 search tools directly
+[tools_agent tool_box] Added vanilla RAG search tool
+[tools_agent tool_box] Loading MCP tools...
+[mcp_client] Loading tools from MCP server: arxiv
+[mcp_client] Error loading tools from arxiv: [WinError 2] The system cannot find the file specified
+Traceback (most recent call last):
+  File "E:\AgentM-api\main\venv\Lib\site-packages\mcp\os\win32\utilities.py", line 169, in create_windows_process
+    process = await anyio.open_process(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\anyio\_core\_subprocesses.py", line 190, in open_process
+    return await get_async_backend().open_process(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2628, in open_process
+    process = await asyncio.create_subprocess_exec(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\subprocess.py", line 223, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\base_events.py", line 1708, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\windows_events.py", line 399, in _make_subprocess_transport
+    transp = _WindowsSubprocessTransport(self, protocol, args, shell,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\base_subprocess.py", line 36, in __init__
+    self._start(args=args, shell=shell, stdin=stdin, stdout=stdout,
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\windows_events.py", line 929, in _start
+    self._proc = windows_utils.Popen(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\windows_utils.py", line 153, in __init__
+    super().__init__(args, stdin=stdin_rfd, stdout=stdout_wfd,
+  File "C:\anaconda3\envs\myagent\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\anaconda3\envs\myagent\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\AgentM-api\main\agent\tools_agent\tools\mcp\mcp_client.py", line 74, in load_mcp_tools_from_config
+    tools = await load_mcp_tools(
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\langchain_mcp_adapters\tools.py", line 369, in load_mcp_tools
+    async with create_session(
+  File "C:\anaconda3\envs\myagent\Lib\contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\langchain_mcp_adapters\sessions.py", line 418, in create_session
+    async with _create_stdio_session(**params) as session:
+  File "C:\anaconda3\envs\myagent\Lib\contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\langchain_mcp_adapters\sessions.py", line 230, in _create_stdio_session
+    async with (
+  File "C:\anaconda3\envs\myagent\Lib\contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\mcp\client\stdio\__init__.py", line 124, in stdio_client
+    process = await _create_platform_compatible_process(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\mcp\client\stdio\__init__.py", line 249, in _create_platform_compatible_process
+    process = await create_windows_process(command, args, env, errlog, cwd)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\mcp\os\win32\utilities.py", line 184, in create_windows_process
+    process = await anyio.open_process(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\anyio\_core\_subprocesses.py", line 190, in open_process
+    return await get_async_backend().open_process(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\AgentM-api\main\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2628, in open_process
+    process = await asyncio.create_subprocess_exec(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\subprocess.py", line 223, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\base_events.py", line 1708, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\windows_events.py", line 399, in _make_subprocess_transport
+    transp = _WindowsSubprocessTransport(self, protocol, args, shell,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\base_subprocess.py", line 36, in __init__
+    self._start(args=args, shell=shell, stdin=stdin, stdout=stdout,
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\windows_events.py", line 929, in _start
+    self._proc = windows_utils.Popen(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\anaconda3\envs\myagent\Lib\asyncio\windows_utils.py", line 153, in __init__
+    super().__init__(args, stdin=stdin_rfd, stdout=stdout_wfd,
+  File "C:\anaconda3\envs\myagent\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\anaconda3\envs\myagent\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+[mcp_client] Loading tools from MCP server: playwright
+[mcp_client] Loaded 22 tools from playwright
+[tools_agent tool_box] Successfully loaded 22 MCP tools
+[multi-agent]current in the tool agent
+2025-12-25 14:01:38,413 - agent - INFO - [agent_runner] Initializing RAG service...
+2025-12-25 14:01:38,414 - agent - INFO - [vanilla-rag] Starting warmup...
+2025-12-25 14:01:38,414 - agent - INFO - [vanilla-rag] _warmup_default_service started
+2025-12-25 14:01:38,420 - agent - INFO - [vanilla] KV storage initialized.
+2025-12-25 14:01:38,484 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
+2025-12-25 14:01:38,488 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
+2025-12-25 14:01:38,488 - agent - INFO - [vanilla-rag] _warmup_default_service finished
+2025-12-25 14:01:38,488 - agent - INFO - [vanilla-rag] Warming up text embedder...
+2025-12-25 14:01:38,489 - agent - INFO - Loading model BAAI/bge-m3
+2025-12-25 14:01:49,840 - agent - INFO - [vanilla-rag] Warming up image embedder...
+2025-12-25 14:01:49,840 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.   
+2025-12-25 14:01:53,428 - agent - INFO - [vanilla-rag] Warmup completed successfully.
+2025-12-25 14:01:53,428 - agent - INFO - [agent_runner] RAG service warmup took 15.02 seconds
+
+--- Follow Up ---
+Running query: 'call tool agent let it use vanilla rag tool search what the overview of Fraud Examination Fundamentals?(if can't find facts by using this tools just answer no relative facts found do not use other tools)'
+[planner] current in the planner agent
+[agent] Found 3 relevant memories
+[agent] Memory context:
+
+                    ## Context from Previous Interactions
+
+                    The following facts are remembered from previous conversations with this user.
+                    Use them to personalize your response.
+- Wants to know the overview of Fraud Examination Fundamentals
+- Wants to delegate a task to the tool agent to find out the latest version of Python
+- Name is AgentM Developer
+
+
+[agent] Invoking LLM with 2 messages
+[agent] LLM response received: AIMessage
+[agent] tool_calls=True
+[agent] Tool calls: ['delegate_to_tool_agent']
+[planner] Delegating to tool agent...
+[planner] Preparing parallel delegate: Use the vanilla_rag_search tool to find information about the overview of Fraud Examination Fundamentals. Search specifically for what Fraud Examination Fundamentals is, its key concepts, and any overview information available in the local dataset....
+[planner] Executing 1 delegation tasks in parallel...
+[tools_agent tool_box] Added 2 search tools directly
+[tools_agent tool_box] Added vanilla RAG search tool
+[tool_agent] Invoking LLM with 2 messages
+[tool_agent] LLM response received: AIMessage
+[tool_agent] tool_calls=True
+[tool_agent] Tool calls: ['vanilla_rag_search']
+[tool_wrapper] Executing tool: vanilla_rag_search with args: {'query': 'Fraud Examination Fundamentals overview key concepts'}
+2025-12-25 14:02:12,607 - agent - INFO - [vanilla_rag_search] Processing query: 'Fraud Examination Fundamentals overview key concep...'
+[warmup_vanilla_rag] already completed
+2025-12-25 14:02:12,909 - agent - INFO - [vanilla] Vector search took 0.302s
+2025-12-25 14:02:12,909 - agent - INFO - [vanilla] KV retrieval took 0.000s
+2025-12-25 14:02:12,909 - agent - INFO - [vanilla_rag_search] Primary query took 0.30s. Found 3 results.
+2025-12-25 14:02:12,918 - agent - INFO - [vanilla_rag_search] Image enrichment took 0.00s
+2025-12-25 14:02:12,918 - agent - INFO - [vanilla_rag_search] Total execution took 0.31s
+[tool_wrapper] Tool vanilla_rag_search result: [
+  {
+    "score": 0.6278890371322632,
+    "source": "E:\\AgentM-api\\main\\agent\\tool\\local_search\\update_box\\Handbook - Fraud Examination Fundamentals.txt",
+    "content": "URL: https://www.hand...
+[tools_agent tool_box] Added 2 search tools directly
+[tools_agent tool_box] Added vanilla RAG search tool
+[tool_agent] Invoking LLM with 4 messages
+[tool_agent] LLM response received: AIMessage
+[tool_agent] tool_calls=True
+[tool_agent] Tool calls: ['vanilla_rag_search']
+[tool_agent] Added ToolMessage to memory for user default_user
+[tool_wrapper] Executing tool: vanilla_rag_search with args: {'query': '"Fraud Examination" course content syllabus topics'}
+2025-12-25 14:02:18,840 - agent - INFO - [vanilla_rag_search] Processing query: '"Fraud Examination" course content syllabus topics...'
+[warmup_vanilla_rag] already completed
+2025-12-25 14:02:19,081 - agent - INFO - [vanilla] Vector search took 0.240s
+2025-12-25 14:02:19,081 - agent - INFO - [vanilla] KV retrieval took 0.000s
+2025-12-25 14:02:19,081 - agent - INFO - [vanilla_rag_search] Primary query took 0.24s. Found 3 results.
+2025-12-25 14:02:19,081 - agent - INFO - [vanilla_rag_search] Image enrichment took 0.00s
+2025-12-25 14:02:19,081 - agent - INFO - [vanilla_rag_search] Total execution took 0.24s
+[tool_wrapper] Tool vanilla_rag_search result: [
+  {
+    "score": 0.5674487352371216,
+    "source": "E:\\AgentM-api\\main\\agent\\tool\\local_search\\update_box\\Handbook - Fraud Examination Fundamentals.txt",
+    "content": "URL: https://www.hand...
+[tools_agent tool_box] Added 2 search tools directly
+[tools_agent tool_box] Added vanilla RAG search tool
+[tool_agent] Invoking LLM with 6 messages
+[tool_agent] LLM response received: AIMessage
+[tool_agent] tool_calls=True
+[tool_agent] Tool calls: ['vanilla_rag_search']
+[tool_agent] Added ToolMessage to memory for user default_user
+[tool_wrapper] Executing tool: vanilla_rag_search with args: {'query': 'fraud prevention detection investigation forensic accounting'}
+2025-12-25 14:02:24,583 - agent - INFO - [vanilla_rag_search] Processing query: 'fraud prevention detection investigation forensic ...'
+[warmup_vanilla_rag] already completed
+2025-12-25 14:02:24,823 - agent - INFO - [vanilla] Vector search took 0.239s
+2025-12-25 14:02:24,823 - agent - INFO - [vanilla] KV retrieval took 0.000s
+2025-12-25 14:02:24,823 - agent - INFO - [vanilla_rag_search] Primary query took 0.24s. Found 3 results.
+2025-12-25 14:02:24,823 - agent - INFO - [vanilla_rag_search] Image enrichment took 0.00s
+2025-12-25 14:02:24,823 - agent - INFO - [vanilla_rag_search] Total execution took 0.24s
+[tool_wrapper] Tool vanilla_rag_search result: [
+  {
+    "score": 0.5937126278877258,
+    "source": "E:\\AgentM-api\\main\\agent\\tool\\local_search\\update_box\\Handbook - Fraud Examination Fundamentals.txt",
+    "content": "URL: https://www.hand...
+[tools_agent tool_box] Added 2 search tools directly
+[tools_agent tool_box] Added vanilla RAG search tool
+[tool_agent] Invoking LLM with 8 messages
+[tool_agent] LLM response received: AIMessage
+[tool_agent] tool_calls=False
+[tool_agent] Added ToolMessage to memory for user default_user
+[tool_agent] Setting output: Based on my search of the local dataset, I found comprehensive information about Fraud Examination F...
+[planner_runner] =======Tool Agent summary: Based on my search of the local dataset, I found comprehensive information about Fraud Examination Fundamentals. Here's my report:
+
+# Fraud Examination Fundamentals - Overview Report
+
+## **What is Fraud Examination Fundamentals?**
+
+Fraud Examination Fundamentals is an undergraduate course offered by UNSW Business School (course code: ACCT3995). It is a 6-unit credit course designed to teach future accountants and managers how to combat organizational fraud.
+
+## **Course Overview**
+
+The course provides students with essential knowledge and skills to:
+- **Understand what fraud is** and why people commit it
+- **Prevent and detect fraud** in organizational settings
+- **Investigate fraud** using the latest methods and techniques
+- **Safeguard businesses** against fraudulent activities
+
+## **Key Concepts Covered**
+
+Based on the course description, the fundamental concepts include:
+
+1. **Understanding Fraud**: Definition, types, and psychology behind fraudulent behavior
+2. **Fraud Prevention**: Strategies and controls to prevent fraud from occurring
+3. **Fraud Detection**: Methods and techniques to identify fraudulent activities
+4. **Fraud Investigation**: Procedures for investigating suspected fraud cases
+5. **Organizational Vulnerabilities**: Understanding weaknesses in business systems that enable fraud
+
+## **Course Structure and Details**
+
+- **Prerequisites**: COMM1140 or COMM1240
+- **Delivery Mode**: In-person, standard format (usually weekly or fortnightly)
+- **Indicative Contact Hours**: 3 hours
+- **Offering Term**: Term 2
+- **Campus**: Sydney
+- **Faculty**: UNSW Business School
+- **School**: School of Accounting, Auditing and Taxation
+- **Field of Education**: 080100 Accounting
+
+## **Professional Relevance**
+
+The course is:
+- **Designed in collaboration** with experts from a leading forensic accounting firm and law enforcement agencies
+- **An essential first step** toward a career in forensic accounting
+- **Equips students** to understand organizational fraud vulnerabilities and take control
+- **Prepares future professionals** to join the fight against organizational fraud
+
+## **Course Objectives**
+
+The primary objective is to teach students how to:
+1. Join the fight against organizational fraud as future accountants or managers
+2. Safeguard businesses against fraudulent activities
+3. Understand both the "what" and "why" of fraud
+4. Apply prevention, detection, and investigation techniques
+5. Use the latest available methods and techniques in fraud examination
+
+## **Source Information**
+
+This information comes from the official UNSW Handbook for the 2026 academic year. The course appears to be part of the undergraduate accounting curriculum and serves as foundational training for those interested in forensic accounting and fraud examination careers.
+
+**Note**: The local dataset contained detailed course information from the UNSW Handbook, but did not include specific textbook references, detailed syllabus topics, or week-by-week course content. For more detailed curriculum information, one would need to access the full course outline or syllabus documents.=======        
+[agent_runner] Parallel execution complete. 1 reports received.
+[agent] Found 3 relevant memories
+[agent] Memory context:
+
+                    ## Context from Previous Interactions
+
+                    The following facts are remembered from previous conversations with this user.
+                    Use them to personalize your response.
+- Wants to know the overview of Fraud Examination Fundamentals
+- Wants to delegate a task to the tool agent to find out the latest version of Python
+- Name is AgentM Developer
+
+
+[agent] Invoking LLM with 4 messages
+[agent] LLM response received: AIMessage
+[agent] tool_calls=False
+[agent] Setting output: Based on the search results from the local dataset, here's the comprehensive overview of Fraud Exami...
+[agent] Saved interaction to memory
+Based on the search results from the local dataset, here's the comprehensive overview of Fraud Examination Fundamentals:
+
+## **Fraud Examination Fundamentals - Overview**
+
+**Direct Answer:**
+Fraud Examination Fundamentals is an undergraduate course (ACCT3995) offered by UNSW Business School that teaches future accountants and managers how to combat organizational fraud through prevention, detection, and investigation techniques.
+
+## **Course Details:**
+- **Course Code:** ACCT3995
+- **Credit Units:** 6 units
+- **Faculty:** UNSW Business School
+- **School:** School of Accounting, Auditing and Taxation
+- **Prerequisites:** COMM1140 or COMM1240
+- **Delivery Mode:** In-person, standard format
+- **Offering Term:** Term 2
+- **Campus:** Sydney
+
+## **Key Learning Objectives:**
+1. **Understand Fraud:** Learn what fraud is and why people commit it
+2. **Prevention Strategies:** Develop controls to prevent fraud from occurring
+3. **Detection Methods:** Identify fraudulent activities using various techniques
+4. **Investigation Procedures:** Learn proper procedures for investigating suspected fraud cases
+5. **Organizational Vulnerabilities:** Understand weaknesses in business systems that enable fraud
+
+## **Professional Relevance:**
+- Designed in collaboration with experts from leading forensic accounting firms and law enforcement agencies
+- Essential first step toward a career in forensic accounting
+- Equips students to understand organizational fraud vulnerabilities
+- Prepares future professionals to join the fight against organizational fraud
+
+## **Course Structure:**
+- Indicative contact hours: 3 hours
+- Field of Education: Accounting (080100)
+- Part of the undergraduate accounting curriculum at UNSW
+
+## **Why This Course Matters:**
+This course provides foundational knowledge for anyone interested in forensic accounting, internal auditing, or risk management roles. It bridges the gap between theoretical accounting knowledge and practical fraud examination skills needed in today's business environment.
+
+**Source:** UNSW Handbook 2026 academic year
+
+**Note:** The local dataset contained comprehensive course information but didn't include specific textbook references or detailed weekly syllabus topics. For more detailed curriculum information, you would need to access the full course outline or syllabus documents.
+
+--- Follow Up ---
+Running query: 'dont use tool answer what is the overview of Fraud Examination Fundamentals? (you need use remembered facts to answer this question is not include in remembered facts output u cant find it in remembered facts)'
+[planner] current in the planner agent
+[agent] Found 3 relevant memories
+[agent] Memory context:
+
+                    ## Context from Previous Interactions
+
+                    The following facts are remembered from previous conversations with this user.
+                    Use them to personalize your response.
+- Wants to know the overview of Fraud Examination Fundamentals
+- Wants to delegate a task to the tool agent to find out the latest version of Python
+- Name is AgentM Developer
+
+
+[agent] Invoking LLM with 2 messages
+[agent] LLM response received: AIMessage
+[agent] tool_calls=False
+[agent] Setting output: Based on the remembered facts from our previous conversation, I can see that you previously expresse...
+[agent] Saved interaction to memory
+[agent] tool_calls=False
+[agent] Setting output: Based on the remembered facts from our previous conversation, I can see that you previously expresse...
+[agent] Saved interaction to memory
+Based on the remembered facts from our previous conversation, I can see that you previously expressed interest in knowing the overview of Fraud Examination Fundamentals. However, the remembered facts don't contain the actual content or details about what Fraud Examination Fundamentals is.
+
+From the context, I can tell that:
+1. You previously wanted to know the overview of Fraud Examination Fundamentals
+2. You also wanted to delegate a task to find out the latest version of Python
+
+Since the remembered facts don't include the actual information about Fraud Examination Fundamentals, I cannot provide you with the overview based solely on what's remembered. The remembered facts only show that you were interested in this topic, but not what the content actually is.
+
+To get the overview of Fraud Examination Fundamentals, I would need to search for current information about it. Would you like me to search for the latest information on Fraud Examination Fundamentals to provide you with a comprehensive overview?2025-12-25 14:50:20,035 - agent - INFO - [agent_runner] Initializing RAG service...
+2025-12-25 14:50:20,035 - agent - INFO - [vanilla-rag] Starting warmup...
+2025-12-25 14:50:20,035 - agent - INFO - [vanilla-rag] _warmup_default_service started
+2025-12-25 14:50:20,052 - agent - INFO - [vanilla] KV storage initialized.
+2025-12-25 14:50:20,117 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
+2025-12-25 14:50:20,158 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
+2025-12-25 14:50:20,158 - agent - INFO - [vanilla-rag] _warmup_default_service finished
+2025-12-25 14:50:20,158 - agent - INFO - [vanilla-rag] Warming up text embedder...
+2025-12-25 14:50:20,158 - agent - INFO - Loading model BAAI/bge-m3
+2025-12-25 14:50:30,976 - agent - INFO - [vanilla-rag] Warming up image embedder...
+2025-12-25 14:50:30,976 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
+2025-12-25 14:50:34,961 - agent - INFO - [vanilla-rag] Warmup completed successfully.
+2025-12-25 14:50:34,961 - agent - INFO - [agent_runner] RAG service warmup took 14.93 seconds
+2025-12-26 12:12:30,225 - agent - INFO - [agent_runner] Initializing RAG service...
+2025-12-26 12:12:30,226 - agent - INFO - [vanilla-rag] Starting warmup...
+2025-12-26 12:12:30,226 - agent - INFO - [vanilla-rag] _warmup_default_service started
+2025-12-26 12:12:30,229 - agent - INFO - [vanilla] KV storage initialized.
+2025-12-26 12:12:30,315 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
+2025-12-26 12:12:30,354 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
+2025-12-26 12:12:30,354 - agent - INFO - [vanilla-rag] _warmup_default_service finished
+2025-12-26 12:12:30,355 - agent - INFO - [vanilla-rag] Warming up text embedder...
+2025-12-26 12:12:30,356 - agent - INFO - Loading model BAAI/bge-m3
+2025-12-26 12:12:45,521 - agent - INFO - [vanilla-rag] Warming up image embedder...
+2025-12-26 12:12:45,521 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
+2025-12-26 12:12:50,278 - agent - INFO - [vanilla-rag] Warmup completed successfully.
+2025-12-26 12:12:50,279 - agent - INFO - [agent_runner] RAG service warmup took 20.05 seconds
+2025-12-26 12:15:00,605 - agent - INFO - [agent_runner] Initializing RAG service...
+2025-12-26 12:15:00,605 - agent - INFO - [vanilla-rag] Starting warmup...
+2025-12-26 12:15:00,605 - agent - INFO - [vanilla-rag] _warmup_default_service started
+2025-12-26 12:15:00,608 - agent - INFO - [vanilla] KV storage initialized.
+2025-12-26 12:15:00,665 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
+2025-12-26 12:15:00,675 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
+2025-12-26 12:15:00,675 - agent - INFO - [vanilla-rag] _warmup_default_service finished
+2025-12-26 12:15:00,675 - agent - INFO - [vanilla-rag] Warming up text embedder...
+2025-12-26 12:15:00,677 - agent - INFO - Loading model BAAI/bge-m3
+2025-12-26 12:15:12,077 - agent - INFO - [vanilla-rag] Warming up image embedder...
+2025-12-26 12:15:12,077 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
+2025-12-26 12:15:16,637 - agent - INFO - [vanilla-rag] Warmup completed successfully.
+2025-12-26 12:15:16,637 - agent - INFO - [agent_runner] RAG service warmup took 16.03 seconds
+2025-12-26 12:19:29,763 - agent - INFO - [agent_runner] Initializing RAG service...
+2025-12-26 12:19:29,763 - agent - INFO - [vanilla-rag] Starting warmup...
+2025-12-26 12:19:29,765 - agent - INFO - [vanilla-rag] _warmup_default_service started
+2025-12-26 12:19:29,766 - agent - INFO - [vanilla] KV storage initialized.
+2025-12-26 12:19:29,820 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
+2025-12-26 12:19:29,820 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
+2025-12-26 12:19:29,820 - agent - INFO - [vanilla-rag] _warmup_default_service finished
+2025-12-26 12:19:29,820 - agent - INFO - [vanilla-rag] Warming up text embedder...
+2025-12-26 12:19:29,820 - agent - INFO - Loading model BAAI/bge-m3
+2025-12-26 12:19:42,643 - agent - INFO - [vanilla-rag] Warming up image embedder...
+2025-12-26 12:19:42,643 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
+2025-12-26 12:19:47,680 - agent - INFO - [vanilla-rag] Warmup completed successfully.
+2025-12-26 12:19:47,683 - agent - INFO - [agent_runner] RAG service warmup took 17.92 seconds
+2025-12-26 12:24:44,567 - agent - INFO - [agent_runner] Initializing RAG service...
+2025-12-26 12:24:44,567 - agent - INFO - [vanilla-rag] Starting warmup...
+2025-12-26 12:24:44,567 - agent - INFO - [vanilla-rag] _warmup_default_service started
+2025-12-26 12:24:44,578 - agent - INFO - [vanilla] KV storage initialized.
+2025-12-26 12:24:44,637 - agent - INFO - [vanilla] FAISS index and metadata loaded successfully.
+2025-12-26 12:24:44,637 - agent - INFO - [vanilla] images FAISS index and metadata loaded successfully.
+2025-12-26 12:24:44,637 - agent - INFO - [vanilla-rag] _warmup_default_service finished
+2025-12-26 12:24:44,637 - agent - INFO - [vanilla-rag] Warming up text embedder...
+2025-12-26 12:24:44,643 - agent - INFO - Loading model BAAI/bge-m3
+2025-12-26 12:24:56,225 - agent - INFO - [vanilla-rag] Warming up image embedder...
+2025-12-26 12:24:56,225 - agent - INFO - Loading model sentence-transformers/clip-ViT-B-32
+2025-12-26 12:25:00,630 - agent - INFO - [vanilla-rag] Warmup completed successfully.
+2025-12-26 12:25:00,630 - agent - INFO - [agent_runner] RAG service warmup took 16.06 seconds

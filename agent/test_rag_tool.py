@@ -11,9 +11,9 @@ project_root = os.path.dirname(current_dir)
 if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
-from agent.tool.local_search.RAG.rag_main import warmup_vanilla_rag
-from agent.tool.local_search.rag_tool import VanillaRAGSearchTool
-from agent.tool.local_search.RAG.rag_main import _DEFAULT_SERVICE
+from agent.planner_tool.local_search.RAG.rag_main import warmup_vanilla_rag
+from agent.planner_tool.local_search.rag_tool import VanillaRAGSearchTool
+from agent.planner_tool.local_search.RAG.rag_main import _DEFAULT_SERVICE
 
 dotenv.load_dotenv()
 warmup_vanilla_rag(auto_build=True)

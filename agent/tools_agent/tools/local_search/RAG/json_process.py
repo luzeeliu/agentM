@@ -2,7 +2,7 @@
 import os 
 import json
 import re
-from ....log.logger import logger
+from .....log.logger import logger
 
 def _sanitize_string_for_json(text: str) -> str:
     """Remove characters that cannot be encoded in UTF-8 for JSON serialization.

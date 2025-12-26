@@ -70,7 +70,7 @@ RUN uv pip install --system --no-cache \
     jsonschema-pydantic
 
 # Install Playwright browsers
-RUN playwright install chromium
+RUN playwright install-deps chromium
 
 # Pre-install MCP servers to avoid runtime downloads
 # Currently only arxiv MCP server is used

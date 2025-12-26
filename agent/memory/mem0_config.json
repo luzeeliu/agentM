@@ -1,0 +1,27 @@
+{
+  "embedder": {
+    "provider": "huggingface",
+    "config": {
+      "model": "BAAI/bge-m3"
+    }
+  },
+  "vector_store": {
+    "provider": "faiss",
+    "config": {
+      "collection_name": "mem0_faiss",
+      "path": "memory_cache/mem0_store",
+      "distance_strategy": "euclidean",
+      "normalize_L2": true,
+      "embedding_model_dims": 1024
+    }
+  },
+  "llm": {
+    "provider": "deepseek",
+    "config": {
+      "model": "deepseek-chat",
+      "temperature": 0.2,
+      "max_tokens": 2000,
+      "deepseek_base_url": "https://api.deepseek.com"
+    }
+  }
+}

@@ -41,7 +41,7 @@ def _ensure_mcp_tools() -> List[BaseTool]:
     with _mcp_lock:
         if _mcp_tools is None:
             try:
-                print("[tool_box] Loading MCP tools...")
+                print("[tools_agent tool_box] Loading MCP tools...")
                 all_tools = get_mcp_tools()
 
                 # Filter out tools with incompatible schemas
@@ -54,11 +54,11 @@ def _ensure_mcp_tools() -> List[BaseTool]:
                     else:
                         excluded_tools.append(tool.name)
 
-                print(f"[tool_box] Successfully loaded {len(_mcp_tools)} MCP tools")
+                print(f"[tools_agent tool_box] Successfully loaded {len(_mcp_tools)} MCP tools")
                 if excluded_tools:
-                    print(f"[tool_box] Excluded {len(excluded_tools)} incompatible tools: {excluded_tools}")
+                    print(f"[tools_agent tool_box] Excluded {len(excluded_tools)} incompatible tools: {excluded_tools}")
             except Exception as exc:  # pragma: no cover - defensive
-                print(f"[tool_box] Failed to load MCP tools: {exc}")
+                print(f"[tools_agent tool_box] Failed to load MCP tools: {exc}")
                 _mcp_tools = []
 
     return _mcp_tools
@@ -71,23 +71,23 @@ def tool_box() -> List[BaseTool]:
     try:
         from .search_tool.google_search_tool import GoogleSearchTool
         from .search_tool.duckduckgo_search_tool import DuckDuckGoSearchTool
-        from .search_tool.yahoo_search_tool import YahooSearchTool
+        #from .search_tool.yahoo_search_tool import YahooSearchTool
         #from .search_tool.bing_search_tool import BingSearchTool
 
         tools.append(GoogleSearchTool())
         tools.append(DuckDuckGoSearchTool())
-        tools.append(YahooSearchTool())
+        #tools.append(YahooSearchTool())
         #tools.append(BingSearchTool())
-        print(f"[tool_box] Added 4 search tools directly")
+        print(f"[tools_agent tool_box] Added {len(tools)} search tools directly")
     except Exception as e:
-        print(f"[tool_box] Failed to load search tools: {e}")
+        print(f"[tools_agent tool_box] Failed to load search tools: {e}")
     try:
         from .local_search.rag_tool import VanillaRAGSearchTool
 
         tools.append(VanillaRAGSearchTool())
-        print(f"[tool_box] Added vanilla RAG search tool")
+        print(f"[tools_agent tool_box] Added vanilla RAG search tool")
     except Exception as e:
-        print(f"[tool_box] Failed to load vanilla RAG tool: {e}")
+        print(f"[tools_agent tool_box] Failed to load vanilla RAG tool: {e}")
 
     # Add MCP tools (e.g., arxiv)
     tools.extend(_ensure_mcp_tools())

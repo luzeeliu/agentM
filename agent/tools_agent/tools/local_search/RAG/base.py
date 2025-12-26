@@ -8,7 +8,7 @@ from pydantic import BaseModel
 from typing import Any, TypedDict, Optional
 from abc import abstractmethod, ABC
 from dataclasses import dataclass, field
-from ....log.logger import logger
+from .....log.logger import logger
 
 # build shape of lightRAG vector storage and embedding function call 
 # in the database we need store the graph relationship
@@ -100,7 +100,7 @@ class StorageNameSpace(ABC):
 @dataclass
 class BaseVectorStorage(StorageNameSpace, ABC):
     embedding_func: EmbeddingFunc
-    cosine_similarity_threshold: float = field(default=0.2)
+    cosine_similarity_threshold: float = field(default=0.4)
     meta_fields: set[str] = field(default_factory=set)
     
     @abstractmethod

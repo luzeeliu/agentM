@@ -14,7 +14,7 @@ import sys
 import traceback
 
 try:
-    from agent.agent_runner import run_query, compile_app, warmup_vanilla_rag
+    from agent.agent_runner import run_query, compile_app, initialize
     from langchain_core.messages import HumanMessage
     print("[backend] Successfully imported agent modules", file=sys.stderr)
 except Exception as e:
@@ -22,7 +22,7 @@ except Exception as e:
     run_query = None  # type: ignore
     compile_app = None  # type: ignore
     HumanMessage = None  # type: ignore
-    warmup_vanilla_rag = None # type: ignore
+    initialize = None # type: ignore
     print(f"[backend] Import error: {e}", file=sys.stderr)
     print("[backend] Full traceback:", file=sys.stderr)
     traceback.print_exc(file=sys.stderr)
@@ -51,10 +51,10 @@ def image_to_data_url(file_bytes: bytes, filename: str) -> str:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    if warmup_vanilla_rag:
+    if initialize:
         print("[backend] Starting RAG service warm-up...", file=sys.stderr)
         try:
-            task = warmup_vanilla_rag(auto_build=True)
+            task = initialize()
             if task:
                 await task
             print("[backend] RAG service warm-up completed.", file=sys.stderr)

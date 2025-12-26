@@ -12,7 +12,7 @@ from dataclasses import dataclass
 from tqdm.auto import tqdm
 
 from .base import BaseVectorStorage
-from ....log.logger import logger
+from .....log.logger import logger
 
 """
 metadata structure:

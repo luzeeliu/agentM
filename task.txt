@@ -1,1 +1,3 @@
-目前需要构建多agent系统，首先main/agent 下的为主agent（planner）然后main/agent/tools_agent 下为工具调用agent，第一步1：将主agent（planner） 目录为
+目前需要构建多agent系统，首先main/agent 下的为主agent（planner）然后main/agent/tools_agent 下为工具调用agent，第一步1：将主agent（planner） 目录为agent/agent_runner.py 的工具部分用
+工具agent替换（路径为agent/tools_agent/toolagent_runner.py）第二步构造Agent间通信，应该使用agent/graph_state.py 来存储整体图状态以及Agent 间通讯。
+第三步， 主Agent（planner）接入memory，删除多余的工具， memory在agent/memory/mm0.py下
