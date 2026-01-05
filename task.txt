@@ -1,0 +1,138 @@
+【工具集合 (Tools)】（只能从这里选）
+1) vanilla_rag_search(query: string, top_k: int) -> {results: [{doc_id, title, score}]}
+2) google_search(query: string, max_results: int) -> {text: string}
+3) brower_navigate(url) :Navigate to a URL
+4) brower_go_back() :Go back to the previous page
+5) browser_go_forward() : Go forward to the next page
+6) browser_choose_file(path) : Choose one or multiple files to upload
+7) browser_snapshot : Capture accessibility snapshot of the current page, this is better than screenshot
+8) browser_click(element, ref) : Perform click on a web page
+9) browser_hover(element, ref) : Hover over element on page
+10) brower_type(element, ref, submit, text) : Type text into editable element
+11) browser_select_option(element, ref, values): Select an option in a dropdown
+12) browser_take_screenshot(raw): Take a screenshot of the current page. You can't perform actions based on the screenshot, use browser_snapshot for actions
+13) browser_press_key(key): Press a key on the keyboard
+14) browser_wait(time): Wait for a specified time in seconds
+15) browser_save_as_pdf(): Save page as PDF
+16) browser_close() :Close the page
+17) browser_install: Install the browser specified in the config. Call this if you get an error about the browser not being installed.
+18) text_to_image(prompt): MCP tool convert prompt to image 
+
+你可以把每条样本强制绑定到若干个轴上，每个轴都要变化，至少满足 ≥3 个轴不同 才算新样本：
+
+1.目标类型 (Goal Type)：查文档、对比两文档、找证据、总结、抽取字段、纠错、追踪变更
+
+2.信息缺口 (Missing Info)：用户缺“文档内容”、还是缺“定位段落/页码”、还是缺“结构化字段”
+
+3.约束 (Constraints)：时间范围、必须引用、只用某库、输出格式 JSON、token 限制、隐私限制
+
+4.噪声类型 (Noise Type)：拼写错、别名、歧义、混用语言、缺字段、反问、情绪化、指令冲突
+
+5.工具可用性 (Tool Availability)：某工具不可用/超时/返回空/返回多条
+
+6.决策难点 (Decision Difficulty)：是否该调用工具？用哪个工具？先后顺序？是否需要二次检索？
+
+7.评判标准 (Success Criteria)：必须给出处、必须覆盖所有点、必须可复现、必须返回 top-k + 理由
+
+【输出格式 (Output Format)输出为JSON】
+{
+    "id": "l2_market_auto_1099",
+    "query": "What is the best e-ink reader released in 2024 and how much does it cost? (1099)",
+    "scenario": "market_research_l2",
+    "messages": [
+      {
+        "type": "human",
+        "content": "What is the best e-ink reader released in 2024 and how much does it cost? (1099)"
+      },
+      {
+        "type": "ai",
+        "content": "To answer this, I first need to identify the top-rated option for 2024. I will search for 'best of' lists.",
+        "tool_calls": [
+          {
+            "id": "call_market_1099_1",
+            "name": "google_search",
+            "args": {
+              "query": "best e-ink reader 2024 reviews top rated"
+            }
+          }
+        ]
+      },
+      {
+        "type": "tool",
+        "name": "google_search",
+        "tool_call_id": "call_market_1099_1",
+        "content": "{\"results\": [{\"title\": \"Top Picks\", \"snippet\": \"The Apex 49 is widely considered the best overall choice.\"}]}"
+      },
+      {
+        "type": "ai",
+        "content": "Top pick found. Now I need the current price to answer the second part of the request.",
+        "tool_calls": [
+          {
+            "id": "call_market_1099_2",
+            "name": "google_search",
+            "args": {
+              "query": "Apex 49 price"
+            }
+          }
+        ]
+      },
+      {
+        "type": "tool",
+        "name": "google_search",
+        "tool_call_id": "call_market_1099_2",
+        "content": "{\"results\": [{\"title\": \"Buy Apex\", \"snippet\": \"Now available for $374.00.\"}]}"
+      },
+      {
+        "type": "ai",
+        "content": "The best e-ink reader is the Apex 49, and it costs $374.00."
+      }
+    ]
+  }
+
+【关键硬约束 (Hard Constraints)】
+A) 批内去重 (Batch Dedup):
+- 本批 50 条里，plan_signature 不能重复。
+- 同时 “工具序列 (Tool Sequence)” 不能重复（例如 search->retrieve 视为一种序列）。
+- 若检测到重复，你必须当场重写那条，直到全批唯一。
+
+B) 结构多样性 (Structural Diversity):
+- 每条样本必须至少在以下“变化维度 (Diversity Axes)”里改变 3 个：goal_type / ambiguity / noise_type / constraints / tool_availability / difficulty / 是否需要澄清 / 是否失败重试 / 是否无工具。
+- 禁止只改文档名、专有名词、同义改写就算新样本。
+
+C) 生成配比 (Mix Ratio):
+- No-Tool（should_call_tool=false）至少 10 条。
+- Clarification（先澄清，不调用工具）至少 10 条：tool_calls 必须为空，final_answer 应该是澄清问题而不是结论。
+- Failure/Retry（至少一次失败再调整策略）至少 10 条：必须体现一次失败路径（如 retrieval_empty/timeout）后改 query、改 top_k、或换工具/顺序。
+- Multi-step 正常工具链至少 20 条。
+
+D) 一致性 (Consistency):
+- tool_calls 与 final_answer 必须一致：如果没 retrieve 到内容，就不能在 final_answer 里“引用具体信息”；citations_required 就必须放引用占位符。
+- output_json 约束下，final_answer 必须是合法 JSON（不加额外文本）。
+- privacy 约束下，final_answer 不得输出敏感信息（用 [REDACTED]）。
+
+E) 噪声与现实性 (Realism):
+- user_query 必须像真实用户：简短、口语、错别字、混中英、指令不完整、情绪化都可以。
+- 至少 15 条 mixed_language 或 typos。
+
+【plan_signature 参考池 (Signature Pool)】（只能用一次/每种最多1条，必须全批唯一）
+你可以从以下骨架中派生，但派生后仍需保持唯一：
+1) no_tool->answer
+2) clarify->no_tool
+3) search->retrieve->answer_with_citations
+4) search->retrieve->extract_json->answer
+5) search->empty->rewrite->search->retrieve->answer
+6) search->timeout->fallback_topk->search->retrieve->answer
+7) memory_read->no_tool->answer
+8) memory_read->search->retrieve->answer
+9) search->retrieve->verify_claim->answer_with_citations
+10) compare->answer_table
+11) search->compare->answer
+12) clarify->search->retrieve->answer
+13) update->memory_write->answer
+14) troubleshoot->search->retrieve->answer
+15) search->retrieve->summarize->answer_with_citations
+
+【领域 (Domain)】
+设定在“公司内部知识库/项目文档/课程手册/技术文档”混合场景，不要只围绕同一种文档。
+
+现在开始输出 2200 个数据 JSONL。在data.json 下记住：只能输出 JSONL，不要输出任何解释文字

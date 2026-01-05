@@ -1,0 +1,76 @@
+---------------------------------------------------------------------------
+KeyError                                  Traceback (most recent call last)
+Cell In[2], line 293
+    290     trainer.save_model(os.path.join(OUTPUT_DIR, "final_adapter"))
+    292 if __name__ == "__main__":
+--> 293     main()
+
+Cell In[2], line 266, in main()
+    263 trainer = build_sft_trainer(model, dataset, tokenizer, collator, peft_config, args)
+    265 print("Running baseline eval before training...")
+--> 266 base_metrics = trainer.evaluate()
+    267 base_loss = base_metrics.get("eval_loss")
+    268 if base_loss is not None:
+
+File ~/miniconda3/lib/python3.12/site-packages/transformers/trainer.py:4489, in Trainer.evaluate(self, eval_dataset, ignore_keys, metric_key_prefix)
+   4486 start_time = time.time()
+   4488 eval_loop = self.prediction_loop if self.args.use_legacy_prediction_loop else self.evaluation_loop
+-> 4489 output = eval_loop(
+   4490     eval_dataloader,
+   4491     description="Evaluation",
+   4492     # No point gathering the predictions if there are no metrics, otherwise we defer to
+   4493     # self.args.prediction_loss_only
+   4494     prediction_loss_only=True if self.compute_metrics is None else None,
+   4495     ignore_keys=ignore_keys,
+   4496     metric_key_prefix=metric_key_prefix,
+   4497 )
+   4499 total_batch_size = self.args.eval_batch_size * self.args.world_size
+   4500 if f"{metric_key_prefix}_jit_compilation_time" in output.metrics:
+
+File ~/miniconda3/lib/python3.12/site-packages/transformers/trainer.py:4675, in Trainer.evaluation_loop(self, dataloader, description, prediction_loss_only, ignore_keys, metric_key_prefix)
+   4672 observed_num_examples = 0
+   4674 # Main evaluation loop
+-> 4675 for step, inputs in enumerate(dataloader):
+   4676     # Update the observed num examples
+   4677     observed_batch_size = find_batch_size(inputs)
+   4678     if observed_batch_size is not None:
+
+File ~/miniconda3/lib/python3.12/site-packages/accelerate/data_loader.py:567, in DataLoaderShard.__iter__(self)
+    565 # We iterate one batch ahead to check when we are at the end
+    566 try:
+--> 567     current_batch = next(dataloader_iter)
+    568 except StopIteration:
+    569     self.end()
+
+File ~/miniconda3/lib/python3.12/site-packages/torch/utils/data/dataloader.py:631, in _BaseDataLoaderIter.__next__(self)
+    628 if self._sampler_iter is None:
+    629     # TODO(https://github.com/pytorch/pytorch/issues/76750)
+    630     self._reset()  # type: ignore[call-arg]
+--> 631 data = self._next_data()
+    632 self._num_yielded += 1
+    633 if self._dataset_kind == _DatasetKind.Iterable and \
+    634         self._IterableDataset_len_called is not None and \
+    635         self._num_yielded > self._IterableDataset_len_called:
+
+File ~/miniconda3/lib/python3.12/site-packages/torch/utils/data/dataloader.py:675, in _SingleProcessDataLoaderIter._next_data(self)
+    673 def _next_data(self):
+    674     index = self._next_index()  # may raise StopIteration
+--> 675     data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+    676     if self._pin_memory:
+    677         data = _utils.pin_memory.pin_memory(data, self._pin_memory_device)
+
+File ~/miniconda3/lib/python3.12/site-packages/torch/utils/data/_utils/fetch.py:54, in _MapDatasetFetcher.fetch(self, possibly_batched_index)
+     52 else:
+     53     data = self.dataset[possibly_batched_index]
+---> 54 return self.collate_fn(data)
+
+File ~/miniconda3/lib/python3.12/site-packages/trl/trainer/utils.py:109, in DataCollatorForChatML.__call__(self, examples)
+    107 formatted_prompt = example.get(self.prompt_key, None)
+    108 if formatted_prompt is None:
+--> 109     prompt = example[self.messages_key][:-1]
+    110     formatted_prompt = self.tokenizer.apply_chat_template(
+    111         prompt, tokenize=False, add_generation_prompt=True
+    112     )
+    114 if "input_ids" not in example:
+
+KeyError: 'messages'
